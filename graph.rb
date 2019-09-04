@@ -50,6 +50,12 @@ Dir.entries(TAXPUB_DIR).each do |file_name|
         opts = {
           orcid: author[:orcid],
         }
+#
+#      else
+#        opts = {
+#          fillcolor: "#050a59",
+#          fontcolor: "#4d518a"
+#        }
       end
       wg.add_vertex_attributes(author[:fullname], vertex_options.merge(opts))
     end
