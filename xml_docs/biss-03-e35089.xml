@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35089</article-id>
+      <article-id pub-id-type="publisher-id">35089</article-id>
+      <article-id pub-id-type="manuscript">11047</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>OpenBiodiv: Linking Type Materials, Institutions, Locations and Taxonomic Names Extracted From Scholarly Literature</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dimitrova</surname>
+            <given-names>Mariya</given-names>
+          </name>
+          <email xlink:type="simple">m.dimitrova@pensoft.net</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8083-6048</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Senderov</surname>
+            <given-names>Viktor</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3340-5963</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Georgiev</surname>
+            <given-names>Teodor</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8558-6845</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zhelezov</surname>
+            <given-names>Georgi</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6159-0097</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Penev</surname>
+            <given-names>Lyubomir</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2186-5033</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Pensoft Publishers, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Bulgarian Academy of Sciences, Sofia, Bulgaria</addr-line>
+        <institution>Bulgarian Academy of Sciences</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Pensoft Publishers &amp; Bulgarian Academy of Sciences, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers &amp; Bulgarian Academy of Sciences</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mariya Dimitrova (<email xlink:type="simple">m.dimitrova@pensoft.net</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35089</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/155C542B7E05529B9995870EB5D596DE">155C542B7E05529B9995870EB5D596DE</uri>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mariya Dimitrova, Viktor Senderov, Teodor Georgiev, Georgi Zhelezov, Lyubomir Penev</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p> <ext-link ext-link-type="uri" xlink:href="https://openbiodiv.net">OpenBiodiv</ext-link><ext-link ext-link-type="uri" xlink:href="https://openbiodiv.net"/>is a knowledge management system containing biodiversity knowledge extracted from scholarly literature: both recently published articles in Pensoft's journals and legacy (taxon treatments extracted by Plazi) (<xref ref-type="bibr" rid="B5164648">Senderov et al. 2017</xref>). OpenBiodiv advances our understanding of the use of scientific names, collection codes and institutions within published literature by using semantic technologies, such as the conversion of XML-encoded text to RDF triples, linked via the OpenBiodiv-O onthology (<xref ref-type="bibr" rid="B5164623">Senderov et al. 2018</xref>). In this poster, we show how OpenBiodiv, currently containing more than 729 million statements, can be used to address a specific use case: finding institutions storing type material specimens of the genus <italic>Prosopistoma </italic>from various literature sources (Fig. <xref ref-type="fig" rid="F5164502">1</xref>). This use case is important for various groups of users: institutions, taxonomists, and curators. Answering this complex question is made possible through the application of semantic technologies within OpenBiodiv. Data extraction from taxonomic articles and treatments is enabled the utilisation of common schemas and standards into the extraction process, whereas the conversion of XML-encoded scholarly literature into Resоurce Description Framework (RDF) is facilitated by OpenBiodiv-O. The code base for information extraction and data transformation is wrapped in the R packages <ext-link ext-link-type="uri" xlink:href="https://github.com/pensoft/rdf4r">rdf4r</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://github.com/pensoft/ropenbio">ropenbio</ext-link>.</p>
+        <p>The ontology allows to model the structure of research articles and treatments, as well as their corresponding metadata. Thus, OpenBiodiv-O is used to represent not only the sections of treatments but also the various entities within them, for instance geographic coordinates and institution codes within the “Type materials” section of a treatment. Institution codes marked up within articles using the Darwin Core standard (<xref ref-type="bibr" rid="B5164689">Wieczorek et al. 2012</xref>) are mapped to GRBio's institution records. Institutions which are not present in GRBio can often be extracted from the “Abbreviations” section of a given article, thus utilising the power of semantic publishing workflows to discover information hidden within scholarly literature (<xref ref-type="bibr" rid="B5164673">Penev et al. 2011</xref>, <xref ref-type="bibr" rid="B5164703">Agosti and Egloff 2009</xref>). Institutional codes (abbreviations) are then mapped to the narrative section, containing the type materials information. The extraction of coordinates in the taxonomic treatment section allows to establish the location of the collection event through reverse geocoding and enables the selection of treatments linked to a specific geographic region. Modelling of the “Nomenclature” section within OpenBiodiv-O helps to link taxonomic names, mapped to GBIF’s taxonomic backbone, to their type materials, thus facilitating the discovery of materials corresponding to species from a certain higher-rank taxon. </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Biodiversity Knowledge Graph</kwd>
+        <kwd>Semantic Technologies</kwd>
+        <kwd>Use Case</kwd>
+        <kwd>Ontology</kwd>
+        <kwd>Information Extraction</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mariya Dimitrova</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5164703">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Egloff</surname>
+              <given-names>Willi</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Taxonomic information exchange and copyright: the Plazi approach</article-title>
+          <source>BMC Research Notes</source>
+          <volume>2</volume>
+          <issue>1</issue>
+          <fpage>53</fpage>
+          <lpage>53</lpage>
+          <pub-id pub-id-type="doi">10.1186/1756-0500-2-53</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5164673">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lyal</surname>
+              <given-names>Christopher H. C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weitzman</surname>
+              <given-names>Anna</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morse</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>King</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>Guido</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Georgiev</surname>
+              <given-names>Teodor Asenov</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morris</surname>
+              <given-names>Robert A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Catapano</surname>
+              <given-names>Terry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>XML schemas and mark-up practices of taxonomic literature</article-title>
+          <source>ZooKeys</source>
+          <volume>150</volume>
+          <fpage>89</fpage>
+          <lpage>116</lpage>
+          <pub-id pub-id-type="doi">10.3897/zookeys.150.2213</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5164648">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Senderov</surname>
+              <given-names>Viktor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Georgiev</surname>
+              <given-names>Teodor Asenov</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Catapano</surname>
+              <given-names>Terry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>Guido</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tuama</surname>
+              <given-names>Éamonn Ó</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>Nico</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Simov</surname>
+              <given-names>Kiril</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stoev</surname>
+              <given-names>Pavel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>OpenBiodiv: an Implementaion of a Semantic System Running on top of the Biodiversity Knowledge Graph</article-title>
+          <source>Biodiversity Information Science and Standards</source>
+          <volume>1</volume>
+          <fpage>e20084</fpage>
+          <lpage>e20084</lpage>
+          <pub-id pub-id-type="doi">10.3897/tdwgproceedings.1.20084</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5164623">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Senderov</surname>
+              <given-names>Viktor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Simov</surname>
+              <given-names>Kiril</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>Nico</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stoev</surname>
+              <given-names>Pavel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Catapano</surname>
+              <given-names>Terry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>Guido</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morris</surname>
+              <given-names>Robert A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>OpenBiodiv-O: ontology of the OpenBiodiv knowledge management system</article-title>
+          <source>Journal of Biomedical Semantics</source>
+          <volume>9</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.1186/s13326-017-0174-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5164689">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>John</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bloom</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blum</surname>
+              <given-names>Stan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Döring</surname>
+              <given-names>Markus</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Giovanni</surname>
+              <given-names>Renato</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robertson</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vieglais</surname>
+              <given-names>David</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>Darwin Core: An Evolving Community-Developed Biodiversity Data Standard</article-title>
+          <source>PLOS ONE</source>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>e29715</fpage>
+          <lpage>e29715</lpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0029715</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5164502" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>The OpenBiodiv workflow: from information extraction to answering complex biodiversity questions.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e35089-g001.png" position="float" id="oo_276320.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37500</article-id>
+      <article-id pub-id-type="publisher-id">37500</article-id>
+      <article-id pub-id-type="manuscript">11352</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Where do Functional Traits Come From? The role of theory and models</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kearney</surname>
+            <given-names>Michael R</given-names>
+          </name>
+          <email xlink:type="simple">m.kearney@unimelb.edu.au</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3349-8744</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>McGeoch</surname>
+            <given-names>Melodie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chown</surname>
+            <given-names>Steven</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">The University of Melbourne, Melbourne, Australia</addr-line>
+        <institution>The University of Melbourne</institution>
+        <addr-line content-type="city">Melbourne</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Monash University, Clayton, Australia</addr-line>
+        <institution>Monash University</institution>
+        <addr-line content-type="city">Clayton</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Monash University, Melbourne, Australia</addr-line>
+        <institution>Monash University</institution>
+        <addr-line content-type="city">Melbourne</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Michael R Kearney (<email xlink:type="simple">m.kearney@unimelb.edu.au</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37500</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/22F8E69555CA58F1B47A397084317528">22F8E69555CA58F1B47A397084317528</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Michael R Kearney, Melodie McGeoch, Steven Chown</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>There is a growing focus on species’ traits in ecology, including initiatives to integrate trait data into biodiversity databases. This focus is motivated in part by a need to develop better predictive capacity for how species respond to environmental change. In this context, one is interested in functional traits – i.e. those with a defined link to environmental variability. This leads immediately to the questions of which traits to prioritise and how to characterise them. Here we argue that this can be achieved with greatest clarity by letting traits be defined by the equations of theoretical models that link individuals to their environments, i.e. mechanistic niche models. We illustrate this approach using the biophysical equations of heat and water exchange, and the metabolic equations of ontogentic growth. From this we derive a schema for a functional trait database that provides a high level of generality and consistency across taxa, and hooks into integrated predictive modelling frameworks. We argue that functional trait attribution at levels above the individual are unhelpful, but discuss how inferences can be made from individual-level functional trait data to populations and species.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>mechanistic niche model</kwd>
+        <kwd>metabolic theory</kwd>
+        <kwd>dynamic energy budget theory</kwd>
+        <kwd>biophysical ecology</kwd>
+        <kwd>functional trait</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Michael Kearney</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

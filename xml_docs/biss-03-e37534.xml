@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37534</article-id>
+      <article-id pub-id-type="publisher-id">37534</article-id>
+      <article-id pub-id-type="manuscript">10962</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Practice of Deep Learning Methods in Biodiversity Information Collection</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Wang</surname>
+            <given-names>Jiangning</given-names>
+          </name>
+          <email xlink:type="simple">wangjn@ioz.ac.cn</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lin</surname>
+            <given-names>Congtian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bu</surname>
+            <given-names>Cuiping</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Xi</surname>
+            <given-names>TianYu</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wang</surname>
+            <given-names>Zhaojun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ji</surname>
+            <given-names>Liqiang</given-names>
+          </name>
+          <email xlink:type="simple">ji@ioz.ac.cn</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1703-5723</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Institute of Zoology, Chinese Academy of Sciences, Beijing, China</addr-line>
+        <institution>Institute of Zoology, Chinese Academy of Sciences</institution>
+        <addr-line content-type="city">Beijing</addr-line>
+        <country>China</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Huaiyin normal university, Huaian, China</addr-line>
+        <institution>Huaiyin normal university</institution>
+        <addr-line content-type="city">Huaian</addr-line>
+        <country>China</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Jiangning Wang (<email xlink:type="simple">wangjn@ioz.ac.cn</email>), Liqiang Ji (<email xlink:type="simple">ji@ioz.ac.cn</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37534</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0F39A9A451455651AF00F5DDB706A789">0F39A9A451455651AF00F5DDB706A789</uri>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jiangning Wang, Congtian Lin, Cuiping Bu, TianYu Xi, Zhaojun Wang, Liqiang Ji</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Deep learning is one machine learning method based on the layers used in artificial neural networks. The breakthrough of deep learning in classification led to its rapid application in speech recognition, natural language understanding, and image processing and recognition. In the field of biodiversity informatics, deep learning efforts are being applied in rapid species identification and counts of individuals identified based on image, audio, video, and other data types. However, deep learning methods hold great potential for application in all aspects of biodiversity informatics. We present a case study illustrating how to increase data collection quality and efficiency using well-established technology such as optical character recognition (OCR) and some image classification.</p>
+        <p>Our goal is to image data from the scanned documents of various butterfly atlases, add species, specimens, collections, photographs and other relevant information, and build a database of butterfly images. Information collection involves image annotation and text-based descritpion input.</p>
+        <p>Although the work of image annotation is simple, this process can be accelerated by deep learning-based target segmentation to make the selection process easier, such as changing box select to a double click.</p>
+        <p>The process of information collection is complicated, involving input of species names, specimen collection, specimen description, and other information. Generally, there are many images in atlases, the text layout is rather messy, and overall OCR success is poor. Therefore, the measures we take are as follows: Step A: select the screenshot of the text and then call the OCR interface to generate the text material; Step B: proceed with NLP- (natural language processing) related processing; Step C: perform manual operations on the results, and introduce the NLP function again to this process; Step D: submit the result.</p>
+        <p>The deep learning applications we integrated in our client tool include:</p>
+        <p>
+          <list list-type="order"><list-item><p>target segmentation of the annotated image for automatic positioning and background removal, etc. to improve the quality of the image used for identification;</p></list-item><list-item><p>making a preliminary judgment on various attributes of the labeled image and using the results to assist the automatic filling of relevant information in step B, including species information, specimen attributes (specimen image, nature photo, hand drawing pictures, etc.), insect stage (egg, adult, etc.);</p></list-item><list-item><p>OCR in step A. </p></list-item></list>
+        </p>
+        <p>Some simple machine learning methods such as k-nearest neighbor can be used to automatically determine gender, pose, and so on. While complex information such as collection place, time, and collector can be analyzed by deep learning-based NLP methods in the future.</p>
+        <p>In our infomation collection process, ten fields are required to submit one single record. Of those, about 4-5 input fields can be dealt with the AI-assistant. It can thus be seen from the above process that deep learning has reduced the workload of manual information annotation by at least 30%. With improvements in accuracy, the era of using automatic information extraction robots to replace manual information annotation and collection is just around the corner.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>deep learning</kwd>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>data collection</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jiangning Wang</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35019</article-id>
+      <article-id pub-id-type="publisher-id">35019</article-id>
+      <article-id pub-id-type="manuscript">11031</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST02 - Biodiversity Data Quality - how it affects science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Data Auditing, Cleaning and Quality Assurance Workflows from the Experience of a Scholarly Publisher</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Penev</surname>
+            <given-names>Lyubomir</given-names>
+          </name>
+          <email xlink:type="simple">penev@pensoft.net</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2186-5033</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Georgiev</surname>
+            <given-names>Teodor</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8558-6845</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dimitrova</surname>
+            <given-names>Mariya</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8083-6048</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mutafchiev</surname>
+            <given-names>Yasen</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7901-7205</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Stoev</surname>
+            <given-names>Pavel</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5702-5677</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mesibov</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Pensoft Publishers &amp; Bulgarian Academy of Sciences, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers &amp; Bulgarian Academy of Sciences</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Pensoft Publishers, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Institute of Biodiversity and Ecosystem Research, Sofia, Bulgaria</addr-line>
+        <institution>Institute of Biodiversity and Ecosystem Research</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">National Museum of Natural History and Pensoft Publishers, Sofia, Bulgaria</addr-line>
+        <institution>National Museum of Natural History and Pensoft Publishers</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Unaffiliated, West Ulverstone, Tasmania, Australia</addr-line>
+        <institution>Unaffiliated</institution>
+        <addr-line content-type="city">West Ulverstone, Tasmania</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Lyubomir Penev (<email xlink:type="simple">penev@pensoft.net</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35019</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/010945458C86568CAD51D479C63866CF">010945458C86568CAD51D479C63866CF</uri>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>03</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Lyubomir Penev, Teodor Georgiev, Mariya Dimitrova, Yasen Mutafchiev, Pavel Stoev, Robert Mesibov</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Data publishing became an important task in the agenda of many scholarly publishers in the last decade, but far less attention has been paid to the actual reviewing and quality checking of the published data. Quality checks are often being delegated to the reviewers of the article narrative, many of whom may not be qualified to provide a professional data review. The talk presents the workflows developed and used by Pensoft journals to provide data auditing, cleaning and quality assurance. These are:</p>
+        <p>
+          <list list-type="order"><list-item><p>Data auditing/cleaning workflow for datasets published as data papers (Fig. <xref ref-type="fig" rid="F5163964">1</xref>, see also this <ext-link ext-link-type="uri" xlink:href="https://blog.pensoft.net/2019/03/11/fair-biodiversity-data-in-pensoft-journals-thanks-to-a-routine-data-auditing-workflow/">blog</ext-link>). All datasets undergo an audit for compliance with a <ext-link ext-link-type="uri" xlink:href="https://bdj.pensoft.net/about#DataQualityChecklistandRecommendations">data quality checklist</ext-link> prior to peer-review. The author is provided with an audit report and is asked to correct the data flaws and consider other recommendations in the report. This check is conducted regardless of whether the datasets are provided as supplementary material within the data paper manuscript or linked from the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">Global Biodiversity Information Facility</ext-link> (GBIF) or another repository. The manuscript is not forwarded to peer review until the author corrects the data associated with it. This workflow is applied in all journals of the <ext-link ext-link-type="uri" xlink:href="https://pensoft.net/journals">publisher’s portfolio</ext-link>, including <ext-link ext-link-type="uri" xlink:href="https://bdj.pensoft.net/">Biodiversity Data Journal</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://zookeys.pensoft.net/">ZooKeys</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://phytokeys.pensoft.net/">PhytoKeys</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://mycokeys.pensoft.net/">MycoKeys</ext-link> and others.</p></list-item><list-item><p>Automated check and validation of data within the article narratiive in the <ext-link ext-link-type="uri" xlink:href="https://bdj.pensoft.net/">Biodiversity Data Journal</ext-link> provided during the authoring process in the <ext-link ext-link-type="uri" xlink:href="http://arpha.pensoft.net">ARPHA Writing Tool (AWT)</ext-link>, and consequently, during the peer review process in the journal. Among others, the automated validation tool checks for compliance with the biological Codes (for example, a new species description cannot be submitted without designation of a holotype and the respective specimen record).</p></list-item><list-item><p>Check for consistency and validation of the full-text JATS XML against the <ext-link ext-link-type="uri" xlink:href="http://plazi.org/resources/schemas-and-ontologies/taxpub/">TaxPub</ext-link> XML schema. This quality check ensures a succesfull full-text submission and display on PubMedCentral, extraction of taxon treatments and their visualisation on Plazi's <ext-link ext-link-type="uri" xlink:href="http://plazi.org/resources/treatmentbank/">TreatmentBank</ext-link> and GBIF, indexing in various data aggregators, and so on.</p></list-item><list-item><p>Human-provided quality check of the mass automated extraction of taxon treatments from legacy literature via the <ext-link ext-link-type="uri" xlink:href="http://plazi.org/resources/treatmentbank/goldengate-editor/">GoldenGate-Imagine</ext-link> workflow developed by Plazi and implemented for the purposes of the <ext-link ext-link-type="uri" xlink:href="https://www.eurekalert.org/pub_releases/2018-06/pp-pab061418.php">Arcadia project</ext-link> in a collaboration with Pensoft.</p></list-item><list-item><p>Putting high-quality data in valid XML formats (Pensoft's JATS and Plazi's TaxonX) into a machine readable semantic format (RDF) to guarantee efficient extraction and transformation. Data from Pensoft's journals and Plazi's treatments are uploaded as semantic triples into the <ext-link ext-link-type="uri" xlink:href="https://openbiodiv.net">OpenBiodiv</ext-link> Biodiversity Knowledge Graph where it is modeled according to the OpenBiodiv-O ontology (<xref ref-type="bibr" rid="B5165190">Senderov et al. 2018</xref>). Semantic technologies facilitate the mapping of scientific names in OpenBiodiv to GBIF's taxonomic backbone and the addressing of complex biodiversity questions.</p></list-item></list>
+        </p>
+        <p>We have realised in the course of many years experience in data publishing that data quality checking and assurance testing requires specific knowledge and competencies, which also vary between the various methods of data handling and management, such as relational databases, semantic XML tagging, Linked Open Data, and others. This process cannot be trusted to peer reviewers only and requires the participation of dedicated data scientists and information specialists in the routine publishing process. This is the only way to make the published biodiversity data, such as taxon descriptions, occurrence records, biological observations and specimen characteristics, truly <ext-link ext-link-type="uri" xlink:href="https://www.force11.org/group/fairgroup/fairprinciples">FAIR</ext-link> (Findable, Accessible, Interoperable, Reusable), so that they can be merged, reformatted and incorporated into novel and visionary projects, regardless of whether they are accessed by a human researcher or a data-mining process.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Teodor Georgiev</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5165190">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Senderov</surname>
+              <given-names>Viktor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Simov</surname>
+              <given-names>Kiril</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>Nico</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stoev</surname>
+              <given-names>Pavel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Catapano</surname>
+              <given-names>Terry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>Guido</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morris</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>OpenBiodiv-O: ontology of the OpenBiodiv knowledge management system</article-title>
+          <source>Journal of Biomedical Semantics</source>
+          <volume>9</volume>
+          <fpage>5</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13326-017-0174-5</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5163964" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Data auditing and cleaning workflow implemented in Pensoft for all datasets published as data papers.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e35019-g001.jpg" position="float" id="oo_276220.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

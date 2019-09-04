@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37880</article-id>
+      <article-id pub-id-type="publisher-id">37880</article-id>
+      <article-id pub-id-type="manuscript">11419</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>What can be Concluded from COI Gene Data in Limited History Specimen: A sample analysis of a forest pest,<italic> Lymantria dispar</italic></article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Wang</surname>
+            <given-names>Hongbin</given-names>
+          </name>
+          <email xlink:type="simple">wanghb@caf.ac.cn</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3355-2448</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Xu</surname>
+            <given-names>Yao</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Li</surname>
+            <given-names>Guohong</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Key Laboratory of Forest Protection of State Forest Administration, Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry, Beijing, China</addr-line>
+        <institution>Key Laboratory of Forest Protection of State Forest Administration, Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry</institution>
+        <addr-line content-type="city">Beijing</addr-line>
+        <country>China</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Hongbin Wang (<email xlink:type="simple">wanghb@caf.ac.cn</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37880</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/8BC200254FF65A0A9C09EFF60729299E">8BC200254FF65A0A9C09EFF60729299E</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Hongbin Wang, Yao Xu, Guohong Li</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Nowadays, more and more biodiversity and biogeography studies are conducted with the help of gene sequences. Fresh samples obtained using consistent collection methods can provide DNA for analysis and yield the current status of target species. As there are often no historical samples providing a timescale, it is often difficult to draw conclusions and to provide an evolutionary explanation of the observed biogeographical patterns because of a lack of evidence. The huge natural history specimen collections in museums could possibly provide this information.</p>
+        <p>The gypsy moth, <italic>Lymantria dispar </italic>(Linnaeus) is a worldwide forest pest species. Our analyses of mitochondrial COI gene sequencing data in specimens from disparate locations revealed previously unknown genetic relationships in gypsy moth populations across space (in and around China) and time (1955–2012). We recovered 103 full-length COI gene sequences from eight fresh samples and from 95 <italic>Lymantria dispar</italic> collection specimens that had been captured between 1955 and 1996. Combining 103 full-length COI gene sequences with 146 COI gene sequences from Genbank (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/nuccore?db=nucleotide">https://www.ncbi.nlm.nih.gov</ext-link>) or DNA barcode libraries, we analyzed the genetic differentiation, gene flow and haplotypes (special sequences from individuals) within the gypsy moth populations in order to reflect the genetic structure and population dynamics of this pest.</p>
+        <p>Twenty-five previously unknown haplotypes were discovered. Regional populations from the same location, but collected at different times, showed high genetic diversity. In some geographical populations (Heilongjiang, Liaoning and Beijing populations), the genetic differentiation was greatest in 1979, but much lower in 1992 and 2012.</p>
+        <p>This study is an example that shows how specimen collections can be useful to complete gaps in biodiversity studies carried out through genetic sequencing.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd><italic>Lymantria dispar</italic> specimens</kwd>
+        <kwd>COI gene</kwd>
+        <kwd>biogeopraphy</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Hongbin Wang</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>CAFYBB2017ZE002</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Key Laboratory of Forest Protection of State Forest Administration, Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry, Beijing 100091, China.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>CAFYBB2017ZE002</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Key Laboratory of Forest Protection of State Forest Administration, Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry, Beijing 100091, China.</p>
+    </sec>
+  </back>
+</article>

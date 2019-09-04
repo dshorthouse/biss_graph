@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37069</article-id>
+      <article-id pub-id-type="publisher-id">37069</article-id>
+      <article-id pub-id-type="manuscript">11555</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Otobur™: A botanic garden data management system</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kanoglu</surname>
+            <given-names>Salih Sercan</given-names>
+          </name>
+          <email xlink:type="simple">salih@ngbb.org.tr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5526-5549</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Aydınkal</surname>
+            <given-names>Rasim Murat</given-names>
+          </name>
+          <email xlink:type="simple">a.rasimmurat@ngbb.org.tr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1580-9892</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Nezahat Gökyiğit Botanik Bahçesi, İstanbul, Turkey</addr-line>
+        <institution>Nezahat Gökyiğit Botanik Bahçesi</institution>
+        <addr-line content-type="city">İstanbul</addr-line>
+        <country>Turkey</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Salih Sercan Kanoglu (<email xlink:type="simple">salih@ngbb.org.tr</email>), Rasim Murat Aydınkal (<email xlink:type="simple">a.rasimmurat@ngbb.org.tr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37069</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2E984DE6C8AD5B5F929D0AFE43AEA2F3">2E984DE6C8AD5B5F929D0AFE43AEA2F3</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Salih Sercan Kanoglu, Rasim Murat Aydınkal</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The main roles of botanic gardens are to undertake research, share information, and conserve plant biodiversity. Conservation can not only be thought of in terms of genetic resources, but also scientific knowledge and information about the plants.</p>
+        <p>There are different methods of recording data about living material in botanic gardens, ranging from the simple  recording of information in handwritten books, to the use of sophisticated computer software programmes. In the case of electronically recorded information this can involve, complex construction of query sentences, that a majority of botanic garden staff are unable to write as they are not computer programmers, nor do they usually have any expertise of computer systems.</p>
+        <p>Although there are a few computer programs used to store information about plants in botanic gardens, Otobur<bold>™</bold>, is straight forward and easy to use with innovative features. Developed by us at the <ext-link ext-link-type="uri" xlink:href="http://www.ngbb.org.tr/en/">Nezahat Gökyiğit Botanik Bahçesi</ext-link>, it runs on a platform-independent online system and has an improved dashboard for real-time statistics as well as multi-language support. Its ‘just click’ query builder can readily create a detailed report and it can also send information by email to users. Example features include an estimated flowering calendar.</p>
+        <p><ext-link ext-link-type="uri" xlink:href="http://www.otobur.org.tr">Otobur</ext-link><bold>™ </bold>is an easy-to-use, open-source web application offering opportunities for adding other optional features.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>database</kwd>
+        <kwd>software</kwd>
+        <kwd>botanic garden data management system</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Rasim Murat Aydınkal</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>There is no conflict of interest.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>There is no conflict of interest.</p>
+    </sec>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>S.S. Kanoglu conceived the idea of Otobur; R.M. Aydinkal designed the interface, implemented the application, constructed the database, S.S. Kanoglu supervised the Otobur project and wrote the abstract.</p>
+    </sec>
+  </back>
+</article>

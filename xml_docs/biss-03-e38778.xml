@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38778</article-id>
+      <article-id pub-id-type="publisher-id">38778</article-id>
+      <article-id pub-id-type="manuscript">11489</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Speedy Palaeoanthropology: How virtual morphology, digital databases and open access policies boost research in human evolution</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Bastir</surname>
+            <given-names>Markus</given-names>
+          </name>
+          <email xlink:type="simple">mbastir@mncn.csic.es</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3141-3401</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Virtual Morphology Lab, Museo Nacional de Ciencias Naturales, CSIC, Madrid, Spain</addr-line>
+        <institution>Virtual Morphology Lab, Museo Nacional de Ciencias Naturales, CSIC</institution>
+        <addr-line content-type="city">Madrid</addr-line>
+        <country>Spain</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Markus Bastir (<email xlink:type="simple">mbastir@mncn.csic.es</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38778</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/1169E13939965E4884969E802E3BD187">1169E13939965E4884969E802E3BD187</uri>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>08</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Markus Bastir</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The last two decades have seen the development of virtual morphology (ViMo), which emerged during the late 20<sup>th</sup> century through the application of medical imaging techniques to the study of fossil hominins (<xref ref-type="bibr" rid="B5187256">Spoor et al. 1994</xref>, <xref ref-type="bibr" rid="B5187289">Zollikofer et al. 1995</xref>, <xref ref-type="bibr" rid="B5187222">Conroy et al. 1998</xref>). The ViMo workflow has evolved successively by first building digital databases of fossil hominins, followed by digital reference collections, through the development of virtual 3D geometric morphometrics and, more recently, also 3D-printing (Fig. <xref ref-type="fig" rid="F5186460">1</xref>; <xref ref-type="bibr" rid="B5187362">Bastir et al. 2019</xref>). ViMo-workflows have led to a renaissance of morphological studies of diversity in evolutionary Earth and life sciences.</p>
+        <p>The aim of this presentation is to briefly present standard workflows in the <ext-link ext-link-type="uri" xlink:href="http://www.mncn.csic.es/Menu/Investigacion/Serviciodeapoyoalainvestigacin/LaboratorioMorfologiaVirtual/seccion=1562&amp;idioma=es_ES.do">Virtual Morphology Lab</ext-link> in the <italic>Museo Nacional de Ciencias Naturales</italic>, Madrid, and to show, more generally, how ViMo-technologies, together with paradigmatic changes in science (open access, digital data bases), contribute to boosting current research in human paleontology.</p>
+        <p>The accidental discovery, in 2013, of fossil remains of a new human species, <italic>Homo naledi,</italic> in the Rising Star cave system, South Africa, has produced a large and important collection documenting early hominin diversity (<xref ref-type="bibr" rid="B5187139">Berger et al. 2015</xref>) . In the light of the huge amount of fossil material, a new research strategy was decided: different kinds of social media and an open-access policy were used for the organisation of a workshop focussed on the study of this new fossil collection and based on data sharing and global collaborations.</p>
+        <p>Because of this modern strategy, <italic>H. naledi</italic> was published very soon after its discovery (<xref ref-type="bibr" rid="B5187139">Berger et al. 2015</xref>) and simultaneously, the digitized fossils were made available to the public via <ext-link ext-link-type="uri" xlink:href="http://www.morphosource.org">MorphoSource</ext-link>, an open-access database. As a consequence, only five years later, more than 30 scientific publications have yielded almost 600 citations. This productivity is much higher than in any other recently discovered hominin species.  Thus, 13 years after “glasnost” was proclaimed for paleoanthropology (<xref ref-type="bibr" rid="B5187332">Weber 2001</xref>), <italic>H. naledi</italic> has provided the first real example illustrating how open-access to digital collections accelerates and modifies research and diffusion in human paleontology.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>digital collections</kwd>
+        <kwd>open access</kwd>
+        <kwd>virtual museum</kwd>
+        <kwd>3D geometric morphometrics</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="project_title">Synthesis of Systematic Resources</named-content>
+            <named-content content-type="project_identifier">226506</named-content>
+            <named-content content-type="project_funder_id">501100000780</named-content>
+            <named-content content-type="project_funder_name">European Commission</named-content>
+            <named-content content-type="project_funder_doi">http://doi.org/10.13039/501100000780</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="6"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Markus Bastir</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>CGL2015-63648-P, SYNTHESYS+</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Paleoanthropology Group, Department of Paleobiology, Museo Nacional de Ciencias Naturales (MNCN-CSIC), J.G. Abascal 6, 28006 Madrid, Spain</p>
+        <p>Evolutionary Studies Institute and Centre for Excellence in PalaeoSciences, University of the Witwatersrand, Private Bag 3, Wits 2050, South Africa</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The author acknowledges Professors Peter Schmid, Lee Berger, John Hawks for their kind invitation to participate in the Rising Star Workshop at Wits University in May 2014.</p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>CGL2015-63648-P, SYNTHESYS+</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Paleoanthropology Group, Department of Paleobiology, Museo Nacional de Ciencias Naturales (MNCN-CSIC), J.G. Abascal 6, 28006 Madrid, Spain</p>
+      <p>Evolutionary Studies Institute and Centre for Excellence in PalaeoSciences, University of the Witwatersrand, Private Bag 3, Wits 2050, South Africa</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5187362">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bastir</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>García-Martínez</surname>
+              <given-names>D</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Torres-Tamayo</surname>
+              <given-names>N</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Palancar</surname>
+              <given-names>C A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Riesco-López</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Osborne-Márquez</surname>
+              <given-names>P</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fernández-Pérez</surname>
+              <given-names>F J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ávila</surname>
+              <given-names>M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>López-Gallo</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>(Under revie) 3D printing and measuring: applications and methods in a Virtual Morphology Lab.</article-title>
+          <source>Journal of Anthropological Sciences</source>
+        </element-citation>
+      </ref>
+      <ref id="B5187139">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Berger</surname>
+              <given-names>Lee R</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hawks</surname>
+              <given-names>John</given-names>
+            </name>
+            <name name-style="western">
+              <surname>de Ruiter</surname>
+              <given-names>Darryl J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Churchill</surname>
+              <given-names>Steven E</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schmid</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Delezene</surname>
+              <given-names>Lucas K</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kivell</surname>
+              <given-names>Tracy L</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Garvin</surname>
+              <given-names>Heather M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Williams</surname>
+              <given-names>Scott A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>DeSilva</surname>
+              <given-names>Jeremy M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Skinner</surname>
+              <given-names>Matthew M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Musiba</surname>
+              <given-names>Charles M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cameron</surname>
+              <given-names>Noel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holliday</surname>
+              <given-names>Trenton W</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Harcourt-Smith</surname>
+              <given-names>William</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ackermann</surname>
+              <given-names>Rebecca R</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bastir</surname>
+              <given-names>Markus</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bogin</surname>
+              <given-names>Barry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bolter</surname>
+              <given-names>Debra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brophy</surname>
+              <given-names>Juliet</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cofran</surname>
+              <given-names>Zachary D</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Congdon</surname>
+              <given-names>Kimberly A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deane</surname>
+              <given-names>Andrew S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dembo</surname>
+              <given-names>Mana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Drapeau</surname>
+              <given-names>Michelle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Elliott</surname>
+              <given-names>Marina C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>M Feuerriegel</surname>
+              <given-names>, Elen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Garcia-Martinez</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Green</surname>
+              <given-names>David J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gurtov</surname>
+              <given-names>Alia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Irish</surname>
+              <given-names>Joel D</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kruger</surname>
+              <given-names>Ashley</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Laird</surname>
+              <given-names>Myra F</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marchi</surname>
+              <given-names>Damiano</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Meyer</surname>
+              <given-names>Marc R</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nalla</surname>
+              <given-names>Shahed</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Negash</surname>
+              <given-names>Enquye W</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Orr</surname>
+              <given-names>Caley M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Radovcic</surname>
+              <given-names>Davorka</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schroeder</surname>
+              <given-names>Lauren</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scott</surname>
+              <given-names>Jill E</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Throckmorton</surname>
+              <given-names>Zachary</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tocheri</surname>
+              <given-names>Matthew W</given-names>
+            </name>
+            <name name-style="western">
+              <surname>VanSickle</surname>
+              <given-names>Caroline</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Walker</surname>
+              <given-names>Christopher S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wei</surname>
+              <given-names>Pianpian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zipfel</surname>
+              <given-names>Bernhard</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title><italic>Homo naledi</italic>, a new species of the genus <italic>Homo </italic>from the Dinaledi Chamber, South Africa</article-title>
+          <source>eLife e 09560</source>
+          <volume>4</volume>
+          <fpage>1</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="doi">10.7554/eLife.09560</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187222">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Conroy</surname>
+              <given-names>G. C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weber</surname>
+              <given-names>G. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Seidler</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tobias</surname>
+              <given-names>P. V.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kane</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brunsden</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <article-title>Endocranial Capacity in an Early Hominid Cranium from Sterkfontein, South Africa</article-title>
+          <source>Science</source>
+          <volume>280</volume>
+          <issue>5370</issue>
+          <fpage>1730</fpage>
+          <lpage>1731</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.280.5370.1730</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187256">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Spoor</surname>
+              <given-names>Fred</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wood</surname>
+              <given-names>Bernard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zonneveld</surname>
+              <given-names>Frans</given-names>
+            </name>
+          </person-group>
+          <year>1994</year>
+          <article-title>Implications of early hominid labyrinthine morphology for evolution of human bipedal locomotion</article-title>
+          <source>Nature</source>
+          <volume>369</volume>
+          <issue>6482</issue>
+          <fpage>645</fpage>
+          <lpage>648</lpage>
+          <pub-id pub-id-type="doi">10.1038/369645a0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187332">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Weber</surname>
+              <given-names>Gerhard W.</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Virtual anthropology (VA): A call forGlasnost in paleoanthropology</article-title>
+          <source>The Anatomical Record</source>
+          <volume>265</volume>
+          <issue>4</issue>
+          <fpage>193</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="doi">10.1002/ar.1153</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187289">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Zollikofer</surname>
+              <given-names>Christoph P. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ponce de León</surname>
+              <given-names>Marcia S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martin</surname>
+              <given-names>Robert D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stucki</surname>
+              <given-names>Peter</given-names>
+            </name>
+          </person-group>
+          <year>1995</year>
+          <article-title>Neanderthal computer skulls</article-title>
+          <source>Nature</source>
+          <volume>375</volume>
+          <issue>6529</issue>
+          <fpage>283</fpage>
+          <lpage>285</lpage>
+          <pub-id pub-id-type="doi">10.1038/375283b0</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5186460" position="float" orientation="portrait">
+      <object-id content-type="arpha">7F892FE916255793879563454D55E513</object-id>
+      <label>Figure 1.</label>
+      <caption>
+        <p>A typical workflow in virtual morphology for geometric morphometric research in digital collections. a) original cranium; b) virtual 3D model of a cranium; c) virtual cranium plus 3D landmarks (3D point-, curve-, and surface measurements with Cartesian coordinates); d) superimposed 3D landmarks of a large sample of virtual 3D models of crania; e) 3D landmarks of the sample mean shape; f) 3D-print of a virtual cranium morphed to the mean shape.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e38778-g001.jpg" position="float" id="oo_291648.jpg" orientation="portrait" xlink:type="simple">
+        <uri content-type="original_file">https://binary.pensoft.net/fig/291648</uri>
+      </graphic>
+    </fig>
+  </floats-group>
+</article>

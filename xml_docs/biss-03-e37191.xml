@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37191</article-id>
+      <article-id pub-id-type="publisher-id">37191</article-id>
+      <article-id pub-id-type="manuscript">11733</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST43 - How can specialized data aggregators better integrate information? Is following Darwin Core enough?</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Unexploited Biodiversity Data Sources: The case of airborne pollen</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ariño</surname>
+            <given-names>Arturo H.</given-names>
+          </name>
+          <email xlink:type="simple">artarip@unav.es</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4620-6445</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>González-Alonso</surname>
+            <given-names>Mónica</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pérez de Zabalza</surname>
+            <given-names>Anabel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Navarra, Pamplona, Spain</addr-line>
+        <institution>University of Navarra</institution>
+        <addr-line content-type="city">Pamplona</addr-line>
+        <country>Spain</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Arturo H. Ariño (<email xlink:type="simple">artarip@unav.es</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37191</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/8B7C2EF15432577CBE5C18080398F8A3">8B7C2EF15432577CBE5C18080398F8A3</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Arturo H. Ariño, Mónica González-Alonso, Anabel Pérez de Zabalza</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>With more than one billion primary biodiversity data records (PBR), the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org">GBIF</ext-link>) is the largest and, arguably, most comprehensive and accurate resource about the biodiversity data on the planet. Yet, its gaps (taxonomical, geographical or chronological, among others) have often been brought to attention (<xref ref-type="bibr" rid="B5195593">Gaijy et al. 2013</xref>) and efforts are continuously made to ensure more uniform coverage. Especially as data obtained through this resource are increasingly being used for science, policy, and conservation (<xref ref-type="bibr" rid="B5195616">Ariño et al. 2018</xref>), drawing on every possible source of information to complement already existing data opens new opportunities for supplying the integrative knowledge required for global endeavors, such as understanding the global patterns of ecosystem and environment changes.</p>
+        <p>One such potential source that exists, but so far has experienced little integration, is the vast body of data acquired through airborne particle monitoring systems (for example, the <ext-link ext-link-type="uri" xlink:href="https://www.ean-net.org/">European Aeroallergen Network, EAN</ext-link>). A large portion of pollen data is comprised of quantitative sampling of airborne pollen collected through semi-automated spore traps throughout the world. Its main use is clinical, as it forms the basis of the widespread allergen forecast bulletins. While geolocating the source of airborne pollen is fraught with obviously large uncertainty radii, the time and taxon components of the PBR remain highly precise and are therefore fit for many other uses (<xref ref-type="bibr" rid="B5195628">Hill et al. 2010</xref>). Presence data, and under certain circumstances, frequency data inferred from pollen counts have been often proposed as an excellent proxy for past climate change assessments as far back as the start of the Holocene (<xref ref-type="bibr" rid="B5195641">Mauri et al. 2015</xref>) and might therefore also be possibly used for current climate change detection.</p>
+        <p>We call for a concerted effort throughout the palynological community to first increase harmonizing, and then eventually standardizing, pollen data acquisition through the adoption of <ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/">Darwin Core (DwC)</ext-link> and, eventually, DwC extensions to</p>
+        <p>
+          <list list-type="bullet"><list-item><p>mine current data and</p></list-item><list-item><p>pipeline future airborne pollen data as PBR.</p></list-item></list>
+        </p>
+        <p>Success in this endeavor may contribute to a better understanding of global change.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>pollen</kwd>
+        <kwd>DwC extensions</kwd>
+        <kwd>climate change</kwd>
+        <kwd>data mining</kwd>
+        <kwd>primary biodiversity data</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Arturo H. Ariño</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>The University of Navarra, Department of Environmental Biology, Biodiversity Data Analytics and Environmental Quality Research Group (BEQ)</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>The authors declare no conflict of interests.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>The University of Navarra, Department of Environmental Biology, Biodiversity Data Analytics and Environmental Quality Research Group (BEQ)</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>The authors declare no conflict of interests.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5195616">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ariño</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Noesgaard</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hjarding</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schigel</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Biodiversity Information Services: A (not-so-) little knowledge that acts</article-title>
+          <source>Biodiversity Information Science and Standards</source>
+          <volume>2</volume>
+          <fpage>25738</fpage>
+          <pub-id pub-id-type="doi">10.3897/biss.2.25738</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5195593">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Gaijy</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chavan</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ariño</surname>
+              <given-names>A. H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Otegui</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hobern</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sood</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robles</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>Content assesment of the primary biodiversity data ublished throug GBIF network: Status, challenges and potentials</article-title>
+          <source>Biodiveristy Informatics</source>
+          <volume>8</volume>
+          <issue>2</issue>
+          <fpage>94</fpage>
+          <lpage>172</lpage>
+          <pub-id pub-id-type="doi">10.17161/bi.v8i2.4124</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5195628">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hill</surname>
+              <given-names>A. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Otegui</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>R. P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ariño</surname>
+              <given-names>A. H.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>GBIF Position Paper on Future Directions and Recommendations for Enhancing Fitness-for-Use Across the GBIF Network, version 1.0. ISBN: 87-92020-11-9</article-title>
+          <source>Global Biodiversity Information Facility</source>
+          <fpage>1</fpage>
+          <lpage>25</lpage>
+          <uri>https://www.gbif.org/document/80623/gbif-position-paper-on-future-directions-and-recommendations-for-enhancing-fitness-for-use-across-the-gbif-network</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5195641">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Mauri</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Davis</surname>
+              <given-names>B. A. S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Collins</surname>
+              <given-names>P. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kaplan</surname>
+              <given-names>J. O.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>The climate of Europe during the Holocene: a gridded pollen-based reconstruction and its multi-proxy evaluation</article-title>
+          <source>Quaternary Science Reviews</source>
+          <volume>112</volume>
+          <fpage>109</fpage>
+          <lpage>127</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.quascirev.2015.01.013</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

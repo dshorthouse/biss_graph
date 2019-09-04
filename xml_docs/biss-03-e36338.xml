@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36338</article-id>
+      <article-id pub-id-type="publisher-id">36338</article-id>
+      <article-id pub-id-type="manuscript">11631</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP35 - Operationalizing Essential Biodiversity Variables: data integration, production and dissemination</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Designing an Ecosystem Services Ontology within GEOBON</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Drakou</surname>
+            <given-names>Evangelia</given-names>
+          </name>
+          <email xlink:type="simple">e.drakou@utwente.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4404-629X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lemmens</surname>
+            <given-names>Rob</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ayuningshih</surname>
+            <given-names>Febriani</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Twente, Enschede, Netherlands</addr-line>
+        <institution>University of Twente</institution>
+        <addr-line content-type="city">Enschede</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Evangelia Drakou (<email xlink:type="simple">e.drakou@utwente.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36338</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4037A555A24058EDA8E7001A0F52C53B">4037A555A24058EDA8E7001A0F52C53B</uri>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Evangelia Drakou, Rob Lemmens, Febriani Ayuningshih</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Assessing, mapping and quantifying ecosystem services is a growing priority within local, national and international policy and decision-making processes. That requires robust and scientifically sound data and information on biodiversity, including ecological and socio-economic aspects that interact within the social-ecological systems. Ecosystem services are quantified and mapped across spatio-temporal scales, socio-political contexts and for different policy objectives, which leads to an immense variety of approaches, methods, tools, modelling and mapping outputs. Within the Group on Earth Observation-Biodiversity Observation Network (GEOBON) working group on Ecosystem Services (<ext-link ext-link-type="uri" xlink:href="https://geobon.org/ebvs/ecosystem-services/">https://geobon.org/ebvs/ecosystem-services/</ext-link>), we acknowledge the significance of maintaining this diversity, but also the need to bring these different approaches together, to improve data and information sharing across a broad range of scientific fields. Given the high diversity of topics, terms, and classification frameworks that exist, harmonizing everything under one core set of data standards proved to be both a challenge and a questionable option in terms of usability. We therefore work towards developing and proposing an ontological system that can be used for monitoring ecosystem services across space and time. We designed ESOnto, the ecosystem services ontology, which uses the principles of Linked Data (<xref ref-type="bibr" rid="B5227863">Berners-Lee 2006</xref>) to connect the concepts of the ontology, while providing a flexible structure that hosts multiple approaches/definitions and ecosystem services classification systems. ESOnto takes into account the most widely used ecosystem services classification frameworks that exist are all used in ESOnto, since they all address different objectives and approaches. Their core concepts are all included in the ontology and the relationships among them are established allowing the user to navigate among the different classification systems. as well as reRelevant ontologies from both the environmental and social o-economic domains, such as ENVO (<ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/ols/ontologies/envo">https://www.ebi.ac.uk/ols/ontologies/envo</ext-link>) and OBO (<ext-link ext-link-type="uri" xlink:href="http://www.obofoundry.org">www.obofoundry.org</ext-link>) . These are also used to define build the basic concepts that ESOnto covers such as, 'map' or 'habitat'. This use of existing knowledge allows for interoperability among ontological systems, and guarantees a more usable ontology that does not aim to reinvent the wheel.</p>
+        <p>Although the need for setting up data standards for ecosystem services has been expressed among researchers (<xref ref-type="bibr" rid="B5227872">Palomo et al. 2018</xref>, <xref ref-type="bibr" rid="B5227885">Drakou et al. 2015</xref>), this is the first time such an attempt has been made. Within this talk we will present the workflow we followed: we made an overview of existing data standards and ontologies from the fields of biodiversity, ecology and social sciences, which were used to inform the ESOnto; we identified the gaps and proposed a set of data standards for ecosystem services; we developed a set of task-based queries and user-based evaluations to validate those data standards before their final establishment as an ontology. ESOnto is now applied and tested within existing platforms, namely the Bon-in-a-Box (<ext-link ext-link-type="uri" xlink:href="https://boninabox.geobon.org/">https://boninabox.geobon.org/</ext-link>). The final objective is that ESOnto will be used to facilitate the process of data collection through remote sensing within the GEOBON community.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>ontology</kwd>
+        <kwd>data standards</kwd>
+        <kwd>ecosystem services</kwd>
+        <kwd>linked data</kwd>
+        <kwd>SPARQL</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Evangelia G. Drakou</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5227863">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Berners-Lee</surname>
+            </name>
+          </person-group>
+          <article-title>Linked Data - Design Issues </article-title>
+          <uri>https://www.w3.org/DesignIssues/LinkedData.html</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5227885">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Drakou</surname>
+              <given-names>E. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crossman</surname>
+              <given-names>N. D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willemen</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Burkhard</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Palomo</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Maes</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peedell</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>A visualization and data-sharing tool for ecosystem service maps: Lessons learnt, challenges and the way forward</article-title>
+          <source>Ecosystem Services</source>
+          <volume>13</volume>
+          <fpage>134</fpage>
+          <lpage>140</lpage>
+          <uri>http://www.sciencedirect.com/science/article/pii/S2212041614001594</uri>
+          <pub-id pub-id-type="doi">10.1016/j.ecoser.2014.12.002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5227872">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Palomo</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willemen</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Drakou</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Burkhard</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crossman</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bellamy</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Burkhard</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Campagne C, Dangol A, Franke J, Kulczyk S, Le Clec'h S, Abdul Malak D, Muñoz L, Narusevicius V, Ottoy S, Roelens J, Sing L, Thomas A, Van Meerbeek K</article-title>
+          <source>One Ecosystem</source>
+          <volume>3</volume>
+          <fpage>20713</fpage>
+          <pub-id pub-id-type="doi">10.3897/oneeco.3.e20713</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

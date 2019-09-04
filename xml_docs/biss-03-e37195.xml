@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37195</article-id>
+      <article-id pub-id-type="publisher-id">37195</article-id>
+      <article-id pub-id-type="manuscript">11702</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Past, Present, and Future of Marcescent Mediterranean Forests</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Vila-Viçosa</surname>
+            <given-names>Carlos Martins</given-names>
+          </name>
+          <email xlink:type="simple">cvv@cibio.up.pt</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4285-8008</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gonçalves</surname>
+            <given-names>João Francisco</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6615-0218</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Honrado</surname>
+            <given-names>João Pradinho</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Silva</surname>
+            <given-names>Rubim Almeida</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vazquez</surname>
+            <given-names>Francisco Maria</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Stephan</surname>
+            <given-names>Jean</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7377-8089</uri>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>García</surname>
+            <given-names>Cristina Pérez</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">CIBIO (Research Center in Biodiversity and Genetic Resources) - InBIO (Research Network in Biodiversity and Evolutionary Biology), University of Porto, Vairão - Porto, Portugal</addr-line>
+        <institution>CIBIO (Research Center in Biodiversity and Genetic Resources) - InBIO (Research Network in Biodiversity and Evolutionary Biology), University of Porto</institution>
+        <addr-line content-type="city">Vairão - Porto</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">MHNC-UP - Science and Natural History Museum of Porto University, Biology Department, Faculty of Sciences, University of Porto, Porto, Portugal</addr-line>
+        <institution>MHNC-UP - Science and Natural History Museum of Porto University, Biology Department, Faculty of Sciences, University of Porto</institution>
+        <addr-line content-type="city">Porto</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Biology Department, Faculty of Sciences, University of Porto, Porto, Portugal</addr-line>
+        <institution>Biology Department, Faculty of Sciences, University of Porto</institution>
+        <addr-line content-type="city">Porto</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">CIBIO (Research Center in Biodiversity and Genetic Resources) - InBIO (Research Network in Biodiversity and Evolutionary Biology), University of Porto, Porto, Portugal</addr-line>
+        <institution>CIBIO (Research Center in Biodiversity and Genetic Resources) - InBIO (Research Network in Biodiversity and Evolutionary Biology), University of Porto</institution>
+        <addr-line content-type="city">Porto</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">LA ORDEN-CICYTEX, GUADAJIRA, BADAJOZ, Spain</addr-line>
+        <institution>LA ORDEN-CICYTEX</institution>
+        <addr-line content-type="city">GUADAJIRA, BADAJOZ</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Lebanese University Faculty of Sciences II Fanar, Fanar, Lebanon</addr-line>
+        <institution>Lebanese University Faculty of Sciences II Fanar</institution>
+        <addr-line content-type="city">Fanar</addr-line>
+        <country>Lebanon</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Department of Evolution, Ecology and Behaviour, Institute of Integrative Biology (IIB). University of Liverpool, LIverpool, United Kingdom</addr-line>
+        <institution>Department of Evolution, Ecology and Behaviour, Institute of Integrative Biology (IIB). University of Liverpool</institution>
+        <addr-line content-type="city">LIverpool</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Carlos Martins Vila-Viçosa (<email xlink:type="simple">cvv@cibio.up.pt</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37195</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/892BF577A22857F2ABBAF4C775E2FA19">892BF577A22857F2ABBAF4C775E2FA19</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Carlos Martins Vila-Viçosa, João Francisco Gonçalves, João Pradinho Honrado, Rubim Almeida Silva, Francisco Maria Vazquez, Jean Stephan, Cristina Pérez García</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Mediterranean forests are unique and one of the most threatened biomes worldwide (<xref ref-type="bibr" rid="B5216171">Klausmeyer and Shaw 2009</xref>). They are distributed through marked ecological gradients that are supported by a wide variety of diverse geology and contrasting bioclimatic conditions.</p>
+        <p>Marcescence (i.e., the abscence of leaf fall abscission; <xref ref-type="bibr" rid="B5216002">Addicott 1982</xref>), is a life-history trait related to contrasting or transitional climatic areas such as those across Eurosiberian and Mediterranean Regions (<xref ref-type="bibr" rid="B5216011">García-Mijangos et al. 2014</xref>). Thus, marcescent forests are ecotones located in the transition between temperate areas with cold winters and mild rainy summers and mediterranean regions with dry and hot summers (<xref ref-type="bibr" rid="B5221196">Rivas-Martínez et al. 2017</xref>).</p>
+        <p>We aim to provide a global overview of marcescent forests in the Mediterranean basin, a significant ecotone in terms of biogeography and conservation, by exploring the main ecological drivers that have promoted past, current and future changes in the distribution ranges of several oak species.</p>
+        <p>We used a subset of oak species from the subsection <italic>Galliferae</italic> (<italic>Quercus</italic> L.), to unveil biogeographic relationships and recent or past contact between taxa, thus bringing insights to its evolutionary history and speciation. A database was built with records obtained from extensive fieldwork, herbaria review and online resources (e.g., Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="https://gbif.org">GBIF</ext-link>), scrutinized by taxonomic experts. We used downscaled climate data to obtain potential distribution of each species through an ensemble-modelling framework (biomod2 - R package, <xref ref-type="bibr" rid="B5216231">Araújo and New 2007</xref>, <xref ref-type="bibr" rid="B5216241">Thuiller et al. 2009</xref>), across different past (Last Glacial Maximum and Middle Holocene), present and future scenarios (2050 and 2080 <xref ref-type="bibr" rid="B5216274">Hijmans et al. 2005</xref>; Representative Concentration Pathway (RCP) 4.5 <xref ref-type="bibr" rid="B5216341">IPCC 2013</xref>).</p>
+        <p>Results provide new insights to advance our current understanding of the biogeographic trajectories of transiently co-occurring oak species, at the boundary of two major biomes and biogeographic regions in Southern Europe and North Africa.</p>
+        <p>Furthermore, we highlight the importance of these forests for biodiversity conservation, not only as refuge of relict and narrow endemic species, but particularly for understanding white oak biogeography and evolution in Europe, anticipating future shifts driven by anthropogenic climate change.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>climate change</kwd>
+        <kwd>forecast</kwd>
+        <kwd>habitat-suitability models</kwd>
+        <kwd>hindcast</kwd>
+        <kwd>oak forests</kwd>
+        <kwd>
+          <italic>Quercus</italic>
+        </kwd>
+        <kwd>species distribution models</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Fundação para a Ciência e a Tecnologia</named-content>
+            <named-content content-type="funder_identifier">501100001871</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001871</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="8"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Carlos Vila-Viçosa</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Doctoral Programme in Biodiversity, Genetics and Evolution (BIODIV), University of Porto (UP), Portugal</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>No conflict of interest was reported by the authors.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Doctoral Programme in Biodiversity, Genetics and Evolution (BIODIV), University of Porto (UP), Portugal</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>PD/BD/52607/2014</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>No conflict of interest was reported by the authors.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5216002">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Addicott</surname>
+              <given-names>F. T.</given-names>
+            </name>
+          </person-group>
+          <year>1982</year>
+          <source>Abscission</source>
+          <publisher-name>University of California Press</publisher-name>
+          <publisher-loc>Berkeley, Los Angeles</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="B5216231">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Araújo</surname>
+              <given-names>M. B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>New</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Ensemble forecasting of species distributions</article-title>
+          <source>Trends in Ecology &amp; Evolution</source>
+          <volume>22</volume>
+          <issue>1</issue>
+          <fpage>42</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tree.2006.09.010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216011">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>García-Mijangos</surname>
+              <given-names>Itziar</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Campos</surname>
+              <given-names>Juan Antonio</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Biurrun</surname>
+              <given-names>Idoia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Herrera</surname>
+              <given-names>Mercedes</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Loidi</surname>
+              <given-names>Javier</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Marcescent forests of the Iberian Peninsula: Floristic and climatic haracterization</article-title>
+          <source>Geobotany Studies</source>
+          <fpage>119</fpage>
+          <lpage>138</lpage>
+          <pub-id pub-id-type="doi">10.1007/978-3-319-01261-2_6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216274">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hijmans</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cameron</surname>
+              <given-names>S. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Parra</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jones</surname>
+              <given-names>P. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jarvis</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Very high resolution interpolated climate surfaces for global land areas</article-title>
+          <source>International Journal of Climatology</source>
+          <volume>25</volume>
+          <issue>15</issue>
+          <fpage>1965</fpage>
+          <lpage>1978</lpage>
+          <pub-id pub-id-type="doi">10.1002/joc.1276</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216341">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>IPCC</surname>
+            </name>
+          </person-group>
+          <article-title>Fifth Assessment Report (AR5)</article-title>
+          <uri>http://www.ipcc-data.org/sim/gcm_monthly/AR5/index.html</uri>
+          <date-in-citation content-type="access-date">2019-04-30T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5216171">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Klausmeyer</surname>
+              <given-names>K. R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Shaw</surname>
+              <given-names>M. R.</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Climate change, habitat loss, protected areas and the climate adaptation potential of species in Mediterranean ecosystems worldwide</article-title>
+          <source>PLoS One</source>
+          <volume>4</volume>
+          <issue>7</issue>
+          <fpage>e6392</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0006392</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5221196">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Rivas-Martínez</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penas</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>del Río</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>González</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rivas-Sáenz</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <chapter-title>Bioclimatology of the Iberian Peninsula and the Balearic Islands</chapter-title>
+          <person-group person-group-type="editor">
+            <name name-style="western">
+              <surname>Loidi</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>The vegetation of the Iberian Peninsula</source>
+          <edition>1</edition>
+          <volume>12</volume>
+          <publisher-name>Springer International Publishing</publisher-name>
+          <size units="page">29-80</size>
+          <isbn>978-3-319-54782-4</isbn>
+          <pub-id pub-id-type="doi">10.1007/978-3-319-54784-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216241">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Thuiller</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lafourcade</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Engler</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Araújo</surname>
+              <given-names>M. B.</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>BIOMOD–a platform for ensemble forecasting of species distributions</article-title>
+          <source>Ecography</source>
+          <volume>32</volume>
+          <fpage>369</fpage>
+          <lpage>373</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1600-0587.2008.05742.x</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

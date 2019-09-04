@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37204</article-id>
+      <article-id pub-id-type="publisher-id">37204</article-id>
+      <article-id pub-id-type="manuscript">11647</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI29 - GGBN – A global infrastructure for molecular research and collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Towards Linked Open Molecular Data: Recommendations for researchers, collections, infrastructures and publishers</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Droege</surname>
+            <given-names>Gabriele</given-names>
+          </name>
+          <email xlink:type="simple">g.droege@bgbm.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Karsch-Mizrachi</surname>
+            <given-names>Ilene</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Barker</surname>
+            <given-names>Katharine</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4788-0223</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Coddington</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6004-7730</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Seberg</surname>
+            <given-names>Ole</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Botanic Garden and Botanical Museum Berlin, Berlin, Germany</addr-line>
+        <institution>Botanic Garden and Botanical Museum Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">National Institute of Health, Washington D.C., United States of America</addr-line>
+        <institution>National Institute of Health</institution>
+        <addr-line content-type="city">Washington D.C.</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">National Museum of Natural History, Smithsonian Institution, Washington, D.C., United States of America</addr-line>
+        <institution>National Museum of Natural History, Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington, D.C.</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Natural History Museum Denmark, Copenhagen, Denmark</addr-line>
+        <institution>Natural History Museum Denmark</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Gabriele Droege (<email xlink:type="simple">g.droege@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37204</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/C31B484CAF285D269C11BC4D78AEF85C">C31B484CAF285D269C11BC4D78AEF85C</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Gabriele Droege, Ilene Karsch-Mizrachi, Katharine Barker, Jonathan Coddington, Ole Seberg</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The variety of molecular methods used to analyze biosamples is continuously increasing, as is the need for the standardized deposition, documentation and citation of both the samples as well as the methods applied to them. Global initiatives such as the International Nucleotide Sequence Database Collaboration (INSDC, <ext-link ext-link-type="uri" xlink:href="http://www.insdc.org">http://www.insdc.org</ext-link>), Barcode of Life Data System (BOLD, <ext-link ext-link-type="uri" xlink:href="http://www.boldsystems.org">http://www.boldsystems.org</ext-link>), the Global Biodiversity Information Facility (GBIF, <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">http://www.gbif.org</ext-link>) and the Global Genome Biodiversity Network (GGBN, <ext-link ext-link-type="uri" xlink:href="http://www.ggbn.org">http://www.ggbn.org</ext-link>), in addition to many others, have been working towards standardized access to biological data for many years. Collectively, these biodiversity data management platforms provide a considerable and indispensable infrastructure to the research community. However, cross-linking the massive amounts of protein and DNA sequence data submitted to these databases every year with standardized records of the underlying biological material remains challenging. Best practices for standardized data submissions and data citations are urgently needed.</p>
+        <p>In the long run, two goals should be achieved above all else:</p>
+        <p>
+          <list list-type="order"><list-item><p>all sequence data should be linked to natural history collections, and</p></list-item><list-item><p>biological material that was used for molecular research, especially DNA sequencing, should be deposited and, thus, made accessible in public, well curated collections.</p></list-item></list>
+        </p>
+        <p>Here we will provide recommendations both for researchers and collections how to cite underlying biological material at INSDC and in publications in a standardized way towards Linked Open Data. We will also address how the global infrastructures and publishers can improve their interoperability.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>GGBN; Linked Open Data; INSDC</kwd>
+        <kwd>GBIF</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Gabriele Droege</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>This work was supported in part by the Intramural Research Program of the National Library of Medicine, National Institutes of Health.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>This work was supported in part by the Intramural Research Program of the National Library of Medicine, National Institutes of Health.</p>
+    </sec>
+  </back>
+</article>

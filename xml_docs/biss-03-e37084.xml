@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37084</article-id>
+      <article-id pub-id-type="publisher-id">37084</article-id>
+      <article-id pub-id-type="manuscript">11336</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ebony Wood Identification to Battle Illegal Trade</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Jahanbanifard</surname>
+            <given-names>Mehrdad</given-names>
+          </name>
+          <email xlink:type="simple">mehrdad.jahanbanifard@naturalis.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2224-8387</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gravendeel</surname>
+            <given-names>Barbara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lens</surname>
+            <given-names>Frederic</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Verbeek</surname>
+            <given-names>Fons</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Leiden Institute of Advanced Computer Science, Leiden, Netherlands</addr-line>
+        <institution>Leiden Institute of Advanced Computer Science</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mehrdad Jahanbanifard (<email xlink:type="simple">mehrdad.jahanbanifard@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37084</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2C2D475CA7E65B5B8E79C2AF0B77325C">2C2D475CA7E65B5B8E79C2AF0B77325C</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mehrdad Jahanbanifard, Barbara Gravendeel, Frederic Lens, Fons Verbeek</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Illegal logging is a serious global issue. It is not only a great threat to rare forest species, but also contributes to the current biodiversity crisis and climate change. Despite international agreements, 10-30% of all imported wood has been illegally logged. Many of these trees, especially rosewood (<italic>Dalbergia</italic>) and ebony (<italic>Diospyros</italic>), are very important for the global market because of their high economic value. Ebony is a common name for the black heartwood (inner parts of the stem) of some <italic>Diospyros</italic> species. These woods are used in products such as acoustic musical instruments. The genus <italic>Diospyros</italic> includes over 700 species globally. More than 200 of them are endemic to Madagascar, which is a one of the richest regions in terms of biodiversity. This island is situated in the Indian Ocean off the coast of Eastern Africa and is known for its unique biodiversity.</p>
+        <p>Due to over-harvesting in recent decades, many Malagasy species of <italic>Diospyros</italic> are listed as endangered under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES; <ext-link ext-link-type="uri" xlink:href="http://checklist.cites.org/#/en/search/output_layout=alphabetical&amp;level_of_listing=0&amp;show_synonyms=1&amp;show_author=1&amp;show_english=1&amp;show_spanish=1&amp;show_french=1&amp;scientific_name=Diospyros&amp;page=1&amp;per_page=20">CITES checklist for <italic>Diospyros</italic></ext-link>). Trade of these species requires CITES permits. All described Malagasy ebony species under Appendix II meaning that, while not currently threatened with extinction they may become so if trade is not controlled. Controlling the logging trade is often more difficult than it seems. Labels are easily switched, different species of wood can be mixed, permits can be falsified, and many more tricks are used to get illegally logged wood onto the global market.</p>
+        <p>One of the most commonly used techniques to identify timber products is the assessment of species-specific cellular patterns (<xref ref-type="bibr" rid="B5213447">White et al. 1991</xref>). Wood anatomy has been practiced for more than 200 years, and automated tools have been developed to identify wood at the genus and species level over the past decade (<xref ref-type="bibr" rid="B5213397">Figueroa-Mata et al. 2018</xref>, <xref ref-type="bibr" rid="B5213427">Hafemann et al. 2014</xref>, <xref ref-type="bibr" rid="B5213407">Koch et al. 2011</xref>, <xref ref-type="bibr" rid="B5213437">Ravindran et al. 2018</xref>). However, the lack of sufficient resolution for species-level identification, especially for speciose genera such as <italic>Diospyros,</italic> is the main drawback of this method. Identification using molecular barcoding is an alternative but challenging method as timber is composed mainly of dead cells and the few living cells often have poor DNA quality. A third identification method is direct analysis in real time time-of-flight mass spectrometry (DART TOF MS; <xref ref-type="bibr" rid="B5213373">Espinoza et al. 2015</xref>, <xref ref-type="bibr" rid="B5213384">Evans et al. 2017</xref>). This method analyses the chemical composition of a wood sample, resulting in a species-specific chemical fingerprint. DART TOF MS has already been successfully applied to several tree genera including <italic>Dalbergia</italic> (rosewood), <italic>Aquilaria</italic> (agarwood), and <italic>Quercus</italic> (oak). The main disadvantage of this method is that it can only be applied to heartwood samples from the inner part of the trunk.</p>
+        <p>In order to develop a comprehensive and accurate identification tool to identify Malagasy ebony woods, we are working towards building an image recognition model based on wood anatomical microscopic images. As a case study, we successfully trained our classifier using a public dataset (<xref ref-type="bibr" rid="B5213417">Martins et al. 2012</xref>) such that our model was able to distinguish different tree genera of that dataset with 93% accuracy. We are currently extending this work to the subgeneric level of <italic>Diospyros</italic>. This will be used to establish the presence of ebony woods in acoustic musical instruments based on reference samples from wood specimens preserved in natural history musea. To achieve sufficient accuracy, we are focusing on the microscopic features of transverse and tangential orientation planes in ebony woods. Our database will include very high resolution images of <italic>Diospyros </italic>species, and can help wood anatomist at wood identification institute and customs officers at harbours to increase the accuracy of the identification of illegally logged ebony woods. </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Malagasy <italic>Diospyros</italic></kwd>
+        <kwd>convolutional neural network</kwd>
+        <kwd>ebony wood identification</kwd>
+        <kwd>illegal logging</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="8"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mehrdad Jahanbanifard</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>This project is part of the Plant.ID project, that has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 765000.</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Naturalis Biodiversity Center</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>This project is part of the Plant.ID project, that has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 765000.</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Naturalis Biodiversity Center</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5213373">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Espinoza</surname>
+              <given-names>Edgard O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wiemann</surname>
+              <given-names>Michael C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barajas-Morales</surname>
+              <given-names>Josefina</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chavarria</surname>
+              <given-names>Gabriela D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McClure</surname>
+              <given-names>Pamela J.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Forensic analysis of CITES-protected <italic>Dalbergia </italic>timber from the Americas</article-title>
+          <source>IAWA Journal</source>
+          <volume>36</volume>
+          <issue>3</issue>
+          <fpage>311</fpage>
+          <lpage>325</lpage>
+          <pub-id pub-id-type="doi">10.1163/22941932-20150102</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5213384">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Evans</surname>
+              <given-names>Philip D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mundo</surname>
+              <given-names>Ignacio A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wiemann</surname>
+              <given-names>Michael C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chavarria</surname>
+              <given-names>Gabriela D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McClure</surname>
+              <given-names>Pamela J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Voin</surname>
+              <given-names>Doina</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Espinoza</surname>
+              <given-names>Edgard O.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Identification of selected CITES-protected Araucariaceae using DART TOFMS</article-title>
+          <source>IAWA Journal</source>
+          <volume>38</volume>
+          <issue>2</issue>
+          <fpage>266–S3</fpage>
+          <pub-id pub-id-type="doi">10.1163/22941932-20170171</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5213397">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Figueroa-Mata</surname>
+              <given-names>Geovanni</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mata-Montero</surname>
+              <given-names>Erick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Valverde-Otarola</surname>
+              <given-names>Juan Carlos</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Arias-Aguilar</surname>
+              <given-names>Dagoberto</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Using deep convolutional networks for species identification of xylotheque samples</article-title>
+          <source>2018 IEEE International Work Conference on Bioinspired Intelligence (IWOBI)</source>
+          <pub-id pub-id-type="doi">10.1109/iwobi.2018.8464216</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5213427">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hafemann</surname>
+              <given-names>Luiz G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Oliveira</surname>
+              <given-names>Luiz S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cavalin</surname>
+              <given-names>Paulo</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Forest species recognition using deep convolutional neural networks</article-title>
+          <source>22<sup>nd</sup> International Conference on Pattern Recognition, 24-28 August 2014</source>
+          <pub-id pub-id-type="doi">10.1109/icpr.2014.199</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5213407">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Koch</surname>
+              <given-names>Gerald</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Richter</surname>
+              <given-names>Hans-Georg</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schmitt</surname>
+              <given-names>Uwe</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>Design and application of CITESwoodID Computer-aided identification and description of CITES-protected timbers</article-title>
+          <source>IAWA Journal</source>
+          <volume>32</volume>
+          <issue>2</issue>
+          <fpage>213</fpage>
+          <lpage>220</lpage>
+          <pub-id pub-id-type="doi">10.1163/22941932-90000052</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5213417">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Martins</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Oliveira</surname>
+              <given-names>L. S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nisgoski</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sabourin</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>A database for automatic classification of forest species</article-title>
+          <source>Machine Vision and Applications</source>
+          <volume>24</volume>
+          <issue>3</issue>
+          <fpage>567</fpage>
+          <lpage>578</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00138-012-0417-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5213437">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ravindran</surname>
+              <given-names>Prabu</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Costa</surname>
+              <given-names>Adriana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Soares</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wiedenhoeft</surname>
+              <given-names>Alex C.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Classification of CITES-listed and other neotropical Meliaceae wood images using convolutional neural networks</article-title>
+          <source>Plant Methods</source>
+          <volume>14</volume>
+          <fpage>25</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13007-018-0292-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5213447">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>White</surname>
+              <given-names>D. J. B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wheeler</surname>
+              <given-names>E. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baas</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gasson</surname>
+              <given-names>P. E.</given-names>
+            </name>
+          </person-group>
+          <year>1991</year>
+          <article-title>IAWA list of microscopic features for hardwood identification by an IAWA Committee</article-title>
+          <source>Kew Bulletin</source>
+          <volume>46</volume>
+          <issue>2</issue>
+          <fpage>376</fpage>
+          <lpage>377</lpage>
+          <pub-id pub-id-type="doi">10.2307/4110625</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

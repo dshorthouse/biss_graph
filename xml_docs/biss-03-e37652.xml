@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37652</article-id>
+      <article-id pub-id-type="publisher-id">37652</article-id>
+      <article-id pub-id-type="manuscript">11318</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI87 - Empowering the taxonomic community by linking information through names and taxonomy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Catalogue of Life Plus: A collaborative project to complete the checklist of the world's species</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Banki</surname>
+            <given-names>Olaf</given-names>
+          </name>
+          <email xlink:type="simple">olaf.banki@naturalis.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6197-9951</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hobern</surname>
+            <given-names>Donald</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6492-4016</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Döring</surname>
+            <given-names>Markus</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Remsen</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">International Barcode of Life, Canberra, Australia</addr-line>
+        <institution>International Barcode of Life</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">GBIF, Copenhagen, Denmark</addr-line>
+        <institution>GBIF</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Marine Biological Laboratory, Woods Hole, United States of America</addr-line>
+        <institution>Marine Biological Laboratory</institution>
+        <addr-line content-type="city">Woods Hole</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Olaf Banki (<email xlink:type="simple">olaf.banki@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37652</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F8901C184962585E949D5D712362974B">F8901C184962585E949D5D712362974B</uri>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Olaf Banki, Donald Hobern, Markus Döring, David Remsen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Although the <ext-link ext-link-type="uri" xlink:href="http://www.catalogueoflife.org/">Catalogue of Life</ext-link> (CoL) continues to expand, its coverage is still far from complete, with several important megadiverse groups mostly lacking. Additionally, some segments of the Catalogue require major work to resolve synonymy or to incorporate recent names. As a result, key infrastructures that seek to organise data on the species of the world or particular regions (including GBIF, EOL, BHL and BOLD, among others) are unable to use CoL as a complete checklist of the world's species. It has become common for such platforms to augment CoL with automatically constructed arrangements of additional names and taxa to ensure that all species can be placed in a common framework. Since these efforts usually depend on algorithmic interpretation of text strings, the results are variable and lead in some cases to undesirable results. There is no easy way for all of these infrastructures to fix these issues in a consistent and interoperable way.</p>
+        <p>Accordingly, Catalogue of Life Plus (<ext-link ext-link-type="uri" xlink:href="https://github.com/Sp2000/colplus/blob/master/docs/CoL+slide-doc.pdf">CoL+</ext-link>) was started in 2017 as a collaborative project between the <ext-link ext-link-type="uri" xlink:href="http://www.catalogueoflife.org/">Catalogue of Life</ext-link>, the <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org/">Global Biodiversity Information Facility</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.naturalis.nl/">Naturalis Biodiversity Center</ext-link> and other partners, with financial support from the <ext-link ext-link-type="uri" xlink:href="http://www.nlbif.nl/">Netherlands Biodiversity Information Facility</ext-link> and the Netherlands Ministry of Education, Science, and Culture. CoL+ seeks to replace existing disconnected efforts with a shared, extended catalogue and to complete coverage of expert-reviewed names without sacrificing quality. The project aims to create an open, shared, and sustainable consensus taxonomy to serve the proper linking of data with in and between biodiversity information initiatives.</p>
+        <p><bold>The goals</bold> for the CoL+ project are to build a new infrastructure for the Catalogue of Life that:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>Extends and enriches the catalogue with more taxonomic sources to create a larger pool of scientific names, where feasible  fill taxonomic gaps, and provide other enrichments with linkages to literature and references</p></list-item><list-item><p>Replaces the current GBIF Backbone Taxonomy  </p></list-item><list-item><p>Separates names and taxonomy with different identifiers and authorities for names and taxa for better reuse</p></list-item><list-item><p>Provides avenues for (infrastructural) support to the completion and strengthening of taxonomic and nomenclature content authorities</p></list-item></list>
+        </p>
+        <p>Specifically <ext-link ext-link-type="uri" xlink:href="https://github.com/Sp2000/colplus/blob/master/docs/project-proposal.pdf">the project</ext-link> will establish a clearinghouse for taxonomy and nomenclature and rebuild all existing infrastructure of the Catalogue of Life including webservices, the portal and the software for the assembly of the catalogue and its editorial work.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Olaf Bánki</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

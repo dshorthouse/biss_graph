@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38149</article-id>
+      <article-id pub-id-type="publisher-id">38149</article-id>
+      <article-id pub-id-type="manuscript">11678</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Quest for New Empowered Citizen Scientists</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Rovellotti</surname>
+            <given-names>Olivier</given-names>
+          </name>
+          <email xlink:type="simple">olivier_rovellotti@natural-solutions.eu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Corny</surname>
+            <given-names>Julien</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Voundy</surname>
+            <given-names>El-Makki</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural Solutions, Marseille, France</addr-line>
+        <institution>Natural Solutions</institution>
+        <addr-line content-type="city">Marseille</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Olivier Rovellotti (<email xlink:type="simple">olivier_rovellotti@natural-solutions.eu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38149</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/92F3672A52D05173810846CD335FD9E5">92F3672A52D05173810846CD335FD9E5</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Olivier Rovellotti, Julien Corny, El-Makki Voundy</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Citizen science is well-known as being a very efficient means collecting large amounts of data at a global scale. However, even if it seems nice to collect observations about flowering plants and singing birds, people living in today’s world need to understand this global biodiversity crisis is here to stay. We need to move past the human sensor paradigm and learn to incorporate the general public in the entire research process. We need to move from cheap data labour to truly empowered citizen scientists and realise that stakeholders may not have complex scientific questions but still have questions about their environment. We need to move from citizen science to participatory science (<xref ref-type="bibr" rid="B5192804">Hinckson et al. 2017</xref>,<xref ref-type="bibr" rid="B5192840">Katapally 2019</xref>,<xref ref-type="bibr" rid="B5192983">Poncet and Turcati 2017</xref>), if we want to tackle the challenges we will be facing in the coming years.</p>
+        <p>Natural Solutions has developed a number of gamified citizen science applications in the past (ecoBalade, Biolit, <italic>Sauvage de ma rue</italic>, <italic>INPN espèces</italic>, GeoNature Citizen), through which we have gained a good understanding of what works. Our last project is to create a citizen acting mobile platform using cognitive bias to nudge citizen in acting toward biodiversity. The application will be part of the IUCN congress taking part in Marseille in 2020.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>citizen science</kwd>
+        <kwd>participatory science</kwd>
+        <kwd>public participation</kwd>
+        <kwd>participatory action research</kwd>
+        <kwd>cognitive science</kwd>
+        <kwd>nudges</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Olivier Rovellotti</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5192804">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hinckson</surname>
+              <given-names>Erica</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schneider</surname>
+              <given-names>Margaret</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Winter</surname>
+              <given-names>Sandra J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stone</surname>
+              <given-names>Emily</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Puhan</surname>
+              <given-names>Milo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stathi</surname>
+              <given-names>Afroditi</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Porter</surname>
+              <given-names>Michelle M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gardiner</surname>
+              <given-names>Paul A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>dos Santos</surname>
+              <given-names>Daniela Lopes</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolff</surname>
+              <given-names>Andrea</given-names>
+            </name>
+            <name name-style="western">
+              <surname>King</surname>
+              <given-names>Abby C.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Citizen science applied to building healthier community environments: advancing the field through shared construct and measurement development</article-title>
+          <source>International Journal of Behavioral Nutrition and Physical Activity</source>
+          <volume>14</volume>
+          <fpage>133</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12966-017-0588-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192840">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Katapally</surname>
+              <given-names>Tarun</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>It is time to integrate citizen science, community-based participatory research, and systems science through ubiquitous digital tools to inform active, healthy planetary policies (Preprint)</article-title>
+          <source>JMIR Publications</source>
+          <pub-id pub-id-type="doi">10.2196/preprints.14056</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192983">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Poncet</surname>
+              <given-names>Rémy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Turcati</surname>
+              <given-names>Laure</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Conférence Naturparif 2017 - Le Monde des Lichens</article-title>
+          <source>Conference: Le Monde des Lichens</source>
+          <pub-id pub-id-type="doi">10.13140/RG.2.2.17961.60006</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

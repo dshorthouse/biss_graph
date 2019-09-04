@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37654</article-id>
+      <article-id pub-id-type="publisher-id">37654</article-id>
+      <article-id pub-id-type="manuscript">11637</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI37 - Making long term ecological research data FAIR</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Making the Most of Ecological Data from the LTER Site: Manager’s Point of View</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Genua-Olmedo</surname>
+            <given-names>Ana</given-names>
+          </name>
+          <email xlink:type="simple">ana.genua@ua.pt</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0293-1664</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lillebø</surname>
+            <given-names>Ana Isabel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Department of Biology &amp; CESAM, University of Aveiro, Campus de Santiago, 3810-193  , Aveiro, Portugal</addr-line>
+        <institution>Department of Biology &amp; CESAM, University of Aveiro, Campus de Santiago, 3810-193  </institution>
+        <addr-line content-type="city">Aveiro</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">on behalf of LTER Ria de Aveiro and PORBIOTA team, Aveiro, Portugal</addr-line>
+        <institution>on behalf of LTER Ria de Aveiro and PORBIOTA team</institution>
+        <addr-line content-type="city">Aveiro</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">on behalf of LTER Ria de Aveiro (as coordinator) and PORBIOTA team , Aveiro, Portugal</addr-line>
+        <institution>on behalf of LTER Ria de Aveiro (as coordinator) and PORBIOTA team </institution>
+        <addr-line content-type="city">Aveiro</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Department of Biology &amp; CESAM, University of Aveiro, Campus de Santiago, 3810-193, Aveiro, Portugal</addr-line>
+        <institution>Department of Biology &amp; CESAM, University of Aveiro, Campus de Santiago, 3810-193</institution>
+        <addr-line content-type="city">Aveiro</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Ana Genua-Olmedo (<email xlink:type="simple">ana.genua@ua.pt</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37654</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/70D9040E5D1C5FB4AB0EA72023097487">70D9040E5D1C5FB4AB0EA72023097487</uri>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Ana Genua-Olmedo, Ana Isabel Lillebø</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Climate change is affecting the ecosystems and the services they provide for human well-being. For a better understanding of the causes and effects of this change in the functioning of ecosystems, detailed information of environmental parameters needs to be considered. Researchers generate multiple databases in their academic disciplines but often this data collection is not openly available nor does it fulfill the FAIR principles of Findability, Accessibility, Interoperability, and Reusability (<xref ref-type="bibr" rid="B5191597">Wilkinson et al. 2016</xref>). In this regard, Long-Term Ecosystem Research (LTER) plays an important role as an open research infrastructure that helps to integrate in-situ data, remote sensing products and modelling efforts, related to biodiversity and geodiversity.</p>
+        <p>Within LTER networks, the Dynamic Ecological Information Management System – Site and Dataset Registry (DEIMS-SDR), is used as the central site catalogue to provide information about facilities, ecosystems and environmental parameters in an openly available and standardized way (<xref ref-type="bibr" rid="B5191570">Wohner et al. 2019</xref>), organized by each location’s site. These LTER sites from all around the globe, receive a special protection status due to their ecological value, which through research and observation, enhances the protection and conservation of these areas.</p>
+        <p>The LTER Ria de Aveiro site in Portugal (<ext-link ext-link-type="uri" xlink:href="Consider%20embedding%20links%20(URLs)%20to%20institutions%20and%20concepts%20that%20will%20help%20readers%20to%20appreciate%20more%20fully%20the%20topic%20you%20are%20presenting.%20This%20can%20be%20especially%20helpful%20for%20jargon.">DEIMS.ID</ext-link>; <ext-link ext-link-type="uri" xlink:href="https://www.lterportugal.net/ria-de-aveiro">LTER website</ext-link>), classified under the Natura 2000 network, is of paramount importance for the regional and national economy, agriculture, commercial fisheries, aquaculture, manufacturing, tourism, sports and recreational activities (e.g. <xref ref-type="bibr" rid="B5191583">Lillebø et al. 2019</xref>).</p>
+        <p>Since the establishment of the LTER Ria de Aveiro site in 2011, its research has focused on the contribution to the effective implementation of the Water Framework Directive and European Union Biodiversity Strategy targets. Studies have been developed to target key policies within Natura 2000 areas, Action 5 including habitat mapping and assessment of ecosystems and their services, data collection of important fauna groups, and engagement of stakeholders and common frameworks for the conservation of biodiversity. Currently, the site is part of the Portuguese e-Infrastructure for Information and Research on Biodiversity (PORBIOTA), being aligned with the European Research Infrastructure Consortium (LifeWatch-ERIC).</p>
+        <p>The LTER site team infrastructure includes laboratory facilities for field observation and environmental monitoring of water quality and environmental parameters that are used to feed models. A recently obtained Unmanned Aerial Vehicle (UAV), commonly known as drone, will contribute to ecological observations, generating data to provide biodiversity monitoring in space and time.</p>
+        <p>As LTER site managers and data providers, we have to deal with how to make the transition from our metadata to FAIR ecological data. Our aim is to deal with the implementation of standardized data profiles in our own data. For instance, to upload data files to the central repositories (e.g. DEIMS-SDR), to store and publish our raw data (e.g. <ext-link ext-link-type="uri" xlink:href="https://b2share.fz-juelich.de/records/117490df1c00463bb02dbda7618b0b23">B2Share</ext-link>), to create online distribution links and digital object identifiers (DOIs), and to use a convenient vocabulary (e.g. Environmental Thesaurus) to be understandable by everyone (<xref ref-type="bibr" rid="B5260817">Pérez-Luque et al. 2019</xref>). This substantially will increase the potential of databases in the scientific community, and will contribute to a successful building of LTER.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>LTER</kwd>
+        <kwd>DEIMS-SDR</kwd>
+        <kwd>Ria de Aveiro</kwd>
+        <kwd>data integration</kwd>
+        <kwd>FAIR</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Ana Genua-Olmedo</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5191583">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Lillebø</surname>
+              <given-names>Ana I.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Teixeira</surname>
+              <given-names>Heliana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morgado</surname>
+              <given-names>Mariana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martínez-López</surname>
+              <given-names>Javier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marhubi</surname>
+              <given-names>Asya</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Delacámara</surname>
+              <given-names>Gonzalo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strosser</surname>
+              <given-names>Pierre</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nogueira</surname>
+              <given-names>António J. A.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Ecosystem-based management planning across aquatic realms at the Ria de Aveiro Natura 2000 territory</article-title>
+          <source>Science of The Total Environment</source>
+          <volume>650</volume>
+          <fpage>1898</fpage>
+          <lpage>1912</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.scitotenv.2018.09.317</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5260817">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pérez-Luque</surname>
+              <given-names>Antonio Jesus</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Genua-Olmedo</surname>
+              <given-names>Ana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rosário</surname>
+              <given-names>Inês T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Torres</surname>
+              <given-names>Luis</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wohner</surname>
+              <given-names>Christoph</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peterseil</surname>
+              <given-names>Johannes</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Taller sobre Gestión de Información de la Red LTER Europa</article-title>
+          <source>Ecosistemas</source>
+          <volume>28</volume>
+          <issue>1</issue>
+          <fpage>127</fpage>
+          <lpage>128</lpage>
+          <pub-id pub-id-type="doi">10.7818/ecos.1710</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191597">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>Mark D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumontier</surname>
+              <given-names>Michel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aalbersberg</surname>
+              <given-names>IJsbrand Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Appleton</surname>
+              <given-names>Gabrielle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Axton</surname>
+              <given-names>Myles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baak</surname>
+              <given-names>Arie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blomberg</surname>
+              <given-names>Niklas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boiten</surname>
+              <given-names>Jan-Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>da Silva Santos</surname>
+              <given-names>Luiz Bonino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourne</surname>
+              <given-names>Philip E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouwman</surname>
+              <given-names>Jildau</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brookes</surname>
+              <given-names>Anthony J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crosas</surname>
+              <given-names>Mercè</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dillo</surname>
+              <given-names>Ingrid</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumon</surname>
+              <given-names>Olivier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Edmunds</surname>
+              <given-names>Scott</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Evelo</surname>
+              <given-names>Chris T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Finkers</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gonzalez-Beltran</surname>
+              <given-names>Alejandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Alasdair J. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groth</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goble</surname>
+              <given-names>Carole</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grethe</surname>
+              <given-names>Jeffrey S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heringa</surname>
+              <given-names>Jaap</given-names>
+            </name>
+            <name name-style="western">
+              <surname>’t Hoen</surname>
+              <given-names>Peter A. C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hooft</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuhn</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Ruben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Joost</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lusher</surname>
+              <given-names>Scott J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martone</surname>
+              <given-names>Maryann E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Albert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Abel L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Persson</surname>
+              <given-names>Bengt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocca-Serra</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roos</surname>
+              <given-names>Marco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Schaik</surname>
+              <given-names>Rene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sansone</surname>
+              <given-names>Susanna-Assunta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schultes</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sengstag</surname>
+              <given-names>Thierry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Slater</surname>
+              <given-names>Ted</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strawn</surname>
+              <given-names>George</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swertz</surname>
+              <given-names>Morris A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thompson</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Lei</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Mulligen</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Velterop</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wittenburg</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolstencroft</surname>
+              <given-names>Katherine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zhao</surname>
+              <given-names>Jun</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Barend</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <pub-id pub-id-type="doi">10.1038/sdata.2016.18</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191570">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wohner</surname>
+              <given-names>Christoph</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peterseil</surname>
+              <given-names>Johannes</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Poursanidis</surname>
+              <given-names>Dimitris</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kliment</surname>
+              <given-names>Tomáš</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wilson</surname>
+              <given-names>Mike</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mirtl</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chrysoulakis</surname>
+              <given-names>Nektarios</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>DEIMS-SDR – A web portal to document research sites and their associated data</article-title>
+          <source>Ecological Informatics</source>
+          <volume>51</volume>
+          <fpage>15</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ecoinf.2019.01.005</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

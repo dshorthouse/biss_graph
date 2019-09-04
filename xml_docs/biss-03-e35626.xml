@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35626</article-id>
+      <article-id pub-id-type="publisher-id">35626</article-id>
+      <article-id pub-id-type="manuscript">11460</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST02 - Biodiversity Data Quality - how it affects science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Data Quality Task Group 2: Tests and Assertions</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Belbin</surname>
+            <given-names>Lee</given-names>
+          </name>
+          <email xlink:type="simple">leebelbin@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8900-6203</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chapman</surname>
+            <given-names>Arthur D</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wieczorek</surname>
+            <given-names>John</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1144-0290</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zermoglio</surname>
+            <given-names>Paula</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Morris</surname>
+            <given-names>Paul J</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Atlas of Living Australia, CSIRO, Canberra, Australia</addr-line>
+        <institution>Atlas of Living Australia, CSIRO</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Australian Biodiversity Information Services, Ballan, Australia</addr-line>
+        <institution>Australian Biodiversity Information Services</institution>
+        <addr-line content-type="city">Ballan</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Museum of Vertebrate Zoology, University of California, Berkeley, United States of America</addr-line>
+        <institution>Museum of Vertebrate Zoology, University of California</institution>
+        <addr-line content-type="city">Berkeley</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA-CONICET), University of Buenos Aires, Buenos Aires, Argentina</addr-line>
+        <institution>Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA-CONICET), University of Buenos Aires</institution>
+        <addr-line content-type="city">Buenos Aires</addr-line>
+        <country>Argentina</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">VertNet, , Argentina</addr-line>
+        <institution>VertNet</institution>
+        <country>Argentina</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Museum of Comparative Zoology, Harvard University, Cambridge, MA, United States of America</addr-line>
+        <institution>Museum of Comparative Zoology, Harvard University</institution>
+        <addr-line content-type="city">Cambridge, MA</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Lee Belbin (<email xlink:type="simple">leebelbin@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35626</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/7BE1EA97303F533F952E050F544749C6">7BE1EA97303F533F952E050F544749C6</uri>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Lee Belbin, Arthur D Chapman, John Wieczorek, Paula Zermoglio, Paul J Morris</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>‘Data Quality Test and Assertions’ Task Group 2 (<ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/community/bdq/tg-2/">https://www.tdwg.org/community/bdq/tg-2/</ext-link>) has taken another year to clarify the 102 tests (<ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/bdq/issues?q=is%3Aissue+is%3Aopen+label%3ATest">https://github.com/tdwg/bdq/issues?q=is%3Aissue+is%3Aopen+label%3ATest</ext-link>). The original mandate to develop a core suite of tests that could be widely applied from data collection to user evaluation of aggregated data seemed straight-forward. Two years down the track, we have proven that to be incorrect. Among the final tests are complexities that none of the core group anticipated. For example, the need for a definition of ‘empty’ or the ‘Expected response’ from the test under various scenarios.</p>
+        <p>The record-based tests apply to Darwin Core terms (<ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/terms/">https://dwc.tdwg.org/terms/</ext-link>) and have been classified as of type validation (66), amendment (29), notification (3) or measure (5). Validations test one or more Darwin Core terms against known characteristics, for example, VALIDATION_MONTH_NOTSTANDARD. Amendments may be applied to Darwin Core terms where we can unambiguously offer an improvement to the record, for example, AMENDMENT_MONTH_STANDARDIZED. Notifications are made where we believe a flag will help alert users to an issue that needs evaluation, for example, NOTIFICATION_DATAGENERALIZATIONS_NOTEMPTY. Measures are summaries of test outcomes at the record level, for example, MEASURE_AMENDMENTS_PROPOSED.</p>
+        <p>We note that 41 require some parameters to be established at the time of test implementation, 20 tests require access to a currently accepted vocabulary and 3 tests rely on ISO/DCMI standards. The dependency on vocabularies to circumscribe permissible values for Darwin Core terms led to the establishment by Paula Zermoglio of DQ Task Group 4 (<ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/bdq/tree/master/Vocabularies">https://github.com/tdwg/bdq/tree/master/Vocabularies</ext-link>). A vocabulary of 154 terms that are associated with the tests and assertions have been developed.  </p>
+        <p>As at the time of writing this abstract, test data and demonstration code implementation of each test are yet to be completed. We hope these will be finalized by the time of this presentation.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Fitness for use</kwd>
+        <kwd>fitness for purpose</kwd>
+        <kwd>tests</kwd>
+        <kwd>Darwin Core</kwd>
+        <kwd>quality.</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Lee Belbin</p>
+      </sec>
+    </notes>
+  </front>
+</article>

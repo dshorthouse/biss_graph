@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37225</article-id>
+      <article-id pub-id-type="publisher-id">37225</article-id>
+      <article-id pub-id-type="manuscript">10955</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP39 - Increasing Opportunities to Align Data Initiatives for Bio/Geo Collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Extending U.S. Biodiversity Collections to Address National Challenges</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Thiers</surname>
+            <given-names>Barbara</given-names>
+          </name>
+          <email xlink:type="simple">bthiers@nybg.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8613-7133</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mabee</surname>
+            <given-names>Paula</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8455-3213</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Monfils</surname>
+            <given-names>Anna</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">The New York Botanical Garden, Bronx, United States of America</addr-line>
+        <institution>The New York Botanical Garden</institution>
+        <addr-line content-type="city">Bronx</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of South Dakota, Vermilion, United States of America</addr-line>
+        <institution>University of South Dakota</institution>
+        <addr-line content-type="city">Vermilion</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Central Michigan University, Mount Pleasant, United States of America</addr-line>
+        <institution>Central Michigan University</institution>
+        <addr-line content-type="city">Mount Pleasant</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Barbara Thiers (<email xlink:type="simple">bthiers@nybg.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37225</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/01553EABB539517FA9706C0497B9E6CC">01553EABB539517FA9706C0497B9E6CC</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Barbara Thiers, Paula Mabee, Anna Monfils</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The U.S. national heritage of approximately one billion biodiversity specimens, once digitized, can be linked to emerging digital data sources to form an information-rich network for exploring earth’s biota across taxonomic, temporal and spatial scales.  A workshop held 30 October - 1 November 2018 at Oak Spring Garden in Upperville, VA under the leadership of the Biodiversity Collections Network (BCoN) developed a plan for maximizing the value of our collections resource for research and education. In their deliberations, participants drew heavily on recent literature as well as surveys, and meetings and workshops held over the past year with the primary stakeholder community of collections professionals, researchers, and educators.</p>
+        <p>We propose to focus future biodiversity infrastructure and digital resources on building a network of extended specimen data that encompasses the depth and breadth of biodiversity specimens and data held in U.S. collections institutions (<xref ref-type="bibr" rid="B5198222">BCoN 2019</xref>). The extended specimen network (ESN) includes the physical voucher specimen curated and housed in a collection and its associated genetic, phenotypic and environmental data. These core data types, selected because they are key to answering driving research questions, include physical preparations such as tissue samples and their derivative products such as gene sequences or metagenomes, digitized media and annotations, and taxon- or locality-specific data such as occurrence observations, phylogenies and species distributions. Existing voucher specimens will be extended both manually and through new automated methods, and data will be linked through unique identifiers, taxon name and location across collections, across disciplines and to outside sources of data.  As we continue our documentation of earth’s biota, new collections will be enhanced from the outset, i.e., accessioned with a full suite of data. We envision the ESN proposed here will be the gold standard for the structured cloud of integrated data associated with all vouchered specimens.</p>
+        <p>Collectively, data linked through the ESN will enhance the capacity to explore research questions across taxonomic, temporal and spatial scales. The ESN will allow researchers to explore the rules that govern how organisms, grow, diversify and interact, and enable scientists to ask more nuanced research questions specific to how environmental change and human activities may affect those rules. The specimen, coupled with the open access ESN, and immediate and relevant science resulting from the ESN, can play a unique role in promoting STEM education, involving citizen scientists, and empowering a scientifically literate society. The specimen and the associated data provide a relatable and engaging entry point to participate in iterative data driven science, learn core data literacy skills, and build open, transdisciplinary collaboration.</p>
+        <p>Creating the ESN requires new infrastructure to provide the linkages between the specimen and data derived from it. On the established foundation of existing digital data from collections it will require the development of new standards, connections, and resources such as ontologies to facilitate discovery, and implementation of a robust identifier tracking system. Finally, continued digitization of established, as well as new collections, is necessary to ensure the grounding of extended specimen data in the framework of when and where it was collected. The ESN will also require new approaches to data sharing and collaboration, partnerships with national and international data providers, computer and data scientists, educators and industry. </p>
+        <p>The ESN will benefit from research-driven episodic funding for the collection of new specimens, which in turn will require digitization and curation. For the ESN to function as envisaged above, it will require long-term support for a central organizing unit with responsibility for community coordination, education and outreach, data mobilization, and maintenance of the central data repository and the network infrastructure.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>digitization</kwd>
+        <kwd>biodiversity data network</kwd>
+        <kwd>extended specimens</kwd>
+        <kwd>next generation biodiversity collections</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>National Science Foundation, through an RCN grant to the Biodiversity Collections Network; with additional support from the Oak Springs Foundation.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Barbara Thiers</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>RCN:Network Integrated Biocollections Alliance (NIBA): Organizing, Coordinating, Sustaining (award #1141785)</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5198222">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>BCoN</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Extending U.S. Biodiversity Collections to Promote Research and Education</article-title>
+          <source>A report by the Biodiversity Collections Network</source>
+          <issue>2019</issue>
+          <uri>https://www.aibs.org/home/assets/BCoN_March2019_FINAL.pdf</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37474</article-id>
+      <article-id pub-id-type="publisher-id">37474</article-id>
+      <article-id pub-id-type="manuscript">11704</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP79 - Agrobiodiversity in the era of open government, FAIR data, and public access policy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>US Department of Agriculture and global biogenome initatives: policy challenges and opportunities</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Parr</surname>
+            <given-names>Cynthia S</given-names>
+          </name>
+          <email xlink:type="simple">cynthia.parr@ars.usda.gov</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8870-7099</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Poelchau</surname>
+            <given-names>Monica</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kinard</surname>
+            <given-names>Gary</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Childers</surname>
+            <given-names>Anna</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0747-8539</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">USDA National Agricultural Library, Beltsville, MD, United States of America</addr-line>
+        <institution>USDA National Agricultural Library</institution>
+        <addr-line content-type="city">Beltsville, MD</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">USDA, Beltsville, MD, United States of America</addr-line>
+        <institution>USDA</institution>
+        <addr-line content-type="city">Beltsville, MD</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">USDA ARS National Germplasm Resources Laboratory, Beltsville, MD, United States of America</addr-line>
+        <institution>USDA ARS National Germplasm Resources Laboratory</institution>
+        <addr-line content-type="city">Beltsville, MD</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">USDA ARS Bee Research Laboratory, Beltsville, MD, United States of America</addr-line>
+        <institution>USDA ARS Bee Research Laboratory</institution>
+        <addr-line content-type="city">Beltsville, MD</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Cynthia S Parr (<email xlink:type="simple">cynthia.parr@ars.usda.gov</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37474</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/8510303D92F45472ADC4EE16CB877475">8510303D92F45472ADC4EE16CB877475</uri>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Biodiversity research is seeing unprecedented global collaboration with initiatives such as the <ext-link ext-link-type="uri" xlink:href="https://www.earthbiogenome.org/">Earth BioGenome Project</ext-link>, an effort to sequence all known eukaryotic life, and <ext-link ext-link-type="uri" xlink:href="https://www.genesys-pgr.org/welcome">Genesys</ext-link>, a global database for sharing crop genetic resources. However, as in other disciplines, public funding and policy for scientific research in agriculture tend to follow national borders even when science and its collaborations do not. In addition, agriculture is similar to biomedicine in having significant private investment in research and development where competition could inhibit sharing. It would seem that significant challenges lie ahead for making progress on ambitious global initiatives at least where agricultural samples, collections, and data are concerned. In this talk we will review several activities at the United States Department of Agriculture that illustrate how policy and infrastructure can overcome difficulties. For example, recent policies for openness of publicly-funded research products and adoption of FAIR data principles even for private or proprietary data hold promise and have elevated the importance of data infrastructure. The US Department of Agriculture's Agricultural Research Service (ARS) launched its Ag100Pest contribution to the Earth BioGenome Project, including the use of the<styled-content style="display: none;"/> <ext-link ext-link-type="uri" xlink:href="https://i5k.nal.usda.gov">i5K Workspace@NAL</ext-link> platform for its sequenced and annotated genomes. The <ext-link ext-link-type="uri" xlink:href="https://www.grin-global.org">GRIN Global</ext-link> platform supports not just USDA germplasm data management but a growing network of plant and animal researchers and collections around the world. The <ext-link ext-link-type="uri" xlink:href="https://data.nal.usda.gov">Ag Data Commons</ext-link> provides standardized metadata and machine-readable data dictionaries to the publicly accessible products of these and other USDA-funded efforts. It is teaming with the ARS high performance computing system <ext-link ext-link-type="uri" xlink:href="https://www.ars.usda.gov/scinet/">SCINet</ext-link> to explore cost-effective public access to big data storage for agricultural data and models. Finally, many of these efforts extend and contribute back to widely used open source software systems. While challenges remain in coordinating and sustaining these efforts with international stakeholders, engagement with groups like <ext-link ext-link-type="uri" xlink:href="https://www.agbiodata.org">AgBioData</ext-link>, the Research Data Alliance (RDA) <ext-link ext-link-type="uri" xlink:href="https://www.rd-alliance.org/groups/agriculture-data-interest-group-igad.html">Interest Group on Agricultural Data</ext-link>, and the <ext-link ext-link-type="uri" xlink:href="https://www.godan.info/">Global Open Data for Agriculture and Nutrition</ext-link> coalition will continue to bear fruit (pun intended). We seek similar engagement with the broader biodiversity data community in order to ensure that policy and infrastructure investments result in maximum mutual benefit.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>agriculture</kwd>
+        <kwd>crops</kwd>
+        <kwd>insect pests</kwd>
+        <kwd>repositories</kwd>
+        <kwd>open source software</kwd>
+        <kwd>policy</kwd>
+        <kwd>international engagement</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Agricultural Research Service</named-content>
+            <named-content content-type="funder_identifier">100007917</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/100007917</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Cynthia Parr</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

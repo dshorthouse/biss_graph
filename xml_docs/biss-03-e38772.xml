@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38772</article-id>
+      <article-id pub-id-type="publisher-id">38772</article-id>
+      <article-id pub-id-type="manuscript">11487</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP39 - Increasing Opportunities to Align Data Initiatives for Bio/Geo Collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>One World Collection: The state of the world’s natural history collections</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Owens</surname>
+            <given-names>Ian</given-names>
+          </name>
+          <email xlink:type="simple">owensi@si.edu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Johnson</surname>
+            <given-names>Kirk</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Smithsonian National Museum of Natural History, Washington, United States of America</addr-line>
+        <institution>Smithsonian National Museum of Natural History</institution>
+        <addr-line content-type="city">Washington</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Ian Owens (<email xlink:type="simple">owensi@si.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38772</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/FF54EC19AC57582FAEABB2D62E7C905F">FF54EC19AC57582FAEABB2D62E7C905F</uri>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>08</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The world's natural history collections represent a vast repository of information on the natural and cultural world, collected over 250 years of human exploration, and distributed across institutions on six continents. These collections provide a unique tool for answering fundamental questions about biological, geological and cultural diversity and how they interact to shape our changing planet.</p>
+        <p>Recent advances in digital and genomic technologies promise to transform how natural history collections are used, especially with respect to addressing scientific and socio-economic challenges ranging from biodiversity loss, invasive species and food security, to climate change, scarce minerals, and emerging tropical diseases. It is not clear, however, how ready these collections are to meet this challenge because relatively little is known about their size, composition or geographical distribution. Similarly, relatively little is known about the extent, expertise or demography of their curatorial workforce.</p>
+        <p>To address these questions, a large collaborative team of directors and scientists have collated a global database on natural history collections that comprises more than 70 of the world's largest institutions, including museums, botanic gardens, research institutes and universities. The institutions represented in the database span Africa, Asia, Australasia, Europe, and North and South America, with approximately one third of institutions from each of the Global South, Europe and North America. The database includes information on the number of specimens and experts with respect to both geographic regions and collection categories and geographic regions. Geographic regions include both the terrestrial and marine realms, and collection categories span anthropology, botany, entomology, geology, paleobiology, and vertebrate and invertebrate zoology.</p>
+        <p>Analyses of this new database reveal that the global natural history collection represents one of the most extensive distributed scientific infrastructures in the world, comprising more than 1 billion specimens that are curated by a workforce of more than 7,000 individuals. The analyses also indicate, however, that a major change in approach is required for these collections to realize their potential to inform future decision making and stimulate the basic research that underpins future questions and knowledge. For instance, at a global scale the collection and expertise does indeed exist to map change in key groups and regions - but this requires large-scale coordination across institutions and countries. Similarly, cross-institution collaboration is required to fill strategic gaps in the collection, particularly for tropical, marine and polar regions. And finally, there is an urgent need for coordinated investment in digital and genomic technologies to make collections available to the global research community and link them with other sources of information. The vast majority of collection information currently exists as 'dark data'.</p>
+        <p>We conclude that the global natueral history collection comprises one of the most extensive distributed scientific infrastructures in the world, but a major change in approach is required for them to realize their potential to inform future decision making. In particular, natural history collections need to work more effectively together to develop a global strategy, create a common data platform, accelerate the availability and use of specimen data and pursue major new collecting programs.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>collections</kwd>
+        <kwd>digitzation</kwd>
+        <kwd>genomics</kwd>
+        <kwd>Global South</kwd>
+        <kwd>informatics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Prof. Ian Owens</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

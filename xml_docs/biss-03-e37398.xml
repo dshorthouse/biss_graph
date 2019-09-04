@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37398</article-id>
+      <article-id pub-id-type="publisher-id">37398</article-id>
+      <article-id pub-id-type="manuscript">11610</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>PlutoF: Biodiversity data management platform for the complete data lifecycle</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kõljalg</surname>
+            <given-names>Urmas</given-names>
+          </name>
+          <email xlink:type="simple">urmas.koljalg@ut.ee</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Abarenkov</surname>
+            <given-names>Kessy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zirk</surname>
+            <given-names>Allan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Runnel</surname>
+            <given-names>Veljo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Piirmann</surname>
+            <given-names>Timo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pöhönen</surname>
+            <given-names>Raivo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ivanov</surname>
+            <given-names>Filipp</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Tartu, Tartu, Estonia</addr-line>
+        <institution>University of Tartu</institution>
+        <addr-line content-type="city">Tartu</addr-line>
+        <country>Estonia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Tartu, Natural History Museum, Tartu, Estonia</addr-line>
+        <institution>University of Tartu, Natural History Museum</institution>
+        <addr-line content-type="city">Tartu</addr-line>
+        <country>Estonia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Urmas Kõljalg (<email xlink:type="simple">urmas.koljalg@ut.ee</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37398</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/32A7C624FB89576E9BD3F84446A4DDCA">32A7C624FB89576E9BD3F84446A4DDCA</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Urmas Kõljalg, Kessy Abarenkov, Allan Zirk, Veljo Runnel, Timo Piirmann, Raivo Pöhönen, Filipp Ivanov</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>PlutoF online platform (<ext-link ext-link-type="uri" xlink:href="https://plutof.ut.ee)/">https://plutof.ut.ee)</ext-link> is built for the management of biodiversity data. The concept is to provide a common workbench where the full data lifecycle can be managed and support seamless data sharing between single users, workgroups and institutions. Today, large and sophisticated biodiversity datasets are increasingly developed and managed by international workgroups. PlutoF's ambition is to serve such collaborative projects as well as to provide data management services to single users, museum or private collections and research institutions.</p>
+        <p>Data management in PlutoF follows a logical order of the data lifecycle Fig. <xref ref-type="fig" rid="F5190314">1</xref>. At first, project metadata is uploaded including the project description, data management plan, participants, sampling areas, etc. Data upload and management activities then  follow which is often linked to the internal data sharing. Some data analyses can be performed directly in the workbench or data can be exported in standard formats. PlutoF includes also data publishing module. Users can publish their data, generating a citable  DOI without datasets leaving PlutoF workbench. PlutoF is part of the DataCite collaboration (<ext-link ext-link-type="uri" xlink:href="https://datacite.org)/">https://datacite.org)</ext-link>  and so far released more than 600 000 DOIs.  Another option is to publish observation or collection datasets via the  GBIF (Global Biodiversity Information Facility) portal. A. new feature implemented in 2019 allows users to publish High Throughput Sequencing data as taxon occurrences in GBIF. There is an additional option to send specific datasets directly to the Pensoft online journals. Ultimately, PlutoF works as a data archive which completes the data life cycle.</p>
+        <p>In PlutoF users can manage different data types. Most common types include specimen and living specimen data, nucleotide sequences, human observations, material samples, taxonomic backbones and ecological data. Another important feature is that these data types can be managed as a single datasets or projects.</p>
+        <p>PlutoF follows several biodiversity standards. Examples include Darwin Core, GGBN (Global Genome Biodiversity Network), EML (Ecological Metadata Language), MCL (Microbiological Common Language), and MIxS (Minimum Information about any (x) Sequence).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data management</kwd>
+        <kwd>biodiversity data</kwd>
+        <kwd>FAIR Data</kwd>
+        <kwd>data lifecycle</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Urmas Kõljalg</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>PlutoF is funded by Estonian research infrastructure roadmap object NATARC (<ext-link ext-link-type="uri" xlink:href="https://natarc.ut.ee/en/index.php">https://natarc.ut.ee/en/index.php</ext-link>). Future funding will be probably provided by the Est-DiSSCo which is listed in the new national roadmap. New business model will be created in 2020 which allows other institutions and countries to take part in the development of PlutoF.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>PlutoF is funded by Estonian research infrastructure roadmap object NATARC (<ext-link ext-link-type="uri" xlink:href="https://natarc.ut.ee/en/index.php">https://natarc.ut.ee/en/index.php</ext-link>). Future funding will be probably provided by the Est-DiSSCo which is listed in the new national roadmap. New business model will be created in 2020 which allows other institutions and countries to take part in the development of PlutoF.</p>
+    </sec>
+  </back>
+  <floats-group>
+    <fig id="F5190314" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Full data lifecycle with PlutoF platform. PlutoF follows standards, which ensure that users data are FAIR (Findable, Accessible, Interoperable, Reusable) throughout every phase of the data lifecycle.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37398-g001.jpg" position="float" id="oo_291792.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

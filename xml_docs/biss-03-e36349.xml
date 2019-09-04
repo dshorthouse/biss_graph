@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36349</article-id>
+      <article-id pub-id-type="publisher-id">36349</article-id>
+      <article-id pub-id-type="manuscript">11339</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Classical Taxonomy as the Foundation for Automating Fossil Identification: Using virtual paleontology and geometric morphometrics to identify Jurassic Nerineoidea gastropods</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Leshno Afriat</surname>
+            <given-names>Yael</given-names>
+          </name>
+          <email xlink:type="simple">yael.leshno@mail.huji.ac.il</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Edelman-Furstenberg</surname>
+            <given-names>Yael</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rabinovich</surname>
+            <given-names>Rivka</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Todd</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0433-1611</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>May</surname>
+            <given-names>Hila</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">The Hebrew University of Jerusalem, Jerusalem, Israel</addr-line>
+        <institution>The Hebrew University of Jerusalem</institution>
+        <addr-line content-type="city">Jerusalem</addr-line>
+        <country>Israel</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Geological Survey of Israel, Jerusalem, Israel</addr-line>
+        <institution>Geological Survey of Israel</institution>
+        <addr-line content-type="city">Jerusalem</addr-line>
+        <country>Israel</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Tel Aviv University, Tel Aviv, Israel</addr-line>
+        <institution>Tel Aviv University</institution>
+        <addr-line content-type="city">Tel Aviv</addr-line>
+        <country>Israel</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Yael Leshno Afriat (<email xlink:type="simple">yael.leshno@mail.huji.ac.il</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36349</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A6ED013C4C14571DB5AAED759BC2D414">A6ED013C4C14571DB5AAED759BC2D414</uri>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Yael Leshno Afriat, Yael Edelman-Furstenberg, Rivka Rabinovich, Jonathan Todd, Hila May</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Accurate identification of fossils forms the foundation for many aspects of geological research, including biostratigraphy and paleoecology. Yet, many taxa are identified qualitatively based on their morphology, which requires extensive expertise in specific taxonomic groups. The often-subjective identification of specimens is difficult to verify and can cause misinterpretation and inaccuracies. Thus, finding new ways to objectively identify fossils will be of great value.</p>
+        <p>A prime example of the ‘taxonomic impediment’ in the fossil record is exhibited in the Nerineoidea, a group of extinct gastropods that form a major component of Mesozoic shallow marine environments. Taxonomically diverse and numerically abundant assemblages of Nerineoidea are found across a wide range of paleo-latitudes, and used for biostratigraphy and paleoecology. The group is distinctly recognized by the presence of internal spiral folds that developed inside the internal cavity of the shell during ontogeny. The number and position of folds is constant within a species, and form the basis of their classification. Their paleoecological and biostratigraphical importance is represented by vast scientific literature and abundant fossil collections worldwide. However, identification and uniform classification of this group is lacking due to two major factors:</p>
+        <p>
+          <list list-type="order"><list-item><p>inconsistent systematic position and subdivision, and</p></list-item><list-item><p>the classification procedure is largely based on polished cross-sections of specimens that reveal the important internal structure and destroy whole specimens, thus preventing any further verification. Therefore, identification of specimens is largely based on expert judgment and difficult to replicate.</p></list-item></list>
+        </p>
+        <p>Micro-computed tomography (micro-CT) is revolutionizing species identification by modeling the internal anatomy of fossils in 3D, and allowing the study of structures that would previously have been impossible to visualize. We present the first automated taxonomic identification method of Nerineoidea fossils, by combining modern non-destructive imaging techniques with classic identification methods.</p>
+        <p>Fifty-eight Jurassic Nerineoidea specimens were examined from Europe, Arabia, and Africa. Images of polished cross-sections of specimens were compiled from online databases, literature, and fossil collections. Three successive longitudinal whorl cross-sections showing the internal folds were analyzed for each specimen. The shape of each whorl was captured using thirty evenly spaced semi-landmarks. In addition, twenty eight specimens from the Geological Survey of Israel and the Natural History Museum (UK) were scanned using micro-CT. Optimal longitudinal slices were selected from the 3D reconstructions for each specimen using <ext-link ext-link-type="uri" xlink:href="https://www.thermofisher.com/il/en/home/industrial/electron-microscopy/electron-microscopy-instruments-workflow-solutions/3d-visualization-analysis-software/amira-life-sciences-biomedical.html">Amira</ext-link> (v. 6.3), and their whorl outlines were captured as described above.</p>
+        <p>Canonical variate analysis shows that whorl outlines significantly differentiate between Nerineoidea, independent of the data source or the location of the whorl in the spire. The Jackknife estimate of future identification is high (73.25%), and suggests that the method can be applied to accurately assign the taxonomic family of future specimens reliably and effectively. Moreover, the high variation in whorl outlines between genera can be used to identify specimens to the species level with a high level of certainty.</p>
+        <p>We demonstrate that shape analysis of the whorl outlines is an objective and quantitative method for identifying different taxa of Nerineoidea. The advantages of the method include its application to mass accumulation of specimens, as well as to two-dimensional images from various sources. This will enable future quantitative study of polished cross-sections of specimens from museum collections, scientific publications and online databases. The quantitative and objective taxonomic identification of Nerineoidea fossils could revolutionize their classification and improve the paleoecological reconstruction of Mesozoic carbonate platforms. This will enhance interpretations of faunal biogeographic response to changing environmental conditions along shelf ecosystems.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Nerineoidea</kwd>
+        <kwd>Jurassic</kwd>
+        <kwd>micro-CT</kwd>
+        <kwd>geometric morphometrics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Yael Leshno Afriat</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

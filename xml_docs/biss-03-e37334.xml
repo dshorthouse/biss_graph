@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37334</article-id>
+      <article-id pub-id-type="publisher-id">37334</article-id>
+      <article-id pub-id-type="manuscript">11870</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI75 - Linking specimens and physical samples through standardised identifiers and metadata: the last mile</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Persistent, Global, Unique: The three key requirements for a trusted identifier system for physical samples</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Lehnert</surname>
+            <given-names>Kerstin</given-names>
+          </name>
+          <email xlink:type="simple">lehnert@ldeo.columbia.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7036-1977</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Klump</surname>
+            <given-names>Jens</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wyborn</surname>
+            <given-names>Lesley A</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ramdeen</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Columbia University, New York, United States of America</addr-line>
+        <institution>Columbia University</institution>
+        <addr-line content-type="city">New York</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">CSIRO, Perth, Australia</addr-line>
+        <institution>CSIRO</institution>
+        <addr-line content-type="city">Perth</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Australian National University, Canberra, Australia</addr-line>
+        <institution>Australian National University</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Ronin Institute, Huntsville, United States of America</addr-line>
+        <institution>Ronin Institute</institution>
+        <addr-line content-type="city">Huntsville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Kerstin Lehnert (<email xlink:type="simple">lehnert@ldeo.columbia.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37334</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/98BE7047546650C3815131DC09A11833">98BE7047546650C3815131DC09A11833</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Kerstin Lehnert, Jens Klump, Lesley A Wyborn, Sarah Ramdeen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>
+          <styled-content style="font-weight:normal;">There is growing recognition that unambiguous citation and tracking of physical samples allows previously impossible linking of samples to data and publications, linking and integration of sample-based observations across data systems, and paves the road towards advanced data mining of sample-based data. And in recent years, there has been an uptake in the use of Persistent Identifiers (PIDs) for physical samples to support such citation and tracking.</styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">The IGSN (International Geo Sample Number) is a PID for physical samples. It was originally developed for the solid earth sciences, and has evolved into an international PID system with members in five continents and a network of active allocating agents. It has been adopted by a growing number and range of stakeholders worldwide, including national geological surveys, research infrastructure providers, collection curators, researchers, and data managers, and by other disciplines that need to refer to physical samples. Nearly 6.9 million samples have been registered with IGSNs so far.</styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">The IGSN system uses the Handle System (<xref ref-type="bibr" rid="B5227493">Kahn and Wilensky 1995</xref>; see also <underline><ext-link ext-link-type="uri" xlink:href="http://www.handle.net/">Handle.Net</ext-link></underline><sup>®</sup>) and has an international organization, <ext-link ext-link-type="uri" xlink:href="http://www.igsn.org">IGSN e.V.</ext-link>, to manage its governance structure and the technical architecture. The recent expansion of the IGSN beyond the geosciences into other domains such as biodiversity, archeology, and material sciences confirms the power of its concept and implementation, but imposes substantial pressures on the existing capacity and capabilities of the IGSN architecture and its governing organization. Modifications to the IGSN organizational and technical architecture are necessary at this point to keep pace with the growing demand and expectations. These changes are also necessary to ensure trustworthy and sustainable services for PID registration and resolution in a maturing research data ecosystem.</styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">The essential criteria for a trustworthy system include an organizational foundation that ensures longevity, sustainability, proper governance, and regular quality assessment of registration services. It also includes a reliable and secure technical platform, based on open standards, which is sufficiently scalable and flexible to accommodate the growing diversity of specimen types, use cases, and stakeholder requirements.</styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">In 2018, a major planning project for the IGSN was funded by the Alfred P. Sloan Foundation. An international group of experts participates in re-designing and improving the existing organization and technical architecture of the IGSN system, revising<styled-content style="font-weight:normal;"> the current business model of the IGSN e.V. and professionalizing its operations. </styled-content>The goal is for the IGSN system to be able to respond to, and support in a sustainable manner, the rapidly growing demands of a global and increasingly multi-disciplinary user community, and to <styled-content style="font-weight:normal;">ensure that the IGSN will be a trustworthy, stable, and adaptable persistent identifier system for material samples, both technically and organizationally. The end result should also satisfy and facilitate participation across research domains, and will be a reliable component of the evolving research data ecosystem. Finally, it will ensure that the IGSN is recognized as a trusted partner by data infrastructure providers and the science community alike.</styled-content></styled-content>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>identifier</kwd>
+        <kwd>physical sample</kwd>
+        <kwd>material sample</kwd>
+        <kwd>IGSN</kwd>
+        <kwd>PID</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Kerstin Lehnert</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5227493">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kahn</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wilensky</surname>
+              <given-names>Robert</given-names>
+            </name>
+          </person-group>
+          <year>1995</year>
+          <article-title>A Framework for Distributed Digital Object Services</article-title>
+          <source>Reston, VA: Corporation for National Research Initiatives</source>
+          <volume>Technical Note tn09-01</volume>
+          <uri>http://hdl.handle.net/cnri.dlib/tn95-01</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35353</article-id>
+      <article-id pub-id-type="publisher-id">35353</article-id>
+      <article-id pub-id-type="manuscript">11284</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI33 - Improving access to hidden scientific data in the Biodiversity Heritage Library</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Finding scientific names in Biodiversity Heritage Library, or how to shrink Big Data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Mozzherin</surname>
+            <given-names>Dmitry</given-names>
+          </name>
+          <email xlink:type="simple">dmozzherin@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1593-1417</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Myltsev</surname>
+            <given-names>Alexander A</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Patterson</surname>
+            <given-names>David</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2645-7335</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Illinois, Champaign, United States of America</addr-line>
+        <institution>University of Illinois</institution>
+        <addr-line content-type="city">Champaign</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">IP Myltsev, Moscow, Russia</addr-line>
+        <institution>IP Myltsev</institution>
+        <addr-line content-type="city">Moscow</addr-line>
+        <country>Russia</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Sydney, Sydney, Australia</addr-line>
+        <institution>University of Sydney</institution>
+        <addr-line content-type="city">Sydney</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Dmitry Mozzherin (<email xlink:type="simple">dmozzherin@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35353</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/298D275214AB5346AE2F0C358AA869E5">298D275214AB5346AE2F0C358AA869E5</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Dmitry Mozzherin, Alexander A Myltsev, David Patterson</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Biodiversity Heritage Library contains 57 million pages of biological information. The majority of this information is a scanned and digitized non-structured text. This "raw" text is hard to access by computers or humans, without the addition of rich metadata. Recent improvements in natural language processing (NLP) and machine learning (ML) promise to facilitate the creation of such metadata.</p>
+        <p>One obvious approach to improve BHL usability is to extract and provide an index of scientific names thereby enabling biologists to find useful information easier and faster. The Global Names Architecture (GNA) detects, verifies, collects, and indexes scientific names from many sources. Six years ago  GNA developers created an index of the scientific names in the BHL by parsing every page one by one. This took 45 days to accomplish. Almost immediately BHL users began to find problems in the index and suggest improvements. However, the cost of repeating such a gigantic job was insurmountable and as a result the index remained nearly unchanged for 6 years.</p>
+        <p>Two problems were at the heart of dealing with the “Big Data” of the BHL, the time it took to transfer the raw data <italic>prior</italic> to processing, and the computational time it took to detect the names themselves.To solve these problems we could either throw more hardware resources into the problem (expensive), or find ways to dramatically improve performance of the tasks (cheaper). We decided to achieve our goal by utilizing hardware more effectively, and by using fast, scalable programming languages.</p>
+        <p>We wrote several Open Source applications in Go and Scala to detect candidate scientific names then verify them as names by comparing them to 27 million scientific name-strings aggregated by GNA. We were able to speed up data mobilization from 24 hours to 11 minutes, and decrease the time for name detection from 35 days to 5 hours. Name-verification time decreased from 10 days to 9 hours. Overall our computing requirements shrank from 4 high-end servers to one modern laptop. As a result we achieved our goal and indexed BHL in only 14 hours and unlocked the reality of iterative improvements to the scientific name index.</p>
+        <p>We also wanted to make it possible to study BHL data in its entirety remotely, in real-time. We created an HTTP2 service that is able to stream gigantic amounts of BHL textual data together with scientific names to a researcher. Sending the text of 50 million pages with an associated 250 million name occurrences takes ~5 hours. For comparison, simply copying BHL text data from Smithsonian Institute to University of Illinois using more traditional methods took us 10 days.</p>
+        <p>What do we hope to achieve with these tools as next steps? To make it possible for everyone to make new discoveries by computing in real-time across the complete BHL text. For example 20% of all names in BHL are abbreviated, and, as a result, very poorly searchable given their existing full-text indexing. We plan to develop algorithms to expand abbreviated genera reliably. Digitized texts contain huge amounts of character recognition mistakes. The tools might help to detect badly digitized pages and mark them for re-digitization. Tools can help to extract scientific names that are identical to "normal" words, such as "Atlanta", or "America", to find common names in texts, and to localize information on locations, adding new search contexts. Finally, we are exploring tools that allow researchers to stream such results back to source thereby growing the “Big Data” and ultimately improving the BHL’s end-user experience.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Biodiversity Heritage Library</kwd>
+        <kwd>BHL</kwd>
+        <kwd>Global Names Architecture</kwd>
+        <kwd>GNA</kwd>
+        <kwd>nomenclature</kwd>
+        <kwd>natural language processing</kwd>
+        <kwd>NLP</kwd>
+        <kwd>scientific names</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">National Science Foundation</named-content>
+            <named-content content-type="funder_identifier">100000001</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/100000001</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Dmitry Mozzherin</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>NSF: ABI development, Species File Group at University of Illinois</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>University of Illinois at Urbana/Champaign, Illinois Natural History Survey</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>NSF: ABI development, Species File Group at University of Illinois</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>Award Abstract #1645959   ABI Development: Global Names Discovery, Indexing and Reconciliation Services </p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>University of Illinois at Urbana/Champaign, Illinois Natural History Survey</p>
+    </sec>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>Dmitry Mozzherin is the principle investigator of the NSF grant. He developed scientific names finding, parsing, and verification tools, participated in development of Global Names Architecture concepts.</p>
+      <p>Alexander Myltsev developed scientific names parsing and verification tools.</p>
+      <p>David Patterson is one of the original authors of Global Names Architecture project. He had been a leader of GNA, a mentor of the group and a consultant at various times.</p>
+    </sec>
+  </back>
+</article>

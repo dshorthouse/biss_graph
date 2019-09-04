@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36712</article-id>
+      <article-id pub-id-type="publisher-id">36712</article-id>
+      <article-id pub-id-type="manuscript">11697</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PT - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Global Omics Observatory Network: Shaping standards for long-term molecular observation</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Buttigieg</surname>
+            <given-names>Pier Luigi</given-names>
+          </name>
+          <email xlink:type="simple">pbuttigi@mpi-bremen.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4366-3088</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Janssen</surname>
+            <given-names>Felix</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Macklin</surname>
+            <given-names>James</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9508-1349</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pitz</surname>
+            <given-names>Kathleen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar und Meeresforschung, Bremerhaven, Germany</addr-line>
+        <institution>Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar und Meeresforschung</institution>
+        <addr-line content-type="city">Bremerhaven</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Agriculture and Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture and Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Monterey Bay Aquarium Research Institute, Moss Landing, United States of America</addr-line>
+        <institution>Monterey Bay Aquarium Research Institute</institution>
+        <addr-line content-type="city">Moss Landing</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Pier Luigi Buttigieg (<email xlink:type="simple">pbuttigi@mpi-bremen.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36712</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0CA6B77076335B4495C2D739C28D5A90">0CA6B77076335B4495C2D739C28D5A90</uri>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Pier Luigi Buttigieg, Felix Janssen, James Macklin, Kathleen Pitz</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Founded in early 2018 through a collaboration between the <ext-link ext-link-type="uri" xlink:href="https://atlantos-h2020.eu">EU Horizon 2020 AtlantOS project</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://www5.agr.gc.ca">Agriculture and Agri-Food Canada</ext-link>, the <ext-link ext-link-type="uri" xlink:href="https://glomicon.org">Global Omics Observatory Network (GLOMICON)</ext-link> is federating long-term ecological observatories employing "omic" (e.g. metagenomcis, metatranscriptomics, metabolomics) techniques to assess biodiversity across scales. GLOMICON is the consolidation of a series of meetings and ad hoc efforts (e.g. the <ext-link ext-link-type="uri" xlink:href="https://tdwg2017.sched.com/event/C5Eg/w03-topic-towards-robust-interoperability-in-multi-omic-approaches-to-biodiversity-monitoring">multi-omic sessions at TDWG 2017</ext-link>) and seeks to mainstream multi-omic observation in existing observatory systems. GLOMICON currently networks &gt;40 organisations observing biodiversity from urban and agricultural systems to the depths of the polar ocean. Coordination through GLOMICON allows the long-term observatory community to develop and align their needs, thus approaching standards bodies including the <ext-link ext-link-type="uri" xlink:href="http://gensc.org">Genomic Standards Consortium (GSC)</ext-link>, the <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org">Biodiversity Information Standards (TDWG)</ext-link> organisation, and the <ext-link ext-link-type="uri" xlink:href="http://esipfed.org">Earth Science Information Partners (ESIP)</ext-link> with a common voice. Further, as more ecological observatories begin to adopt molecular techniques, GLOMICON offers a community building best practices to facilitate their operationalisation. Vitally, GLOMICON interfaces with established observation networks via organisations such as UNESCO/IOC <ext-link ext-link-type="uri" xlink:href="http://goosocean.org/">Global Ocean Observing System</ext-link> through its <ext-link ext-link-type="uri" xlink:href="http://www.goosocean.org/index.php?option=com_content&amp;view=article&amp;id=79&amp;Itemid=273">Biology and Ecosystems Panel</ext-link>. Such interactions have provided invaluable guidance on how to approach global standardisation in a firmly operational and multi-stakeholder environment, while ensuring innovative science can thrive. </p>
+        <p>In this contribution, we will deliver a briefing on GLOMICON's current priorities and efforts to shape molecular standards to become fit-for-purpose in observatory-grade settings. In particular, we will focus on our interactions with other key omic observing networks, including the <ext-link ext-link-type="uri" xlink:href="http://genomicobservatories.org">Genomic Observatories Network</ext-link>, and our joint strategies to progress towards an distributed yet integrated system. We will also note practical steps the network has taken to systematise protocols and best practices, (bio)informatics routines, observatory parameters, and global intercalibration through sample exchange. Lastly, we will note the network's upcoming priorities, which feature the need to develop strategies for sustainability and the extension of coordination efforts between national, regional, and global Earth observation systems. </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>omics</kwd>
+        <kwd>observatory</kwd>
+        <kwd>network</kwd>
+        <kwd>eDNA</kwd>
+        <kwd>metagenomics</kwd>
+        <kwd>metatranscriptomics</kwd>
+        <kwd>standards</kwd>
+        <kwd>best practices</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Pier Luigi Buttigieg</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>European Union Horizon 2020 research and innovation programme under grant agreement No 633211</p>
+    </sec>
+  </back>
+</article>

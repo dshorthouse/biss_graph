@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38318</article-id>
+      <article-id pub-id-type="publisher-id">38318</article-id>
+      <article-id pub-id-type="manuscript">11402</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Three Portals, One Infrastructure: How to manage information with ALA tools</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Cavière</surname>
+            <given-names>Fabien</given-names>
+          </name>
+          <email xlink:type="simple">caviere@gbif.fr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Archambeau</surname>
+            <given-names>Anne-Sophie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Radji</surname>
+            <given-names>Raoufou A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ahadji</surname>
+            <given-names>Christian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pamerlon</surname>
+            <given-names>Sophie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">GBIF France - IRD - UMS PatriNat, Paris, France</addr-line>
+        <institution>GBIF France - IRD - UMS PatriNat</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Université de Lomé, Lomé, Togo</addr-line>
+        <institution>Université de Lomé</institution>
+        <addr-line content-type="city">Lomé</addr-line>
+        <country>Togo</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">GBIF France, Paris, France</addr-line>
+        <institution>GBIF France</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Fabien Cavière (<email xlink:type="simple">caviere@gbif.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38318</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A2F0DEE26FC553F78B330E6EDBB05519">A2F0DEE26FC553F78B330E6EDBB05519</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Fabien Cavière, Anne-Sophie Archambeau, Raoufou A. Radji, Christian Ahadji, Sophie Pamerlon</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>GBIF Togo, hosted at the University of Lomé, has published more than 62,200 occurrence records from 37 datasets and checklists. As a node participant of Global Biodiversity Information Facility (GBIF) since 2011, it has participated actively in several projects including the Biodiversity Information for Development (BID) programme.</p>
+        <p>GBIF facilitates collaboration between nodes at different levels through its <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/programme/82219/capacity-enhancement-support-programme">Capacity Enhancement Support Programme</ext-link> (CESP). One of the actions included in the CESP guidelines is called ‘Mentoring activities’. Its main goal is the transfer of knowledge between partners, such as information, technologies, experience, and best practices.</p>
+        <p>Sharing architecture and development is the key solution to solving some the technical challenges and impediments (e.g. hosting, staff turnover, etc.) that GBIF nodes occasionally face. The Atlas of Living Australia (ALA) team have developed a feature called ‘data hub’, which allows the creation of a standalone website with a dedicated occurrence search engine that supports data discovery (e.g. specific genus, geographic area) published by particular GBIF nodes.</p>
+        <p>In 2017, a CESP project between the GBIF Benin and the GBIF France led to the creation of a new portal: Atlas of Living Beninises. This portal shared the same back-end database as the Atlas of Living France portal, while at the same time, each portal displayed and managed information relevant only to its region.</p>
+        <p>In 2018, another CESP project between GBIF France and GBIF Togo shared the same goal as the previous one: implement a new Atlas of Living Australia portal for Togo. This goal will be fulfilled using a similar implementation as the previous project: a shared back-end and different front-end. Togo will be the second African GBIF node to implement this kind of infrastructure.</p>
+        <p>This poster will highlight the architecture specific to the Atlas of Living Togo, and present the management procedure that distinguishes data coming from the three different countries.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>GBIF Togo</kwd>
+        <kwd>GBIF France</kwd>
+        <kwd>ALA</kwd>
+        <kwd>CESP</kwd>
+        <kwd>portal</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Fabien Caviere</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

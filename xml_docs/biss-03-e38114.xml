@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38114</article-id>
+      <article-id pub-id-type="publisher-id">38114</article-id>
+      <article-id pub-id-type="manuscript">11559</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>INPN - GBIF Exchanges: Biodiversity data flows at national and international levels</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Pamerlon</surname>
+            <given-names>Sophie</given-names>
+          </name>
+          <email xlink:type="simple">pamerlon@gbif.fr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Archambeau</surname>
+            <given-names>Anne-Sophie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cavière</surname>
+            <given-names>Fabien</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Robert</surname>
+            <given-names>Solène</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vest</surname>
+            <given-names>Frederic</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">GBIF France, Paris, France</addr-line>
+        <institution>GBIF France</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">GBIF France - UMS PatriNat - IRD, Paris, France</addr-line>
+        <institution>GBIF France - UMS PatriNat - IRD</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">GBIF France - UMS PatriNat, Paris, France</addr-line>
+        <institution>GBIF France - UMS PatriNat</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">UMS PatriNat, Paris, France</addr-line>
+        <institution>UMS PatriNat</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sophie Pamerlon (<email xlink:type="simple">pamerlon@gbif.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38114</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D429001A3A4F55A79766C31C58FA80DF">D429001A3A4F55A79766C31C58FA80DF</uri>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sophie Pamerlon, Anne-Sophie Archambeau, Fabien Cavière, Solène Robert, Frederic Vest</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>GBIF France, the French node of the Global Biodiversity Information Facility, has been hosted by the National Museum of Natural History (MNHN) since 2006 and is actively involved in various national and international projects related to data mobilization.</p>
+        <p>The INPN (National Inventory of Natural Heritage) information facility, hosted since 2005 by the MNHN, lists the ecological, faunistic, floristic, geological, mineralogical and paleontological data of France and its overseas territories. This system has been recognized since 2012 as the national platform of the French Nature and Landscape Information System.</p>
+        <p>In January 2017, GBIF France and the INPN team were gathered in the Mixed Unit of Natural Heritage Services (UMS PatriNat), which provides expertise and knowledge management missions under the supervision of the French Agency for Biodiversity (AFB), the National Center for Scientific Research (CNRS) and the MNHN.</p>
+        <p>In order to support both systems and enhance biodiversity data quality, a flow of occurrences and taxonomic data has been established between GBIF and INPN. On July 2018, the latest delivery of French data coming from the INPN marked the one billionth occurrence to the GBIF network. Data connected to GBIF from French territories, will be included in INPN in 2019.</p>
+        <p>In this poster, we will explain the detailed process of data exchange between the two platforms, as well as the protocols, the standards and the tools used for data validation, data transformation, data dissemination and data update.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data sharing</kwd>
+        <kwd>GBIF France</kwd>
+        <kwd>INPN</kwd>
+        <kwd>UMS PatriNat</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sophie Pamerlon</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

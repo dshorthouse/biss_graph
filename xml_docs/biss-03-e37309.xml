@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37309</article-id>
+      <article-id pub-id-type="publisher-id">37309</article-id>
+      <article-id pub-id-type="manuscript">11729</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Intelligent Technology for the Monitoring and Protection of Insect Biodiversity</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Zhen</surname>
+            <given-names>Zhang</given-names>
+          </name>
+          <email xlink:type="simple">zhangzhen@caf.ac.cn</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zhu</surname>
+            <given-names>Leqing</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry, Key Laboratory of Forest Protection of State Forestry Administration, Beijing, China</addr-line>
+        <institution>Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry, Key Laboratory of Forest Protection of State Forestry Administration</institution>
+        <addr-line content-type="city">Beijing</addr-line>
+        <country>China</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">College of Computer Science and Information Engineering, Zhejiang Gongshang University, Hangzhou, China</addr-line>
+        <institution>College of Computer Science and Information Engineering, Zhejiang Gongshang University</institution>
+        <addr-line content-type="city">Hangzhou</addr-line>
+        <country>China</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Zhang Zhen (<email xlink:type="simple">zhangzhen@caf.ac.cn</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37309</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/31075E146BCD517B8DE7A3B7F304B277">31075E146BCD517B8DE7A3B7F304B277</uri>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Zhang Zhen, Leqing Zhu</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Monitoring and identification are vitally important to insect biodiversity conservation and protection. As a popular and comparatively well known order, Lepidoptera (moths and butterflies) are good indicators of insect biodiversity. Through much research and testing, a reliable image recognition method and online software were developed. The method includes a color histogram and dual tree complex wavelet transform (DTCWT), local mean color feature based method, sparse coding and scale conjugate gradient (SCG) back propagation neural network (BPNN), and Opponent SIFT (scale invariant feature transform). The result showed that Opponent SIFT was the best choice, reaching 100.00% recognition accuracy, while the first three were 91.98%, 91.96% and 99.43%, respectively. Thus an online consulting system was established, based on Opponent SIFT. After the users load the unknown image of the lepidopteran, the system can output the recognition result and all information about the species. New, but otherwise known species can be added to continuously expand the system.</p>
+        <p>A simple and viable scheme to identify insect sounds automatically was also introduced, using a sound parameterization technique that dominates speaker recognition technology. The acoustic signal is preprocessed and segmented into a series of sound samples. MFCC (Mel-frequency cepstrum coefficient) is extracted from the sound sample, and a feature model is trained using Linde-Buzo-Gray algorithm (<xref ref-type="bibr" rid="B5210608">Linde et al. 1980</xref>) to generate vector quantization (VQ) codebook from the above MFCC. The matching for a test sample is completed by finding the nearest neighbour in all the VQ codebooks. The method is tested in a database with acoustic samples of 70 different insect sounds (data from <ext-link ext-link-type="uri" xlink:href="https://www.ars.usda.gov/southeast-area/gainesville-fl/center-for-medical-agricultural-and-veterinary-entomology/insect-behavior-and-biocontrol-research/people/richard-mankin/sound-library/">insect sound library</ext-link>, <xref ref-type="bibr" rid="B5205672">Mankin et al. 2008</xref>). The recognition rate was above 96%, and an ideal time performance was also achieved with the recognition time of 9.13s. Sound recognition software system will also be installed.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>insect</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>image recognition</kwd>
+        <kwd>sound recognition</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Zhang Zhen</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>National Hi-Tech Research and Development Program (863) of China (2006AA10Z211)</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry, Key Laboratory of Forest Protection of State Forestry Administration, Beijing 100091, China</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>National Hi-Tech Research and Development Program (863) of China (2006AA10Z211)</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Research Institute of Forest Ecology, Environment and Protection, Chinese Academy of Forestry, Key Laboratory of Forest Protection of State Forestry Administration, Beijing 100091, China</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5210608">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Linde</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Buzo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <year>1980</year>
+          <article-title>An Algorithm for Vector Quantizer Design</article-title>
+          <source>IEEE Transactions on communications</source>
+          <volume>28</volume>
+          <issue>1</issue>
+          <fpage>84-95</fpage>
+        </element-citation>
+      </ref>
+      <ref id="B5205672">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Mankin</surname>
+              <given-names>R. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>M. T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tropp</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Atkinson</surname>
+              <given-names>E. B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jong</surname>
+              <given-names>D. Y.</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Detection of <italic>Anoplophora glabripennis</italic> (Coleoptera: Cerambycidae) Larvae in Different Host Trees and Tissues by Automated Analyses of Sound-Impulse Frequency and Temporal Patterns</article-title>
+          <source>J. Econ. Entomol</source>
+          <volume>101</volume>
+          <fpage>838</fpage>
+          <lpage>849</lpage>
+          <uri>https://academic.oup.com/jee/article-abstract/101/3/838/806198</uri>
+          <pub-id pub-id-type="doi">10.1093/jee/101.3.838</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

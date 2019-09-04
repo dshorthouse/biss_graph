@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38072</article-id>
+      <article-id pub-id-type="publisher-id">38072</article-id>
+      <article-id pub-id-type="manuscript">11362</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI87 - Empowering the taxonomic community by linking information through names and taxonomy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The LifeWatch Taxonomic Backbone: Connecting information on taxonomy, biogeography, literature, traits and genomics</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Vandepitte</surname>
+            <given-names>Leen</given-names>
+          </name>
+          <email xlink:type="simple">leen.vandepitte@vliz.be</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vanhoorne</surname>
+            <given-names>Bart</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dekeyzer</surname>
+            <given-names>Stefanie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Decock</surname>
+            <given-names>Wim</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Verfaille</surname>
+            <given-names>Kevin</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lanssens</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>De Pooter</surname>
+            <given-names>Daphnis</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7870-9907</uri>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hernandez</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Flanders Marine Institute/Vlaams Instituut voor de Zee (VLIZ), Oostende, Belgium</addr-line>
+        <institution>Flanders Marine Institute/Vlaams Instituut voor de Zee (VLIZ)</institution>
+        <addr-line content-type="city">Oostende</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Leen Vandepitte (<email xlink:type="simple">leen.vandepitte@vliz.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38072</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4DB60FBA43825319825F816F0C0ED0CB">4DB60FBA43825319825F816F0C0ED0CB</uri>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Leen Vandepitte, Bart Vanhoorne, Stefanie Dekeyzer, Wim Decock, Kevin Verfaille, Thomas Lanssens, Daphnis De Pooter, Francisco Hernandez</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Flanders Marine Institute (<ext-link ext-link-type="uri" xlink:href="http://www.vliz.be">VLIZ</ext-link>) is responsible for the set-up of the LifeWatch Taxonomic Backbone (<ext-link ext-link-type="uri" xlink:href="http://www.lifewatch.be/en/taxonomic-backbone">LW-TaxBB</ext-link>), as a central part of the European LifeWatch Infrastructure. The LW-TaxBB aims to (virtually) bring together different component databases and data systems, all of them related to taxonomy, biogeography, ecology, genetics and literature. By doing so, the LW-TaxBB standardises species data and integrates biodiversity data from different repositories and operating facilities and is the driving force behind the species information services of the Belgian LifeWatch.be <ext-link ext-link-type="uri" xlink:href="http://www.lifewatch.be/en/e-lab"> e-Lab </ext-link> and the Marine Virtual Research Environment that are being developed.</p>
+        <p>The mission of LifeWatch is to advance biodiversity research and to provide major contributions to address the big environmental challenges, such as knowledge-based solutions for environmental managers in the field of conservation or dealing with long-standing ecological questions that could so far not be addressed due to a lack of data or a lack of good and easy access to data. This is being achieved by giving access to data and information through a single infrastructure which (virtually) brings together a large range and variety of datasets, services and tools. Scientists can use these tools and services to construct so-called Virtual Research Environments (VREs), where they are able to address specific questions related to biodiversity research, including e.g. topics related to conservation. They are not only offered an environment with unlimited computer and data storage capacity, but there is also transparency at all stages of the research process and the generic application of the e-infrastructure opens the door towards more inter- and multidisciplinary research.</p>
+        <p>The LW-TaxBB – virtually - brings together different component databases and data systems, dealing with five major components: (1) taxonomy, through regional, national, European, global and thematic databases, (2) biogeography, based on databases dealing with species occurrences, (3) ecology, in the form of species-specific traits, (4) genetics and (5) literature, by linking all available information to the relevant sources and through tools that can intelligently search this literature.</p>
+        <p>The LifeWatch Taxonomic Backbone is a two-way street: besides using the tools and functionalities it is offering – which are often developed based on identified needs within the scientific community -, scientists can also contribute themselves to make it more complete. Feedback on all available data and information (e.g. taxonomy and traits) is highly appreciated and communicated with the experts involved in the different component databases. All distribution information collected by individual scientists can become part of the biogeographic component of this backbone, by contributing occurrence data to the system.</p>
+        <p>Through the LW-TaxBB, users benefit in several ways, amongst others by:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>Easy access to data and information to a variety of resources</p></list-item><list-item><p>The opportunity to quality control their own data, by cross-checking with data available through the LW-TaXBB</p></list-item><list-item><p>Free and easy access to a wide range of data services and web services</p></list-item><list-item><p>Possibility to combine available services into workflows, and link several systems together</p></list-item></list>
+        </p>
+        <p>Major components of the LW-TaxBB are – amongst others - the World Register of Marine Species (<ext-link ext-link-type="uri" xlink:href="http://www.marinespecies.org">WoRMS</ext-link>) and the European node of the Ocean Biogeographic Information System (<ext-link ext-link-type="uri" xlink:href="http://www.eurobis.org">EurOBIS</ext-link>). WoRMS is an authoritative classification and catalogue of marine names currently containing 233,275 accepted marine species. EurOBIS publishes distribution data on marine species, collected within European marine waters or collected by European researchers outside European marine waters and currently contains 24.8 million distribution records. Both these systems have a strong link and collaboration agreements with international initiatives such as e.g. the Catalogue of Life (<ext-link ext-link-type="uri" xlink:href="http://www.catalogueoflife.org/">CoL</ext-link>), the Ocean Biogeographic Information System (<ext-link ext-link-type="uri" xlink:href="https://obis.org/">OBIS</ext-link>) and the Global Biodiversity Information System (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">GBIF</ext-link>) and aim to collaborate with other ESFRIs such as <ext-link ext-link-type="uri" xlink:href="https://dissco.eu/"> DiSSCO </ext-link> and <ext-link ext-link-type="uri" xlink:href="https://elixir-europe.org/"> ELIXIR</ext-link>.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>taxonomy</kwd>
+        <kwd>biogeography</kwd>
+        <kwd>literature</kwd>
+        <kwd>traits</kwd>
+        <kwd>genetics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Leen Vandepitte</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>LifeWatch Belgium</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Flanders Marine Institute</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>LifeWatch Belgium</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Flanders Marine Institute</p>
+    </sec>
+  </back>
+</article>

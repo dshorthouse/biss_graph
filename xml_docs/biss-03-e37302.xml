@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37302</article-id>
+      <article-id pub-id-type="publisher-id">37302</article-id>
+      <article-id pub-id-type="manuscript">11616</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Data Migration from One Database to Another: Nervous breakdown of a database manager!</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Engledow</surname>
+            <given-names>Henry</given-names>
+          </name>
+          <email xlink:type="simple">henry.engledow@plantentuinmeise.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0779-8006</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Henry Engledow (<email xlink:type="simple">henry.engledow@plantentuinmeise.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37302</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/88007D61D04A5E8CBE747F821D4FD5A4">88007D61D04A5E8CBE747F821D4FD5A4</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Henry Engledow</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Migrating from one database to another is always accompanied by challenges. Recently Meise Botanic Garden has migrated its Living Collections data from <italic>LivCol</italic>, a bespoke database, to <ext-link ext-link-type="uri" xlink:href="http://www.bg-base.com/"><italic>BG-BASE</italic></ext-link>, a commercial product. Differences in database structure, degree of atomisation and field definition increase the complexity of such a transfer of data. The greater the number of fields used in the original data source, the greater the number of problems there are to resolve. Living collections are often centered around the 'accession information' of the living material, but the way one does this and the philosophy behind this may differ. The different approach to accessioning material in <italic>LivCol</italic> and <italic>BG-BASE</italic> affected the structure of the data model in each program. The <italic>LivCol</italic> approach was not as strictly defined as the <italic>BG-BASE</italic> approach e.g. new generations derived from existing accessions in <italic>LivCol</italic> retained the same accession number despite being not genetically identical (of seed origin), whereas in BG-BASE a new accession number would be generated with reference to the parent accession. In the data transfer <italic>LivCol</italic> accession number where grouped by accession number and garden location, and the inter-generation information combined in a single record in <italic>BG-BASE </italic>(this is not ideally in accordance with the <italic>BG-BASE</italic> concept, the alternative was to create 'artificial' new accession numbers but this would have complicated matters more both from a data and management point of view).</p>
+        <p>The use of standards would greatly improve data transfer, and indeed many standards have been adopted by both the above mentioned databases. However, it soon became evident that there are multiple standards for a single topic e.g. for information concerning conservation status: NatureServe Global Conservation Status Ranks; Fish &amp; Wildlife conservation category; International Union for Conservation of Nature (IUCN) - old and new codes (plus version); Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES); etc. Also, some values used are region specific and do not translate well to ‘global’ standards e.g. in Belgium there are three principal regions controlling conservation status (Brussels, Flanders, Wallonia) and they differ in their approach and definitions, all these need to be taken into account as there are legal implications - this was done by finding close matches in IUCN (New) codes and combining them with 'non-standard' World Geographical Scheme for Recording Plant Distributions (WGSRPD). The latter TDWG standard is out of date and in many circumstances not sufficiently atomised to be of practical use. There were also certain fields that would benefit from having standards, but are at present absent e.g. invasiveness - <italic>BG-BASE</italic> uses <xref ref-type="bibr" rid="B5211854">Cronk and Fuller (1995)</xref> whereas <italic>LivCol </italic>uses AlterIAS (<ext-link ext-link-type="uri" xlink:href="http://www.alterias.be/">http://www.alterias.be/</ext-link>), Belgian Forum on Invasive Species (<ext-link ext-link-type="uri" xlink:href="http://ias.biodiversity.be">http://ias.biodiversity.be</ext-link>) and <xref ref-type="bibr" rid="B5211872">Lambinon et al. (1992)</xref>. The above problems will be discussed and their impact on mapping the data. Decisions had to be made with respect to ‘best fit’ solutions. The latter lead to the loss of information or a slight variation in its interpretation, examples will be given to highlight these aspects. As the structures of the databases differed, sometimes assumptions had to be made, this too will be illustrated. These changes were reasonable, but represent an interpretation of the original data and therefore not strictly the same.</p>
+        <p>Databases are crucial to the management of Living Collections and the research done on them. This talk will look at the lessons learned during the data transfer and the problems associated with mapping (decisions, assumptions and standards). Databases are 'living' entities that need to grow, adapt, be maintained and regularly updated to new developments in technology. Databases are not seen as new or innovative by funding bodies and are often left to struggle along in suboptimal conditions. If we want data quality to improve and increase interoperability between systems, maybe we should start at the point where data is entered.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>databases</kwd>
+        <kwd>data quality</kwd>
+        <kwd>interoperability</kwd>
+        <kwd>standards</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Henry Engledow</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5211854">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Cronk</surname>
+              <given-names>Q. C.B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fuller</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <year>1995</year>
+          <source>Plant Invaders. The threat to natural ecosystems</source>
+          <publisher-name>Chapman &amp; Hall</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <size units="page">xiv, 241</size>
+          <isbn>0-412-48380-7</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5211872">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Lambinon</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Langhe</surname>
+              <given-names>J. -E. De</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Delvosalle</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>D'Hose</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Geerinck</surname>
+              <given-names>D. J.L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lebeau</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schumacker</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vannerom</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rammeloo</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Duvigneaud</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>1992</year>
+          <source>Nouvelle flore de la Belgique, du Grand-Duché de Luxembourg, du nord de la France et des régions voisines (Ptéridophytes et Spermatophytes)</source>
+          <edition>4</edition>
+          <publisher-name>Jardin Botanique National de Belgique</publisher-name>
+          <publisher-loc>Meise</publisher-loc>
+          <size units="page">cxx, 1092</size>
+          <isbn>9072619072</isbn>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

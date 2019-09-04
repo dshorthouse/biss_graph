@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37177</article-id>
+      <article-id pub-id-type="publisher-id">37177</article-id>
+      <article-id pub-id-type="manuscript">11097</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Platform for Cybertaxonomy: Standards, services and tools</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Güntsch</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <email xlink:type="simple">a.guentsch@bgbm.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4325-4030</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Luther</surname>
+            <given-names>Katja</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Müller</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kohlbecker</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Plitzner</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7740-5423</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kilian</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Henning</surname>
+            <given-names>Tilo</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1929-3264</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>von Mering</surname>
+            <given-names>Sabine</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2982-7792</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>von Raab-Straube</surname>
+            <given-names>Eckhard</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kusber</surname>
+            <given-names>Wolf-Henning</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Berendsohn</surname>
+            <given-names>Walter G.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9945-7606</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Anton Güntsch (<email xlink:type="simple">a.guentsch@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37177</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B8325335DC1F5171A2352EE8DA82776F">B8325335DC1F5171A2352EE8DA82776F</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Anton Güntsch, Katja Luther, Andreas Müller, Andreas Kohlbecker, Patrick Plitzner, Norbert Kilian, Tilo Henning, Sabine von Mering, Eckhard von Raab-Straube, Wolf-Henning Kusber, Walter G. Berendsohn</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Platform for Cybertaxonomy (<ext-link ext-link-type="uri" xlink:href="http://www.cybertaxonomy.org">http://www.cybertaxonomy.org</ext-link>) is a standards-based open-source software framework covering the breadth of the taxonomic workflow, from fieldwork to publication (<xref ref-type="bibr" rid="B5167537">Ciardelli et al. 2009</xref>). It provides coupled tools for full, customized access to taxonomic data, editing and management, and collaborative team work. At the core of the platform is the Common Data Model (CDM, <xref ref-type="bibr" rid="B5167575">Müller et al. 2017</xref>), offering a comprehensive information model covering all relevant data domains: names and classifications, descriptive data (morphological and molecular), media, geographic information, literature, specimens, types, persons, and external resources.</p>
+        <p>Platform compliant software interacts via services and includes the following components:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>CDM Server</p></list-item><list-item><p>Taxonomic Editor Rich Client</p></list-item><list-item><p>Web-based editors</p></list-item><list-item><p>Drupal-based and highly configurable portal software</p></list-item><list-item><p>Map services and map viewer</p></list-item><list-item><p>Xper2 descriptive data editor</p></list-item><list-item><p>Specimen search tool</p></list-item><list-item><p>Import and export modules</p></list-item></list>
+        </p>
+        <p>Recent platform-based developments include software components for deriving formal species-level descriptions from measurements on individual specimens (<xref ref-type="bibr" rid="B5167553">Henning et al. 2018</xref>) as well as a registration system for nomenclatural acts of algae (Phycobank, <ext-link ext-link-type="uri" xlink:href="https://www.phycobank.org/">https://www.phycobank.org/</ext-link>). Currently, about 30 portals with regional and taxonomic foci are using the Platform for Cybertaxonomy as their technical basis for capturing, managing, and publishing biodiversity data over the World Wide Web. Prominent examples are the Euro+Med Plantbase, the International Caryophyllales Network, and the Flora of Greece.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>cybertaxonomy</kwd>
+        <kwd>workflow</kwd>
+        <kwd>tools</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Anton Güntsch, Walter Berendsohn</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5167537">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ciardelli</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kelbert</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kohlbecker</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hoffmann</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>W. G.</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <chapter-title>The EDIT Platform for Cybertaxonomy and the taxonomic workflow: selected Components</chapter-title>
+          <source>Lecture Notes in Informatics (LNI) 154</source>
+          <size units="page">625-638</size>
+        </element-citation>
+      </ref>
+      <ref id="B5167553">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Henning</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Plitzner</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>W. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kilian</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Building compatible and dynamic character matrices – Current and future use of specimen-based character data</article-title>
+          <source>Botany Letters</source>
+          <volume>165</volume>
+          <issue>3-4</issue>
+          <fpage>352</fpage>
+          <lpage>360</lpage>
+          <pub-id pub-id-type="doi">10.1080/23818107.2018.1452791</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5167575">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>W. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kohlbecker</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>A.</surname>
+              <given-names>Güntsch</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Plitzner</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Luther</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>A Comprehensive and Standards-Aware Common Data Model (CDM) for Taxonomic Research</article-title>
+          <source>Biodiversity Information Science and Standards</source>
+          <volume>1</volume>
+          <fpage>e20367</fpage>
+          <pub-id pub-id-type="doi">10.3897/tdwgproceedings.1.20367</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

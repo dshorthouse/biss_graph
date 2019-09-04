@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35265</article-id>
+      <article-id pub-id-type="publisher-id">35265</article-id>
+      <article-id pub-id-type="manuscript">11662</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PT - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Sharing the Decision Process Framework to Identify Well-supported Records of Mammal Species-occurrence in Mozambique</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Neves</surname>
+            <given-names>Isabel Queirós</given-names>
+          </name>
+          <email xlink:type="simple">i.queirosneves@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1545-1512</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mathias</surname>
+            <given-names>Maria da Luz</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bastos-Silveira</surname>
+            <given-names>Cristiane</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8249-9383</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Departamento de Biologia Animal, Faculdade de Ciências da Universidade de Lisboa (FCUL), Lisboa, Portugal</addr-line>
+        <institution>Departamento de Biologia Animal, Faculdade de Ciências da Universidade de Lisboa (FCUL)</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Museu Nacional de História Natural e da Ciência (MUHNAC), Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>Museu Nacional de História Natural e da Ciência (MUHNAC), Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Centre for Environmental and Marine Studies (CESAM), FCUL, Lisboa, Portugal</addr-line>
+        <institution>Centre for Environmental and Marine Studies (CESAM), FCUL</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Natural History and Systematics Research Group - cE3c, FCUL, Lisboa, Portugal</addr-line>
+        <institution>Natural History and Systematics Research Group - cE3c, FCUL</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Isabel Queirós Neves (<email xlink:type="simple">i.queirosneves@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35265</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B616B471666F5AA1959FDF98CBA43EEC">B616B471666F5AA1959FDF98CBA43EEC</uri>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Isabel Queirós Neves, Maria da Luz Mathias, Cristiane Bastos-Silveira</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Conservation research and policies tend to be significantly restricted wherever relevant data on biodiversity is sparse, scattered or non-curated. Thus, the usefulness of occurrence data, for the study of biodiversity, depends not only on the availability but also on data quality. Notwithstanding the increase in the global availability of primary biodiversity data, they have numerous shortfalls, from incomplete or partially erroneous documentation to spatial and temporal biases (<xref ref-type="bibr" rid="B5192519">Hortal et al. 2015</xref>, <xref ref-type="bibr" rid="B5192531">Aubry et al. 2017</xref>). Also, many non-digitized specimen collections, scientific publications and grey literature are locked as printed or digital publications.</p>
+        <p>We integrated existing knowledge, from dispersed sources of biodiversity data, namely Global Biodiversity Information Facility (GBIF), natural history collections, wildlife survey reports, species checklist and other scientific literature. This procedure allowed an update of Mozambique’s checklist of terrestrial mammals (<xref ref-type="bibr" rid="B5192481">Neves et al. 2018</xref>). Despite the potential from digital data to overcome gaps of knowledge, a relevant constraint on creating or updating species checklist is the dificulty to access spatially-disperse collections and examine every specimens upon which occurrences are based. To partly overcome this impediment, we developed a species selection process for specimen data from GBIF and museums (Fig. <xref ref-type="fig" rid="F5192422">1</xref>). The aim was to categorise the species detected in more than one data source as species with the well-supported occurrence. In addition to the number of collectors, we also accounted for the number of records collected and presented in <xref ref-type="bibr" rid="B5192510">Smithers and Tello (1976)</xref>, the last checklist produced for Mozambique’ mammals.</p>
+        <p>A species-occurrence record was considered well-supported and included into the species checklist when was:</p>
+        <p>
+          <list list-type="order"><list-item><p>independently recorded by different collectors or</p></list-item><list-item><p>recorded by a single collector but listed in <xref ref-type="bibr" rid="B5192510">Smithers and Tello (1976)</xref>.</p></list-item></list>
+        </p>
+        <p>An additional list was produced which contained species with questionable occurrence in the country. Species entered this "questionable occurrence" list when they were:</p>
+        <p>
+          <list list-type="order"><list-item><p>not listed in <xref ref-type="bibr" rid="B5192510">Smithers and Tello (1976)</xref>, and a single record supported its presence in the country;</p></list-item><list-item><p>not listed in <xref ref-type="bibr" rid="B5192510">Smithers and Tello (1976)</xref> and multiple records exist, but were all cited by a single author; or</p></list-item><list-item><p>registered with a single record in <xref ref-type="bibr" rid="B5192510">Smithers and Tello (1976)</xref>.</p></list-item></list>
+        </p>
+        <p>We compiled more than 17000 records, resulting in a total of 217 species (14 orders, 39 families and 133 genera) with supported occurrence in Mozambique and 23 species with questionable reported occurrence (Table <xref ref-type="table" rid="T5192419">1</xref>). The proposed approach for species selection can be adapted and function as a powerful tool to update species checklists of countries facing similar lack of knowledge regarding their biodiversity. The capacity to pinpointing species and specimens in need of occurrence and taxonomic re-evaluation is of great value to optimise collection’s study and to boost collaboration between curators and researchers. Lastly, considering that most records integrated are from European and North American institutions, this work would significantly improve with the integration of data from African institutions. Therefore, an effort should be made to make these essential collections accessible online.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Species checklist</kwd>
+        <kwd>Africa</kwd>
+        <kwd>Natural History Collections</kwd>
+        <kwd>Primary biodiversity data</kwd>
+        <kwd>Data quality</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="1"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Cristiane Bastos-Silveira</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5192531">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Aubry</surname>
+              <given-names>Keith B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Raley</surname>
+              <given-names>Catherine M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McKelvey</surname>
+              <given-names>Kevin S.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>The importance of data quality for generating reliable distribution models for rare, elusive, and cryptic species</article-title>
+          <source>PLOS ONE</source>
+          <volume>12</volume>
+          <issue>6</issue>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0179152</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192519">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hortal</surname>
+              <given-names>J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>de Bello</surname>
+              <given-names>F</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Diniz-Filho</surname>
+              <given-names>JAF</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lewinsohn</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lobo</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ladle</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Seven shortfalls that beset large-scale knowledge of biodiversity.</article-title>
+          <source>Annual Review of Ecology, Evolution, and Systematics</source>
+          <volume>46</volume>
+          <fpage>523</fpage>
+          <lpage>549</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev-ecolsys-112414-054400</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192481">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Neves</surname>
+              <given-names>Isabel Q.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Da Luz Mathias</surname>
+              <given-names>Maria</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bastos-Silveira</surname>
+              <given-names>Cristiane</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>The terrestrial mammals of Mozambique: Integrating dispersed biodiversity data</article-title>
+          <source>Bothalia</source>
+          <volume>48</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.4102/abc.v48i1.2330</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192510">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Smithers</surname>
+              <given-names>R. H.N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tello</surname>
+              <given-names>J. L.P.</given-names>
+            </name>
+          </person-group>
+          <year>1976</year>
+          <source>Checklist and atlas of the mammals of Moçambique</source>
+          <volume>8</volume>
+          <publisher-name>The Trustees of the National Museums and Monuments of Rhodesia</publisher-name>
+          <publisher-loc>Salisbury</publisher-loc>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5192422" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Species selection process framework - decision tree followed to establish whether the report of a species for the country was well-supported (as in <xref ref-type="bibr" rid="B5192481">Neves et al. 2018</xref>).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e35265-g001.png" position="float" id="oo_291900.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <table-wrap id="T5192419" position="float" orientation="portrait">
+      <label>Table 1.</label>
+      <caption>
+        <p>Summary description of the species checklist of terrestrial mammals reported for Mozambique (Queirós Neves et al. 2018). The table shows, per mammal order, the total number of species in the Species checklist (‘Total’), the number of threatened species (‘Threatened Species’), the number of species reported with less than 10 records (‘&lt; 10 records’), the number of species reported from Mozambique after the year 2000 (‘Recent Report’), the number of species with "Questionable Occurrence". Species are considered ‘threatned species when are classified as ‘Vulnerable’, ‘Endangered’ or ‘Critically endangered’ following the International Union for Conservation of Nature and Natural Resources (IUCN) Red List (2017).</p>
+      </caption>
+      <table rules="all" border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="1">Order</td>
+            <td rowspan="1" colspan="1">Total</td>
+            <td rowspan="1" colspan="1">Threatened Species</td>
+            <td rowspan="1" colspan="1">&lt; 10 records</td>
+            <td rowspan="1" colspan="1">Recent Report</td>
+            <td rowspan="1" colspan="1">Questionable occurrence</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Afrosoricidae</td>
+            <td rowspan="1" colspan="1">2</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Artiodactyla</td>
+            <td rowspan="1" colspan="1">25</td>
+            <td rowspan="1" colspan="1">3</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">24</td>
+            <td rowspan="1" colspan="1">3</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Carnivora</td>
+            <td rowspan="1" colspan="1">33</td>
+            <td rowspan="1" colspan="1">4</td>
+            <td rowspan="1" colspan="1">6</td>
+            <td rowspan="1" colspan="1">21</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Chiroptera</td>
+            <td rowspan="1" colspan="1">71</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">41</td>
+            <td rowspan="1" colspan="1">58</td>
+            <td rowspan="1" colspan="1">8</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Eulipotyphla</td>
+            <td rowspan="1" colspan="1">9</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">3</td>
+            <td rowspan="1" colspan="1">7</td>
+            <td rowspan="1" colspan="1">4</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Hyracoidea</td>
+            <td rowspan="1" colspan="1">3</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">2</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Lagomorpha</td>
+            <td rowspan="1" colspan="1">4</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">2</td>
+            <td rowspan="1" colspan="1">2</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Macrocelidea</td>
+            <td rowspan="1" colspan="1">5</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">2</td>
+            <td rowspan="1" colspan="1">1</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Perissodactyla</td>
+            <td rowspan="1" colspan="1">3</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">3</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Pholidota</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">1</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Primates</td>
+            <td rowspan="1" colspan="1">8</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">7</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Proboscidea</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Rodentia</td>
+            <td rowspan="1" colspan="1">51</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">17</td>
+            <td rowspan="1" colspan="1">33</td>
+            <td rowspan="1" colspan="1">6</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Tubulidentata</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Total</td>
+            <td rowspan="1" colspan="1">217</td>
+            <td rowspan="1" colspan="1">13</td>
+            <td rowspan="1" colspan="1">73</td>
+            <td rowspan="1" colspan="1">162</td>
+            <td rowspan="1" colspan="1">23</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>

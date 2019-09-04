@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35902</article-id>
+      <article-id pub-id-type="publisher-id">35902</article-id>
+      <article-id pub-id-type="manuscript">10999</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST13 - Enhancing taxonomic publications for dynamic data exchange and navigation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Pensoft Data Publishing Workflow: The FAIRway from articles to Linked Open Data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Penev</surname>
+            <given-names>Lyubomir</given-names>
+          </name>
+          <email xlink:type="simple">penev@pensoft.net</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2186-5033</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Georgiev</surname>
+            <given-names>Teodor</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8558-6845</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Senderov</surname>
+            <given-names>Viktor</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3340-5963</uri>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dimitrova</surname>
+            <given-names>Mariya</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8083-6048</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Stoev</surname>
+            <given-names>Pavel</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5702-5677</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Pensoft Publishers &amp; Bulgarian Academy of Sciences, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers &amp; Bulgarian Academy of Sciences</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Pensoft Publishers, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">National Museum of Natural History and Pensoft Publishers, Sofia, Bulgaria</addr-line>
+        <institution>National Museum of Natural History and Pensoft Publishers</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Lyubomir Penev (<email xlink:type="simple">penev@pensoft.net</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35902</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/31519DAB385C539E88B9D5B07EA3D896">31519DAB385C539E88B9D5B07EA3D896</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Lyubomir Penev, Teodor Georgiev, Viktor Senderov, Mariya Dimitrova, Pavel Stoev</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>As one of the first advocates of open access and open data in the field of biodiversity publishiing, Pensoft has adopted a multiple data publishing model, resulting in the ARPHA-BioDiv toolbox (<xref ref-type="bibr" rid="B5164886">Penev et al. 2017</xref>). ARPHA-BioDiv consists of several data publishing workflows and tools described in the <ext-link ext-link-type="uri" xlink:href="https://riojournal.com/articles.php?id=12431">Strategies and Guidelines for Publishing of Biodiversity Data</ext-link> and elsewhere:</p>
+        <p>
+          <list list-type="order"><list-item><p>Data underlying research results are deposited in an external repository and/or published as supplementary file(s) to the article and then linked/cited in the article text; supplementary files are published under their own DOIs and bear their own citation details.</p></list-item><list-item><p>Data deposited in trusted repositories and/or supplementary files and described in data papers; data papers may be submitted in text format or converted into manuscripts from Ecological Metadata Language (EML) metadata.</p></list-item><list-item><p>Integrated narrative and data publishing realised by the <ext-link ext-link-type="uri" xlink:href="https://bdj.pensoft.net/">Biodiversity Data Journal</ext-link>, where structured data are imported into the article text from tables or via web services and downloaded/distributed from the published article.</p></list-item><list-item><p>Data published in structured, semanticaly enriched, full-text XMLs, so that several data elements can thereafter easily be harvested by machines.</p></list-item><list-item><p>Linked Open Data (LOD) extracted from literature, converted into interoperable RDF triples in accordance with the OpenBiodiv-O ontology (<xref ref-type="bibr" rid="B5165417">Senderov et al. 2018</xref>) and stored in the <ext-link ext-link-type="uri" xlink:href="http://openbiodiv.net">OpenBiodiv</ext-link> Biodiversity Knowledge Graph.</p></list-item></list>
+        </p>
+        <p>The above mentioned approaches are supported by a whole ecosystem of additional workflows and tools, for example: (1) pre-publication data auditing, involving both human and machine data quality checks (workflow 2); (2) web-service integration with data repositories and data centres, such as <ext-link ext-link-type="uri" xlink:href="http://gbif.org">Global Biodiversity Information Facility</ext-link> (GBIF), <ext-link ext-link-type="uri" xlink:href="http://boldsystems.org">Barcode of Life Data Systems</ext-link> (BOLD), <ext-link ext-link-type="uri" xlink:href="https://www.idigbio.org/">Integrated Digitized Biocollections</ext-link> (iDigBio), <ext-link ext-link-type="uri" xlink:href="https://www.dataone.org/">Data Observation Network for Earth</ext-link> (DataONE), <ext-link ext-link-type="uri" xlink:href="https://lternet.edu/">Long Term Ecological Research</ext-link> (LTER), <ext-link ext-link-type="uri" xlink:href="https://plutof.ut.ee/">PlutoF</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://datadryad.org">Dryad</ext-link>, and others (workflows 1,2); (3) semantic markup of the article texts in the <ext-link ext-link-type="uri" xlink:href="http://plazi.org/resources/schemas-and-ontologies/taxpub/">TaxPub</ext-link> format facilitating further extraction, distribution and re-use of sub-article elements and data (workflows 3,4); (4) server-to-server import of specimen data from GBIF, BOLD, iDigBio and PlutoR into manuscript text (workflow 3); (5) automated conversion of EML metadata into data paper manuscripts (workflow 2); (6) export of Darwin Core Archive and automated deposition in GBIF (workflow 3); (7) submission of individual images and supplementary data under own DOIs to the <ext-link ext-link-type="uri" xlink:href="https://biolitrepo.org">Biodiversity Literature Repository</ext-link>, BLR (workflows 1-3); (8) conversion of key data elements from TaxPub articles and taxonomic treatments extracted by Plazi into RDF handled by <ext-link ext-link-type="uri" xlink:href="https://openbiodiv.net">OpenBiodiv</ext-link> (workflow 5).</p>
+        <p>These approaches represent different aspects of the prospective scholarly publishing of biodiversity data, which in a combination with text and data mining (TDM) technologies for legacy literature (PDF) developed by Plazi, lay the ground of an entire data publishing ecosystem for biodiversity, supplying FAIR (Findable, Accessible, Interoperable and Reusable data to several interoperable overarching infrastructures, such as GBIF, BLR, <ext-link ext-link-type="uri" xlink:href="http://plazi.org/resources/treatmentbank/">Plazi TreatmentBank</ext-link>, OpenBiodiv and various end users.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Lyubomir Penev</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5164886">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Georgiev</surname>
+              <given-names>Teodor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Geshev</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Demirov</surname>
+              <given-names>Seyhan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Senderov</surname>
+              <given-names>Viktor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuzmova</surname>
+              <given-names>Iliyana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kostadinova</surname>
+              <given-names>Iva</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peneva</surname>
+              <given-names>Slavena</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stoev</surname>
+              <given-names>Pavel</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>ARPHA-BioDiv: A toolbox for scholarly publication and dissemination of biodiversity data based on the ARPHA Publishing Platform</article-title>
+          <source>Research Ideas and Outcomes</source>
+          <volume>3</volume>
+          <fpage>e13088</fpage>
+          <pub-id pub-id-type="doi">10.3897/rio.3.e13088</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5165417">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Senderov</surname>
+              <given-names>Viktor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Simov</surname>
+              <given-names>Kiril</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>Nico</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stoev</surname>
+              <given-names>Pavel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Catapano</surname>
+              <given-names>Terry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>Guido</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morris</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>OpenBiodiv-O: ontology of the OpenBiodiv knowledge management system</article-title>
+          <source>Journal of Biomedical Semantics</source>
+          <volume>9</volume>
+          <issue>1</issue>
+          <fpage>5</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13326-017-0174-5</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

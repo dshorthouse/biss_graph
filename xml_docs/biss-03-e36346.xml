@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36346</article-id>
+      <article-id pub-id-type="publisher-id">36346</article-id>
+      <article-id pub-id-type="manuscript">11534</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP91 - Developing a Data-Literate Workforce in Biodiversity Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Citizen (Science) Involvement in Data Digitization and Enrichment of the Insect Collection of the <italic>Museu Nacional de História Natural e da Ciência</italic> (Lisboa, Portugal)</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Lopes</surname>
+            <given-names>Luis Filipe</given-names>
+          </name>
+          <email xlink:type="simple">filipe.lopes@ihmt.unl.pt</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3401-2814</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Venceslau</surname>
+            <given-names>Leonor</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>da Costa</surname>
+            <given-names>Luís</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5910-7126</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Global Health and Tropical Medicine, GHTM, Instituto de Higiene e Medicina Tropical, IHMT, Universidade Nova de Lisboa, UNL, Rua da Junqueira 100, 1349-008 Lisboa, Portugal</addr-line>
+        <institution>Global Health and Tropical Medicine, GHTM, Instituto de Higiene e Medicina Tropical, IHMT, Universidade Nova de Lisboa, UNL</institution>
+        <addr-line content-type="city">Rua da Junqueira 100, 1349-008 Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Centre for Ecology, Evolution and Environmental Changes (cE3c). Faculdade de Ciências da Universidade de Lisboa, Campo Grande 1749-016 Lisboa, Portugal</addr-line>
+        <institution>Centre for Ecology, Evolution and Environmental Changes (cE3c). Faculdade de Ciências da Universidade de Lisboa</institution>
+        <addr-line content-type="city">Campo Grande 1749-016 Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Faculdade de Ciências da Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>Faculdade de Ciências da Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>Museu Nacional de História Natural e da Ciência, Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Marine and Environmental Sciences Centre (MARE-ULisboa), Lisboa, Portugal</addr-line>
+        <institution>Marine and Environmental Sciences Centre (MARE-ULisboa)</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Luis Filipe Lopes (<email xlink:type="simple">filipe.lopes@ihmt.unl.pt</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36346</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A1DF826394AE5B66A7707EA5E383582E">A1DF826394AE5B66A7707EA5E383582E</uri>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Luis Filipe Lopes, Leonor Venceslau, Luís da Costa</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The entomological collection of the <italic>Museu Nacional de História Natural e da Ciência</italic> (MUHNAC), <italic>Universidade de Lisboa</italic>, includes over 70,000 catalogued specimens, mostly from Portugal and some African countries (<xref ref-type="bibr" rid="B5189797">Lopes et al. 2016</xref>). However, many more remain uncatalogued and thus unavailable to the broader scientific community. To achieve our goal of full access, it is necessary to digitize and validate all data associated with these specimens.</p>
+        <p>Recently, a large private collection, comprised of several thousand specimens compiled by José Passos de Carvalho, was donated to the Museum. These specimens are prepared and labelled, however no catalogue is available. Therefore, the only available information about each specimen is on the respective label(s).</p>
+        <p>To acquire this information, specimens are being photographed along with their labels (Fig. <xref ref-type="fig" rid="F5190001">1</xref>). Since digitization of specimen labels is labor intensive, we decided to use the <ext-link ext-link-type="uri" xlink:href="https://www.zooniverse.org/">Zooniverse </ext-link>platform to involve the public in this task. To this end we have developed a project (currently being tested), entitled “<ext-link ext-link-type="uri" xlink:href="https://www.zooniverse.org/projects/lfilipevsl/mb07-the-insects-of-the-museu-nacional-de-historia-natural-e-da-ciencia">MB07 - The Insects of the Museu Nacional de História Natural e da Ciência</ext-link>”, with a test dataset of 130 specimens of moths from the Sphingidae family (Insecta, Lepidoptera). The objective is to evaluate the potential of involving the public in the tasks of label transcription and taxonomic determination to enrich and speed collection digitization.</p>
+        <p>We have developed two distinct workflows: i) one in which users are asked to transcribe information from specimen labels, therefore a pure digitization task; and ii) a second workflow in which volunteers are asked to contribute new taxonomic information based on the specimen images. Therefore, the first task should be accessible to the general user while the second is more directed towards taxonomic specialists and not intended for the general public.</p>
+        <p>Here we present a preliminary analysis of our experience with this platform and of the obtained data.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>specimen data transcription</kwd>
+        <kwd>citizen science</kwd>
+        <kwd>entomological collections</kwd>
+        <kwd>Zooniverse</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Fundação para a Ciência e a Tecnologia</named-content>
+            <named-content content-type="funder_identifier">501100001871</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001871</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Luis Filipe Lopes</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>FCT for funds to GHTM – UID/Multi/04413/2013</p>
+        <p>FCT for funds to CE3C - UID/BIA/00329/2013</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>FCT for funds to GHTM – UID/Multi/04413/2013</p>
+      <p>FCT for funds to CE3C - UID/BIA/00329/2013</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5189797">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Lopes</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Correia</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Almaça</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Verdasca</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Silva</surname>
+              <given-names>P. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Insect Collection from the Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Portugal</article-title>
+          <uri>https://www.gbif.org/dataset/79673413-746f-48f2-bd8a-7cf27807317e</uri>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5190001" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Example of a photograph acquired in the<ext-link ext-link-type="uri" xlink:href="https://www.zooniverse.org/projects/lfilipevsl/mb07-the-insects-of-the-museu-nacional-de-historia-natural-e-da-ciencia"> MB07 project developed in the Zooniverse platform</ext-link> for label transcription and taxonomic determination. <italic>Agrius convolvuli</italic> (Linnaeus, 1758; Lepidoptera, Sphingidae) specimen from the <italic>Passos de Carvalho</italic> collection.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e36346-g001.jpg" position="float" id="oo_291784.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

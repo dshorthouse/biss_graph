@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37641</article-id>
+      <article-id pub-id-type="publisher-id">37641</article-id>
+      <article-id pub-id-type="manuscript">11127</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Value of Utilizing the Complete Temporal Distribution of Phenological Data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hällfors</surname>
+            <given-names>Maria Helena</given-names>
+          </name>
+          <email xlink:type="simple">maria.hallfors@helsinki.fi</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6890-8942</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Antão</surname>
+            <given-names>Laura</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Itter</surname>
+            <given-names>Malcolm</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lehikoinen</surname>
+            <given-names>Aleksi</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lindholm</surname>
+            <given-names>Tanja</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Roslin</surname>
+            <given-names>Tomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Saastamoinen</surname>
+            <given-names>Marjo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Research Centre for Environmental Change, University of Helsinki, Helsinki, Finland</addr-line>
+        <institution>Research Centre for Environmental Change, University of Helsinki</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Zoology unit, Finnish Museum of Natural History, University of Helsinki, Helsinki, Finland</addr-line>
+        <institution>Zoology unit, Finnish Museum of Natural History, University of Helsinki</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Department of Ecology, Swedish University of Agricultural Sciences, Uppsala, Sweden</addr-line>
+        <institution>Department of Ecology, Swedish University of Agricultural Sciences</institution>
+        <addr-line content-type="city">Uppsala</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Maria Helena Hällfors (<email xlink:type="simple">maria.hallfors@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37641</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/FB452FF89CFF54029FC6AB1EA51309B0">FB452FF89CFF54029FC6AB1EA51309B0</uri>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Maria Helena Hällfors, Laura Antão, Malcolm Itter, Aleksi Lehikoinen, Tanja Lindholm, Tomas Roslin, Marjo Saastamoinen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Numerous studies over the past decades have shown that species phenologies are shifting. Behind the large-scale patterns of shifting phenologies lies, however, large variability across species and space in terms of both the sign of the shifts (advance or delay) and their magnitude (rate of change). The shifts in the timing of seasonal events are usually studied by measuring change in one part of the phenological distribution over the season, such as the mean or first appearance of the event. This, however, gives us a mere glimpse of how (part of) a population is changing, thus limiting our ability to understand the underlying mechanisms. We demonstrate the benefits of taking a holistic approach to describing phenological change by considering shifts in the complete phenological distribution and interrelationships within it. As a case study, we make use of a database on bird chick banding events to understand the shifts in breeding phenology for 74 bird species across 43 years and 4 bioclimatic zones distributed across Finland. We find that bird breeding is stacking up towards earlier and more compressed peak periods. The majority of change can be attributed to a faster advance of the tail of the distribution, alongside minor advancement of the beginning of the season. We conclude that the observed shifts potentially intensify intraspecific competition by increasing the temporal co-occurrence of broods across large geographical areas. Nevertheless, these patterns would likely have not been recognized through summarizing the data by species mean dates alone. We therefore urge scientists and data managers to compile and utilize phenological data at higher resolution, retaining the original detail. This will allow us to capture multiple modes of population-level change, thereby providing deeper insights into how species are responding to ongoing climate warming.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>phenology curve</kwd>
+        <kwd>environmental change</kwd>
+        <kwd>nonanalogue shifts</kwd>
+        <kwd>phenological data</kwd>
+        <kwd>temporal distribution</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>The Research Centre for Ecological Change is supported by the Jane and Aatos Erkko foundation.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Maria Hällfors</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Research Centre for Environmental Change, Organismal and Evolutionary Biology Research Programme, Faculty of Biological and Environmental Sciences, PO Box 65 (Biocentre 3, Viikinkaari 1), FI-00014 University of Helsinki, FINLAND</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>We declare no conflicts of interest.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Research Centre for Environmental Change, Organismal and Evolutionary Biology Research Programme, Faculty of Biological and Environmental Sciences, PO Box 65 (Biocentre 3, Viikinkaari 1), FI-00014 University of Helsinki, FINLAND</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>We declare no conflicts of interest.</p>
+    </sec>
+  </back>
+</article>

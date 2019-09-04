@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38263</article-id>
+      <article-id pub-id-type="publisher-id">38263</article-id>
+      <article-id pub-id-type="manuscript">11351</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Citing Evolving Data: An implementation on the NHM Data Portal</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Humphries</surname>
+            <given-names>Josh</given-names>
+          </name>
+          <email xlink:type="simple">j.humphries@nhm.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5493-9804</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Josh Humphries (<email xlink:type="simple">j.humphries@nhm.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38263</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/330118B508435649A33EDC74CC3D9B9F">330118B508435649A33EDC74CC3D9B9F</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Josh Humphries</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Since 2015, the Natural History Museum London has made its research and collections data available through its Data Portal (<ext-link ext-link-type="uri" xlink:href="https://data.nhm.ac.uk">https://data.nhm.ac.uk</ext-link>). This website provides free and open access to important research datasets as well as digitised objects from the Museum's specimen collection. The Data Portal currently has over 4.2 million records from the specimen collection and a further 5.5 million records from other research datasets. Since 2015, more than 250 scientific publications have cited data from the Data Portal, either directly or through aggregators such as the Global Biodiversity Information Facility (GBIF), although there are many more citations than it is currently possible to track.</p>
+        <p>Users can download data from the Portal and are encouraged to cite the source, however, there is currently no way for users to cite subsets of the data returned through a query, nor a way to persistently identify the data subset they are citing. This is a common issue with scientific data put online, particularly when the cited data changes frequently, such as is the case with the Museum's specimen collection, which grows constantly as more of the collection is digitised.</p>
+        <p>This poster outlines a new approach that has been designed to meet the Research Data Alliance's (RDA) Working Group on Data Citation recommendations on citing evolving data (<xref ref-type="bibr" rid="B5190691">Rauber et al. 2015</xref>). This is achieved by implementing a fully versioned search framework, ensuring that all modifications to records are tracked and the version timestamp of each modification is combined with the data into the search index. When users search and download data from the Portal, Digital Object Identifiers (DOI) are minted for unique searches at exact versions allowing the dynamic, repeated retrieval of data at any version timestamp, without storing the results. Combining the versioning information into the search index also allows queries against historical data.</p>
+        <p>By persistently identifying query results in this fashion, researchers can cite data precisely and have confidence that although the data may change after they use it, users of their work will be able to access the data as it looked when they studied it originally. This should also encourage the systematic use of citations, making it easier to track both the usage and impact of research and collections datasets.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data portal</kwd>
+        <kwd>citation</kwd>
+        <kwd>DOI</kwd>
+        <kwd>persistent identifiers</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Josh Humphries</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Supported by the Natural History Museum, London.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Supported by the Natural History Museum, London.</p>
+    </sec>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>Alice Butcher, Matt Woodburn</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5190691">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Rauber</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Asmi</surname>
+              <given-names>Ari</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Uytvanck</surname>
+              <given-names>Dieter van</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Proell</surname>
+              <given-names>Stefan</given-names>
+            </name>
+          </person-group>
+          <article-title>Data Citation of Evolving Data: Recommendations of the Working Group on Data Citation (WGDC)</article-title>
+          <pub-id pub-id-type="doi">10.15497/RDA00016</pub-id>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

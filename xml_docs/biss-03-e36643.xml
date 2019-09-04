@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36643</article-id>
+      <article-id pub-id-type="publisher-id">36643</article-id>
+      <article-id pub-id-type="manuscript">11703</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>More Than Names: The role of updated taxonomy in palaeontology collections</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Paredes</surname>
+            <given-names>Ricardo</given-names>
+          </name>
+          <email xlink:type="simple">ricardo.paredes@uc.pt</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9984-2456</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Science Museum – University of Coimbra, Portugal. Largo Marquês de Pombal, 3000-272 , Coimbra, Portugal</addr-line>
+        <institution>Science Museum – University of Coimbra, Portugal. Largo Marquês de Pombal, 3000-272 </institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Procesos Bióticos Mesozoicos Research Group - Complutense University, Spain, Madrid, Spain</addr-line>
+        <institution>Procesos Bióticos Mesozoicos Research Group - Complutense University, Spain</institution>
+        <addr-line content-type="city">Madrid</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">MARE - Marine and Environmental Sciences Centre - University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>MARE - Marine and Environmental Sciences Centre - University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Ricardo Paredes (<email xlink:type="simple">ricardo.paredes@uc.pt</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36643</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/87BD91342E035F07A78E4F113869CE28">87BD91342E035F07A78E4F113869CE28</uri>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Ricardo Paredes</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The accuracy on taxonomic determinations of palaeontology collections may have significant consequences in estimations of organism diversity through time. This justifies the need of taxonomic standardization of palaeontological collections. The perception of palaeodiversity through Phanerozoic time has significantly improved since the Sepkoski showed the marine invertebrate taxonomic data in diversity graphs, organized in orders (<xref ref-type="bibr" rid="B5235742">Sepkoski 1978</xref>) and families (<xref ref-type="bibr" rid="B5235752">Sepkoski 1979</xref>, <xref ref-type="bibr" rid="B5235762">Sepkoski 1984</xref>). The visual impact of these graphs engaged palaeontologists into gathering quantitative macroevolution in order to better understand marine palaeodiversity. <xref ref-type="bibr" rid="B5235691">Alroy et al. (2008)</xref> presented a rebuilt diversity curve based on genus-level in a large sample record. These and other statistically sound and standardized datasets of fossil occurrences have combined sources as literature, databases, and museum collections data as a foundation. Integration of these datasets with the entire fossil record based on individual specimens in space and time would be the ideal approach to species-level taxonomy standards determinations. An example showing how this approach may be achieved is the use of initiatives such as the Web-based data facility <ext-link ext-link-type="uri" xlink:href="http://fossilworks.org/">Palaeontology Database (PdB)</ext-link> which includes a large amount of fossil record data from throughout the world. The major advantage of that is to gather institucional and also private palaeontological collections with taxonomy experts validation. The core of these datasets is the taxon, with the species as the expected most reliable unit. Taxonomy is therefore the discipline enrolled in the process with the taxonomist at the centre of the process. Updated taxonomy is crucial to create reliable datasets and a careful approach should prevent biased data due to under- or overestimation of diversity.</p>
+        <p>Palaeontological museum collections are known to be one of the largest repositories of fossil data. Taxonomic standardization of palaeontology collections in the context of a museum should:</p>
+        <p>
+          <list list-type="order"><list-item><p>Engage taxonomists in revising fossil clades of the museum material;</p></list-item><list-item><p>Promote networking and museum researcher peers involved in similar collections activities;</p></list-item><list-item><p>Avoid replication of errors in taxonomic determinations (e.g. exclusive use of Web-based databases sources of taxonomy);</p></list-item><list-item><p>Use type material to compare with the collection specimens;</p></list-item><list-item><p>Critically analyse previous taxonomic determinations on old labels and associated specimen information;</p></list-item><list-item><p>Promote the accessibility of the collection to the research community;</p></list-item><list-item><p>Emphasize digitisation of specimen catalogue records as well as 2D imaging of the specimens.</p></list-item></list>
+        </p>
+        <p>These practices are valuable complements to current methodologies adopted to improve the taxonomy of collections, resulting in more reliable data which further enables museum-based research focusing on palaeodiversity estimations.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>palaeodiversity</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>online inventory</kwd>
+        <kwd>fossils</kwd>
+        <kwd>curatorship management</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Ricardo Paredes</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5235691">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Alroy</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aberhan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bottjer</surname>
+              <given-names>D. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Foote</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fursich</surname>
+              <given-names>F. T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Harries</surname>
+              <given-names>P. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hendy</surname>
+              <given-names>A. J. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holland</surname>
+              <given-names>S. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ivany</surname>
+              <given-names>L. C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kiessling</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kosnik</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marshall</surname>
+              <given-names>C. R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McGowan</surname>
+              <given-names>A. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Miller</surname>
+              <given-names>A. I.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Olszewski</surname>
+              <given-names>T. D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Patzkowsky</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peters</surname>
+              <given-names>S. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Villier</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wagner</surname>
+              <given-names>P. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bonuso</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Borkow</surname>
+              <given-names>P. S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brenneis</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clapham</surname>
+              <given-names>M. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fall</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ferguson</surname>
+              <given-names>C. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hanson</surname>
+              <given-names>V. L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Krug</surname>
+              <given-names>A. Z.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Layou</surname>
+              <given-names>K. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leckey</surname>
+              <given-names>E. H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nurnberg</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Powers</surname>
+              <given-names>C. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sessa</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Simpson</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tomasovych</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Visaggi</surname>
+              <given-names>C. C.</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Phanerozoic trends in the global diversity of marine invertebrates</article-title>
+          <source>Science</source>
+          <volume>321</volume>
+          <issue>5885</issue>
+          <fpage>97</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1156963</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5235742">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sepkoski</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>1978</year>
+          <article-title>A kinetic model of Phanerozoic taxonomic diversity I. Analysis of marine orders</article-title>
+          <source>Paleobiology</source>
+          <volume>4</volume>
+          <issue>3</issue>
+          <fpage>223</fpage>
+          <lpage>251</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0094837300005972</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5235752">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sepkoski</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>1979</year>
+          <article-title>A kinetic model of Phanerozoic taxonomic diversity II. Early Phanerozoic families and multiple equilibria</article-title>
+          <source>Paleobiology</source>
+          <volume>5</volume>
+          <issue>3</issue>
+          <fpage>222</fpage>
+          <lpage>251</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0094837300006539</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5235762">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sepkoski</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>1984</year>
+          <article-title>A kinetic model of Phanerozoic taxonomic diversity. III. Post-Paleozoic families and mass extinctions</article-title>
+          <source>Paleobiology</source>
+          <volume>10</volume>
+          <issue>2</issue>
+          <fpage>246</fpage>
+          <lpage>267</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0094837300008186</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

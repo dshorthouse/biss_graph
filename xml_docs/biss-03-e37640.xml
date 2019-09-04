@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37640</article-id>
+      <article-id pub-id-type="publisher-id">37640</article-id>
+      <article-id pub-id-type="manuscript">10931</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Future Challenges in Digitisation of Private Natural History Collections</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Willemse</surname>
+            <given-names>Luc</given-names>
+          </name>
+          <email xlink:type="simple">luc.willemse@naturalis.nl</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>van Egmond</surname>
+            <given-names>Emily</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Runnel</surname>
+            <given-names>Veljo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Saarenmaa</surname>
+            <given-names>Hannu</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rubio</surname>
+            <given-names>Ana Casino</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gödderz</surname>
+            <given-names>Karsten</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vermeersch</surname>
+            <given-names>Xavier</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Tartu, Tartu, Estonia</addr-line>
+        <institution>University of Tartu</institution>
+        <addr-line content-type="city">Tartu</addr-line>
+        <country>Estonia</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Eastern Finland, Joensuu, Finland</addr-line>
+        <institution>University of Eastern Finland</institution>
+        <addr-line content-type="city">Joensuu</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">CETAF c/o Royal Belgian Institute of Natural Sciences, Brussels, Belgium</addr-line>
+        <institution>CETAF c/o Royal Belgian Institute of Natural Sciences</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Luc Willemse (<email xlink:type="simple">luc.willemse@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37640</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/532659BFE6CC57F78A2D8E68F7903099">532659BFE6CC57F78A2D8E68F7903099</uri>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Luc Willemse, Emily van Egmond, Veljo Runnel, Hannu Saarenmaa, Ana Casino Rubio, Karsten Gödderz, Xavier Vermeersch</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>
+          <styled-content style="font-weight:normal;">Specimens held in private natural history collections form an essential, but often neglected part of the specimens held worldwide in natural history collections. When engaging in regional, national or international initiatives aimed at increasing the accessibility of biodiversity data, it is paramount to include private collections as much and as often as possible. Compared to larger collections in national history institutions, private collections present a unique set of challenges: they are numerous, anonymous, small and diverse in all aspects of collection management. I<styled-content style="font-weight:normal;">n <ext-link ext-link-type="uri" xlink:href="https://icedig.eu/">ICEDIG</ext-link>, a design study for <ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">DiSSCo</ext-link> these challenges were tackled in task 2 "Inventory of content and incentives for digitisation of small and private collections" under Workpackage 2 "Inventory of current criteria for prioritization of digitization".</styled-content></styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">First, we need to understand the current state and content of private collections within Europe, to identify and tackle challenges more effectively. While some private collections will duplicate material already held in public collections, many are likely to fill more specialised or unusual niches, relevant to the particular collector(s). At present, there is little evidence about the content of private collections and this needs to be explored. In 2018, a European survey was carried out amongst private collection owners to gain more insight in the volume, scope and degree of digitisation of these collections. </styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">Based on this <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/record/2582995#.XJHqn9VKiHs">survey</ext-link>, all of the respondents’ collections combined are estimated to contain between 9 and 33 million specimens. This is only the tip of the iceberg for private collections in Europe and underlines the importance of these private collections. Digitisation and sharing collection data are activities that are overall considered important among private collection owners. The survey also showed that for those who have not yet started digitising their collection, the provision of tools and information would be most valuable. These and other highlights of the survey will be presented. In addition, protocols for inventories of private collections will be discussed, as well as ways to keep these up to date. </styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">To enhance the inclusion of private collections in Europe’s digitisation efforts, we recognise that we mainly have to focus on the challenges regarding the ‘how’ (work-process), and the sharing of information residing in private collections (including ownership, legal issues, sensitive data). Where necessary, we will also draw attention to the ‘why’ (motivation) of digitisation. A communication strategy aimed at raising awareness about digitisation, offering insight in the practicalities to implement digitisation as well as providing answers to issues related to sharing information, is an essential tool. Elements of a communication strategy to further engage private collection owners will be presented, as will conclusions and recommendations. </styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">Finally, digitisation and communication aspects related to private collection owners will need to be tested within the community. Therefore, a pilot project is currently (2018-2019) being carried out in Estonia, Finland and the Netherlands to digitise private collections in a variety of settings. Preliminary results will be presented, zooming in on different approaches to include data from private collections in the overall (research) infrastructures.</styled-content>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>private collections</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>challenges</kwd>
+        <kwd>data ownership</kwd>
+        <kwd>legal issues</kwd>
+        <kwd>sensitive data</kwd>
+        <kwd>communication strategy</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Luc Willemse</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

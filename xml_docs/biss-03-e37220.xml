@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37220</article-id>
+      <article-id pub-id-type="publisher-id">37220</article-id>
+      <article-id pub-id-type="manuscript">11347</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS14 - The role of Earth Science collections within biodiversity research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Importance of Storing and Delivering Geochemical Data for Earth Science Collections</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Miller</surname>
+            <given-names>Giles</given-names>
+          </name>
+          <email xlink:type="simple">g.miller@nhm.ac.uk</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lehnert</surname>
+            <given-names>Kerstin</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7036-1977</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Lamont-Doherty Earth Observatory, Columbia University, Palisades, United States of America</addr-line>
+        <institution>Lamont-Doherty Earth Observatory, Columbia University</institution>
+        <addr-line content-type="city">Palisades</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Giles Miller (<email xlink:type="simple">g.miller@nhm.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37220</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/EEF17C749403573DB3117483012DF2C0">EEF17C749403573DB3117483012DF2C0</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Giles Miller, Kerstin Lehnert</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The composition and state of the earth’s lithosphere through time has had profound effect on past and present biodiversity and will continue to do so into the future. Environments ranging from deep sea hydrothermal vents to active continental volcanic centres provide a wide range of ecosystems that have shaped the planet we know. Catastrophic events relating to movements of the lithosphere and events deep in the mantle have also caused major biodiversity changes such as mass extinctions. Our museum collections contain rock and fossil specimens collected from many of these environments and suites of samples specifically collected in order to better understand the evolution of our planet. Requests to carry out geochemical investigations on these samples are common and a large amount of data is generated as a result. Currently there are no natural history collections management systems tailored towards recording and delivering these datasets and the result is that the data is recorded in various distributed systems and cannot be easily assessed and used. It is important for these analyses on our museum collections to be delivered in a standard way so that the importance and relevance of these collections can be demonstrated and large datasets generated to answer big questions regarding the geological evolution of our planet. Examples of these questions include “how and when will volcanic eruptions will occur?” and “what has been the role of volcanism during mass extinction?”. Other geochemical studies such as oxygen isotope studies have been carried out on museum collections in order to investigate past oceanic environments and the effects of changes in climate on our oceans. Geochemical data aggregators such as <ext-link ext-link-type="uri" xlink:href="https://www.earthchem.org/">EarthChem</ext-link> have made great strides in working towards international data standards and providing portals for delivering this type of data. As we progress towards one European Collection (DiSSCo) it is vital that we recognise the importance of these natural history collections related geochemical datasets and include delivering them on the general roadmap.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>geochemistry</kwd>
+        <kwd>portals</kwd>
+        <kwd>natural history collections</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Giles Miller</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

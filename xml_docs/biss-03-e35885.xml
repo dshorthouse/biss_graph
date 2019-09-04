@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35885</article-id>
+      <article-id pub-id-type="publisher-id">35885</article-id>
+      <article-id pub-id-type="manuscript">11707</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS48 Strengthening the biodiversity informatics community of practice through capacity enhancement</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Developing Digital Botanical Resources for Pakistan</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Barkworth</surname>
+            <given-names>Mary</given-names>
+          </name>
+          <email xlink:type="simple">mary.barkworth@usu.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9785-1538</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ahmad</surname>
+            <given-names>Mushtaq</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Asrar</surname>
+            <given-names>Mudassir</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bhatti</surname>
+            <given-names>Raza</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cobb</surname>
+            <given-names>Neil</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fareed</surname>
+            <given-names>Lubna</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jamil</surname>
+            <given-names>Shahid</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Khaskheli</surname>
+            <given-names>Shakeel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Memon</surname>
+            <given-names>Rabia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rashid</surname>
+            <given-names>Abdur</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sultan</surname>
+            <given-names>Amir</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ullah</surname>
+            <given-names>Zahid</given-names>
+          </name>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Utah State University, Logan, United States of America</addr-line>
+        <institution>Utah State University</institution>
+        <addr-line content-type="city">Logan</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Quaid-i-Azam University, Islamabad, Pakistan</addr-line>
+        <institution>Quaid-i-Azam University</institution>
+        <addr-line content-type="city">Islamabad</addr-line>
+        <country>Pakistan</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Balochistan, Quetta, Pakistan</addr-line>
+        <institution>University of Balochistan</institution>
+        <addr-line content-type="city">Quetta</addr-line>
+        <country>Pakistan</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Shah Abdul Latif University, Khairpur, Pakistan</addr-line>
+        <institution>Shah Abdul Latif University</institution>
+        <addr-line content-type="city">Khairpur</addr-line>
+        <country>Pakistan</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Northern Arizona University, Flagstaff, United States of America</addr-line>
+        <institution>Northern Arizona University</institution>
+        <addr-line content-type="city">Flagstaff</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Post Graduate College Bannu, Bannu, Pakistan</addr-line>
+        <institution>Post Graduate College Bannu</institution>
+        <addr-line content-type="city">Bannu</addr-line>
+        <country>Pakistan</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">University Sindh Jamshoro, Jamshoro, Pakistan</addr-line>
+        <institution>University Sindh Jamshoro</institution>
+        <addr-line content-type="city">Jamshoro</addr-line>
+        <country>Pakistan</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">University of Peshawar, Peshawar, Pakistan</addr-line>
+        <institution>University of Peshawar</institution>
+        <addr-line content-type="city">Peshawar</addr-line>
+        <country>Pakistan</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim">National Herbarium of Pakistan, Rawalpindi, Pakistan</addr-line>
+        <institution>National Herbarium of Pakistan</institution>
+        <addr-line content-type="city">Rawalpindi</addr-line>
+        <country>Pakistan</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">University of Swat, Swat, Pakistan</addr-line>
+        <institution>University of Swat</institution>
+        <addr-line content-type="city">Swat</addr-line>
+        <country>Pakistan</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mary Barkworth (<email xlink:type="simple">mary.barkworth@usu.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35885</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/EC8B46FF17D65EEFB7E233BE61BC8FCA">EC8B46FF17D65EEFB7E233BE61BC8FCA</uri>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mary Barkworth, Mushtaq Ahmad, Mudassir Asrar, Raza Bhatti, Neil Cobb, Lubna Fareed, Shahid Jamil, Shakeel Khaskheli, Rabia Memon, Abdur Rashid, Amir Sultan, Zahid Ullah</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In 2017, funding from the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/programme/82629/bifa-biodiversity-information-fund-for-asia">Biodiversity Information Fund for Asia</ext-link> accelerated data mobilization and georeferencing by Pakistani herbaria. The funding directly benefited only two herbaria but, by the end of the project 9 herbaria were involved in sharing data, 2 through <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">GBIF</ext-link> (<xref ref-type="bibr" rid="B5216472">ISL 2019</xref>, <xref ref-type="bibr" rid="B5216522">SINDH 2019</xref>; codes according to <ext-link ext-link-type="uri" xlink:href="http://sweetgum.nybg.org/science/ih/">Index herbariorum</ext-link>) and 6 others (<xref ref-type="bibr" rid="B5216536">BANNU 2019</xref>, <xref ref-type="bibr" rid="B5216546">BGH 2019</xref>, <xref ref-type="bibr" rid="B5216555">PUP 2019</xref>, <xref ref-type="bibr" rid="B5218261">QUETTA 2019</xref>, <xref ref-type="bibr" rid="B5218270">RAW 2019</xref>, <xref ref-type="bibr" rid="B5218279">SWAT 2019</xref>) through <ext-link ext-link-type="uri" xlink:href="http://openherbarium.org/portal/index.php">OpenHerbarium</ext-link>, a <ext-link ext-link-type="uri" xlink:href="http://symbiota.org">Symbiota</ext-link> based network. Eventually, all collections in <ext-link ext-link-type="uri" xlink:href="http://openherbarium.org/portal/index.php">OpenHerbarium</ext-link> are expected to become GBIF data providers. Additional Pakistani herbaria are being introduced to data mobilization and several individuals have expressed interest in learning to use <ext-link ext-link-type="uri" xlink:href="http://openherbarium.org/portal/index.php">OpenHerbarium</ext-link> to generated documented checklists for teaching and research and others for learning to link information in <ext-link ext-link-type="uri" xlink:href="http://openherbarium.org/portal/index.php">OpenHerbarium</ext-link> to other resources. These are the first steps to developing a “a large group of individuals … to train, mentor, and champion [biodiversity] data use” in Pakistan, but it is important to remember that good bioidiversity data starts in the field. We need to provide today’s collectors and educators with easy access to a) information about what constitutes a high-quality herbarium specimen; b) tools for making it easier to record and provide high quality specimen data; c) simple mechanisms for sharing data in ways that provide immediately useful resources; and d) learning to make use of the data becoming available. <ext-link ext-link-type="uri" xlink:href="http://openherbarium.org/portal/index.php">OpenHerbarium</ext-link> addresses the third and fourth needs and also makes it simple for collections to become GBIF data providers. This year, the focus will be on first two of the three steps identified. Introduction of the new resources will be used to introduce collectors and educators to the ideas underlying provision of biodiversity data that is fit for use and reuse. When Symbiota2 is functional, OpenHerbarium will be moved to that system. This will encourage development of additional tools for using biodiversity data. All these activities are essential to helping spread understanding of the concepts integral to biodiversity informatics. </p>
+        <p>It is, of course, possible “to train, build, and champion data use” using data for other parts of the world, or provided by institutions from other parts of the world, but embedding good biodiversity data practices into the fabric of a country’s biodiversity education and research activities better benefits the country if a substantial portion of the data is generated from within the country. It also helps to spread knowledge of the country’s biodiversity among its students. Consequently, our focus in developing Pakistan’s capacity in biodiversity informatics is on engaging collections and collectors in sharing biodiversity data, then helping them discover, use, and create methods for developing the insights needed to encourage wise use of the country’s biological resources, and encouraging interaction. This will lead to a “community of practice” within Pakistan that can both benefit from and contribute to an international “community of practice”.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity data mobilization</kwd>
+        <kwd>Pakistan</kwd>
+        <kwd>OpenHerbarium</kwd>
+        <kwd>KeyBase</kwd>
+        <kwd>checklists</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="8"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mary E. Barkworth</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Biodiversity Fund for Asia, Higher Education Commission Pakistan (to Memon), Pakistan Science Foundation (to Asrar).</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Biodiversity Fund for Asia, Higher Education Commission Pakistan (to Memon), Pakistan Science Foundation (to Asrar).</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5216536">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>BANNU</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Postgraduate College Bannu Herbarium. Occurrence dataset.</article-title>
+          <source>OpenHerbarium.org</source>
+          <uri>http://openherbarium.org/portal/collections/misc/collprofiles.php</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5216546">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>BGH</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>University of Malakand Botanical Garden and Herbarium. Occurrence dataset.</article-title>
+          <publisher-name>penHerbarium.org</publisher-name>
+          <uri>http://openherbarium.org/portal/collections/misc/collprofiles.php?collid=46</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5216472">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>ISL</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <chapter-title>Herbarium of Pakistan</chapter-title>
+          <source>Quaid-i-Azam University Herbarium. Occurrence dataset</source>
+          <pub-id pub-id-type="doi">10.15468/bp6jy3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216555">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>PUP</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Univesity of Peshawar Herbarium. Occurrence dataset</article-title>
+          <publisher-name>OpenHerbarium.org</publisher-name>
+          <uri>http://openherbarium.org/portal/collections/misc/collprofiles.php?collid=46</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5218261">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>QUETTA</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>University of Balochistan Herbarium. Occurrence dataset</article-title>
+          <publisher-name>OPenHerbarium.org</publisher-name>
+          <uri>http://openherbarium.org/portal/collections/misc/collprofiles.php?collid=47</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5218270">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>RAW</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>National Herbarium of Pakistan. Occurrence dataset</article-title>
+          <publisher-name>OpenHerbarium.org</publisher-name>
+          <uri>http://openherbarium.org/portal/collections/misc/collprofiles.php?collid=45</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5216522">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>SINDH</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <chapter-title>Institute of Plant Sciences</chapter-title>
+          <source>University of Sindh Jamshoro Herbarium. Occurrence dataset</source>
+          <publisher-name>GBIF</publisher-name>
+          <pub-id pub-id-type="doi">10.15468/vpgzhd</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5218279">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>SWAT</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>University of Swat Herbarium. Occurrence dataset.</article-title>
+          <publisher-name>OpenHerbarium.org</publisher-name>
+          <uri>http://openherbarium.org/portal/collections/misc/collprofiles.php?collid=33</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

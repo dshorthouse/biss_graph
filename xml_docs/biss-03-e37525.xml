@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37525</article-id>
+      <article-id pub-id-type="publisher-id">37525</article-id>
+      <article-id pub-id-type="manuscript">11590</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Discovering Patterns of Biodiversity in Insects Using Deep Machine Learning</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Earl</surname>
+            <given-names>Chandra</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>White</surname>
+            <given-names>Alexander E.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9708-2406</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Trizna</surname>
+            <given-names>Michael G.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0537-8382</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Frandsen</surname>
+            <given-names>Paul B.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4801-7579</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kawahara</surname>
+            <given-names>Akito Y.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3724-4610</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Brady</surname>
+            <given-names>Sean G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dikow</surname>
+            <given-names>Rebecca B.</given-names>
+          </name>
+          <email xlink:type="simple">dikowr@si.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9668-3683</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Florida, Gainesville, Fl, United States of America</addr-line>
+        <institution>University of Florida</institution>
+        <addr-line content-type="city">Gainesville, Fl</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Smithsonian Institution, Washington DC, United States of America</addr-line>
+        <institution>Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington DC</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Brigham Young University, Provo, Utah, United States of America</addr-line>
+        <institution>Brigham Young University</institution>
+        <addr-line content-type="city">Provo, Utah</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, Gainesville, United States of America</addr-line>
+        <institution>Florida Museum of Natural History</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Rebecca B. Dikow (<email xlink:type="simple">dikowr@si.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37525</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/87B16B68C4495FBFBB1B78AB8B87DE9C">87B16B68C4495FBFBB1B78AB8B87DE9C</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Museum specimens have enormous potential for use in a broad range of biodiversity and evolutionary questions, but their data are typically accessible only to researchers who can physically visit collections facilities. Recent digitization efforts of collections provide new modes of access and collaboration to enrich biodiversity knowledge, and remarkable progress is now being made in assembling a corpus of imaged specimens and their associated labels. The <ext-link ext-link-type="uri" xlink:href="https://dpo.si.edu">Smithsonian Digitization Program Office</ext-link> recently partnered with the <ext-link ext-link-type="uri" xlink:href="https://naturalhistory.si.edu">National Museum of Natural History</ext-link> (NMNH), Department of Entomology to mass-digitize their bumblebee (genus <italic>Bombus</italic>) collection. Digital images were captured from more than 45,000 specimens and labels were transcribed by volunteers through the <ext-link ext-link-type="uri" xlink:href="https://transcription.si.edu">Smithsonian Transcription Center</ext-link>. More than 10,000 of these specimens are not yet identified to subgenus or species. We present deep learning models (specifically, convolutional neural networks) that can classify specimens to subgenus (NMMH has 15 subgenera) and species (NMNH has 178 species). Both models average greater than 90% accuracy even when trained on a small number of input images (tens of images per cla<styled-content style="background-color: rgb(255, 225, 72);">ss)</styled-content>. Beyond taxonomic classification, we explore how we can link our models to traditional morphological characters, biogeographical data, digitized scientific literature, and external image datasets to further our understanding of biodiversity.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>machine learning</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>insects</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Rebecca B. Dikow</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

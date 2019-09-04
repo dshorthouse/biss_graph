@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38264</article-id>
+      <article-id pub-id-type="publisher-id">38264</article-id>
+      <article-id pub-id-type="manuscript">11043</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST92 - Advancing the Quality of Diverse Citizen Science Data from Observations to Atlasing Projects</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The UK's Volunteer Data: A blessing and a curse?</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Judge</surname>
+            <given-names>Jo</given-names>
+          </name>
+          <email xlink:type="simple">j.judge@nbn.org.uk</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">National Biodiversity Network, Notthingam, United Kingdom</addr-line>
+        <institution>National Biodiversity Network</institution>
+        <addr-line content-type="city">Notthingam</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jo Judge (<email xlink:type="simple">j.judge@nbn.org.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38264</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/BF04BBBE5FCD5D1FAAE99E5DBC0382EF">BF04BBBE5FCD5D1FAAE99E5DBC0382EF</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jo Judge</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>There is a rich history of biodiversity data collection in the United Kingdom (UK) from the earliest record of a Peregrine falcon in 1605 to the 1.5 million records from the last two years, all of which contribute to the 222 million occurence records covering 45,500 species available on the NBN Atlas. Today, there are over 90 national schemes, usually covering specific taxa, approximately 60 Local Environmental Record Centres, a similar number of regional recording groups and a growing number of citizen science projects all collecting data about wildlife in the UK through different mechanisms from paper records to remote recording (e.g., using acoustics to monitor the presence of bat species), and using differing data standards. </p>
+        <p>Bringing these data together and making them available in the Darwin Core format makes the National Biodiversity Network's (NBN) Atlas (www.nbnatlas.org) an unparalleled resource for understanding the UK’s natural world and contributes to the picture of global biodiversity. However, this is not a simple job, adapting the record data and metadata to fit the Darwin Core format while making it simple for data providers to understand, the complexity of data flows and verification of species ID can cause all cause delay in making data of a known quality available for use. In this presentation we will describe how we are dealing with these issues now and plans for how to improve things in the future. We will also talk about the the strengths of the data shared by amateur experts, how they can be used for more than just species trends and why the push for Open Data may actually be reducing the amount of accessible wildlife data in the UK.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>atlas</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>citizen science</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jo Judge</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

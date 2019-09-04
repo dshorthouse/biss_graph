@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37791</article-id>
+      <article-id pub-id-type="publisher-id">37791</article-id>
+      <article-id pub-id-type="manuscript">11229</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP17 - Science Powered by Informatics – Connecting Policy Needs with Data Driven Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Supporting Essential Biodiversity Variables: The GLOBIS case study</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Belbin</surname>
+            <given-names>Lee</given-names>
+          </name>
+          <email xlink:type="simple">leebelbin@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8900-6203</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hobern</surname>
+            <given-names>Donald</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6492-4016</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Atlas of Living Australia, CSIRO, Canberra, Australia</addr-line>
+        <institution>Atlas of Living Australia, CSIRO</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">International Barcode of Life, Canberra, Australia</addr-line>
+        <institution>International Barcode of Life</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Lee Belbin (<email xlink:type="simple">leebelbin@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37791</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/CB58B9C02BDB57BE84666A5D540EBA01">CB58B9C02BDB57BE84666A5D540EBA01</uri>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Lee Belbin, Donald Hobern</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Essential Biodiversity Variables (EBVs) are the latest push toward supporting state of the environment indicators (<xref ref-type="bibr" rid="B5174749">Pereira et al. 2013</xref>). The European Union Funded Creative-B Project (see <ext-link ext-link-type="uri" xlink:href="https://cordis.europa.eu/project/rcn/100345/brief/en">https://cordis.europa.eu/project/rcn/100345/brief/en</ext-link>) outlined the status and strategy for interoperability between what they termed Biodiversity Research Infrastructures (BRIs: such as the Global Biodiversity Information Infrastructure (GBIF), the Atlas of Living Australia (ALA) and the Integrated Digitized Biocollections (iDigBio)). Toward the end of that project, the group decided that a logical follow-on project should position BRIs to support the production of Essential Biodiversity Variables (EBVs). This idea became the GLOBal Infrastructures for Supporting Biodiversity research (GLOBIS-B) project (<ext-link ext-link-type="uri" xlink:href="http://www.globis-b.eu/">http://www.globis-b.eu</ext-link>) and this presentation provides a summary of a case study on generating EBVs (<xref ref-type="bibr" rid="B5174727">Hardisty et al. 2019</xref>).</p>
+        <p>As a part of GLOBIS-B, I suggested that a small team of GLOBIS members should document in detail, each step in the production of an EBV from GBIF and the ALA data for a few invasive species. We wanted address the rarity of detailed recording and justification for each step in the production of a dataset for environmental evaluation. I anticipated that the team would encounter many practical issues, but this case study raised far more significant issues that any of us had anticipated.</p>
+        <p>The EBV chosen for this study was Area of Occupancy (<xref ref-type="bibr" rid="B5174740">IUCN Standards and Petitions Subcommittee 2017</xref>) and the species selected represented various invasion scenarios: <italic>Acacia longifolia; Vespula germanica </italic>and <italic>Bubulcus ibis</italic>. The workflow included 20 steps between locating data and publishing an EBV, and these steps were radically different between GBIF and the ALA. The workflow required manual steps such as resolving invasive status of <italic>Acacia longifolia</italic> subspecies; only one of which was ‘invasive’. Datasets of occurrence records had to be exported from the ALA and GBIF to enable filtering for purpose, for example, not all Darwin Core terms are exposed in the current public interface of the ALA. After the record filtering, the ALA and GBIF datasets then required merging and deduplication, for which one-off code had to be written.</p>
+        <p>A few of the 15 significant messages from this study included: a lack of consistency of data between BRIs (e.g., GBIF records should be a superset of ALA records); consistency and adequacy of filtering tools between BRIs; exported data structures massively differed between BRIs; that automation of the workflows may be possible but many manual intervention steps were required. By my figuring, the case study took approximately 10 times longer than anticipated, but the messages to BRIs was clear – consistency and adequacy of data and tools require urgent work.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>EBVs</kwd>
+        <kwd>workflow</kwd>
+        <kwd>filtering</kwd>
+        <kwd>data repositories</kwd>
+        <kwd>indicators</kwd>
+        <kwd>invasive</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Donald Hobern</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5174727">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hardisty</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Belbin</surname>
+              <given-names>Lee</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hobern</surname>
+              <given-names>Donald</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McGeoch</surname>
+              <given-names>Melody</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pirzl</surname>
+              <given-names>Rebecca</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Williams</surname>
+              <given-names>Kristen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kissling</surname>
+              <given-names>Daniel</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Research infrastructure challenges in preparing essential biodiversity variables data products for alien invasive species.</article-title>
+          <source>Environmental Research Letters</source>
+          <volume>14</volume>
+          <issue>025005</issue>
+          <uri>https://iopscience.iop.org/article/10.1088/1748-9326/aaf5db/meta</uri>
+          <pub-id pub-id-type="doi">10.1088/1748-9326/aaf5db</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5174740">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Subcommittee</surname>
+              <given-names>IUCN Standards and Petitions</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <source>Guidelines for using the IUCN Red List categories and Criteria</source>
+          <edition>Version 13</edition>
+          <publisher-name>IUCN</publisher-name>
+          <publisher-loc>Gland</publisher-loc>
+          <size units="page">108</size>
+          <uri>http://cmsdocs.s3.amazonaws.com/RedListGuidelines.pdf</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5174749">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pereira</surname>
+              <given-names>H. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ferrier</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Walters</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Geller</surname>
+              <given-names>G. N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jongman</surname>
+              <given-names>R. H. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scholes</surname>
+              <given-names>R. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bruford</surname>
+              <given-names>M. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brummitt</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Butchart</surname>
+              <given-names>S. H. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cardoso</surname>
+              <given-names>A. C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Coops</surname>
+              <given-names>N. C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dulloo</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Faith</surname>
+              <given-names>D. P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Freyhof</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gregory</surname>
+              <given-names>R. D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heip</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hoft</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hurtt</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jetz</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Karp</surname>
+              <given-names>D. S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McGeoch</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Obura</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Onoda</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pettorelli</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Reyers</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sayre</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scharlemann</surname>
+              <given-names>J. P. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stuart</surname>
+              <given-names>S. N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Turak</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Walpole</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wegmann</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>Essential Biodiversity Variables</article-title>
+          <source>Science</source>
+          <volume>339</volume>
+          <issue>6117</issue>
+          <fpage>277</fpage>
+          <lpage>278</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1229931</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

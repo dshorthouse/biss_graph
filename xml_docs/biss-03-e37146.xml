@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37146</article-id>
+      <article-id pub-id-type="publisher-id">37146</article-id>
+      <article-id pub-id-type="manuscript">11553</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ecotaxonomy: Linking taxa with traits and integrating taxonomical and ecological research</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sandmann</surname>
+            <given-names>Dorothee</given-names>
+          </name>
+          <email xlink:type="simple">dsandma@gwdg.de</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Scheu</surname>
+            <given-names>Stefan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Potapov</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Göttingen, Göttingen, Germany</addr-line>
+        <institution>University of Göttingen</institution>
+        <addr-line content-type="city">Göttingen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Georg-August-University Göttingen, J.F. Blumenbach Institute of Zoology and Anthropology, Göttingen, Germany</addr-line>
+        <institution>Georg-August-University Göttingen, J.F. Blumenbach Institute of Zoology and Anthropology</institution>
+        <addr-line content-type="city">Göttingen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Dorothee Sandmann (<email xlink:type="simple">dsandma@gwdg.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37146</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/C5AFB99E3ACE5014BDF8533DB901662E">C5AFB99E3ACE5014BDF8533DB901662E</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Dorothee Sandmann, Stefan Scheu, Anton Potapov</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Ecological roles of underexplored groups, such as tropical invertebrates, can be inferred from their functional traits, such as body mass, dispersal ability, reproductive mode and feeding habits. Despite a strong need, a common database for invertebrate traits is yet to be created. Traits are defined as a property of individual organisms, however many parameters are similar in groups of organisms, i.e., in species or even at higher taxonomic levels. Such parameters may be attributed to taxa instead of individuals. Linking both facilitates ecological and conservation studies based on taxa or phylogenetic units. Another problem hampering understanding of tropical ecosystems is the high proportion of undescribed species, particularly in soil communities. To estimate diversity, ecologists often have to operate with morphospecies instead of Linnean taxa. Morphospecies typically are defined independently in each project or even by each person, which does not allow consistent re-use.</p>
+        <p>Ecotaxonomy database (<ext-link ext-link-type="uri" xlink:href="http://ecotaxonomy.org">ecotaxonomy.org</ext-link>), implemented as an open platform, addresses these issues (Fig. <xref ref-type="fig" rid="F5188674">1</xref>). The taxonomic system of Ecotaxonomy is based on the Global Biodiversity Information Facility (GBIF) taxonomic backbone (<ext-link ext-link-type="uri" xlink:href="http://gbif.org">gbif.org</ext-link>), which is being complemented with traits, pictures, literature and other parameters. Both common and group-specific traits and characters can be customized in the system. Each morphospecies has to be defined by a common grid of identification characters, which is being developed in collaboration with group experts. Morphospecies then are incorporated into the existing GBIF taxonomic backbone and also inherit common characters and traits from the parental taxa. As an output the system provides open catalogs of traits and taxa, pictorial identification keys and trait matrixes. Further, by linking traits and taxa with individual-level and environmental data,  Ecotaxonomy will be developed as a tool to push forward ecological research in underexplored groups and regions.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>taxonomy</kwd>
+        <kwd>traits</kwd>
+        <kwd>virtual research environment</kwd>
+        <kwd>tropical arthropods</kwd>
+        <kwd>functional traits</kwd>
+        <kwd>morphology</kwd>
+        <kwd>identification key</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>DFG</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Dorothee Sandmann</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>EFForTS Project</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>EFForTS Project</p>
+    </sec>
+  </back>
+  <floats-group>
+    <fig id="F5188674" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Conceptual scheme of Ecotaxonomy workflow</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37146-g001.png" position="float" id="oo_291706.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37216</article-id>
+      <article-id pub-id-type="publisher-id">37216</article-id>
+      <article-id pub-id-type="manuscript">11364</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST60 - World Catalogue of Collections – describing and assessing collections for identifying relevant gaps</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Documenting Natural History Collections in GBIF</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Robertson</surname>
+            <given-names>Tim</given-names>
+          </name>
+          <email xlink:type="simple">trobertson@gbif.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gonzalez</surname>
+            <given-names>Marcos Lopez</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Høfft</surname>
+            <given-names>Morten</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Grosjean</surname>
+            <given-names>Marie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Tim Robertson (<email xlink:type="simple">trobertson@gbif.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37216</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/1403ED03292851D1AE38F2DA0D7D7019">1403ED03292851D1AE38F2DA0D7D7019</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Tim Robertson, Marcos Lopez Gonzalez, Morten Høfft, Marie Grosjean</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Global Biodiversity Information Facility (GBIF) was established by governments in 2001, largely through the initiative and leadership of the natural history collections community, following the 1999 recommendation by a working group under the Megascience Forum (predecessor of the Global Science Forum) of the Organization for Economic Cooperation and Development (OECD). Over 20 years, GBIF has helped develop standards and convened a global community of data-publishing institutions, aggregating over one billion species occurrence records freely and openly available for use in research and policy making. Of these more than 150 million records originate from specimens preserved by the collections community. The recent adoption of the Global Registry of Scientific Collections by GBIF (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub"><underline>https://www.gbif.org/news/5kyAslpqTVxYqZTwYn1cub</underline></ext-link>) is the first step by GBIF to better enable a picture of the natural history collections of the world along with the associated science that they have and continue to enable.</p>
+        <p>Recognising that other collection metadata initiatives exists, GBIF aims to discuss with the community and progress topics such as:</p>
+        <p>
+          <list list-type="order"><list-item><p>Synchronising with existing metadata catalogues to ensure accurate, up-to-date information is available without unnecessary burden for authors</p></list-item><list-item><p>Defining, testing and formalizing the Collection Descriptions standard (<ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/cd"><underline>https://github.com/tdwg/cd</underline></ext-link>)</p></list-item><list-item><p>Providing clear guidelines of citation practice for collections, potentially building on the success of the Digital Object Identifier (DOI) approach used for datasets mediated through GBIF.org.</p></list-item><list-item><p>Tracking citations of use through both data downloads and through references in literature, such as materials examined in a taxonomic publication</p></list-item><list-item><p>Improving the linkages and discoverability of specimen records derived from the same collecting event but preserved in multiple institutions</p></list-item><list-item><p>Improving the linkages between the people involved in collecting, preserving, and identifying specimen records through the use of Open Researcher and Contributor IDs (ORCID)</p></list-item><list-item><p>Lowering the technical threshold to deploy tools such as “data dashboards” and specimen search/download on collection related websites</p></list-item></list>
+        </p>
+        <p>The progress made to date will be summarised and a roadmap for the future will be introduced.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>GBIF</kwd>
+        <kwd>collections</kwd>
+        <kwd>metadata</kwd>
+        <kwd>standards</kwd>
+        <kwd>citation</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Tim Robertson</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

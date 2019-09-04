@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37567</article-id>
+      <article-id pub-id-type="publisher-id">37567</article-id>
+      <article-id pub-id-type="manuscript">11517</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Answering Research Questions Using Semantic Traits</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Mabee</surname>
+            <given-names>Paula</given-names>
+          </name>
+          <email xlink:type="simple">pmabee@usd.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8455-3213</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of South Dakota, Department of Biology, Vermillion, SD, United States of America</addr-line>
+        <institution>University of South Dakota, Department of Biology</institution>
+        <addr-line content-type="city">Vermillion, SD</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Paula Mabee (<email xlink:type="simple">pmabee@usd.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37567</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4902D45CEEF45F32ACFE2CD700409766">4902D45CEEF45F32ACFE2CD700409766</uri>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Paula Mabee</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p><ext-link ext-link-type="uri" xlink:href="https://phenoscape.org">Phenoscape</ext-link> has developed methods to render phylogenetic characters from the systematic literature machine computable and interoperable with genetic data from model organisms, by annotating them with taxon, anatomy, quality, other ontologies. Moving these trait data into a semantic framework enables their integration with other data types and provides the potential for powerful new computational tools to aid discovery. For example, trait similarities can be quantified, assessed against phylogenetic trees to determine whether they are based in homology or homoplasy, and linked back to candidate genes. Another example is the ability to automatically construct a matrix on the fly, for a user-selected set of traits and taxa. Guidelines for consistent representation of characters have been developed through manual annotation of over 20,000 systematic characters. These represent a limited number of design patterns that are applicable to traits from any source. The level of detail to which characters are annotated will influence how they may be used in research; a minimal approach will still enable basic trait aggregation. Manual curation effort is substantial and does not scale well to biodiversity traits. Natural Language Processing (NLP) methods, using our newly developed Gold Standard for semantic traits, can accelerate annotation from published text, particularly with well-provisioned ontologies. Efforts to establish new trait databases might profitably explore machine learning for morphological discrimination and semantic annotation from digitized images for a high-throughput approach.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>ontologies</kwd>
+        <kwd>systematics</kwd>
+        <kwd>characters</kwd>
+        <kwd>traits</kwd>
+        <kwd>Phenoscape</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">National Science Foundation</named-content>
+            <named-content content-type="funder_identifier">100000001</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/100000001</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Paula Mabee</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Department of Biology, University of South Dakota, Vermillion, SD 67069 USA</p>
+      </sec>
+      <sec sec-type="Ethics and security">
+        <title>Ethics and security</title>
+        <p>None</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>none</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The Phenoscape team, including T.J. Vision, H. Lapp, J. Balhoff, and W. Dahdul contributed significantly to the research described.  </p>
+    </ack>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>NSF 1062542; Collaborative research: ABI Development: Ontology-enabled reasoning across phenotypes from evolution and model organisms</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Department of Biology, University of South Dakota, Vermillion, SD 67069 USA</p>
+    </sec>
+    <sec sec-type="Ethics and security">
+      <title>Ethics and security</title>
+      <p>None</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>none</p>
+    </sec>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>Paula Mabee authored the abstract</p>
+    </sec>
+  </back>
+</article>

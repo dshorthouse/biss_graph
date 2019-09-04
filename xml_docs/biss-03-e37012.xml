@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37012</article-id>
+      <article-id pub-id-type="publisher-id">37012</article-id>
+      <article-id pub-id-type="manuscript">11538</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodiversity Community Cyberinfrastructure in the Specify Collections Consortium</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Beach</surname>
+            <given-names>James</given-names>
+          </name>
+          <email xlink:type="simple">beach@ku.edu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Kansas, Lawrence, United States of America</addr-line>
+        <institution>University of Kansas</institution>
+        <addr-line content-type="city">Lawrence</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: James Beach (<email xlink:type="simple">beach@ku.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37012</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F164A75FFF715ACA83D284F17566E229">F164A75FFF715ACA83D284F17566E229</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>James Beach</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The <ext-link ext-link-type="uri" xlink:href="http://specify.software.org">Specify Collections Consortium</ext-link> ("SCC") is a member-funded organization currently comprised of 70 biodiversity collection institutions--universities, research centers, and government agencies from around the globe. In 2018, the SCC was created as a follow-on to the Specify Software Project that had a 20-year history as a US NSF grant funded biological collections software engineering and technical support project. Founding members of the Consortium include the National Natural History Museum of Denmark, and in the United States, the Universities of Florida, Michigan, and Kansas. The SCC plans to build on its open-source collections computing platforms to bring research analysis and integration to the collections curation environment. The inclusion and integration of genetic data standards, Nagoya Protocol business rules, and biogeographical analysis in Specify platforms will extend museum digitization and cataloging to engage collections in broader computational communities, for increased research, educational, and policy impact. Significant investments by the South African National Biodiversity Institute, the Natural History Museum of Geneva, and regional collections in additional countries are contributing to the Consortium's growth and financial sustainability. Code contributions from Consortium members have supplemented their financial commitments to produce capabilities that immediately benefit all members. We will present an update on the Specify Consortium's progress during its first 1.5 years, and outline its near- and long-term priorities for collections community engagement and technological innovation.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>open source</kwd>
+        <kwd>collaborative computing</kwd>
+        <kwd>sustainable cyberinfrastructure</kwd>
+        <kwd>institutional membership consortium</kwd>
+        <kwd>collections databases</kwd>
+        <kwd>technical support</kwd>
+        <kwd>cloud hosting</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>James H. Beach</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

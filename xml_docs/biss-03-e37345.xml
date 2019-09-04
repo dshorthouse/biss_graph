@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37345</article-id>
+      <article-id pub-id-type="publisher-id">37345</article-id>
+      <article-id pub-id-type="manuscript">11516</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Comparison of Automated Georeferencing Tools Using Insect Collection Data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Venceslau</surname>
+            <given-names>Leonor</given-names>
+          </name>
+          <email xlink:type="simple">fc50637@alunos.fc.ul.pt</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lopes</surname>
+            <given-names>Luis Filipe</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3401-2814</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Faculdade de Ciências da Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>Faculdade de Ciências da Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>Museu Nacional de História Natural e da Ciência, Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Global Health and Tropical Medicine, GHTM, Instituto de Higiene e Medicina Tropical, IHMT, Universidade Nova de Lisboa, UNL, Rua da Junqueira 100, 1349-008 Lisboa, Portugal</addr-line>
+        <institution>Global Health and Tropical Medicine, GHTM, Instituto de Higiene e Medicina Tropical, IHMT, Universidade Nova de Lisboa, UNL</institution>
+        <addr-line content-type="city">Rua da Junqueira 100, 1349-008 Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Centre for Ecology, Evolution and Environmental Changes (cE3c). Faculdade de Ciências da Universidade de Lisboa, Campo Grande 1749-016 Lisboa, Portugal</addr-line>
+        <institution>Centre for Ecology, Evolution and Environmental Changes (cE3c). Faculdade de Ciências da Universidade de Lisboa</institution>
+        <addr-line content-type="city">Campo Grande 1749-016 Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Leonor Venceslau (<email xlink:type="simple">fc50637@alunos.fc.ul.pt</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37345</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/9E70D6F903045FABB3EC484233DA2949">9E70D6F903045FABB3EC484233DA2949</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Leonor Venceslau, Luis Filipe Lopes</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Major efforts are being made to digitize natural history collections to make these data available online for retrieval and analysis (<xref ref-type="bibr" rid="B5190316">Beaman and Cellinese 2012</xref>). Georeferencing, an important part of the digitization process, consists of obtaining geographic coordinates from a locality description. In many natural history collection specimens, the coordinates of the sampling location are not recorded, rather they contain a description of the site. Inaccurate georeferencing of sampling locations negatively impacts data quality and the accuracy of any geographic analysis on those data. In addition to latitude and longitude, it is important to define a degree of uncertainty of the coordinates, since in most cases it is impossible to pinpoint the exact location retrospectively. This is usually done by defining an uncertainty value represented as a radius around the center of the locality where the sampling took place.</p>
+        <p>Georeferencing is a time-consuming process requiring manual validation; as such, a significant part of all natural history collection data available online are not georeferenced. Of the 161 million records of preserved specimens currently available in the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org">GBIF</ext-link>), only 86 million (53.4%) include coordinates. It is therefore important to develop and optimize automatic tools that allow a fast and accurate georeferencing.</p>
+        <p>The objective of this work was to test existing automatic georeferencing services and evaluate their potential to accelerate georeferencing of large collection datasets. For this end, several open-source georeferencing services are currently available, which provide an application programming interface (API) for batch georeferencing. We evaluated five programs: <ext-link ext-link-type="uri" xlink:href="http://maps.google.com">Google Maps</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.mapquest.com">MapQuest</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.geonames.org">GeoNames</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.openstreetmap.org">OpenStreetMap,</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.geo-locate.org">GEOLocate</ext-link>. A test dataset of 100 records (reference dataset), which had been previously individually georreferenced following <xref ref-type="bibr" rid="B5235989">Chapman and Wieczorek 2006</xref>, was randomly selected from the <italic>Museu Nacional de História Natural e da Ciência</italic>, <italic>Universidade de Lisboa</italic> insect collection catalogue (<xref ref-type="bibr" rid="B5189827">Lopes et al. 2016</xref>). An R (<xref ref-type="bibr" rid="B5195692">R Core Team 2018</xref>) script was used to georeference these records using the five services. <styled-content style="display: none;"/><styled-content style="display: none;"/>In cases where multiple results were returned, only the first one was considered and compared with the manually obtained coordinates of the reference dataset. Two factors were considered in evaluating accuracy:</p>
+        <p>
+          <list list-type="order"><list-item><p>Total number of results obtained and</p></list-item><list-item><p>Distance to the original location in the reference dataset.</p></list-item></list>
+        </p>
+        <p>Of the five programs tested, Google Maps yielded the most results (99) and was the most accurate with 57 results &lt; 1000 m from the reference location and 79 within the uncertainty radius. GEOLocate provided results for 87 locations, of which 47 were within 1000 m of the correct location, and 57 were within the uncertainty radius. The other 3 services tested all had less than 35 results within 1000 m from the reference location, and less than 50 results within the uncertainty radius. Google Maps and Open Street Map had the lowest average distance from the reference location, both around 5500 m. Google Maps has a usage limit of around 40000 free georeferencing requests per month, beyond which the service is paid, while GEOLocate is free with no usage limit. For large collections, this may be a factor to take into account.</p>
+        <p>In the future, we hope to optimize these methods and test them with larger datasets.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>georeferencing</kwd>
+        <kwd>data digitization</kwd>
+        <kwd>natural history collections</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Fundação para a Ciência e a Tecnologia</named-content>
+            <named-content content-type="funder_identifier">501100001871</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001871</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Luis Filipe Lopes</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>FCT for funds to GHTM – UID/Multi/04413/2013</p>
+        <p>FCT for funds to CE3C - UID/BIA/00329/2013</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Lisboa, Portugal</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>FCT for funds to GHTM – UID/Multi/04413/2013</p>
+      <p>FCT for funds to CE3C - UID/BIA/00329/2013</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Lisboa, Portugal</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5190316">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Beaman</surname>
+              <given-names>Reed S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cellinese</surname>
+              <given-names>Nico</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>Mass digitization of scientific collections: New opportunities to transform the use of biological specimens and underwrite biodiversity science.</article-title>
+          <source>ZooKeys</source>
+          <volume>209</volume>
+          <fpage>7</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.3897/zookeys.209.3313</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5235989">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Chapman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <source>Guide to Best Practices for Georeferencing</source>
+          <publisher-name>Copenhagen: Global Biodiversity Information Facility</publisher-name>
+          <uri>http://www.gbif.org/orc/?doc_id=1288</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5189827">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Lopes</surname>
+              <given-names>L. F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Correia</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Almaça</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Verdasca</surname>
+              <given-names>M. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Silva</surname>
+              <given-names>P. B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Insect Collection from the Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Portugal</article-title>
+          <uri>https://www.gbif.org/dataset/79673413-746f-48f2-bd8a-7cf27807317e</uri>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5195692">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Team</surname>
+              <given-names>R Core</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>R: A language and environment for statistical computing.</article-title>
+          <uri>https://www.R-project.org/</uri>
+          <comment content-type="Version">3.5.0</comment>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

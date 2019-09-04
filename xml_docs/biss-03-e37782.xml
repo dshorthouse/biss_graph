@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37782</article-id>
+      <article-id pub-id-type="publisher-id">37782</article-id>
+      <article-id pub-id-type="manuscript">11478</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP91 - Developing a Data-Literate Workforce in Biodiversity Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Role of Natural History Collections in Public Engagement for Enhancing Biodiversity Research</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Gavish-Regev</surname>
+            <given-names>Efrat</given-names>
+          </name>
+          <email xlink:type="simple">efrat.gavish-regev@mail.huji.ac.il</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7359-1492</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">The Hebrew University of Jerusalem, Jerusalem, Israel</addr-line>
+        <institution>The Hebrew University of Jerusalem</institution>
+        <addr-line content-type="city">Jerusalem</addr-line>
+        <country>Israel</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Efrat Gavish-Regev (<email xlink:type="simple">efrat.gavish-regev@mail.huji.ac.il</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37782</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2D1A8D1A97FA5CCFBAB55180D085A94F">2D1A8D1A97FA5CCFBAB55180D085A94F</uri>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Efrat Gavish-Regev</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Citizen science biodiversity monitoring projects are becoming very common. It is generally accepted that these joint projects, of scientists and the public, have a positive effect on biodiversity and conservation education programs as well as on policy-makers opinion <xref ref-type="bibr" rid="B5213337">Ganzevoort et al. (2017)</xref>. Yet, there is still a debate on the quality of the data collected in citizen science monitoring schemes, and especially on the benefits to high-quality research. Here, I present an example of how collection-based research and involvement of the public (non-taxonomists) in taxonomical education, i.e., advanced citizen science, can enhance research on scorpion diversity in Israel. Furthermore, the process of public involvement in monitoring and especially the prerequisites needed for this process, contributed to high-quality research, that in turn is enhancing biodiversity science. Considering this, I will discuss the basic stages required for successful public engagement in high-quality biodiversity research and monitoring schemes.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>citizen science</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>scorpions</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Efrat Gavish-Regev</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5213337">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ganzevoort</surname>
+              <given-names>Wessel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van den Born</surname>
+              <given-names>Riyan J. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Halffman</surname>
+              <given-names>Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Turnhout</surname>
+              <given-names>Sander</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Sharing biodiversity data: citizen scientists’ concerns and motivations</article-title>
+          <source>Biodiversity and Conservation</source>
+          <volume>26</volume>
+          <issue>12</issue>
+          <fpage>2821</fpage>
+          <lpage>2837</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10531-017-1391-z</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38199</article-id>
+      <article-id pub-id-type="publisher-id">38199</article-id>
+      <article-id pub-id-type="manuscript">11699</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP79 - Agrobiodiversity in the era of open government, FAIR data, and public access policy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Planning Landscape Connectivity in Mexico under Global Change </article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Godínez-Gómez</surname>
+            <given-names>Oscar</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cuervo-Robayo</surname>
+            <given-names>Angela Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ramírez-Mejía</surname>
+            <given-names>Diana</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tobón</surname>
+            <given-names>Wolke</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9067-8936</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Alarcón</surname>
+            <given-names>Jesús</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koleff</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Urquiza-Haas</surname>
+            <given-names>Tania</given-names>
+          </name>
+          <email xlink:type="simple">turquiza@conabio.gob.mx</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">National Commission for the Knowledge and Use of Biodiversity, Mexico city, Mexico</addr-line>
+        <institution>National Commission for the Knowledge and Use of Biodiversity</institution>
+        <addr-line content-type="city">Mexico city</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Tania Urquiza-Haas (<email xlink:type="simple">turquiza@conabio.gob.mx</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38199</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DC9F50CC849E595DBB9E4209CCF0DB15">DC9F50CC849E595DBB9E4209CCF0DB15</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Oscar Godínez-Gómez, Angela Patricia Cuervo-Robayo, Diana Ramírez-Mejía, Wolke Tobón, Jesús Alarcón, Patricia Koleff, Tania Urquiza-Haas</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Climate change, habitat loss and fragmentation, invasive species, and resource over-exploitation are among the major factors driving biodiversity loss and the current global change crisis. Maintaining and restoring connectivity throughout fragmented landscapes is key to reduce habitat isolation and mitigate anthropogenic impacts. To date, few connectivity approaches seek to identify corridors along climate gradients and least transformed natural habitats despite its importance to facilitate dispersal of organisms, as species' ranges shift over time to track suitable climates. In this study, we identified least-cost climatic corridors in Mexico between 2027 old-growth vegetation patches incorporating evapotranspiration as climatic variable, Euclidean distances, and human impact. We identified old-growth vegetation patches using the land use and vegetation map of 2011 (scale 1:250 000) by the National Institute of Statistics and Geography (INEGI). Moreover, we calculated a human impact index based on the theoretical framework of the Global Biodiversity Model (<xref ref-type="bibr" rid="B5238437">Alkemade et al. 2009</xref>) but adapted for Mexico (Mexbio, <xref ref-type="bibr" rid="B5238492">Kolb 2016</xref>), and includes the impact of  land use, road infrastructure and fragmentation based on the land use and vegetation map of 2011 and a road map by the Mexican Institute of Transportation. We modeled corridors for a baseline period (1980-2009) and under three future time periods (2015-2039, 2045-2069 and 2075-2099), corresponding to four Global Circulation Models (MPI-ESM-LR, GFDL-CM3, HADGEM2-ES and CNRMCM5) each under two emission scenarios (RCP 4.5 and 8.5) The historical and future evapotranspiration values were calculated using the climate surfaces from Cuervo-Robayo et al. 2019 and from the Center of Atmospheric Sciences of the National Autonomous University of Mexico*<xref ref-type="fn" rid="FN5213950">1</xref>, respectively. <styled-content style="font-weight:normal;">The historical and future evapotranspiration values were calculated using the climate surfaces from <xref ref-type="bibr" rid="B5238508">Cuervo-Robayo et al. 2019</xref> and from the Center of Atmospheric Sciences of the National Autonomous University of Mexico, respectively. </styled-content>We used the Turc evapotranspiration equation (<xref ref-type="bibr" rid="B5238449">Turc 1954</xref>)  to estimate actual evapotranspiration. Least cost climatic corridors using future climate projections were used to test the assumption that climatic gradients are maintained in the future. We then prioritized climatic corridors using a multicriteria analysis guided by expert knowledge, incorporating factors such as indicators of human impact, vulnerability and exposure to climate change, and priority sites for biodiversity conservation and restoration. On average, more than 4,500 least cost climatic corridors were identified for each scenario. There is a high spatial coincidence in the geographical location of current and future climatic corridors (overlap &gt; 90%). Fewer corridors were identified in the northern part of the country where natural vegetation is less fragmented, whereas in central and southern Mexico landscape fragmentation is greater, resulting in an increased number of corridors (Fig. <xref ref-type="fig" rid="F5194194">1</xref>). <styled-content style="font-weight:normal;">The use of open spatial data was key in identifying climatic corridors in order to support decision-making. T</styled-content>he results provide a spatial guide to implement conservation and restoration actions to promote connectivity, in particular among climatic stable areas, thus supporting the achievement of Aichi Targets and Sustainable Development Goals. Also, it informs multiple stakeholders and sectors in land-use planning decisions and to promote the alignment of existing incentives to reduce habitat loss, degradation and fragmentation in key areas needed to maintain and recover landscape connectivity in the face of global change.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>climate change</kwd>
+        <kwd>landscape connectivity</kwd>
+        <kwd>guide spatial allocation of conservation resources</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Funded by a GEF project (Strengthening Management Effectiveness and Resilience of Protected Areas to Safeguard Biodiversity Threatened by Climate Change, ID:4763), implemented by National Commission for Protected Natural Areas and the United Nations Development Programme.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Patricia Koleff </p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5238437">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Alkemade</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Oorschot</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Miles</surname>
+              <given-names>Lera</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nellemann</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bakkenes</surname>
+              <given-names>Michel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>ten Brink</surname>
+              <given-names>Ben</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>GLOBIO3: A framework to investigate options for reducing global terrestrial biodiversity loss</article-title>
+          <source>Ecosystems</source>
+          <volume>12</volume>
+          <issue>3</issue>
+          <fpage>374</fpage>
+          <lpage>390</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10021-009-9229-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5238508">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Cuervo-Robayo</surname>
+              <given-names>A. P</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ureta</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gómez-Albores</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Meneses-Mosquera</surname>
+              <given-names>A. K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Téllez-Valdés</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martínez-Meyer</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>One hundred years of climate change in Mexico</article-title>
+          <source>PLOS One</source>
+        </element-citation>
+      </ref>
+      <ref id="B5238492">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kolb</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <chapter-title>Indicadores de impacto humano, herramienta para evaluar el estado de conservación de la biodiversidad</chapter-title>
+          <person-group person-group-type="editor">
+            <name name-style="western">
+              <surname>CONABIO</surname>
+            </name>
+          </person-group>
+          <source>Capital natural de México, Vol. IV. Capacidades humanas e institucionales</source>
+          <publisher-name>CONABIO</publisher-name>
+          <publisher-loc>Mexico</publisher-loc>
+          <size units="page">337-340</size>
+        </element-citation>
+      </ref>
+      <ref id="B5238449">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Turc</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <year>1954</year>
+          <article-title>The water balance of soils:Relation between precipitation, evaporation and flow</article-title>
+          <source>Annales Agronomiques </source>
+          <volume>5</volume>
+          <fpage>491</fpage>
+          <lpage>569</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="FN5213950">
+        <label>*1</label>
+        <p>Downloaded from <ext-link ext-link-type="uri" xlink:href="http://atlasclimatico.unam.mx:8550/geonetwork/srv/spa/main.home">http://atlasclimatico.unam.mx:8550/geonetwork/srv/spa/main.home</ext-link> at a spatial resolution of 30" X 30"</p>
+      </fn>
+    </fn-group>
+  </back>
+  <floats-group>
+    <fig id="F5194194" position="float" orientation="portrait">
+      <object-id content-type="arpha">25CC4059344352AB9B84B0A46FF2E534</object-id>
+      <label>Figure 1.</label>
+      <caption>
+        <p>Proposed corridors to achieve climate connectivity in central Mexico (modeled for the baseline period 1980-2009).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e38199-g001.jpg" position="float" id="oo_291911.jpg" orientation="portrait" xlink:type="simple">
+        <uri content-type="original_file">https://binary.pensoft.net/fig/291911</uri>
+      </graphic>
+    </fig>
+  </floats-group>
+</article>

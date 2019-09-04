@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37091</article-id>
+      <article-id pub-id-type="publisher-id">37091</article-id>
+      <article-id pub-id-type="manuscript">11510</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Measuring Morphological Functional Leaf Traits From Digitized Herbarium Specimens Using TraitEx Software</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Gaikwad</surname>
+            <given-names>Jitendra</given-names>
+          </name>
+          <email xlink:type="simple">jitendra.gaikwad@uni-jena.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7565-4389</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Triki</surname>
+            <given-names>Abdelaziz</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bouaziz</surname>
+            <given-names>Bassem</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Friedrich Schiller University Jena, Jena, Germany</addr-line>
+        <institution>Friedrich Schiller University Jena</institution>
+        <addr-line content-type="city">Jena</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany</addr-line>
+        <institution>German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig</institution>
+        <addr-line content-type="city">Leipzig</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">MIRACL/CRNS-University of Sfax, Sfax, Tunisia</addr-line>
+        <institution>MIRACL/CRNS-University of Sfax</institution>
+        <addr-line content-type="city">Sfax</addr-line>
+        <country>Tunisia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jitendra Gaikwad (<email xlink:type="simple">jitendra.gaikwad@uni-jena.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37091</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/282281CE5EA75E4A99F502F9B234FC92">282281CE5EA75E4A99F502F9B234FC92</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jitendra Gaikwad, Abdelaziz Triki, Bassem Bouaziz</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Herbarium specimens are of vital importance for understanding biodiversity. There are more than 350 million specimens stored in herbaria worldwide (<xref ref-type="bibr" rid="B5187980">Thiers 2018</xref>) Globally, many herbaria have undertaken digitization projects of plant specimens, on a massive scale, to preserve them and to make the images easily accessible to users.</p>
+        <p>Over the past years, with significant advances in the field of computer vision, new potential uses of digitized specimens have emerged, such as automated species identification using qualitative morphological traits. However, due to lack of efficient tools, efforts to extract functional (quantitative) morphological traits from digitized herbarium specimens are lagging behind. Functional trait data is of significant importance to understand the functioning of the ecosystem and interactions between biotic and abiotic factors. It is currently fragmented and initiatives such as TRY Trait database (<ext-link ext-link-type="uri" xlink:href="https://www.try-db.org">https://www.try-db.org</ext-link>) are making efforts to fill the gaps in the observed trait matrix (<xref ref-type="bibr" rid="B5213544">Schrodt et al. 2015</xref>). In order to complement the global efforts, we have developed a software tool, <ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/traitExTool/traitextool">TraitEx</ext-link><ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/traitExTool/traitextool"/>, which can measure quantitative traits such as the length, area, width and perimeter of leaves along with the petiole length from digitized herbarium specimens.</p>
+        <p>TraitEx is a standalone Java-based open source tool developed after extensive interactions with biodiversity researchers. The main features of the tool are: (1) efficiently handling high-resolution specimen images, (2) accurately extracting measurements from specimens with varied leaf shapes that are mounted using white tape, (3) integrating <ext-link ext-link-type="uri" xlink:href="https://imagej.net/Welcome">ImageJ </ext-link>functionality (<ext-link ext-link-type="uri" xlink:href="https://imagej.net/Welcome">https://imagej.net/Welcome</ext-link>) to pre-process and edit the images, (4) measuring trait values to export in comma separated values (CSV) format along with original image and (5) reducing potential damage of fragile specimens, which might occur while physically measuring the traits.</p>
+        <p>Along with user guide and documentation, TraitEx tool is available at <ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/traitExTool/traitextool">https://bitbucket.org/traitExTool/traitextool</ext-link>. The tool is made available under the <ext-link ext-link-type="uri" xlink:href="https://opensource.org/licenses/BSD-2-Clause">BSD-2-Clause License</ext-link>.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>TraitEx</kwd>
+        <kwd>leaf traits</kwd>
+        <kwd>digitized specimens</kwd>
+        <kwd>herbarium</kwd>
+        <kwd>functional traits</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Bundesministerium für Bildung und Forschung</named-content>
+            <named-content content-type="funder_identifier">501100002347</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100002347</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jitendra Gaikwad</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>STC-TUNGER-2015</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Friedrich Schiller University Jena, Germany</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>1. Prof. Birgitta König-Ries, Friedrich Schiller University Jena, Germany.</p>
+      <p>2. Prof. Faeiz Gargouri, University of Sfax, Tunisia.</p>
+      <p>3. Prof. Frank Hellwig, Herbarium Haussknecht, Friedrich Schiller University Jena, Germany.</p>
+      <p>4. Dr. Jens Kattge, Max Planck Institute for Biogeochemistry, Jena, Germany.</p>
+      <p>5. Dr. Joern Hetschel, Herbarium Haussknecht, Friedrich Schiller University Jena, Germany.</p>
+      <p>6. Mr. Hamed Hamdi, Friedrich Schiller University Jena, Germany.</p>
+      <p>7. Mr. Martin Hohmuth, Friedrich Schiller University Jena, Germany.</p>
+      <p>8. Dr. Jana Dümmler, Servicezentrum Forschung und Transfer, Friedrich Schiller University Jena, Germany.</p>
+      <p>9. Dr. Susanne Tautenhahn, Max Planck Institute for Biogeochemistry, Jena, Germany.</p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>STC-TUNGER-2015</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>MAMUDS: Management of Multimedia Data for Science (BMBF Project No. 01D16009)</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Friedrich Schiller University Jena, Germany</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5213544">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Schrodt</surname>
+              <given-names>Franziska</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kattge</surname>
+              <given-names>Jens</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Shan</surname>
+              <given-names>Hanhuai</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fazayeli</surname>
+              <given-names>Farideh</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Joswig</surname>
+              <given-names>Julia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Banerjee</surname>
+              <given-names>Arindam</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Reichstein</surname>
+              <given-names>Markus</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bönisch</surname>
+              <given-names>Gerhard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Díaz</surname>
+              <given-names>Sandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dickie</surname>
+              <given-names>John</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gillison</surname>
+              <given-names>Andy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Karpatne</surname>
+              <given-names>Anuj</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lavorel</surname>
+              <given-names>Sandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leadley</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wirth</surname>
+              <given-names>Christian B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wright</surname>
+              <given-names>Ian J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wright</surname>
+              <given-names>S. Joseph</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Reich</surname>
+              <given-names>Peter B.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>BHPMF - a hierarchical Bayesian approach to gap-filling and trait prediction for macroecology and functional biogeography</article-title>
+          <source>Global Ecology and Biogeography</source>
+          <volume>24</volume>
+          <issue>12</issue>
+          <fpage>1510</fpage>
+          <lpage>1521</lpage>
+          <pub-id pub-id-type="doi">10.1111/geb.12335</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187980">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Thiers</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>[continuously updated]. Index Herbariorum: A global directory of public herbaria and associated staff. New York Botanical Garden's Virtual Herbarium</article-title>
+          <uri>http://sweetgum.nybg.org/science/ih</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

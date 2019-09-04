@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37226</article-id>
+      <article-id pub-id-type="publisher-id">37226</article-id>
+      <article-id pub-id-type="manuscript">11692</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI87 - Empowering the taxonomic community by linking information through names and taxonomy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Challenges of Integrating and Curating Nomenclatural and Taxonomic Data in the World Checklist of Vascular Plants </article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Turner</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <email xlink:type="simple">r.turner@kew.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Govaerts</surname>
+            <given-names>Rafaël</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens, Kew, Richmond, United Kingdom</addr-line>
+        <institution>Royal Botanic Gardens, Kew</institution>
+        <addr-line content-type="city">Richmond</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Robert Turner (<email xlink:type="simple">r.turner@kew.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37226</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4693329CE546553DB549C3DC52228304">4693329CE546553DB549C3DC52228304</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Robert Turner, Rafaël Govaerts</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The World Checklist of Vascular Plants (WCVP) is the Royal Botanic Gardens (RBG) Kew’s global names and taxonomy output. The underlying data sources, the <ext-link ext-link-type="uri" xlink:href="http://www.ipni.org">International Plant Names Index (IPNI</ext-link><ext-link ext-link-type="uri" xlink:href="http://www.ipni.org">),</ext-link> the <ext-link ext-link-type="uri" xlink:href="http://wcsp.science.kew.org">World Checklist of Selected Plant Families (WCSP)</ext-link>, and the World Checklist of Selected Plant Families – in Review (WCSP – In Review) are actively curated by a dedicated editorial team, who manage contributions from a wide range of international partners. WCVP is the intersection between IPNI and WCSP/WCSP-In Review and provides the names and taxonomy backbone for <ext-link ext-link-type="uri" xlink:href="http://powo.science.kew.org">Plants of the World Online (POWO)</ext-link> – the web portal bringing Kew scientific data online. WCSP contains the peer reviewed taxonomic data covering about half of all vascular plant families. The taxonomy presented in WCSP is currently widely used, with most authoritative web resources on plants using the WCSP data either directly or indirectly. WCVP will bring this together with the remaining families currently in the ‘In-Review’ database. IPNI is a nomenclatural listing of all effectively published taxonomic acts for Plant Names (new species, new combinations, new names at rank of Family down to infraspecific). It is a project that has been continually compiling lists of new plant names since 1895. It provides the basis of many external plant names databases including Tropicos and GBIF and a point of contact for users to ask questions on plant nomenclature, with a public facing access to the nomenclatural expertise at Kew. The database is actively maintained, edited and added to daily.</p>
+        <p>This presentation will cover: </p>
+        <p>
+          <list list-type="bullet"><list-item><p>The integration of the resources and how the integrated product will be presented online </p></list-item><list-item><p>How the integrated product supports outputs like POWO</p></list-item><list-item><p>Experiences from the data integration process (the matching tools iteratively developed and tested in real world circumstances by dedicated staff)</p></list-item><list-item><p>The development of programmatic API access and names matching tools</p></list-item><list-item><p>The drafting of a data paper describing the WCVP (with access to a full download)</p></list-item></list>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>names</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>World Checklist of Vascular Plants</kwd>
+        <kwd>IPNI</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Robert Turner</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Royal Botanic Gardens, Kew</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Royal Botanic Gardens, Kew</p>
+    </sec>
+  </back>
+</article>

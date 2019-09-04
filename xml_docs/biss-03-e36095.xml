@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36095</article-id>
+      <article-id pub-id-type="publisher-id">36095</article-id>
+      <article-id pub-id-type="manuscript">10922</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS77 - Digital biodiversity data as a frontier for new research avenues</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>SPECIES: Supporting big-data-driven research</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sierra-Alcocer</surname>
+            <given-names>Raul</given-names>
+          </name>
+          <email xlink:type="simple">raul.sierra@conabio.gob.mx</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6686-2266</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Stephens</surname>
+            <given-names>Christopher R</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Barrios</surname>
+            <given-names>Juan M</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>González‐Salazar</surname>
+            <given-names>Constantino</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Salazar Carrillo</surname>
+            <given-names>Juan Carlos</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Romero Martínez</surname>
+            <given-names>Pedro</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), Mexico City, Mexico</addr-line>
+        <institution>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</institution>
+        <addr-line content-type="city">Mexico City</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Centro de Ciencias de la Complejidad, Universidad Nacional Autónoma de México, Mexico City, Mexico</addr-line>
+        <institution>Centro de Ciencias de la Complejidad, Universidad Nacional Autónoma de México</institution>
+        <addr-line content-type="city">Mexico City</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Instituto de Ciencias Nucleares, Universidad Nacional Autónoma de México, Mexico City, Mexico</addr-line>
+        <institution>Instituto de Ciencias Nucleares, Universidad Nacional Autónoma de México</institution>
+        <addr-line content-type="city">Mexico City</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Departamento de Ciencias Ambientales, Universidad Autónoma Metropolitana, Lerma de Villada, Mexico</addr-line>
+        <institution>Departamento de Ciencias Ambientales, Universidad Autónoma Metropolitana</institution>
+        <addr-line content-type="city">Lerma de Villada</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Raul Sierra-Alcocer (<email xlink:type="simple">raul.sierra@conabio.gob.mx</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36095</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/AD93F58AAFDA53549BB4089D997CC9F1">AD93F58AAFDA53549BB4089D997CC9F1</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Raul Sierra-Alcocer, Christopher R Stephens, Juan M Barrios, Constantino González‐Salazar, Juan Carlos Salazar Carrillo, Pedro Romero Martínez</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>SPECIES (<xref ref-type="bibr" rid="B5158766">Stephens et al. 2019</xref>) is a tool to explore spatial correlations in biodiversity occurrence databases. The main idea behind the SPECIES project is that the geographical correlations between the distributions of taxa records have useful information. The problem, however, is that if we have thousands of species (Mexico's National System of Biodiversity Information has records of around 70,000 species) then we have millions of potential associations, and exploring them is far from easy. Our goal with SPECIES is to facilitate the discovery and application of meaningful relations hiding in our data.</p>
+        <p>The main variables in SPECIES are the geographical distributions of species occurrence records. Other types of variables, like the climatic variables from WorldClim (<xref ref-type="bibr" rid="B5158832">Hijmans et al. 2005</xref>), are explanatory data that serve for modeling. The system offers two modes of analysis. In one, the user defines a target species, and a selection of species and abiotic variables; then the system computes the spatial correlations between the target species and each of the other species and abiotic variables. The request from the user can be as small as comparing one species to another, or as large as comparing one species to all the species in the database. A user may wonder, for example, which species are usual neighbors of the jaguar, this mode could help answer this question. The second mode of analysis gives a network perspective, in it, the user defines two groups of taxa (and/or environmental variables), the output in this case is a correlation network where the weight of a link between two nodes represents the spatial correlation between the variables that the nodes represent. For example, one group of taxa could be hummingbirds (Trochilidae family) and the second flowers of the Lamiaceae family. This output would help the user analyze which pairs of hummingbird and flower are highly correlated in the database. SPECIES data architecture is optimized to support fast hypotheses prototyping and testing with the analysis of thousands of biotic and abiotic variables. It has a visualization web interface that presents descriptive results to the user at different levels of detail.</p>
+        <p>The methodology in SPECIES is relatively simple, it partitions the geographical space with a regular grid and treats a species occurrence distribution as a present/not present boolean variable over the cells. Given two species (or one species and one abiotic variable) it measures if the number of co-occurrences between the two is more (or less) than expected. If it is more than expected indicates a signal of a positive relation, whereas if it is less it would be evidence of disjoint distributions.</p>
+        <p>SPECIES provides an open web application programming interface (API) to request the computation of correlations and statistical dependencies between variables in the database.  Users can create applications that consume this 'statistical web service' or use it directly to further analyze the results in frameworks like R or Python. The project includes an interactive web application that does exactly that: requests analysis from the web service and lets the user experiment and visually explore the results. We believe this approach can be used on one side to augment the services provided from data repositories; and on the other side, facilitate the creation of specialized applications that are clients of these services. This scheme supports big-data-driven research for a wide range of backgrounds because end users do not need to have the technical know-how nor the infrastructure to handle large databases.</p>
+        <p>Currently, SPECIES hosts: all records from Mexico's National Biodiversity Information System (<xref ref-type="bibr" rid="B5158843">CONABIO 2018</xref>) and a subset of Global Biodiversity Information Facility data that covers the contiguous USA (<xref ref-type="bibr" rid="B5168750">GBIF.org 2018b</xref>) and Colombia (<xref ref-type="bibr" rid="B5168630">GBIF.org 2018a</xref>). It also includes discretizations of environmental variables from <ext-link ext-link-type="uri" xlink:href="http://worldclim.org/version2">WorldClim</ext-link>, from the <ext-link ext-link-type="uri" xlink:href="http://envirem.github.io/">Environmental Rasters for Ecological Modeling</ext-link> project (<xref ref-type="bibr" rid="B5163418">Title and Bemmels 2018</xref>), from <ext-link ext-link-type="uri" xlink:href="https://www.climond.org/Aboutus.aspx">CliMond</ext-link> (<xref ref-type="bibr" rid="B5168759">Kriticos et al. 2012</xref>), and topographic variables (<xref ref-type="bibr" rid="B5168810">USGS EROS Center 1997b</xref>, <xref ref-type="bibr" rid="B5168784">USGS EROS Center 1997a</xref>). The long term plan, however, is to incrementally include more data, specially all data from the Global Biodiversity Information Facility. The code of the project is open source, and the repositories are available online (<ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/conabio_c3/species-front/">Front-end</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/conabio_c3/snib-middleware">Web Services Application Programming Interface</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/conabio_c3/speciesdbbuild">Database Building scripts</ext-link>).</p>
+        <p>This presentation is a demonstration of SPECIES' functionality and its overall design.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>big data</kwd>
+        <kwd>spatial data mining</kwd>
+        <kwd>correlation analysis</kwd>
+        <kwd>species occurrence records</kwd>
+        <kwd>species distributions</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="9"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Raúl Sierra-Alcocer</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>None</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>None</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5158843">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>CONABIO</surname>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Sistema Nacional de Información sobre Biodiversidad. Registros de ejemplares.</article-title>
+          <publisher-name>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</publisher-name>
+          <date-in-citation content-type="released">2018-07-25T00:00:00+03:00</date-in-citation>
+          <pub-id pub-id-type="doi">10.15468/dl.ikfkok</pub-id>
+          <comment content-type="Version">25/07/2018</comment>
+        </element-citation>
+      </ref>
+      <ref id="B5168630">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>GBIF.org</surname>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>GBIF Occurrence Download</article-title>
+          <date-in-citation content-type="released">2018-06-12T00:00:00+03:00</date-in-citation>
+          <pub-id pub-id-type="doi">10.15468/dl.menapb</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5168750">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>GBIF.org</surname>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>GBIF Occurrence Download</article-title>
+          <date-in-citation content-type="released">2018-05-07T00:00:00+03:00</date-in-citation>
+          <pub-id pub-id-type="doi">10.15468/dl.iixcqe</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5158832">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hijmans</surname>
+              <given-names>Robert J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cameron</surname>
+              <given-names>Susan E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Parra</surname>
+              <given-names>Juan L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jones</surname>
+              <given-names>Peter G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jarvis</surname>
+              <given-names>Andy</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Very high resolution interpolated climate surfaces for global land areas</article-title>
+          <source>International Journal of Climatology</source>
+          <volume>25</volume>
+          <issue>15</issue>
+          <fpage>1965</fpage>
+          <lpage>1978</lpage>
+          <pub-id pub-id-type="doi">10.1002/joc.1276</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5168759">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kriticos</surname>
+              <given-names>Darren J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Webber</surname>
+              <given-names>Bruce L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leriche</surname>
+              <given-names>Agathe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ota</surname>
+              <given-names>Noboru</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Macadam</surname>
+              <given-names>Ian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bathols</surname>
+              <given-names>Janice</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scott</surname>
+              <given-names>John K.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>CliMond: global high-resolution historical and future scenario climate surfaces for bioclimatic modelling</article-title>
+          <source>Methods in Ecology and Evolution</source>
+          <volume>3</volume>
+          <issue>1</issue>
+          <fpage>53</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.2041-210x.2011.00134.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5158766">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stephens</surname>
+              <given-names>Christopher R</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sierra-Alcocer</surname>
+              <given-names>Raúl</given-names>
+            </name>
+            <name name-style="western">
+              <surname>González-Salazar</surname>
+              <given-names>Constantino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barrios</surname>
+              <given-names>Juan M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Salazar Carrillo</surname>
+              <given-names>Juan Carlos</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robredo Ezquivelzeta</surname>
+              <given-names>Everardo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Del Callejo Canal</surname>
+              <given-names>Enrique</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>SPECIES: A platform for the exploration of ecological data.</article-title>
+          <source>Ecology and Evolution</source>
+          <volume>9</volume>
+          <issue>4</issue>
+          <fpage>1638</fpage>
+          <lpage>1653</lpage>
+          <pub-id pub-id-type="doi">10.1002/ece3.4800</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5163418">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Title</surname>
+              <given-names>Pascal O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bemmels</surname>
+              <given-names>Jordan B.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>ENVIREM: an expanded set of bioclimatic and topographic variables increases flexibility and improves performance of ecological niche modeling</article-title>
+          <source>Ecography</source>
+          <volume>41</volume>
+          <issue>2</issue>
+          <fpage>291</fpage>
+          <lpage>307</lpage>
+          <pub-id pub-id-type="doi">10.1111/ecog.02880</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5168784">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Center</surname>
+              <given-names>USGS EROS</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>USGS 30 ARC-second Global Elevation Data, GTOPO30</article-title>
+          <publisher-name>Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory</publisher-name>
+          <uri>https://rda.ucar.edu/datasets/ds758.0/</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5168810">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Center</surname>
+              <given-names>USGS EROS</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>HYDRO1k Elevation Derivative Database</article-title>
+          <pub-id pub-id-type="doi">10.5066/F77P8WN0</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

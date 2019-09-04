@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37212</article-id>
+      <article-id pub-id-type="publisher-id">37212</article-id>
+      <article-id pub-id-type="manuscript">11523</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Using Wikibase as a Platform to Develop a Semantic TDWG Standard</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Fichtmüller</surname>
+            <given-names>David</given-names>
+          </name>
+          <email xlink:type="simple">d.fichtmueller@bgbm.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0829-5849</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Reimeier</surname>
+            <given-names>Fabian</given-names>
+          </name>
+          <email xlink:type="simple">f.reimeier@bgbm.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Güntsch</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4325-4030</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Botanic Garden and Botanical Museum, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin, Botanic Garden and Botanical Museum</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: David Fichtmüller (<email xlink:type="simple">d.fichtmueller@bgbm.org</email>), Fabian Reimeier (<email xlink:type="simple">f.reimeier@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37212</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/15D7D70143C5547796427DF092296D4C">15D7D70143C5547796427DF092296D4C</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>David Fichtmüller, Fabian Reimeier, Anton Güntsch</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In the <ext-link ext-link-type="uri" xlink:href="https://abcd.biowikifarm.net/wiki/">ABCD 3.0 Project</ext-link> the <ext-link ext-link-type="uri" xlink:href="https://abcd.tdwg.org/">ABCD</ext-link> (Access to Biological Collection Data) Standard (<xref ref-type="bibr" rid="B5224247">Access to Biological Collections Data task group 2007</xref>) was transformed from a classic XML Schema into an OWL (Web Ontology Language) ontology (along side an updated semantic-aware XML version). While it was initially planned to use the established <ext-link ext-link-type="uri" xlink:href="https://terms.tdwg.org/wiki/">TDWG Terms wiki</ext-link> as the editing and development platform for the ABCD ontology, the rise of <ext-link ext-link-type="uri" xlink:href="https://www.wikidata.org">Wikidata</ext-link> and its underlying platform Wikibase have caused us to reconsider this decision and switch to a <ext-link ext-link-type="uri" xlink:href="https://wiki.bgbm.org/bdidata/">Wikibase installation</ext-link> instead. This proved to be a crucial decision, as Wikibase turned out to be a well-suited platform to collaboratively import, develop and export this complex semantic standard. This experience is potentially of interest to maintainers of other <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/">Biodiversity Information Standards</ext-link> (TDWG) <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/standards/">standards</ext-link> and the <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/about/committees/tag/">Technical Architecture Group</ext-link>.</p>
+        <p>In this presentation we will explain our technical setup and how we used Wikibase, alongside its related tools, to model the <ext-link ext-link-type="uri" xlink:href="https://abcd.tdwg.org/ontology/">ABCD Ontology</ext-link>. We will introduce the tools we used for importing existing concepts from the previous ABCD versions, running maintenance queries (e.g. for checking the ontology for consistency or missing information about concepts), and exporting the ontology into the OWL/XML format. Finally we will discuss the lessons we learned and how our setup can be improved for future uses.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>technical architecture</kwd>
+        <kwd>Wikibase</kwd>
+        <kwd>semantic standards</kwd>
+        <kwd>standard development</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>David Fichtmueller</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Literaturversorgung und Information / Erschließung und Digitalisierung: Standardbildung zur Erschließung und / oder Digitalisierung von Objektgattungen in wissenschaftlichen Sammlungen</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Literaturversorgung und Information / Erschließung und Digitalisierung: Standardbildung zur Erschließung und / oder Digitalisierung von Objektgattungen in wissenschaftlichen Sammlungen</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>A community platform for the development and documentation of the ABCD standard for natural history collections. GU 1109/6-1.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5224247">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>group</surname>
+              <given-names>Access to Biological Collections Data task</given-names>
+            </name>
+          </person-group>
+          <article-title>Access to Biological Collection Data (ABCD), Version 2.06. Biodiversity Information Standards (TDWG)</article-title>
+          <uri>http://www.tdwg.org/standards/115</uri>
+          <date-in-citation content-type="access-date">2019-05-06T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

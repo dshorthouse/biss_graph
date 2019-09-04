@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37274</article-id>
+      <article-id pub-id-type="publisher-id">37274</article-id>
+      <article-id pub-id-type="manuscript">11407</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Finnish Citizen Science Based Bird Monitoring Schemes and User Interfaces in FinBIF</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Piha</surname>
+            <given-names>Markus</given-names>
+          </name>
+          <email xlink:type="simple">markus.piha@helsinki.fi</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8482-6162</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Björklund</surname>
+            <given-names>Heidi</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lehikoinen</surname>
+            <given-names>Aleksi</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Meller</surname>
+            <given-names>Kalle</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Piirainen</surname>
+            <given-names>Esko</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Valkama</surname>
+            <given-names>Jari</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Markus Piha (<email xlink:type="simple">markus.piha@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37274</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A56C2561A2035E8DBB488D31623D0C23">A56C2561A2035E8DBB488D31623D0C23</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Markus Piha, Heidi Björklund, Aleksi Lehikoinen, Kalle Meller, Esko Piirainen, Jari Valkama</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Monitoring of bird populations is based primarily on volunteer birdwatcher activity in Finland. Hence, development of online user interfaces and data availability have become a priority in order to encourage bird watchers to participate in monitoring schemes.</p>
+        <p>Most Finnish bird monitoring is managed by the <ext-link ext-link-type="uri" xlink:href="https://www.luomus.fi/en">Finnish Museum of Natural History </ext-link><ext-link ext-link-type="uri" xlink:href="https://www.luomus.fi/en">LUOMUS</ext-link>, which oversees a wide spectrum of long-running programs including: a bird ringing (banding) scheme running since 1913, a winter bird census established in 1956, a breeding bird census initiated in 1975, a raptor monitoring program started in 1982, and, a nest recording scheme ongoing since the 1940s. In 2018, more than 1,500 volunteer birdwatchers participated in LUOMUS bird monitoring schemes. Data gathered from these programs constitute our basis of knowledge on national bird populations and demographic trends and are actively incorporated in conservation, scientific, land-use planning, and administrative purposes in Finland. In principle, all data are open and freely accessible via the <ext-link ext-link-type="uri" xlink:href="http://laji.fi/en">Finnish Biodiversity Information Facility (FinBIF</ext-link><ext-link ext-link-type="uri" xlink:href="http://laji.fi/en">)</ext-link>, however, the law prohibits authorities from distributing species occurrence data if this causes an increased threat to certain endangered species. Accordingly, sensitive data details are not available.</p>
+        <p>Reporting valuable fieldwork data can sometimes be demanding. As such, developing user-friendly interfaces for data portals is critical to facilitating volunteer activity. Essential tools for volunteers include a simple login, smooth and augmented data input, automated validation of data, and, perhaps most importantly, ease of access to up-to-date data. Crucial to administrators are system reliability, operability, and easy data management. Comprehensive data validation and visualization tools and extensive search functions aid in revealing errors and thereby increase data quality. Finally, simple query tools and easy access to data are of paramount importance for smooth abd flexible use of the data.</p>
+        <p>Keeping in mind these demands, we have developed the main FinBIF platform and project-specific user interfaces in order to facilitate participation in bird monitoring programs. We will introduce these user interfaces and our achievements and challenges in the development process.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>bird monitoring</kwd>
+        <kwd>ringing</kwd>
+        <kwd>citizen science</kwd>
+        <kwd>open science</kwd>
+        <kwd>user interface</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Markus Piha</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37451</article-id>
+      <article-id pub-id-type="publisher-id">37451</article-id>
+      <article-id pub-id-type="manuscript">11366</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS77 - Digital biodiversity data as a frontier for new research avenues</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A New Record of Recent Brachiopods: Digitizing the National Natural History Collections, The Hebrew University Of Jerusalem</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Leshno Afriat</surname>
+            <given-names>Yael</given-names>
+          </name>
+          <email xlink:type="simple">yael.leshno@mail.huji.ac.il</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mienis</surname>
+            <given-names>Henk K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">The National Natural History Collections, The Hebrew University of Jerusalem, Jerusalem, Israel</addr-line>
+        <institution>The National Natural History Collections, The Hebrew University of Jerusalem</institution>
+        <addr-line content-type="city">Jerusalem</addr-line>
+        <country>Israel</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Geological Survey of Israel, Jerusalem, Israel</addr-line>
+        <institution>Geological Survey of Israel</institution>
+        <addr-line content-type="city">Jerusalem</addr-line>
+        <country>Israel</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Yael Leshno Afriat (<email xlink:type="simple">yael.leshno@mail.huji.ac.il</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37451</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/358B23A5501552CD8520DB6A1483965E">358B23A5501552CD8520DB6A1483965E</uri>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Yael Leshno Afriat, Henk K. Mienis</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Brachiopods (lamp-shells) are a group of macrobenthic invertebrates with a remarkably long fossil record that encompasses deep time to modern-day oceans with over 12,000 species reported in the fossil record. In contrast, today brachiopods form a relatively small independent phylum among the invertebrates that includes only ca. 350 living species. Brachiopods are commonly used to examine faunal response to changes in the depositional environment across space and time. The extinct fossil species are compared to their counterparts from modern settings in order to find associations between ecological and morphological traits and past environmental conditions. Thus, collecting data on living brachiopods and studying their ecological preferences is crucial to the understanding of ancient environments.</p>
+        <p>Until today, only scarce information has been published on extant brachiopods in the Levantine Basin off the coast of Israel. The current curatorial state of collections from the area prevents us from realizing their full scientific potential. We present new information concerning brachiopods collected in the Eastern Mediterranean and stored in the Mollusc Collection of the National Natural History Collections, The Hebrew University of Jerusalem. The collection is based on personal contributions and material collected by the Sea Fisheries Research Station during annual surveys carried out along the coast of Israel.</p>
+        <p>As a first step, we estimated the size of the collection to contain ca. 355 samples of brachiopods of an unknown number of species. Notable contributions to the brachiopod collection include the Giorgio S. Coen and the Arthur Blok collections. Giorgio S. Coen, an enthusiastic malacologist, donated his private collection in 1951. The collection includes samples given to Coen by the distinguished Marchese di Monterosato, and contains ca. 230 samples of recent worldwide brachiopods. So far we have recognized type material of at least four taxa in the Coen collection. In addition, the Arthur Blok collection was donated in 1974 and includes ca. 65 samples of recent brachiopods.</p>
+        <p>Due to the limited number of extant species, new records of living brachiopods should prove to be an important contribution to future studies in biogeography, phylogeny and the study of paleoenvironments. Our preliminary results show species occurrences in undocumented depths and habitats of the Eastern Mediterranean, and points to higher estimation of diversity in the Eastern Mediterranean than previously assumed. The order of magnitude difference in species diversity between extant and fossil brachiopods means our new information on life modes and habitats of recent species may have a significant effect on paleoecological reconstruction of their fossil counterparts. Thus, our new record of recent Levantine brachiopods can improve their use as reliable proxies for reconstructing environmental conditions throughout the fossil record.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Yael Leshno Afriat</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

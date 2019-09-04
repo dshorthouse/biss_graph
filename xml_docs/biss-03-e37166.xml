@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37166</article-id>
+      <article-id pub-id-type="publisher-id">37166</article-id>
+      <article-id pub-id-type="manuscript">11436</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ecotaxonomy: Linking traits, taxa, individuals and samples in a flexible virtual research environment for ecological studies</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Potapov</surname>
+            <given-names>Anton M</given-names>
+          </name>
+          <email xlink:type="simple">potapov.msu@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4456-1710</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sandmann</surname>
+            <given-names>Dorothee</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Scheu</surname>
+            <given-names>Stefan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Georg-August-University Göttingen, J.F. Blumenbach Institute of Zoology and Anthropology, Göttingen, Germany</addr-line>
+        <institution>Georg-August-University Göttingen, J.F. Blumenbach Institute of Zoology and Anthropology</institution>
+        <addr-line content-type="city">Göttingen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Anton M Potapov (<email xlink:type="simple">potapov.msu@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37166</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/AF0663AB73C45453A3E7F99DA9469E2E">AF0663AB73C45453A3E7F99DA9469E2E</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Anton M Potapov, Dorothee Sandmann, Stefan Scheu</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Major research progress in ecology is being achieved through large-scale collaborations across people, groups and countries. In large-scale projects harmonization of data is tedious and time-consuming, but needs to be done reliably and rapidly. This is especially true if projects investigate under-explored organism groups such as tropical invertebrates. To link taxa to their role in ecosystems, functional traits of the taxa need to be considered. However, despite the urgent need for a common database for invertebrate traits, this is yet to be established. We developed an open web platform, Ecotaxonomy (<ext-link ext-link-type="uri" xlink:href="http://ecotaxonomy.org">ecotaxonomy.org</ext-link>), that allows traits, taxa, individuals and samples to be linked within research projects. Ecotaxonomy includes a virtual research environment, allowing project members to work jointly online on the data input, integration and retrieval. The taxonomic system of Ecotaxonomy is based on the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="https://gbif.org">gbif.org</ext-link>), but may be complemented by morphospecies, pictures, literature and other parameters. Any parameters can be customized inside the system and attached either to taxa, individuals, or environmental samples (Fig. <xref ref-type="fig" rid="F5184466">1</xref>). As public output, the system provides interactive identification keys and web catalogs of traits and taxa. Ecotaxonomy is implemented on GCore platform, that is being developed by Complex Cloud Solutions (<ext-link ext-link-type="uri" xlink:href="http://ccs.msk.ru/en/">http://ccs.msk.ru/en/</ext-link>). The GCore is based on Node.js, allowing for fast and efficient standardised programming. Thus, custom modules can be implemented in the future by external developers in the framework of the platform. Ecotaxonomy is now open for beta-testing. After a public release (presumably in 2020), our goal is to keep the system and the code open and ensure data interoperability via Darwin core standards. The initial stage of Ecotaxonomy development (2016-2023) is funded in the framework of a DFG-funded project (SFB 990). To ensure long-term sustainability, we are involving ecological laboratories around the world and ultimately seek to establish a permanent funding by governmental or non-governmental organisations. Using and developing Ecotaxonomy, and linking it to existing open repositories will greatly improve the efficiency and integration of research in trait-based ecology.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>traits</kwd>
+        <kwd>identification key</kwd>
+        <kwd>morphospecies</kwd>
+        <kwd>research management</kwd>
+        <kwd>arthropoda</kwd>
+        <kwd>custom parameters</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Deutsche Forschungsgemeinschaft</named-content>
+            <named-content content-type="funder_identifier">501100001659</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001659</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Anton M Potapov</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>192626868 – SFB 990</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>192626868 – SFB 990</p>
+    </sec>
+  </back>
+  <floats-group>
+    <fig id="F5184466" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>The general structure of Ecotaxonomy. The taxonomic module is based on <ext-link ext-link-type="uri" xlink:href="https://gbif.org">gbif.org</ext-link>, and further attached with traits by experts. Many research projects can be linked to taxonomy with bidirectional information flow.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37166-g001.png" position="float" id="oo_291518.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

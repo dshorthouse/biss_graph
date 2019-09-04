@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37339</article-id>
+      <article-id pub-id-type="publisher-id">37339</article-id>
+      <article-id pub-id-type="manuscript">11154</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP91 - Developing a Data-Literate Workforce in Biodiversity Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Developing a Data-Literate Workforce through BLUE: Biodiversity Literacy in Undergraduate Education</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ellwood</surname>
+            <given-names>Elizabeth R.</given-names>
+          </name>
+          <email xlink:type="simple">ellwoodlibby@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1602-1917</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Monfils</surname>
+            <given-names>Anna</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>White</surname>
+            <given-names>Lisa</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Linton</surname>
+            <given-names>Debra</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Douglas</surname>
+            <given-names>Natalie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Phillips</surname>
+            <given-names>Molly</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural History Museum of Los Angeles County, Los Angeles, United States of America</addr-line>
+        <institution>Natural History Museum of Los Angeles County</institution>
+        <addr-line content-type="city">Los Angeles</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Central Michigan University, Mt. Pleasant, United States of America</addr-line>
+        <institution>Central Michigan University</institution>
+        <addr-line content-type="city">Mt. Pleasant</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Central Michigan University, Mount Pleasant, United States of America</addr-line>
+        <institution>Central Michigan University</institution>
+        <addr-line content-type="city">Mount Pleasant</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">UC Museum of Paleontology, Berkeley, United States of America</addr-line>
+        <institution>UC Museum of Paleontology</institution>
+        <addr-line content-type="city">Berkeley</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">University of Florida, Gainesville, United States of America</addr-line>
+        <institution>University of Florida</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Elizabeth R. Ellwood (<email xlink:type="simple">ellwoodlibby@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37339</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0419768143D852A0B527F1C2095A492C">0419768143D852A0B527F1C2095A492C</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Elizabeth R. Ellwood, Anna Monfils, Lisa White, Debra Linton, Natalie Douglas, Molly Phillips</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The biodiversity sciences have experienced a rapid mobilization of data that has increased our capacity to investigate large-scale issues of critical importance (e.g., climate change and its impacts, zoonotic disease transmission, sustainable resource management, impacts of invasive species, and biodiversity loss). Several initiatives are underway to aggregate and mobilize these biodiversity, environmental, and ecological data resources (iDigBio, NEON, GBIF, iNaturalist, etc.). This requires a new set of skills for the 21st century biodiversity scientist; who is required to be fluent in integrative fields spanning evolutionary biology, systematics, ecology, geology, and environmental science and possess the quantitative, computational, and data skills to conduct research using large and complex datasets. The biodiversity science community has recognized a need to unite biodiversity and data sciences and improve data literacy in the emerging science workforce. The NSF-funded Biodiversity Literacy in Undergraduate Education (BLUE; <ext-link ext-link-type="uri" xlink:href="http://biodiversityliteracy.com">biodiversityliteracy.com</ext-link>) is working to bridge a gap between efforts that currently exists to promote data literacy pre-college and professional development for those pursuing careers in biodiversity science. The BLUE network is developing strategies and materials to infuse biodiversity data into the core of the undergraduate science curriculum, facilitating broad-scale adoption of biodiversity data literacy competencies, and improving undergraduate biology training to meet increasing workforce demands in data and biodiversity sciences. The BLUE network has four major goals: 1) Cultivate a diverse and inclusive network of biodiversity researchers, data scientists, and biology educators focused on undergraduate data-centric biodiversity education; 2) build community consensus on core biodiversity data literacy competencies; 3) develop strategies and exemplar materials to guide the integration of biodiversity data literacy competencies into introductory undergraduate biology curricula; and 4) extend the network to engage a broader community of undergraduate educators in biodiversity data literacy efforts.</p>
+        <p>The BLUE community continues to grow and build new partnerships and initiatives across the biodiversity science community. In year two of the BLUE network we have been focusing efforts building the community, developing and disseminating exemplar educational materials, and defining core biodiversity data literacy skills and competencies. We will present our current and ongoing work and ways in which members of the biodiversity_next community can be involved in shaping the biodiversity science of the future, while addressing the needs of a changing planet.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>data</kwd>
+        <kwd>literacy</kwd>
+        <kwd>BLUE</kwd>
+        <kwd>undergraduate</kwd>
+        <kwd>education</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Elizabeth R. Ellwood</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

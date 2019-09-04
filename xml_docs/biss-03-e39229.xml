@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.39229</article-id>
+      <article-id pub-id-type="publisher-id">39229</article-id>
+      <article-id pub-id-type="manuscript">11504</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Machine Learning Model for Identifying Dutch/Belgian Biodiversity</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hogeweg</surname>
+            <given-names>Laurens</given-names>
+          </name>
+          <email xlink:type="simple">laurens.hogeweg@naturalis.nl</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schermer</surname>
+            <given-names>Maarten</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pieterse</surname>
+            <given-names>Sander</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Roeke</surname>
+            <given-names>Timo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gerritsen</surname>
+            <given-names>Wilfred</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">COSMONiO Imaging BV, Groningen, Netherlands</addr-line>
+        <institution>COSMONiO Imaging BV</institution>
+        <addr-line content-type="city">Groningen</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Observation.org, Groningen, Netherlands</addr-line>
+        <institution>Observation.org</institution>
+        <addr-line content-type="city">Groningen</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Laurens Hogeweg (<email xlink:type="simple">laurens.hogeweg@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e39229</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/44FA0AFD051B5B7F89B0EF697319FA5C">44FA0AFD051B5B7F89B0EF697319FA5C</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>08</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Laurens Hogeweg, Maarten Schermer, Sander Pieterse, Timo Roeke, Wilfred Gerritsen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The potential of citizen scientists to contribute to information about occurrences of species and other biodiversity questions is large because of the ubiquitous presence of organisms and friendly nature of the subject. Online platforms that collect observations of species from the public have existed for several years now. They have seen a rapid growth recently, partly due to the widespread availability of mobile phones. These online platforms, and many scientific studies as well, suffer from a <italic>taxonomic bias</italic>: the effect that certain species groups are overrepresented in the data (<xref ref-type="bibr" rid="B5187056">Troudet et al. 2017</xref>). One of the reasons for this bias is that the accurate identification of species, by non-experts and experts, has been limited by the large number of species that exist. Even in the geographically limited area of the Netherlands and Belgium, the number of species that are regularly observed are in the thousands. This makes the ability to identify all those species difficult or impossible for an individual.</p>
+        <p>Recent advances in species identification powered by deep learning, based on images (<xref ref-type="bibr" rid="B5187067">Norouzzadeh et al. 2018</xref>), suggest a large potential for a new set of digital tools that can help the public (and experts) to identify species automatically. The online observation platform Observation.org has collected over 93 million occurrences in the Netherlands and Belgium in the last 15 years. About 20% of these occurrences are supported by photographs, giving a rich database of 17 million photographs covering all major species groups (e.g., birds, mammals, plants, insects, fungi). Most of the observations with photos were validated by human experts at <ext-link ext-link-type="uri" xlink:href="http://observation.org">Observation.org</ext-link>, creating a unique database suitable for machine learning. We have developed a deep learning-based species identification model using this database containing 13,767 species, 1,530 species-groups, 734 subspecies and 117 hybrids. The model is made available to the public through a web service (<ext-link ext-link-type="uri" xlink:href="https://identify.biodiversityanalysis.nl">https://identify.biodiversityanalysis.nl</ext-link>) and through a set of mobile apps (ObsIdentify).</p>
+        <p>In this talk we will discuss our technical approach for dealing with the large number of species in a deep learning model. We will evaluate the results in terms of performance for different species groups and what this could mean to address part of the taxonomic bias. We will also consider limitations of (image-based) automated species identification and determine venues to further improve identification. We will illustrate how the web service and mobile apps are applied to support citizen scientists and the observation validation workflows at Observation.org. Finally, we will examine the potential of these methods to provide large scale automated analysis of biodiversity data.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>machine learning</kwd>
+        <kwd>deep learning</kwd>
+        <kwd>image recognition</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Laurens Hogeweg</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5187067">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Norouzzadeh</surname>
+              <given-names>Mohammad Sadegh</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nguyen</surname>
+              <given-names>Anh</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kosmala</surname>
+              <given-names>Margaret</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swanson</surname>
+              <given-names>Alexandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Palmer</surname>
+              <given-names>Meredith S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Craig</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clune</surname>
+              <given-names>Jeff</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning</article-title>
+          <source>Proceedings of the National Academy of Sciences</source>
+          <volume>115</volume>
+          <issue>25</issue>
+          <fpage>E5716</fpage>
+          <lpage>E5725</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1719367115</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187056">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Troudet</surname>
+              <given-names>Julien</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grandcolas</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blin</surname>
+              <given-names>Amandine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vignes-Lebbe</surname>
+              <given-names>Régine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Legendre</surname>
+              <given-names>Frédéric</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Taxonomic bias in biodiversity data and societal preferences</article-title>
+          <source>Scientific Reports</source>
+          <volume>7</volume>
+          <fpage>9132</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-017-09084-6</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

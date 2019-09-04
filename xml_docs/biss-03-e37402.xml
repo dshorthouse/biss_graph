@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37402</article-id>
+      <article-id pub-id-type="publisher-id">37402</article-id>
+      <article-id pub-id-type="manuscript">11673</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST15 - Molecular biodiversity evidence in time and space: data linkages and standards</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The UNITE Database for Molecular Identification and for Communicating Fungal Species</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kõljalg</surname>
+            <given-names>Urmas</given-names>
+          </name>
+          <email xlink:type="simple">urmas.koljalg@ut.ee</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Abarenkov</surname>
+            <given-names>Kessy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nilsson</surname>
+            <given-names>R. Henrik</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8052-0107</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Larsson</surname>
+            <given-names>Karl-Henrik</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Taylor</surname>
+            <given-names>Andy F.S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Tartu, Tartu, Estonia</addr-line>
+        <institution>University of Tartu</institution>
+        <addr-line content-type="city">Tartu</addr-line>
+        <country>Estonia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Tartu, Natural History Museum, Tartu, Estonia</addr-line>
+        <institution>University of Tartu, Natural History Museum</institution>
+        <addr-line content-type="city">Tartu</addr-line>
+        <country>Estonia</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Gothenburg, Göteborg, Sweden</addr-line>
+        <institution>University of Gothenburg</institution>
+        <addr-line content-type="city">Göteborg</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Gothenburg Global Biodiversity Centre, Gothenburg, Sweden</addr-line>
+        <institution>Gothenburg Global Biodiversity Centre</institution>
+        <addr-line content-type="city">Gothenburg</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Department of Research and Collections, University of Oslo, Natural History Museum, Postboks 1172, Blindern, 0318 Oslo, Norway, Oslo, Norway</addr-line>
+        <institution>Department of Research and Collections, University of Oslo, Natural History Museum, Postboks 1172, Blindern, 0318 Oslo, Norway</institution>
+        <addr-line content-type="city">Oslo</addr-line>
+        <country>Norway</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">The James Hutton Institute, Craigiebuckler, Aberdeen AB15 8QH, Scotland UK, Aberdeen, United Kingdom</addr-line>
+        <institution>The James Hutton Institute, Craigiebuckler, Aberdeen AB15 8QH, Scotland UK</institution>
+        <addr-line content-type="city">Aberdeen</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Urmas Kõljalg (<email xlink:type="simple">urmas.koljalg@ut.ee</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37402</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/C74A93B9F66E53B6B74021EAC7736042">C74A93B9F66E53B6B74021EAC7736042</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Urmas Kõljalg, Kessy Abarenkov, R. Henrik Nilsson, Karl-Henrik Larsson, Andy F.S. Taylor</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>UNITE (<ext-link ext-link-type="uri" xlink:href="https://unite.ut.ee/">https://unite.ut.ee</ext-link>; <xref ref-type="bibr" rid="B5237871">Nilsson et al. 2018</xref>) is an international community of scientists and citizen scientists established in 2001. The ambition of UNITE is to develop: 1) datasets and tools for robust and reproducible molecular identification; 2) Persistent Identifiers based system for the communicating fungal species. Datasets of the nuclear ribosomal internal transcribed spacer (ITS) region, form the basis for UNITE. The current version includes nearly 1 million public fungal ITS sequences. Datasets are curated and annotated by community members. During the past 15 years, they made more than 275 000 improvements. In the complete absence of Latin names for species, UNITE offers a unique system where species hypotheses (SH) are provided with Digital Object Identifiers (DOIs). The current version 8 of UNITE offers more than 800 000 DOI-based SHs. One such SH DOI page is shown in Fig. <xref ref-type="fig" rid="F5192543">1</xref>. These DOI identifiers are also incorporated into the taxonomic backbone, making communication of taxa seamless in both directions. DOI identifiers of species hypotheses are also used by GBIF (Global Biodiversity Information Facility) in order to publish high-throughput sequencing taxon occurrence data in their data portal.</p>
+        <p>UNITE serves as a data provider for a range of metabarcoding software pipelines and regularly exchanges data with all major fungal sequence databases and other community resources.</p>
+        <p>Recent improvements include ITS-based species hypotheses for all eukaryotes and aggregation of full-length, high-quality ITS sequences generated by the PacBio Sequel system (<ext-link ext-link-type="uri" xlink:href="https://www.pacb.com/products-and-services/sequel-system">https://www.pacb.com/products-and-services/sequel-system</ext-link>) from diverse material samples.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>molecular identification</kwd>
+        <kwd>persistent identifiers</kwd>
+        <kwd>fungi</kwd>
+        <kwd>taxonomy</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Kessy Abarenkov</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5237871">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Nilsson</surname>
+              <given-names>Rolf Henrik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Larsson</surname>
+              <given-names>Karl-Henrik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Taylor</surname>
+              <given-names>Andy F S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bengtsson-Palme</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jeppesen</surname>
+              <given-names>Thomas S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schigel</surname>
+              <given-names>Dmitry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kennedy</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Picard</surname>
+              <given-names>Kathryn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Glöckner</surname>
+              <given-names>Frank Oliver</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tedersoo</surname>
+              <given-names>Leho</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Saar</surname>
+              <given-names>Irja</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kõljalg</surname>
+              <given-names>Urmas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Abarenkov</surname>
+              <given-names>Kessy</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>The UNITE database for molecular identification of fungi: handling dark taxa and parallel taxonomic classifications</article-title>
+          <source>Nucleic Acids Research</source>
+          <volume>47</volume>
+          <fpage> D259</fpage>
+          <lpage>D264</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gky1022</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5192543" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>A screenshot of a UNITE SH Digital Object Identifier (DOI) page for <italic>Tomentella atroarenicolor </italic>(<ext-link ext-link-type="uri" xlink:href="https://plutof.ut.ee/%22%20%5Cl%20%22/datacite/10.15156/BIO/SH009889.07FU">https://plutof.ut.ee/#/datacite/10.15156%2FBIO%2FSH009889.07FU</ext-link>). (<bold>A</bold>) The most accurate taxon name chosen automatically (or manually, if the default were overridden by an expert) from the available sequence identifications; (<bold>B</bold>) short ID of the DOI; (<bold>C</bold>) Data on reference sequence chosen to represent this SH; (<bold>D</bold>) placement of the SH in the fungal classification and identification records for individual sequences; the number after the taxon name indicates how many sequences carry that name. (<bold>E</bold>) Select statistics on the SH. The minimum distance 3.0% is the mandatory genetic difference between sister SHs. (<bold>F</bold>) Distribution map of the individual sequences. (<bold>G</bold>) Information on ecology (interacting taxa) if associated with the individual sequences. (<bold>H</bold>) DataCite-specific data on the DOI. (<bold>I</bold>) Images of the specimen or sample from which the DNA was extracted. Only a limited number of sequences have images attached to them. (<bold>J</bold>) Graphical overview of the SH with detailed information. (<bold>K</bold>) SH inclusiveness across sequence similarity threshold values. A threshold value (= minimum distance) of 1.5% will split these sequences into two SHs, shown here in different colours. (<bold>L</bold>) A threshold value of 2.5% will lump all sequences into a single SH. Each such SH is hyperlinked to its own unique web page. (<bold>M</bold>) Scrollable multiple sequence alignment of the SH. ‘RefSeq’ indicates that the sequence was selected manually to be the representative sequence for the SHs. RefSeqs stem from type specimens or other authentic and particularly trustworthy material. This particular SH contains both International Nucleotide Sequence Database Collaboration sequences (brown) and sequences that are only found in UNITE (yellow).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37402-g001.jpg" position="float" id="oo_291901.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

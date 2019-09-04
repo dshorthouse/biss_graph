@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38262</article-id>
+      <article-id pub-id-type="publisher-id">38262</article-id>
+      <article-id pub-id-type="manuscript">11256</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Integrated Biodiversity Infrastructure for Decision Making </article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Holewa</surname>
+            <given-names>Hamish</given-names>
+          </name>
+          <email xlink:type="simple">hamish.holewa@csiro.au</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7042-2327</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Atlas of Living Australia, Canberra, Australia</addr-line>
+        <institution>Atlas of Living Australia</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Hamish Holewa (<email xlink:type="simple">hamish.holewa@csiro.au</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38262</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/08A1CE79269A57A291D88463D398DA27">08A1CE79269A57A291D88463D398DA27</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Hamish Holewa</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>
+          <styled-content style="font-weight:normal;">The Atlas of Living Australia (<ext-link ext-link-type="uri" xlink:href="https://www.ala.org.au/">ALA</ext-link>) is an Australian Government supported collaborative partnership of organisations that have stewardship of Australian biodiversity data. The ALA (<ext-link ext-link-type="uri" xlink:href="http://www.ala.org.au">www.ala.org.au</ext-link>) provides research infrastructure that enables delivery of biodiversity information to over 45,000 unique users in research, industry and government per annum. It delivers impact and enables research excellence in fields such as biodiversity, environmental management, ecology and genetic sciences.</styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">Integrated and consistent infrastructure and processes are fundamental to increasing value of collections and associated data. The Atlas of Living Australia has a mature industry engagement program that provides data standardisation, quality and analytical services to decision makers in all tiers of Australian government (local, state and federal). This program is built on formal partnerships between data providers (collection institutions) and analytical services (such as Virtual Laboratories and Research and Science Clouds <ext-link ext-link-type="uri" xlink:href="http://www.ecocloud.org.au">www.ecocloud.org.au</ext-link>). The provision of high quality, authoritative data is critical to utilisation and uptake of these services and sector sustainability. </styled-content>
+        </p>
+        <p>
+          <styled-content style="font-weight:normal;">This presentation will showcase data service and analytical methods for decision makers within the Australian context. It will also explore how international efforts such as <ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">DiSSCo</ext-link> assist in data stewardship, cultural change and system enhancement.</styled-content>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>integrated data</kwd>
+        <kwd>sustainability</kwd>
+        <kwd>decision makers</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>National Collaborative Research Infrastructure Strategy, Australian Government</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Hamish Holewa</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

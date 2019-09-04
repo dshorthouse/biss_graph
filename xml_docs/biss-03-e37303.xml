@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37303</article-id>
+      <article-id pub-id-type="publisher-id">37303</article-id>
+      <article-id pub-id-type="manuscript">11211</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST92 - Advancing the Quality of Diverse Citizen Science Data from Observations to Atlasing Projects</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>iNaturalist is an Unexploited Source of Plant-Insect Interaction Data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Gazdic</surname>
+            <given-names>Milan</given-names>
+          </name>
+          <email xlink:type="simple">gazdic.milan@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Groom</surname>
+            <given-names>Quentin</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0596-5376</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Belgrade, Faculty of Forestry, Belgrade, Serbia</addr-line>
+        <institution>University of Belgrade, Faculty of Forestry</institution>
+        <addr-line content-type="city">Belgrade</addr-line>
+        <country>Serbia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Milan Gazdic (<email xlink:type="simple">gazdic.milan@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37303</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/9378C1050A995754AC18FB20A005C997">9378C1050A995754AC18FB20A005C997</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Milan Gazdic, Quentin Groom</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The aim of this study was to assess whether it is possible to extract useful interaction data between flowers and visiting insects using photographs from citizen science. Ultimately the longer-term aim is to understand possible impacts of invasive species on pollination networks.</p>
+        <p>We used data from iNaturalist (<ext-link ext-link-type="uri" xlink:href="https://www.inaturalist.org/">https://www.inaturalist.org</ext-link>), GBIF (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">https://www.gbif.org</ext-link>), and GLOBI (<ext-link ext-link-type="uri" xlink:href="https://www.globalbioticinteractions.org/">https://www.globalbioticinteractions.org</ext-link>). From iNaturalist, we used photographs to extract flower visitation interactions. GBIF data were used for plant and pollinator occurrences, and GLOBI was used for information about known interactions between plants and pollinators. For this study we selected four plant species: <italic>Oxalis pes-caprae </italic>(Bermuda buttercup), <italic>Cirsium vulgare</italic> (spear thistle) <italic>Amorpha fruticosa</italic> (false indigo) and <italic>Lantana camara</italic> (common lantana)<italic>. </italic>These species are relatively common, frequently photographed and known to be attractive to insects. All of these species are also considered invasive in different parts of world.</p>
+        <p>We found that over 60% of all photographs identified as a picture of a bee (Apoidea) also showed a flower that the insect was visiting. Thirty-nine percent of butterflies (Papilionoidea) were photographed on a flower and 38% of Syrphidae. Currently, there are about 170,000 pictures of bees; 700,000 butterflies and 50,000 Syrphidae on iNaturalist from all over the world. This means there is a vast untapped resource of insect-plant interaction data on iNaturalist just waiting for exploitation.</p>
+        <p>iNaturalist provides a standardized and cost-efficient enhancement to specimen collection, and it can be easily adapted for specific research goals. However, the relatively high rate of photographs without both species identifications (plant and visitor) highlights the importance of investing in resources to promote this approach and the importance of determining the identity of all species in a photograph.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Citizen science</kwd>
+        <kwd>flowering</kwd>
+        <kwd>invasive species</kwd>
+        <kwd>pollinators</kwd>
+        <kwd>pollination network</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Milan Gazdic</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This study was supported by a STSM Grant from COST Action Alien CSI (CA17122), supported by COST (European Cooperation in Science and Technology).</p>
+    </ack>
+  </back>
+</article>

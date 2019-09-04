@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37159</article-id>
+      <article-id pub-id-type="publisher-id">37159</article-id>
+      <article-id pub-id-type="manuscript">11447</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI87 - Empowering the taxonomic community by linking information through names and taxonomy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>TaxonWorks: An experience of migrating large datasets into the new cybertaxonomic infrastructure</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dmitriev</surname>
+            <given-names>Dmitry A</given-names>
+          </name>
+          <email xlink:type="simple">arboridia@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3293-4794</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Illinois at Urbana-Champaign, Champaign, United States of America</addr-line>
+        <institution>University of Illinois at Urbana-Champaign</institution>
+        <addr-line content-type="city">Champaign</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Dmitry A Dmitriev (<email xlink:type="simple">arboridia@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37159</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/491A8C82D413548284061544EC970DB5">491A8C82D413548284061544EC970DB5</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Dmitry A Dmitriev</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>TaxonWorks (<ext-link ext-link-type="uri" xlink:href="http://taxonworks.org/">http://taxonworks.org</ext-link>) in an integrated, open-source, cybertaxonomic web application serving taxonomists and biodiversity scientists. It is designed to facilitate efficient data capture, storage, manipulation, and retrieval. It integrates a wide variety of data types used by biodiversity scientists, including, but not limited to, taxonomy (with validation based on codes of zoological, botanical, bacterial, and viral nomenclature), specimen data, bibliographies, media (images, PDFs, sounds, videos), morphology (character/trait matrices), distribution, biological associations. Available TaxonWorks web interfaces currently provide various data entry forms for simple and advanced querying of the database.</p>
+        <p>TaxonWorks has integrated batch uploader functionality. But, for larger datasets, specialized migration scripts were used. Several projects, historically build in 3i (<ext-link ext-link-type="uri" xlink:href="http://dmitriev.speciefile.org/">http://dmitriev.speciesfile.org</ext-link>), MX (<ext-link ext-link-type="uri" xlink:href="http://mx.phenomix.org/">http://mx.phenomix.org</ext-link>), SpeciesFiles (<ext-link ext-link-type="uri" xlink:href="http://software.speciesfile.org/">http://software.speciesfile.org</ext-link>), and other databases, have been or are being migrated into TaxonWorks. Of the projects moving into TaxonWorks, it is worth mentioning several: <ext-link ext-link-type="uri" xlink:href="http://dmitriev.speciesfile.org">3i World Auchenorrhyncha Database</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.nhm.ac.uk/our-science/data/lepindex/">LepIndex</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.nhm.ac.uk/our-science/data/chalcidoids/">Universal Chalcidoidea Database</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://orthoptera.speciesfile.org/">Orthoptera SpeciesFile</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://plecoptera.speciesfile.org/">Plecoptera SpeciesFile</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://inhsinsectcollection.speciesfile.org/InsectCollectionEdit.aspx">Illinois Natural History Survey Insect Collection database</ext-link>, and several others. An experience of the data migration will be shared during the presentation.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>TaxonWorks</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>cybertaxonomy</kwd>
+        <kwd>nomenclature</kwd>
+        <kwd>bioinformatics</kwd>
+        <kwd>database</kwd>
+        <kwd>dataset</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Dmitry A. Dmitriev</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>The work is supported by NSF DEB 16-39601 grant.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>The work is supported by NSF DEB 16-39601 grant.</p>
+    </sec>
+  </back>
+</article>

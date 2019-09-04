@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38048</article-id>
+      <article-id pub-id-type="publisher-id">38048</article-id>
+      <article-id pub-id-type="manuscript">11524</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Application of Artificial Neural Networks (ANN) Coupled with Near-InfraRed(NIR) Spectroscopy for Detection of Adulteration in Honey</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Longin</surname>
+            <given-names>Lucija</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Jurinjak Tusek</surname>
+            <given-names>Ana</given-names>
+          </name>
+          <email xlink:type="simple">atusek@pbf.hr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Valinger</surname>
+            <given-names>Davor</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Benkovic</surname>
+            <given-names>Maja</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jurina</surname>
+            <given-names>Tamara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gajdos Kljusuric</surname>
+            <given-names>Jasenka</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Zagreb, Faculty of Food Technology and Biotechnology, Zagreb, Croatia</addr-line>
+        <institution>University of Zagreb, Faculty of Food Technology and Biotechnology</institution>
+        <addr-line content-type="city">Zagreb</addr-line>
+        <country>Croatia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Ana Jurinjak Tusek (<email xlink:type="simple">atusek@pbf.hr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38048</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/04561FCABC305DBCB80F5546D04F78D7">04561FCABC305DBCB80F5546D04F78D7</uri>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Lucija Longin, Ana Jurinjak Tusek, Davor Valinger, Maja Benkovic, Tamara Jurina, Jasenka Gajdos Kljusuric</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Honey is a naturally sweet and viscous product for which the addition of any substance is prohibited by international regulation. Detection of adulteration in honey is a technical problem: adulteration of honey with invert sugar and syrup may not be reliably detected by direct sugar analysis because its constituents are identical to the major natural components of the honey. Therefore, it is important to develop a rapid and reliable analytical method to detect such additions. We used near-infrared spectroscopy (NIR) combined with principle component analysis (PCA) and artificial neural networks (ANN) modelling to discriminate between honey and corn syrup in adulterated honey. Fifteen honey samples from north-west Croatia (Krapina-Zagorje County) were intentionally supplemented with differing proportions of corn syrup ranging from 10-90%. We collected a total of 460 NIR spectra using the Control Development NIR128L-1.7 spectrophotometer (Control Development, South Bend, Indiana, USA) with their software Spec32 software anda HL-2000 halogen light source. For each of the prepared samples, we measured water content by refractometer (Brouwland, Belgium), conductivity byconductometer (SevenCompact, MettlerToledo, Switzerland), and colour using a PCE-CSM3 colorimeter (PCE Instruments, Germany).</p>
+        <p>Prior to ANN modelling, PCA was used to identify patterns and highlight similarities and differences in data of the individual set of the experiment. The goal of PCA is to extract important information from the data table and to express this information as a set of new orthogonal variables called principal components or factors (PCs or Fs). We conducted PCA of raw spectra using the Unscrambler<sup>®</sup> X 10.4 software (CAMO software, Norway). Data were divided into  ANN model training, test, and validation datasets at a 70:15:15 ratio using the first five PCs. ANNs were calibrated using model training data, and evaluated using model test and model validation datasets for their ability to predict: i) the amount of added adultering substance in honey, ii) water content, iii) conductivity and iv) colour of the adulterated honey. Multiple layer perception (MLP) networks were developed in Statistica v.10.0 software (StatSoft, Tulsa, USA). Back error propagation algorithm available in Statistica v.10.0 was applied for the model training. Model performance was evaluated using <italic>R</italic><sup>2</sup> and root mean squared error (RMSE) values for model training, test, and validation datasets.</p>
+        <p>Results show that network MLP 5-8-6 with five neurons in the input layer, 8 neurons in the hidden layer and 6 neurons in the output layer predicts the analysed output variables with high precision (<italic>R</italic><sup>2</sup><sub>validation,concentration </sub>= 0.995, <italic>R</italic><sup>2</sup><sub>validation,water content </sub>= 0.993, <italic>R</italic><sup>2</sup><sub>validation,conductivity </sub>= 0.992, <italic>R</italic><sup>2</sup><sub>validation,L </sub>= 0.939, <italic>R</italic><sup>2</sup><sub>validation,a </sub>= 0.895, <italic>R</italic><sup>2</sup><sub>validation,b </sub>= 0.924).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Near-infrared spectroscopy (NIR)</kwd>
+        <kwd>principle component analysis (PCA)</kwd>
+        <kwd>artificial neural networks modelling (ANN)</kwd>
+        <kwd>honey adulteration</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Ana Jurinjak Tusek</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37651</article-id>
+      <article-id pub-id-type="publisher-id">37651</article-id>
+      <article-id pub-id-type="manuscript">11705</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biological &amp; Geological Collections as a Research Infrastructure: A Dutch case</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Banki</surname>
+            <given-names>Olaf</given-names>
+          </name>
+          <email xlink:type="simple">olaf.banki@naturalis.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6197-9951</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Stupers</surname>
+            <given-names>Letty</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Prins</surname>
+            <given-names>Marijn</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Olaf Banki (<email xlink:type="simple">olaf.banki@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37651</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DD4E5D998E4B5639B4EF61778570AE23">DD4E5D998E4B5639B4EF61778570AE23</uri>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Olaf Banki, Letty Stupers, Marijn Prins</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Within the Netherlands, large scale digitization efforts of natural science collections have taken place in recent years. This has led to a wealth of digital information on natural science collections. Still, large quantities of collection data remain untapped and undigitized. The usage of all these digital collections data as driver for science and society remains underexplored. Especially important, is the opportunity for such data to be combined and/or enriched with other data types with the aim to empower different user groups.</p>
+        <p>A consortium of Dutch partners has committed themselves in working together to make biological and geological collections into a joint research infrastructure, underpinning other research infrastructures and scientific uses also beyond the biodiversity research domain. This consortium combines the Dutch contribution to the Distributed Systems of Scientific Collections (DiSSCo), LifeWatch, the Catalogue of Life and the Global Biodiversity Information facility, under the coordination of the Netherlands Biodiversity Information Facility.</p>
+        <p>As part of a preparatory project for DiSSCo, funded by the Dutch science council, we connected the different users groups of collection managers (data providers), scientists (end-users), IT-specialists and policymakers. With collection managers we explored how to move towards an overview of all natural science collections in the Netherlands. In addition, we studied to what extent collection holdings of different musea could be combined, managed, and shared into one research infrastructure. Using a research data management cycle perspective, we surveyed and interviewed the Dutch research community for the barriers and opportunities in using natural science collections and related data.</p>
+        <p>The outcomes of the project should lead to the next steps in creating a more comprehensive and inclusive biodiversity research data infrastructure in the Netherlands that interacts seamlessly with existing international research infrastructures, including DiSSCo.  </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>DiSSCo</kwd>
+        <kwd>user requirements</kwd>
+        <kwd>science collections</kwd>
+        <kwd>research infrastructure</kwd>
+        <kwd>national consortium</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Olaf Bánki</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

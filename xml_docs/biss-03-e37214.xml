@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37214</article-id>
+      <article-id pub-id-type="publisher-id">37214</article-id>
+      <article-id pub-id-type="manuscript">11514</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST74 - Standards Alignments across Disciplines in Natural Sciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>ABCD 3.0 Ready to Use</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Fichtmueller</surname>
+            <given-names>David</given-names>
+          </name>
+          <email xlink:type="simple">d.fichtmueller@bgbm.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0829-5849</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Berendsohn</surname>
+            <given-names>Walter G.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9945-7606</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Droege</surname>
+            <given-names>Gabriele</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Glöckler</surname>
+            <given-names>Falko</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7127-2738</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Güntsch</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4325-4030</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hoffmann</surname>
+            <given-names>Jana</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6214-661X</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Holetschek</surname>
+            <given-names>Jörg</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Petersen</surname>
+            <given-names>Mareike</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8666-1931</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Reimeier</surname>
+            <given-names>Fabian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Botanic Garden and Botanical Museum, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin, Botanic Garden and Botanical Museum</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany</addr-line>
+        <institution>Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: David Fichtmueller (<email xlink:type="simple">d.fichtmueller@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37214</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/6342524D22DA552990254B1BCF7B6B92">6342524D22DA552990254B1BCF7B6B92</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>David Fichtmueller, Walter G. Berendsohn, Gabriele Droege, Falko Glöckler, Anton Güntsch, Jana Hoffmann, Jörg Holetschek, Mareike Petersen, Fabian Reimeier</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The TDWG standard ABCD (<xref ref-type="bibr" rid="B5188409">Access to Biological Collections Data task group 2007</xref>) was aimed at harmonizing terminologies used for modelling biological collection information and is used as a comprehensive data format for transferring collection and observation data between software components.</p>
+        <p>The project ABCD 3.0 (A community platform for the development and documentation of the ABCD standard for natural history collections) was financed by the German Research Council (DFG). It addressed the transformation of ABCD into a semantic web-compliant ontology by deconstructing the XML-schema into individually addressable RDF (Resource Description Framework) resources published via the TDWG Terms Wiki (<ext-link ext-link-type="uri" xlink:href="https://terms.tdwg.org/wiki/ABCD_2">https://terms.tdwg.org/wiki/ABCD_2</ext-link>). In a second step, informal properties and concept-relations described by the original ABCD-schema were transformed into a machine-readable ontology and revised (<xref ref-type="bibr" rid="B5188324">Güntsch et al. 2016</xref>). The project was successfully finished in January 2019.</p>
+        <p>The ABCD 3 setup allows for the creation of standard-conforming application schemas. The XML variant of ABCD 3.0 was restructured, simplified and made more consistent in terms of element names and types as compared to version 2.x. The XML elements are connected to their semantic concepts using the W3C SAWSDL (Semantic Annotation for Web Services Description Language and XML Schema) standard. The creation of specialized applications schemas is encouraged, the first use case was the application schema for zoology. It will also be possible to generate application schemas that break the traditional unit-centric structure of ABCD.</p>
+        <p>Further achievements of the project include creating a Wikibase instance as the editing platform, with related tools for maintenance queries, such as checking for inconsistencies in the ontology and automated export into RDF. This allows for fast iterations of new or updated versions, e.g. when additional mappings to other standards are done. The setup is agnostic to the data standard created, it can therefore also be used to create or model other standards. Mappings to other standards like Darwin Core (<ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/">https://dwc.tdwg.org/</ext-link>) and Audubon Core (<ext-link ext-link-type="uri" xlink:href="https://tdwg.github.io/ac/">https://tdwg.github.io/ac/</ext-link>) are now machine readable as well. All XPaths (XML Paths) of  ABCD 3.0 XML have been mapped to all variants of ABCD 2.06 and 2.1, which will ease transition to the new standard. The ABCD 3 Ontology will also be uploaded to the GFBio Terminology Server (<xref ref-type="bibr" rid="B5187640">Karam et al. 2016</xref>), where individual concepts can be easily searched or queried, allowing for better interactive modelling of ABCD concepts.</p>
+        <p>ABCD documentation now adheres to TDWG’s Standards Documentation Standard (SDS, <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/standards/sds/">https://www.tdwg.org/standards/sds/</ext-link>) and is located at <ext-link ext-link-type="uri" xlink:href="https://abcd.tdwg.org/">https://abcd.tdwg.org/</ext-link>. The new site is hosted on Github: <ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/abcd/tree/gh-pages">https://github.com/tdwg/abcd/tree/gh-pages</ext-link>.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>TDWG standard</kwd>
+        <kwd>ABCD</kwd>
+        <kwd>collections</kwd>
+        <kwd>collection data</kwd>
+        <kwd>natural history</kwd>
+        <kwd>botany</kwd>
+        <kwd>zoology</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Deutsche Forschungsgemeinschaft</named-content>
+            <named-content content-type="funder_identifier">501100001659</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001659</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>David Fichtmüller</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Literaturversorgung und Information / Erschließung und Digitalisierung: Standardbildung zur Erschließung und / oder Digitalisierung von Objektgattungen in wissenschaftlichen Sammlungen</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Literaturversorgung und Information / Erschließung und Digitalisierung: Standardbildung zur Erschließung und / oder Digitalisierung von Objektgattungen in wissenschaftlichen Sammlungen</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>A community platform for the development and documentation of the ABCD standard for natural history collections. <styled-content style="font-size:9.5pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:DE;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">GU 1109/6-1</styled-content>.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5188409">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>group</surname>
+              <given-names>Access to Biological Collections Data task</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <chapter-title>Access to Biological Collection Data (ABCD), Version 2.06.</chapter-title>
+          <source>Biodiversity Information Standards (TDWG)</source>
+        </element-citation>
+      </ref>
+      <ref id="B5188324">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fichtmüller</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Petersen</surname>
+              <given-names>Mareike</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hoffmann</surname>
+              <given-names>Jana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holetschek</surname>
+              <given-names>Jörg</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Droege</surname>
+              <given-names>Gabi</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Towards the next-generation ABCD</article-title>
+          <source>TDWG 2016 Annual Conference - Abstracts</source>
+          <uri>https://mbgocs.mobot.org/index.php/tdwg/tdwg2016/paper/view/982</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5187640">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Karam</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller-Birn</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gleisberg</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fichtmüller</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tolksdorf</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>A Terminology Service Supporting Semantic Annotation, Integration, Discovery and Analysis of interdisciplinary Research Data.</article-title>
+          <source>Datenbank-Spektrum</source>
+          <volume>16</volume>
+          <issue>3</issue>
+          <fpage>195</fpage>
+          <lpage>205</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

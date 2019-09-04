@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37199</article-id>
+      <article-id pub-id-type="publisher-id">37199</article-id>
+      <article-id pub-id-type="manuscript">11732</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST13 - Enhancing taxonomic publications for dynamic data exchange and navigation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The European Journal of Taxonomy: Enhancing taxonomic publications for dynamic data exchange and navigation</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Bénichou</surname>
+            <given-names>Laurence</given-names>
+          </name>
+          <email xlink:type="simple">laurence.benichou@mnhn.fr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gerard</surname>
+            <given-names>Isabelle</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chester</surname>
+            <given-names>Chloé</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Agosti</surname>
+            <given-names>Donat</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9286-1200</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Muséum national d'Histoire naturelle, Paris, France</addr-line>
+        <institution>Muséum national d'Histoire naturelle</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">National Museum of Natural History, Paris, France</addr-line>
+        <institution>National Museum of Natural History</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Royal Museum for Central Africa, Tervuren, Belgium</addr-line>
+        <institution>Royal Museum for Central Africa</institution>
+        <addr-line content-type="city">Tervuren</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Plazi, Bern, Switzerland</addr-line>
+        <institution>Plazi</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">www.plazi.org, Bern, Switzerland</addr-line>
+        <institution>www.plazi.org</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Laurence Bénichou (<email xlink:type="simple">laurence.benichou@mnhn.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37199</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/16BE81005C845A14852062364D041B6C">16BE81005C845A14852062364D041B6C</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The <ext-link ext-link-type="uri" xlink:href="https://europeanjournaloftaxonomy.eu">European Journal of Taxonomy</ext-link> (EJT) was initiated by a consortium of European natural history publishers to take advantage of the shift from paper to electronic-only publishing (<xref ref-type="bibr" rid="B5206526">Benichou et al. 2011</xref>). Whilst originally publishing in PDF format has been considered the state of the art, it became recently obvious that complementary dissemination channels help to disseminate taxonomic data - one of the pillars of Natural History institutions research - more widely and efficiently (<xref ref-type="bibr" rid="B5206538">Côtez et al. 2018</xref>).  The adoption of semantic markup and assignment of persistent identifiers for content allow more comprehensive citations of the article, including elements therein, such as images, taxonomic treatments, and materials citation. It also allows more in-depth analyses and visualization of the contribution of collections, authors, or specimens to taxonomic output and third parties, such as the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">Global Biodiversity Information Facility</ext-link>, for reuse of the data or building the catalogue of life.</p>
+        <p>In this presentation, EJT will be used to outline the nature of natural history publishers and their technical set up. This is followed by a description of the post-publishing workflow using the <ext-link ext-link-type="uri" xlink:href="http://plazi.org/">Plazi</ext-link> workflow and dissemination via the <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/communities/biosyslit">Biodiversity Literature Repository</ext-link> (BLR) and TreatmentBank. It outlines switching the publishing workflow to an increased use of extended markup language (XML) and visualization of the output and concludes by publishing guidelines that enable more efficient text and data mining of the content of taxonomic publications.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Publishing Workflow</kwd>
+        <kwd>diamond open access</kwd>
+        <kwd>FAIR access</kwd>
+        <kwd>XML</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Laurence Bénichou</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5206526">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Benichou</surname>
+              <given-names>Laurence</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martens</surname>
+              <given-names>Koen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Higley</surname>
+              <given-names>Graham</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gérard</surname>
+              <given-names>Isabelle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dessein</surname>
+              <given-names>Steven</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Duin</surname>
+              <given-names>Daphne</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>Launch of the European Journal of Taxonomy (EJT)</article-title>
+          <source>European Journal of Taxonomy</source>
+          <volume>1</volume>
+          <pub-id pub-id-type="doi">10.5852/ejt.2011.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5206538">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Côtez</surname>
+              <given-names>Emmanuel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mabille</surname>
+              <given-names>Anne</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chester</surname>
+              <given-names>Chloë</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocklin</surname>
+              <given-names>Emmanuelle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deroin</surname>
+              <given-names>Thierry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Desutter-Grandcolas</surname>
+              <given-names>Laure</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lesur</surname>
+              <given-names>Joséphine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Merle</surname>
+              <given-names>Didier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robillard</surname>
+              <given-names>Tony</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bénichou</surname>
+              <given-names>Laurence</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>1802–2018: 220 ans d'histoire des périodiques au Muséum</article-title>
+          <source>Zoosystema</source>
+          <volume>40</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.5252/zoosystema2018v40a1</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

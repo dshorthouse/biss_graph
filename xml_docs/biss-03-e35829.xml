@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35829</article-id>
+      <article-id pub-id-type="publisher-id">35829</article-id>
+      <article-id pub-id-type="manuscript">11153</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST02 - Biodiversity Data Quality - how it affects science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Data Location Quality at GBIF</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Waller</surname>
+            <given-names>John</given-names>
+          </name>
+          <email xlink:type="simple">jwaller@gbif.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">GBIF, Copenhagen, Denmark</addr-line>
+        <institution>GBIF</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: John Waller (<email xlink:type="simple">jwaller@gbif.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35829</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/27AB829789F85F79A1C76BE2164AD70C">27AB829789F85F79A1C76BE2164AD70C</uri>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>I will cover how the <bold>Global Biodiversity Information Facility</bold> (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">GBIF</ext-link>) handles <bold>data quality issues</bold>, with specific focus on coordinate location issues, such as <ext-link ext-link-type="uri" xlink:href="https://data-blog.gbif.org/post/finding-gridded-datasets/">gridded datasets</ext-link> (Fig. <xref ref-type="fig" rid="F5175767">1</xref>) and <ext-link ext-link-type="uri" xlink:href="https://data-blog.gbif.org/post/country-centroids/">country centroids</ext-link>. I will highlight the challenges GBIF faces identifying potential data quality problems and what we and others (<xref ref-type="bibr" rid="B5175731">Zizka et al. 2019</xref>) are doing to discover and address them.</p>
+        <p>GBIF is the largest open-data portal of biodiversity data, which is a large network of <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/search?q=">individual datasets</ext-link> (&gt; 40k) from various sources and <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/publisher/search?q=">publishers</ext-link>. Since these datasets are variable both within themselves and dataset-to-dataset, this creates a challenge for users wanting to use data collected from <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/7e380070-f762-11e1-a439-00145eb45e9a">museums</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/50c9509d-22c7-4a22-a47d-8c48425ef4a7">smartphones</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/c779b049-28f3-4daf-bbf4-0a40830819b6">atlases</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/82e6a41e-f762-11e1-a439-00145eb45e9a">satellite tracking</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/3b8c5ed8-b6c2-4264-ac52-a9d772d69e9f">DNA sequencing</ext-link>, and various other sources for research or analysis.</p>
+        <p>Data quality at GBIF will always be a moving target (<xref ref-type="bibr" rid="B5175721">Chapman 2005</xref>), and GBIF already handles many obvious errors such as <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/occurrence/search?issue=ZERO_COORDINATE">zero</ext-link>/<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/occurrence/search?issue=COORDINATE_INVALID">impossible coordinates</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/occurrence/search?issue=INDIVIDUAL_COUNT_INVALID&amp;issue=IDENTIFIED_DATE_INVALID&amp;issue=MODIFIED_DATE_INVALID&amp;issue=ELEVATION_UNLIKELY&amp;issue=COUNTRY_INVALID&amp;issue=RECORDED_DATE_INVALID&amp;issue=MULTIMEDIA_DATE_INVALID&amp;issue=MULTIMEDIA_URI_INVALID&amp;issue=REFERENCES_URI_INVALID&amp;issue=BASIS_OF_RECORD_INVALID&amp;issue=TYPE_STATUS_INVALID&amp;issue=IDENTIFIED_DATE_UNLIKELY&amp;issue=MODIFIED_DATE_UNLIKELY&amp;issue=RECORDED_DATE_UNLIKELY">empty or invalid data fields</ext-link>, and <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/occurrence/search?issue=TAXON_MATCH_FUZZY">fuzzy taxon matching</ext-link>. Since GBIF primarily (but not exclusively) serves lat-lon location information,<bold> there is an expectation that occurrences fall somewhat close to where the species actually occurs</bold>. This is not always the case. Occurrence data can be hundereds of kilometers away from where the species naturally occur, and there can be multiple reasons for why this can happen, which might not be entirely obvious to users.</p>
+        <p>One reasons is that many GBIF datasets are <bold>gridded</bold>. <ext-link ext-link-type="uri" xlink:href="https://data-blog.gbif.org/post/gridded-datasets-update/">Gridded datasets</ext-link> are datasets that have low resolution due to equally-spaced sampling. This can be a data quality issue because a user might assume an occurrence record was recorded exactly at its coordinates. <bold>Country centroids</bold> are another reason why a species occurrence record might be far from where it occurs naturally. GBIF does not yet flag <ext-link ext-link-type="uri" xlink:href="https://ropensci.github.io/CoordinateCleaner/reference/cc_cen.html">country centroids</ext-link>, which are records where the dataset publishers has entered the lat-long center of a country instead of leaving the field blank. I will discuss the challenges surrounding locating these issues and the current solutions (such as the <ext-link ext-link-type="uri" xlink:href="https://github.com/ropensci/CoordinateCleaner">CoordinateCleaner</ext-link> R package).</p>
+        <p>I will touch on how existing DWCA terms like <ext-link ext-link-type="uri" xlink:href="https://terms.tdwg.org/wiki/dwc:coordinateUncertaintyInMeters">coordinateUncertaintyInMeters</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://terms.tdwg.org/wiki/dwc:footprintWKT">footprintWKT</ext-link> are being utilized to highlight low coordinate resolution. Finally, I will highlight some other emerging data quality issues and how GBIF is beginning to experiment with <bold>dataset-level flagging</bold>. Currently we have flagged around <bold>500 datasets as gridded</bold> and around <bold>400 datasets as citizen science</bold>, but there are many more potential dataset flags.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>GBIF</kwd>
+        <kwd>Data Quality</kwd>
+        <kwd>Gridded Datasets</kwd>
+        <kwd>Country Centroids</kwd>
+        <kwd>CoordinateCleaner</kwd>
+        <kwd>coordinateUncertaintyInMeters</kwd>
+        <kwd>footprintWKT</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>John Waller</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5175721">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Chapman</surname>
+              <given-names>Arthur D.</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Principles of Data Quality</article-title>
+          <source>Global Biodiversity Information Facility</source>
+          <pub-id pub-id-type="doi">10.15468/DOC.JRGG-A190</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5175731">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Zizka</surname>
+              <given-names>Alexander</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Silvestro</surname>
+              <given-names>Daniele</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Andermann</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Azevedo</surname>
+              <given-names>Josué</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ritter</surname>
+              <given-names>Camila Duarte</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Edler</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Farooq</surname>
+              <given-names>Harith</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Herdean</surname>
+              <given-names>Andrei</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ariza</surname>
+              <given-names>María</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scharn</surname>
+              <given-names>Ruud</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Svantesson</surname>
+              <given-names>Sten</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wengström</surname>
+              <given-names>Niklas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zizka</surname>
+              <given-names>Vera</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Antonelli</surname>
+              <given-names>Alexandre</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>CoordinateCleaner: Standardized cleaning of occurrence records from biological collection databases</article-title>
+          <source>Methods in Ecology and Evolution</source>
+          <pub-id pub-id-type="doi">10.1111/2041-210x.13152</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5175767" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>A gridded dataset animation illustrating the expecation of users versus the reality of underlying occurrence data.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e35829-g001.gif" position="float" id="oo_290266.gif" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

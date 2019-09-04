@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38059</article-id>
+      <article-id pub-id-type="publisher-id">38059</article-id>
+      <article-id pub-id-type="manuscript">11598</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>DINA: Open Source and Open Services - A modern approach for natural history collection management systems and research</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Glöckler</surname>
+            <given-names>Falko</given-names>
+          </name>
+          <email xlink:type="simple">falko.gloeckler@mfn.berlin</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7127-2738</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Macklin</surname>
+            <given-names>James</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9508-1349</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ronquist</surname>
+            <given-names>Fredrik</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3929-251X</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hoffmann</surname>
+            <given-names>Jana</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6214-661X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany</addr-line>
+        <institution>Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Agriculture and Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture and Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Swedish Museum of Natural History, Stockholm, Sweden</addr-line>
+        <institution>Swedish Museum of Natural History</institution>
+        <addr-line content-type="city">Stockholm</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Falko Glöckler (<email xlink:type="simple">falko.gloeckler@mfn.berlin</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38059</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2E25A5556031574A8478FAD7C38FAD10">2E25A5556031574A8478FAD7C38FAD10</uri>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The DINA Consortium (“<bold>DI</bold>gital information system for <bold>NA</bold>tural history data”, <ext-link ext-link-type="uri" xlink:href="https://dina-project.net">https://dina-project.net</ext-link>) was formed in order to provide a framework for like-minded large natural history collection-holding institutions to collaborate through a distributed Open Source development model to produce a flexible and sustainable collection management system. Target collections include zoological, botanical, mycological, geological and paleontological collections, living collections, biodiversity inventories, observation records, and molecular data. DINA is funded by the participating member institutions. DINA Core Members are organizations or individuals who commit at least one half-time equivalent of resources to the development of the consortium goals, at least half of which should be available for code development.</p>
+        <p>The DINA system is architected as a loosely-coupled set of several web-based modules. The conceptual basis for this modular ecosystem is a compilation of comprehensive guidelines for Web application programming interfaces (APIs) to guarantee the interoperability of its components. Thus, all DINA components can be modified or even replaced by other components without crashing the rest of the system as long as they are DINA compliant. Furthermore, the modularity enables the institutions to host only the components they need. DINA focuses on an Open Source software philosophy and on community-driven open development, so the contributors share their development resources and expertise outside of their own institutions.</p>
+        <p>One of the overarching reasons to develop a new collection management system is the need to better model complex relationships between collection objects (typically specimens), research data and associated workflows. We will present the enhancements provided by the approach of the DINA system focussing on the flexibility to plug in compliant components and accommodate additional (meta-)data and specimen related research data with the help of a generic data module.</p>
+        <p>Furthermore, we will discuss challenges in the governance of the development activities such as organizing the distributed code development of the core modules, the code review process and the choice of the software stack. These organizational challenges will be overcome with the help of a revised Memorandum of Understanding.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>natural history collection management</kwd>
+        <kwd>information system</kwd>
+        <kwd>open source</kwd>
+        <kwd>software development</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>The DINA Consortium is funded by the participating member institutions. Core Members are organizations or individuals who commit at least onehalf-time equivalent of resources to the development of the consortium goals, at least half of which should be available for code development.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Falko Glöckler</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

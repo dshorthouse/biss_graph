@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37139</article-id>
+      <article-id pub-id-type="publisher-id">37139</article-id>
+      <article-id pub-id-type="manuscript">11665</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>WF.ACTIAS: A workflow for a better integration of biodiversity data from diverse sources</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ballesteros Mejia</surname>
+            <given-names>Liliana</given-names>
+          </name>
+          <email xlink:type="simple">ballesteros.liliana@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2790-8652</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rougerie</surname>
+            <given-names>Rodolphe</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Consortium</surname>
+            <given-names>ACTIAS</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ratnasingham</surname>
+            <given-names>Sujeevan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Muséum national d'Histoire Naturelle, Paris, France</addr-line>
+        <institution>Muséum national d'Histoire Naturelle</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">CESAB, Centre de Synthèse et d’Analyse sur la Biodiversité, Montpellier, France</addr-line>
+        <institution>CESAB, Centre de Synthèse et d’Analyse sur la Biodiversité</institution>
+        <addr-line content-type="city">Montpellier</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Muséum National d'Histoire Naturelle, Paris, France</addr-line>
+        <institution>Muséum National d'Histoire Naturelle</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">University of Guelph, Guelph, Canada</addr-line>
+        <institution>University of Guelph</institution>
+        <addr-line content-type="city">Guelph</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Liliana Ballesteros Mejia (<email xlink:type="simple">ballesteros.liliana@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37139</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/1A669E8C88B25E97B560E3413D42D8E5">1A669E8C88B25E97B560E3413D42D8E5</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Our knowledge of global biodiversity remains incomplete and beset by knowledge shortfalls affecting both the census of species (i.e. the Linnean shortfall) and our understanding of their distributions (i.e. the Wallacean shortfall; <xref ref-type="bibr" rid="B5192368">Hortal et al. 2015</xref>). While alarming rates of species extinction have been reported in most groups of organisms, our capacity to assess extinction threats is limited by these shortfalls and it has become imperative to optimize our use of existing information for the analyses of biodiversity data. There are two major challenges when integrating biodiversity data from heterogeneous sources to ultimately analyzing them:</p>
+        <p>
+          <list list-type="order"><list-item><p>The frequent disparity in taxon names used to refer to the same organisms;</p></list-item><list-item><p>Geographical inconsistencies on specimen information. </p></list-item></list>
+        </p>
+        <p>The first refers to disagreements about the taxon concepts attached to names alongside the different interpretations and applications (e.g. gender agreement in taxonomic names) of the existing nomenclatural rules that ensure universality and stability of scientific names. The development of new methods for species delineation, and in particular with the growing integration of genetic data in the practice of taxonomy (e.g. DNA barcoding; <xref ref-type="bibr" rid="B5192380">Ratnasingham and Hebert 2013</xref>), has increased our ability to discriminate closely related species. This enhances the resolution level at which biodiversity is documented, described and analyzed(<xref ref-type="bibr" rid="B5224717">Goldstein and DeSalle 2011</xref>). One frequent outcome is the redefinition of species boundaries; either through merging (synonymy) or splitting of previously recognized species. In understudied groups such as insects, the resulting inflation of names, sometimes provisional, further defies the reconciliation of names used by different sources.</p>
+        <p>The second challenge refers to the completeness and accuracy of geographical information. Specimen records in biodiversity databases often lack GPS coordinates. Consequently we need to accurately infer the latitude and longitude from place names. Other frequent inaccuracies include erroneous georeferencing, imprecision and/or error in the location of a record (<xref ref-type="bibr" rid="B5192409">Soberón and Peterson 2004</xref>).</p>
+        <p>Integration of data on the basis of taxon names and their geographic information is a major challenge that either results in excluding a significant number of records, or in merging incompatible records, leading to erroneous outcomes. Therefore, we have developed WF.ACTIAS, a computational workflow that gathers data from several sources and provides the user with tools to make objective and reproducible decisions to assign records to a consensus species name, while detecting and correcting geographical inconsistencies. Its main objective is to automate a process that can integrate information about nomenclature, taxon concepts and geographical information to reconcile taxon names from different sources. Here, we present the WF.ACTIAS workflow in the context of the analysis of diversity in two sister families of moths – the Saturniidae and Sphingidae. Species boundaries in these insects have been thoroughly and comprehensively revisited through the integration of DNA barcodes and we are tackling the reconciliation of taxon names in ca. 282 000 records of which more than 77 000 have DNA barcodes. The outcome of this data integration is essential to study patterns of biodiversity and distributions and sets the ground to extend this process to other groups of organisms.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Integrative taxonomy</kwd>
+        <kwd>biodiversity databases</kwd>
+        <kwd>insects</kwd>
+        <kwd>geographical information of specimens</kwd>
+        <kwd>biodiversity informatics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sujeevan Ratnasingham</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5224717">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Goldstein</surname>
+              <given-names>Paul Z.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>DeSalle</surname>
+              <given-names>Rob</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>Integrating DNA barcode data and taxonomic practice: Determination, discovery, and description</article-title>
+          <source>BioEssays</source>
+          <volume>33</volume>
+          <issue>2</issue>
+          <fpage>135</fpage>
+          <lpage>147</lpage>
+          <uri>https://onlinelibrary.wiley.com/doi/full/10.1002/bies.201000036</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5192368">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hortal</surname>
+              <given-names>Joaquín</given-names>
+            </name>
+            <name name-style="western">
+              <surname>de Bello</surname>
+              <given-names>Francesco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Diniz-Filho</surname>
+              <given-names>José Alexandre F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lewinsohn</surname>
+              <given-names>Thomas M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lobo</surname>
+              <given-names>Jorge M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ladle</surname>
+              <given-names>Richard J.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Seven shortfalls that beset large-scale knowledge of biodiversity</article-title>
+          <source>Annual Review of Ecology, Evolution, and Systematics</source>
+          <volume>46</volume>
+          <issue>1</issue>
+          <fpage>523</fpage>
+          <lpage>549</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev-ecolsys-112414-054400</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192380">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ratnasingham</surname>
+              <given-names>Sujeevan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hebert</surname>
+              <given-names>Paul D. N.</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>A DNA-based registry for all animal species: The Barcode Index Number (BIN) System</article-title>
+          <source>PLoS ONE</source>
+          <volume>8</volume>
+          <issue>7</issue>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0066213</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192409">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Soberón</surname>
+              <given-names>Jorge</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peterson</surname>
+              <given-names>Townsend</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Biodiversity informatics: managing and applying primary biodiversity data</article-title>
+          <source>Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences</source>
+          <volume>359</volume>
+          <issue>1444</issue>
+          <fpage>689</fpage>
+          <lpage>698</lpage>
+          <pub-id pub-id-type="doi">10.1098/rstb.2003.1439</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

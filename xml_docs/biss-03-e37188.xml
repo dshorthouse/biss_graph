@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37188</article-id>
+      <article-id pub-id-type="publisher-id">37188</article-id>
+      <article-id pub-id-type="manuscript">11887</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>SwissCollNet – A National Initiative for Natural History Collections in Switzerland</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Frick</surname>
+            <given-names>Holger</given-names>
+          </name>
+          <email xlink:type="simple">holger.frick@scnat.ch</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Stieger</surname>
+            <given-names>Pia A</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Scheidegger</surname>
+            <given-names>Christoph</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">SCNAT, Bern, Switzerland</addr-line>
+        <institution>SCNAT</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">WSL, Birmensdorf, Switzerland</addr-line>
+        <institution>WSL</institution>
+        <addr-line content-type="city">Birmensdorf</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Holger Frick (<email xlink:type="simple">holger.frick@scnat.ch</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37188</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B70DBFAE80D85FD08DB25B09CD8E89FD">B70DBFAE80D85FD08DB25B09CD8E89FD</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Holger Frick, Pia A Stieger, Christoph Scheidegger</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>More than 60 million specimens are housed in geological and biological collections in numerous museums and botanical gardens located all over Switzerland. They are of national and international origin. Taken together they form an entity with a high scientific value and international recognition for their contribution to scientific research. Due to the federalistic organisation of Switzerland, natural history collections are located and curated in numerous institutions. So far, no common strategy for digitisation, documentation and long-term data archiving has been developed.</p>
+        <p>This shortcoming has been widely identified by concerned parties. Under the lead of the Swiss Academy of Sciences, several organisations have assembled information about Swiss natural history collections. They identified measures to be taken to promote the scientific and educational potential of natural history collections in Switzerland (<xref ref-type="bibr" rid="B5227691">Beer et al. 2019</xref>). </p>
+        <p>With a national initiative, the Swiss Natural History Collections Network (<ext-link ext-link-type="uri" xlink:href="http://www.naturalsciences.ch/collections">SwissCollNet</ext-link>) aims to unite Swiss natural history collections under a common vision and with a common strategy. The goal is to promote the collections themselves and to harness the scientific and educational potential of these collections for research and training. SwissCollNet consists of representatives of research, teaching, museums and botanical gardens, the data centers for information on the national fauna and flora, the <ext-link ext-link-type="uri" xlink:href="https://naturwissenschaften.ch/organisations/swiss-systematics">Swiss Systematics Society</ext-link> and the <ext-link ext-link-type="uri" xlink:href="http://www.gbif.ch">Swiss node of</ext-link><ext-link ext-link-type="uri" xlink:href="http://www.gbif.ch"> GBIF</ext-link>, the Global Biodiversity Information Facility.</p>
+        <p>The initiative aims to foster research on natural history collections. It will provide a single decentralised data infrastructure framework for Swiss research related to natural history. It will help to harmonise nationwide collection data management, digitisation and long-term data archiving. It will facilitate identification of specimens and revision of taxonomic groups. New research techniques, fast-evolving computer technologies and internet connectivity, create new opportunities for deciphering and using the wealth of information housed in Swiss and international collections. </p>
+        <p>The development of an agreed strategy and research priorities on a national scale will allow fluent, fluid and permanent collaboration across all Swiss natural history collections by promoting interoperability and unified access to collections as well as creating opportunities for scientific collaboration and innovation. This national approach will create an internationally compatible research data infrastructure, while respecting and integrating regional and decentralized conditions and requirements. Thus, it will maximize the impact for science, policy and society.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>digitisation</kwd>
+        <kwd>strategy</kwd>
+        <kwd>standards</kwd>
+        <kwd>data management</kwd>
+        <kwd>educational potential</kwd>
+        <kwd>scientific potential</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Holger Frick</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Swiss Academy of Sciences</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Swiss Academy of Sciences</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5227691">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Beer</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Burckhardt</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cibois</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gonseth</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scheidegger</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stieger</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tschudin</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>National significance of natural history collections in Switzerland</article-title>
+          <source>Swiss Academies Reports</source>
+          <volume>14</volume>
+          <issue>2</issue>
+          <fpage>3</fpage>
+          <lpage>34</lpage>
+          <comment content-type="language">English</comment>
+          <uri>naturalsciences.ch/collections</uri>
+          <pub-id pub-id-type="doi">10.5281/zenodo.1481727</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

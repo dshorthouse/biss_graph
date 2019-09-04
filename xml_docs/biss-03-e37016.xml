@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37016</article-id>
+      <article-id pub-id-type="publisher-id">37016</article-id>
+      <article-id pub-id-type="manuscript">11096</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP17 - Science Powered by Informatics – Connecting Policy Needs with Data Driven Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Informatics in Support of Invasion Science and Policy</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>McGeoch</surname>
+            <given-names>Melodie</given-names>
+          </name>
+          <email xlink:type="simple">melodie.mcgeoch@monash.edu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Monash University, Clayton, Australia</addr-line>
+        <institution>Monash University</institution>
+        <addr-line content-type="city">Clayton</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Melodie McGeoch (<email xlink:type="simple">melodie.mcgeoch@monash.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37016</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/FFB04DF1617B5685B55C800F01DF8690">FFB04DF1617B5685B55C800F01DF8690</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Melodie McGeoch</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>As one of the key components of biodiversity change and its associated negative consequences for society, biological invasion demands policy supported by a solid platform of data. These data must - like many other areas of evidence needed for policy - meet multiple criteria, such as effective integration across diverse data types and sources, the adoption of a broadly accepted vocabulary and mechanisms that smoothly enable the absorption, transfer and use of new data into policy reporting. With indicators of biological invasion as the endpoint of this process, the demand for such indicators has challenged the invasion science community to build and deliver such a process. Although still a work in progress, biodiversity data standards and data tools have been integral to the progress made towards delivering robust and sustainable indicators of biological invasion. They have also facilitated the integration of data that makes it possible to overcome a number of longstanding conceptual and analytical problems with estimating invasion trends.  I will present some of the developments that demonstrate the advances that biodiversity informatics has enabled, connecting the science and policy on biological invasions.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>indicators</kwd>
+        <kwd>invasive alien species</kwd>
+        <kwd>essential biodiversity variables</kwd>
+        <kwd>trends</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Melodie A. McGeoch</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Monash University</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Monash University</p>
+    </sec>
+  </back>
+</article>

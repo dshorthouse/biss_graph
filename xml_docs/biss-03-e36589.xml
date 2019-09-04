@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36589</article-id>
+      <article-id pub-id-type="publisher-id">36589</article-id>
+      <article-id pub-id-type="manuscript">11668</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Towards the Acoustic Monitoring of Birds Migrating at Night</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Pamula</surname>
+            <given-names>Hanna</given-names>
+          </name>
+          <email xlink:type="simple">pamulah@agh.edu.pl</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pocha</surname>
+            <given-names>Agnieszka</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Klaczynski</surname>
+            <given-names>Maciej</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">AGH University of Science and Technology in Krakow, Faculty of Mechanical Engineering and Robotics, Department of Mechanics and Vibroacoustics, al. Mickiewicza 30 30-059, Krakow, Poland</addr-line>
+        <institution>AGH University of Science and Technology in Krakow, Faculty of Mechanical Engineering and Robotics, Department of Mechanics and Vibroacoustics, al. Mickiewicza 30 30-059</institution>
+        <addr-line content-type="city">Krakow</addr-line>
+        <country>Poland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Jagiellonian University, Faculty of Mathematics and Computer Science, Institute of Computer Science and Computational Mathematics, Department of Machine Learning, Łojasiewicza Street 6, 30-348, Krakow, Poland</addr-line>
+        <institution>Jagiellonian University, Faculty of Mathematics and Computer Science, Institute of Computer Science and Computational Mathematics, Department of Machine Learning, Łojasiewicza Street 6, 30-348</institution>
+        <addr-line content-type="city">Krakow</addr-line>
+        <country>Poland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Hanna Pamula (<email xlink:type="simple">pamulah@agh.edu.pl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36589</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/C5707AD3DD665A309018EE34FC9B0381">C5707AD3DD665A309018EE34FC9B0381</uri>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Hanna Pamula, Agnieszka Pocha, Maciej Klaczynski</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Every year billions of birds migrate between their breeding and wintering areas. As birds are an important indicator in nature conservation, migratory bird studies have been conducted for many decades, mostly by bird-ringing programmes and direct observation. However, most birds migrate at night, and therefore much information about their migration is lost. Novel methods have been developed to overcome this difficulty; including thermal imaging, radar, geolocation techniques, and acoustic recognition of bird calls.</p>
+        <p>Many bird species are detected by their characteristic sounds. This method of identification occurs more often than by direct observation, and therefore <styled-content style="display: none;"/><styled-content style="display: none;"/>recordings are widely used in avian research. The commonly used approach is to record the birds automatically, and to manually study the bird sounds in the recordings afterwards (<xref ref-type="bibr" rid="B5226768">Furnas and Callas 2015</xref>, <xref ref-type="bibr" rid="B5226758">Frommolt 2017</xref>). However, the tagging of recordings is a tedious and time-consuming process that requires expert knowledge, and, as a result, automatic detection of flight calls is in high demand. The first experiments towards this used energy thresholds or template matching (<xref ref-type="bibr" rid="B5226746">Bardeli et al. 2010</xref>, <xref ref-type="bibr" rid="B5226799">Towsey et al. 2012</xref>), and later on the machine and deep learning methods were applied (<xref ref-type="bibr" rid="B5226787">Stowell et al. 2018</xref>). Nevertheless, not many studies have focused specifically on night flight calls (<xref ref-type="bibr" rid="B5226855">Salamon et al. 2016</xref>, <xref ref-type="bibr" rid="B5226868">Lostanlen et al. 2018</xref>). Such acoustic monitoring could complement daytime avian research, especially when the field recording station is close to the bird-ringing station, as it is in our project.</p>
+        <p>In this study, we present the initial results of a long-term bird audio monitoring project using automatic methods for bird detection. Passive acoustic recorders were deployed at a narrow spit between a lake and the Baltic sea in Dąbkowice, West Pomeranian Voivodeship, Poland<styled-content style="display: none;"/><styled-content style="display: none;"/>. We recorded bird calls nightly from sunset till sunrise during the passerine autumn migration for 3 seasons. As a result, we collected over 3000 hours of recordings each season. We annotated a subset of over 50 hours, from different nights with various weather conditions. As avian flight calls are sporadic and short, we created a balanced set for training - recordings were divided into partially overlapping 500-ms clips, and we retained all clips containing calls and created about the same number of clips without bird sounds. Different signal representations were then examined (e.g. mel-spectrograms and multitaper). Afterwards, various convolutional neural networks were checked and their performance was compared using the area under the receiver operating characteristic curve (AUC) measure. Moreover, an initial attempt was made to take advantage of the transfer learning from image classification models. The results obtained by the deep learning methods are promising (AUC exceeding 80%), but higher bird detection accuracy is still needed. For a chosen bird species – Song thrush (<italic>Turdus philomelos</italic>) – we observed a correlation between calls recorded at night and birds caught in the nets during the day. This fact, as well as the promising results from the detection of calls from long-term recordings, indicate that acoustic monitoring of nocturnal birds has great potential and could be used to supplement the research of the phenomenon of seasonal bird migration.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>acoustic monitoring</kwd>
+        <kwd>night flight calls</kwd>
+        <kwd>bird call detection</kwd>
+        <kwd>bioacoustics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="7"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Hanna Pamula</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>AGH University of Science and Technology, Grant Number: 16.16.130.942</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>AGH University of Science and Technology, Grant Number: 16.16.130.942</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5226746">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bardeli</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolff</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kurth</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Koch</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tauchert</surname>
+              <given-names>K. -H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Frommolt</surname>
+              <given-names>K. -H.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Detecting bird sounds in a complex acoustic environment and application to bioacoustic monitoring</article-title>
+          <source>Pattern Recognition Letters</source>
+          <volume>31</volume>
+          <issue>12</issue>
+          <fpage>1524</fpage>
+          <lpage>1534</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.patrec.2009.09.014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5226758">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Frommolt</surname>
+              <given-names>Karl-Heinz</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Information obtained from long-term acoustic recordings: applying bioacoustic techniques for monitoring wetland birds during breeding season</article-title>
+          <source>Journal of Ornithology</source>
+          <volume>158</volume>
+          <issue>3</issue>
+          <fpage>659</fpage>
+          <lpage>668</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10336-016-1426-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5226768">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Furnas</surname>
+              <given-names>Brett J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Callas</surname>
+              <given-names>Richard L.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Using automated recorders and occupancy models to monitor common forest birds across a large geographic region</article-title>
+          <source>The Journal of Wildlife Management</source>
+          <volume>79</volume>
+          <issue>2</issue>
+          <fpage>325</fpage>
+          <lpage>337</lpage>
+          <pub-id pub-id-type="doi">10.1002/jwmg.821</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5226868">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Lostanlen</surname>
+              <given-names>Vincent</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Salamon</surname>
+              <given-names>Justin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Farnsworth</surname>
+              <given-names>Andrew</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kelling</surname>
+              <given-names>Steve</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bello</surname>
+              <given-names>Juan Pablo</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Birdvox-Full-Night: A Dataset and Benchmark for Avian Flight Call Detection</article-title>
+          <source>2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</source>
+          <pub-id pub-id-type="doi">10.1109/icassp.2018.8461410</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5226855">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Salamon</surname>
+              <given-names>Justin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bello</surname>
+              <given-names>Juan Pablo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Farnsworth</surname>
+              <given-names>Andrew</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robbins</surname>
+              <given-names>Matt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Keen</surname>
+              <given-names>Sara</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Klinck</surname>
+              <given-names>Holger</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kelling</surname>
+              <given-names>Steve</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Towards the Automatic Classification of Avian Flight Calls for Bioacoustic Monitoring</article-title>
+          <source>PLOS ONE</source>
+          <volume>11</volume>
+          <issue>11</issue>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0166866</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5226787">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stowell</surname>
+              <given-names>Dan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wood</surname>
+              <given-names>Michael D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pamuła</surname>
+              <given-names>Hanna</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stylianou</surname>
+              <given-names>Yannis</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Glotin</surname>
+              <given-names>Hervé</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Automatic acoustic detection of birds through deep learning: The first Bird Audio Detection challenge</article-title>
+          <source>Methods in Ecology and Evolution</source>
+          <volume>10</volume>
+          <issue>3</issue>
+          <fpage>368</fpage>
+          <lpage>380</lpage>
+          <pub-id pub-id-type="doi">10.1111/2041-210x.13103</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5226799">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Towsey</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Planitz</surname>
+              <given-names>Birgit</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nantes</surname>
+              <given-names>Alfredo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wimmer</surname>
+              <given-names>Jason</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roe</surname>
+              <given-names>Paul</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>A toolbox for animal call recognition</article-title>
+          <source>Bioacoustics</source>
+          <volume>21</volume>
+          <issue>2</issue>
+          <fpage>107</fpage>
+          <lpage>125</lpage>
+          <pub-id pub-id-type="doi">10.1080/09524622.2011.648753</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

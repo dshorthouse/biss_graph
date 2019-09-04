@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37276</article-id>
+      <article-id pub-id-type="publisher-id">37276</article-id>
+      <article-id pub-id-type="manuscript">10981</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI29 - GGBN – A global infrastructure for molecular research and collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Big Data Knowledge of Major Lineages of Life and Priorities for Genomic Research</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Coddington</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <email xlink:type="simple">coddington@si.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6004-7730</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Barker</surname>
+            <given-names>Katharine</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4788-0223</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Droege</surname>
+            <given-names>Gabriele</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Seberg</surname>
+            <given-names>Ole</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">National Museum of Natural History, Smithsonian Institution, Washington, D.C., United States of America</addr-line>
+        <institution>National Museum of Natural History, Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington, D.C.</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Botanic Garden and Botanical Museum Berlin, Berlin, Germany</addr-line>
+        <institution>Botanic Garden and Botanical Museum Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Natural History Museum Denmark, Copenhagen, Denmark</addr-line>
+        <institution>Natural History Museum Denmark</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jonathan Coddington (<email xlink:type="simple">coddington@si.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37276</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/E7C852569BC55DE6A63F1ADBC3520EBD">E7C852569BC55DE6A63F1ADBC3520EBD</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jonathan Coddington, Katharine Barker, Gabriele Droege, Ole Seberg</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Genomic science is revolutionizing and accelerating biodiversity research. For collections-based institutions to continue to lead and support biodiversity research, they must adapt to this new reality. Simultaneously, “big data” is accumulating so rapidly that we have unprecedented capacity to plan strategically to use genomics to advance basic and applied science on multiple fronts. For example, seven “big data” sources have the following numbers of records (2018 data): Global Biodiversity Information Facility (GBIF), ~1B; Biodiversity Heritage Library (BHL), ~3.6M;  National Center for Biotechnology Information (NCBI), ~220M; Open Tree of Life (OToL), 1.9M;  Barcode of Life Data System (BOLD), ~6.3M; Encyclopedia of Life (EOL), ~99K;  Global Genome Biodiversity Network (GGBN), ~2M. Collectively, they offer more than 1.2B records on biodiversity. At the scale of species (~2M described, multiple millions undescribed), these data are still too sparse to permit comprehensive conclusions. At the scale of families (i.e. deeper clades of life), the situation is far more promising: about 9,911 families are known, and relatively few are discovered each year. This suggests that at the family rank (and above), our knowledge of life on Earth is reasonably complete. Approximately 160,000 valid and accepted genera exist, but certainly many new genera await discovery and description. Genomics is the fastest way to group species into more inclusive lineages such as genera and families, and is certainly faster than traditional alpha taxonomy. Synergistically, these “big data” answer four important questions at deeper clade levels: What is it? Where is it? What do we know about it? What do we know about its genome? Approximately 4,500 eukaryotic genomes have been sequenced. The converse of what we know is what we do not know, another meaning of “dark taxa.” We can use the distribution and density of big data at deeper clade levels (families, genera) to quantitatively analyze “dark taxa” and therefore to strategically optimize knowledge and preservation of biodiversity at a global scale. Technicalities of the quantitative prioritization scheme are debatable, but some initial, simple scoring systems can help to prioritize lineages for collection and genetic research so as to most efficiently illuminate regions in the tree of life that that are neither preserved, imaged, geo-located, studied, nor known genomically. This analysis presents criteria and goals for collaborating to build a global genomic collection to maximize efficient acquisition of biodiversity genomic knowledge, and identifies the most valuable and highest priority taxa for genomic research.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Families of Life</kwd>
+        <kwd>barcode</kwd>
+        <kwd>GBIF</kwd>
+        <kwd>EOL</kwd>
+        <kwd>NCBI</kwd>
+        <kwd>BOLD</kwd>
+        <kwd>GGBN</kwd>
+        <kwd>phylogeny</kwd>
+        <kwd>phylogenetic diversity</kwd>
+        <kwd>genome</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Global Genome Initiative, NMNH, Smithsonian Institution</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jonathan A. Coddington</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

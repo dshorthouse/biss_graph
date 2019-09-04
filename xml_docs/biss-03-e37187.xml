@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37187</article-id>
+      <article-id pub-id-type="publisher-id">37187</article-id>
+      <article-id pub-id-type="manuscript">10906</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PP - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Game of Tops: Trends in GBIF’s Community of Users</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Escribano</surname>
+            <given-names>Nora</given-names>
+          </name>
+          <email xlink:type="simple">nescribano@alumni.unav.es</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7863-4463</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Galicia</surname>
+            <given-names>David</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2585-9888</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ariño</surname>
+            <given-names>Arturo H.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4620-6445</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Navarra, Pamplona, Spain</addr-line>
+        <institution>University of Navarra</institution>
+        <addr-line content-type="city">Pamplona</addr-line>
+        <country>Spain</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nora Escribano (<email xlink:type="simple">nescribano@alumni.unav.es</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37187</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/6C9AA39498E054428A6F525FFF414923">6C9AA39498E054428A6F525FFF414923</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nora Escribano, David Galicia, Arturo H. Ariño</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Building on the development of Biodiversity Informatics, the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">GBIF</ext-link>) undertook the task of enabling access to the world’s wealth of biodiversity data via the Internet. To date, GBIF has become, in many respects, the most extensive biodiversity information exchange infrastructure in the world, opening up a full range of possibilities for science.</p>
+        <p>Science has benefited from such access to biodiversity data in research areas ranging from the effects of environmental change on biodiversity to the spread of invasive species, among many others. As of this writing, more than 7,000 published items (scientific papers, reviews, conference proceedings) have been indexed in the GBIF Secretariat’s <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/literature-tracking">literature tracking programme</ext-link>.</p>
+        <p>On the basis on this database, we will represent trends in GBIF in the users’ behaviour over time regarding openness, social structure, and other features associated to such scientific production: what is the measurable impact of research using GBIF data? How is the GBIF community of users growing? Is the science made with, and enabled by, open data, actually open? Mapping GBIF users’ choices will show how biodiversity research is evolving through time, synthesising past and current priorities of this community in an attempt to forecast whether summer—or winter—is coming.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>GBIF</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>data users</kwd>
+        <kwd>research trends</kwd>
+        <kwd>community structure</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nora Escribano</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

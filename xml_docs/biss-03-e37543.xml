@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37543</article-id>
+      <article-id pub-id-type="publisher-id">37543</article-id>
+      <article-id pub-id-type="manuscript">10989</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS48 Strengthening the biodiversity informatics community of practice through capacity enhancement</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>BioDATA: Biodiversity data mobilisation and data publication training in Eurasia</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Endresen</surname>
+            <given-names>Dag T.F.</given-names>
+          </name>
+          <email xlink:type="simple">dag.endresen@nhm.uio.no</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2352-5497</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Abrahamyan</surname>
+            <given-names>Armine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mirzorakhimov</surname>
+            <given-names>Akobir</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Melikyan</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Verstraete</surname>
+            <given-names>Brecht</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schigel</surname>
+            <given-names>Dmitry</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2919-1168</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Makeyeva</surname>
+            <given-names>Elena</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>De Boer</surname>
+            <given-names>Hugo J.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1985-7859</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Russell</surname>
+            <given-names>Laura</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1920-5298</uri>
+          <xref ref-type="aff" rid="A8">8</xref>
+          <xref ref-type="aff" rid="A9">9</xref>
+          <xref ref-type="aff" rid="A10">10</xref>
+          <xref ref-type="aff" rid="A11">11</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Shashkov</surname>
+            <given-names>Maxim</given-names>
+          </name>
+          <xref ref-type="aff" rid="A12">12</xref>
+          <xref ref-type="aff" rid="A13">13</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mamadalieva</surname>
+            <given-names>Mukhabbatkhon</given-names>
+          </name>
+          <xref ref-type="aff" rid="A14">14</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ivanova</surname>
+            <given-names>Natalya</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4199-5924</uri>
+          <xref ref-type="aff" rid="A15">15</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Voronova</surname>
+            <given-names>Nina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A16">16</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Borodin</surname>
+            <given-names>Oleg</given-names>
+          </name>
+          <xref ref-type="aff" rid="A17">17</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Prylutskyi</surname>
+            <given-names>Oleh</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5730-517X</uri>
+          <xref ref-type="aff" rid="A18">18</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tykarski</surname>
+            <given-names>Piotr</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3259-8273</uri>
+          <xref ref-type="aff" rid="A19">19</xref>
+          <xref ref-type="aff" rid="A20">20</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Johaadien</surname>
+            <given-names>Rukaya S.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2857-2276</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">GBIF Norway, Oslo, Norway</addr-line>
+        <institution>GBIF Norway</institution>
+        <addr-line content-type="city">Oslo</addr-line>
+        <country>Norway</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Oslo, Natural History Museum, Oslo, Norway</addr-line>
+        <institution>University of Oslo, Natural History Museum</institution>
+        <addr-line content-type="city">Oslo</addr-line>
+        <country>Norway</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Armenian National Agrarian University, Yerevan, Armenia</addr-line>
+        <institution>Armenian National Agrarian University</institution>
+        <addr-line content-type="city">Yerevan</addr-line>
+        <country>Armenia</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Institute of Botany, Plant Physiology and Genetics of the Academy of Sciences of the Republic of Tajikistan, Dushanbe, Tajikistan</addr-line>
+        <institution>Institute of Botany, Plant Physiology and Genetics of the Academy of Sciences of the Republic of Tajikistan</institution>
+        <addr-line content-type="city">Dushanbe</addr-line>
+        <country>Tajikistan</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility - Secretariat, Copenhagen Ø, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility - Secretariat</institution>
+        <addr-line content-type="city">Copenhagen Ø</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">The State Scientific Institution, Institute of Genetics and Cytology of the National Academy of Sciences of Belarus, Minsk, Belarus</addr-line>
+        <institution>The State Scientific Institution, Institute of Genetics and Cytology of the National Academy of Sciences of Belarus</institution>
+        <addr-line content-type="city">Minsk</addr-line>
+        <country>Belarus</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Research School in Biosystematics - ForBio, Oslo, Norway</addr-line>
+        <institution>Research School in Biosystematics - ForBio</institution>
+        <addr-line content-type="city">Oslo</addr-line>
+        <country>Norway</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility - Secretariat, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility - Secretariat</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim">GBIF, Copenhagen, Denmark</addr-line>
+        <institution>GBIF</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">University of Kansas, KU Biodiversity Institute, Lawrence, United States of America</addr-line>
+        <institution>University of Kansas, KU Biodiversity Institute</institution>
+        <addr-line content-type="city">Lawrence</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A11">
+        <label>11</label>
+        <addr-line content-type="verbatim">VertNet, , United States of America</addr-line>
+        <institution>VertNet</institution>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A12">
+        <label>12</label>
+        <addr-line content-type="verbatim">Institute of Mathematical Problems of Biology RAS – the Branch of the Keldysh Institute of Applied Mathematics of the Russian Academy of Sciences, Pushchino, Russia</addr-line>
+        <institution>Institute of Mathematical Problems of Biology RAS – the Branch of the Keldysh Institute of Applied Mathematics of the Russian Academy of Sciences</institution>
+        <addr-line content-type="city">Pushchino</addr-line>
+        <country>Russia</country>
+      </aff>
+      <aff id="A13">
+        <label>13</label>
+        <addr-line content-type="verbatim">Institute of Physicochemical and Biological Problems in Soil Sciences Russian Academy of Science, Pushchino, Russia</addr-line>
+        <institution>Institute of Physicochemical and Biological Problems in Soil Sciences Russian Academy of Science</institution>
+        <addr-line content-type="city">Pushchino</addr-line>
+        <country>Russia</country>
+      </aff>
+      <aff id="A14">
+        <label>14</label>
+        <addr-line content-type="verbatim">National Biodiversity and Biosafety Center Zan va Zamin, Dushanbe, Tajikistan</addr-line>
+        <institution>National Biodiversity and Biosafety Center Zan va Zamin</institution>
+        <addr-line content-type="city">Dushanbe</addr-line>
+        <country>Tajikistan</country>
+      </aff>
+      <aff id="A15">
+        <label>15</label>
+        <addr-line content-type="verbatim">Institute of Mathematical Problems of Biology RAS – the Branch of the Keldysh Institute of Applied Mathematics of the Russian Academy of Sciences, Pushchino, Moscow Region, Russia</addr-line>
+        <institution>Institute of Mathematical Problems of Biology RAS – the Branch of the Keldysh Institute of Applied Mathematics of the Russian Academy of Sciences</institution>
+        <addr-line content-type="city">Pushchino, Moscow Region</addr-line>
+        <country>Russia</country>
+      </aff>
+      <aff id="A16">
+        <label>16</label>
+        <addr-line content-type="verbatim">Belarusian State University, Faculty of Biology, Minsk, Belarus</addr-line>
+        <institution>Belarusian State University, Faculty of Biology</institution>
+        <addr-line content-type="city">Minsk</addr-line>
+        <country>Belarus</country>
+      </aff>
+      <aff id="A17">
+        <label>17</label>
+        <addr-line content-type="verbatim">The State Scientific and Production Amalgamation Scientific and Practical Center for Biological Resources National Academy of Sciences of Belarus, Minsk, Belarus</addr-line>
+        <institution>The State Scientific and Production Amalgamation Scientific and Practical Center for Biological Resources National Academy of Sciences of Belarus</institution>
+        <addr-line content-type="city">Minsk</addr-line>
+        <country>Belarus</country>
+      </aff>
+      <aff id="A18">
+        <label>18</label>
+        <addr-line content-type="verbatim">V. N. Karazin Kharkiv National University, Kharkiv, Ukraine</addr-line>
+        <institution>V. N. Karazin Kharkiv National University</institution>
+        <addr-line content-type="city">Kharkiv</addr-line>
+        <country>Ukraine</country>
+      </aff>
+      <aff id="A19">
+        <label>19</label>
+        <addr-line content-type="verbatim">University of Warsaw, Faculty of Biology, Warsaw, Poland</addr-line>
+        <institution>University of Warsaw, Faculty of Biology</institution>
+        <addr-line content-type="city">Warsaw</addr-line>
+        <country>Poland</country>
+      </aff>
+      <aff id="A20">
+        <label>20</label>
+        <addr-line content-type="verbatim">GBIF Poland, Warsaw, Poland</addr-line>
+        <institution>GBIF Poland</institution>
+        <addr-line content-type="city">Warsaw</addr-line>
+        <country>Poland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Dag T.F. Endresen (<email xlink:type="simple">dag.endresen@nhm.uio.no</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37543</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/842160CF3C6A5240B07F7F30666F708D">842160CF3C6A5240B07F7F30666F708D</uri>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Dag T.F. Endresen, Armine Abrahamyan, Akobir Mirzorakhimov, Andreas Melikyan, Brecht Verstraete, Dmitry Schigel, Elena Makeyeva, Hugo J. De Boer, Laura Russell, Maxim Shashkov, Mukhabbatkhon Mamadalieva, Natalya Ivanova, Nina Voronova, Oleg Borodin, Oleh Prylutskyi, Piotr Tykarski, Rukaya S. Johaadien</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p><ext-link ext-link-type="uri" xlink:href="https://www.nhm.uio.no/english/research/projects/biodata/">BioDATA</ext-link> (Biodiversity Data for Internationalisation in Higher Education) is an international project to develop and deliver biodiversity data training for undergraduate and postgraduate students from Armenia, Belarus, Tajikistan, and Ukraine. By training early career (student) biodiversity scholars, we aim at turning the current academic and education biodiversity landscape into a more open-data-friendly one. Professional practitioners (researchers, museum curators, and collection managers involved in data publishing) from each country were also invited to join the project as assistant teachers (mentors). The project is developed by the <ext-link ext-link-type="uri" xlink:href="https://www.forbio.uio.no/">Research School in Biosystematics - ForBio</ext-link> and the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.no/">Norwegian GBIF-node</ext-link>, both at the <ext-link ext-link-type="uri" xlink:href="https://www.nhm.uio.no/english/">Natural History Museum of the University of Oslo</ext-link> in collaboration with the Secretariat of the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">Global Biodiversity Information Facility</ext-link> (GBIF) and partners from each of the target countries. The teaching material is based on the GBIF curriculum for data mobilization and all students will have the opportunity to gain the respective <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/capacity-enhancement-mentoring">GBIF certification</ext-link>. All materials are made freely available for reuse and even in this very early phase of the project, we have already seen the first successful reuse of teaching materials among the project partners. The <ext-link ext-link-type="uri" xlink:href="https://www.nhm.uio.no/english/research/projects/biodata/activities/201902-minsk.html">first BioDATA training event</ext-link> was organized in Minsk (Belarus) in February 2019 with the objective to train a minimum of four mentors from each target country. The mentor-trainees from this event will help us to teach the course to students in their home country together with teachers from the project team. BioDATA mentors will have the opportunity to gain GBIF certification as expert mentors which will open opportunities to contribute to future training events in the larger GBIF network. The BioDATA training events for the students will take place in Dushanbe (Tajikistan) in June 2019, in Minsk (Belarus) in November 2019, in Yerevan (Armenia) in April 2020, and in Kiev (Ukraine) in October 2020. Students from each country are invited to express their interest to participate by contacting their national project partner. We will close the project with a final symposium at the University of Oslo in March 2021. The project is funded by the <ext-link ext-link-type="uri" xlink:href="https://www.diku.no/">Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education</ext-link> (DIKU).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Armenia</kwd>
+        <kwd>Belarus</kwd>
+        <kwd>biodiversity informatics curriculum</kwd>
+        <kwd>Darwin Core</kwd>
+        <kwd>data management</kwd>
+        <kwd>data mobilization</kwd>
+        <kwd>DIKU</kwd>
+        <kwd>ForBio</kwd>
+        <kwd>GBIF</kwd>
+        <kwd>Norway</kwd>
+        <kwd>Tajikistan</kwd>
+        <kwd>training courses</kwd>
+        <kwd>Ukraine</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education - DIKU</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Dag Endresen</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education (DIKU) - Eurasia programme</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Norwegian Agency for International Cooperation and Quality Enhancement in Higher Education (DIKU) - Eurasia programme</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>CPEA-LT-2017/10049</p>
+    </sec>
+  </back>
+</article>

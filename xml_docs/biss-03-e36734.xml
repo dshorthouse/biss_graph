@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36734</article-id>
+      <article-id pub-id-type="publisher-id">36734</article-id>
+      <article-id pub-id-type="manuscript">11355</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP70 - Access &amp; Benefit-Sharing, Digital Sequence Information and Biodiversity Data allaying for CBD goals</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Database Tools to Meet the Nagoya Protocol Requirements in a Collection Management System</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kuusijärvi</surname>
+            <given-names>Anniina</given-names>
+          </name>
+          <email xlink:type="simple">anniina.kuusijarvi@helsinki.fi</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Riihikoski</surname>
+            <given-names>Ville-Matti</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lehtonen</surname>
+            <given-names>Samuli</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ståhls</surname>
+            <given-names>Gunilla</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hyvärinen</surname>
+            <given-names>Marko</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Heikkinen</surname>
+            <given-names>Mikko</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9898-1916</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schulman</surname>
+            <given-names>Leif</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1990-2173</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Biodiversity Unit, University of Turku, Turku, Finland</addr-line>
+        <institution>Biodiversity Unit, University of Turku</institution>
+        <addr-line content-type="city">Turku</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Anniina Kuusijärvi (<email xlink:type="simple">anniina.kuusijarvi@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>03</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36734</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/AADEDE3446445DB1A92B4D34AB13EE92">AADEDE3446445DB1A92B4D34AB13EE92</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Anniina Kuusijärvi, Ville-Matti Riihikoski, Samuli Lehtonen, Gunilla Ståhls, Marko Hyvärinen, Mikko Heikkinen, Leif Schulman</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p><ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/abs/">The Nagoya Protocol (NP) of the Convention on Biological Diversity</ext-link> requires that genetic resource holders and users obtain, preserve and keep relevant documentation. Users and third parties need to be informed on terms of access, which utilisation is allowed, and which benefits need to be shared when respective genetic resources or associated traditional knowledge is utilised in the meaning of the NP. Following the recommendations in the Code of Conduct &amp; Best Practices of the Consortium of European Taxonomic Facilities (CETAF) <xref ref-type="bibr" rid="B5237487">CETAF Legislations and Regulations Liaison Group 2019</xref>, institutions should implement appropriate data management systems to support compliance with the protocol and keep records on acquisition of biological material, utilization of genetic resources, transfers to third parties, benefits derived and shared, and deaccessioning of specimens or disposal of consumed samples. Here we describe how we have implemented the first set of tools to meet the NP requirements in the Kotka Collection Management System (CMS), which is used by eleven Natural History Museums in Finland.</p>
+        <p>The Kotka CMS is used for storing and managing specimen data and for handling material transactions (loans, exchanges, donations and consumptive loans). Users can enter and store all necessary documentation for both incoming and outgoing material as material transactions, which hold information on e.g., the transaction type, description of the material, important dates, correspondent organization and contact person. Specimens are linked to transactions by their unique identifiers and each transaction also has a unique stable identifier. The first version of the tools for meeting the requirements of the Nagoya protocol on both <italic>in situ</italic> and <italic>ex situ</italic> accession of genetic resources have been integrated into the transaction section of the system.</p>
+        <p>For genetic resource users to be able to enter, save and provide all the required information about an<bold/>incoming genetic resource, we have implemented a set of fields to be completed in the transactions in Kotka CMS (Fig. <xref ref-type="fig" rid="F5182296">1</xref>). Users can record, for example, a possible IRCC number (Internationally Recognized Certificate of Compliance), acquisition date and providing country, description of the material, information on Prior Informed Consent, Mutually Agreed Terms, Material Transfer Agreement and other possible permits. The Finnish genomic resource legislation requires a notification within one month of acquisition to the Competent National Authority (CNA; The Finnish Environment Institute and Natural Resources Institute Finland) for any imported genetic resources. The required data for the notification is compiled in Kotka CMS and then sent to the CNA.</p>
+        <p>All the documentation and conditions regulating the utilisation of each specimen and derived samples must follow with the specimen data at all times. To accomplish this all the necessary information and documents are linked from the material transactions to the relevant specimens by unique specimen or sample identifiers. In the specimen view page, links to the full transaction details and history are given, as a single specimen or a derived sample can be part of several different types of transactions. Users also see a summary of the transaction information directly in the specimen view, most importantly whether the specimen is available for genetic research or has any restrictions for use.</p>
+        <p>The Kotka CMS transaction section makes use of the Application Programming Interface (API) provided by the Access and Benefit Sharing Clearing House (ABS-CH). Using the API, Kotka CMS validates the IRCC number if given and provides links to the ABS-CH, for example to the relevant country profile page, the contact details of the CNA, and specific requirements for access to genetic resources when applicable. This way, we provide Kotka CMS users up-to-date information from the original source to support their genetic resource management.</p>
+        <p>We will further improve and develop the tools during the years 2019-2020. Now that the first version is in use, we will make adjustments according to user feedback. We also have a few changes planned, for example, the tools for transferring the necessary information on permits and other details with outgoing specimens to a user in another institution abroad will be updated. All users in Finnish natural history institutions have access to all the information directly in Kotka CMS, as it is a national system. Additionally, both specimen and transaction information searchability will be refined.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>access and benefit sharing</kwd>
+        <kwd>collection management system</kwd>
+        <kwd>Nagoya Protocol</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Anniina Kuusijärvi</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5237487">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Group</surname>
+              <given-names>CETAF Legislations and Regulations Liaison</given-names>
+            </name>
+          </person-group>
+          <article-title>Natural Science Collections and Access and Benefit Sharing</article-title>
+          <uri>https://www.cetaf.org/services/natural-science-collections-and-access-and-benefit-sharing</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5182296" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Fields for entering information on an incoming genetic resource in Kotka.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e36734-g001.jpg" position="float" id="oo_304009.JPG" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37395</article-id>
+      <article-id pub-id-type="publisher-id">37395</article-id>
+      <article-id pub-id-type="manuscript">11473</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>‘As Open as Possible, as Closed as Necessary’ – Managing legal and owner-defined restrictions to openness of biodiversity data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Lahti</surname>
+            <given-names>Kari M</given-names>
+          </name>
+          <email xlink:type="simple">kari.lahti@helsinki.fi</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schulman</surname>
+            <given-names>Leif</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1990-2173</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Piirainen</surname>
+            <given-names>Esko</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Riihikoski</surname>
+            <given-names>Ville-Matti</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Juslén</surname>
+            <given-names>Aino</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Kari M Lahti (<email xlink:type="simple">kari.lahti@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37395</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/469C2BDDB1F45CF58A0E4033FA34B278">469C2BDDB1F45CF58A0E4033FA34B278</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Kari M Lahti, Leif Schulman, Esko Piirainen, Ville-Matti Riihikoski, Aino Juslén</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Finnish Biodiversity Information Facility FinBIF receives, stores and manages biodiversity data mobilised in Finland, and shares the data through its own portal (<ext-link ext-link-type="uri" xlink:href="https://laji.fi/en">species.fi</ext-link>) and through Global Biodiversity Information Facility GBIF. FinBIF’s data policy (<ext-link ext-link-type="uri" xlink:href="https://laji.fi/en/about/960">data policy</ext-link>) embraces the European FAIR data principles (FAIR - Findable, Accessible, Interoperable, Reusable; <xref ref-type="bibr" rid="B5229450">Wilkinson (2016)</xref>) but also incorporates specific restrictions stemming from national legislation, researchers’ needs, and data owners’ requirements. Here, we describe how the necessary, due to various reasons from sensitivity of the data to research embargo, restrictions to openness have been defined and implemented on the policy level and in technical data infrastructure solutions. We hope to contribute to an improvement of data management in the international biodiversity data infrastructures.</p>
+        <p>In Finland, the law prohibits public authorities from distributing occurrence data if this causes increased threat to endangered species. However, neither the definition of ‘endangered species’ nor guidelines for the evaluation of potential risk by openness of data are formulated. To enable mobilisation of datasets containing information on endangered species, FinBIF convened a task force commissioned to set rules on data distribution, which respect the spirit of the law. The task force consisted of representatives of relevant data holding authorities and it consulted a wide group of taxon experts and the species information community. First, a list of species, judged to be among those targeted by the spirit of the law, was created (<ext-link ext-link-type="uri" xlink:href="http://cms.laji.fi/wp-content/uploads/2018/11/Suomen_Lajitietokeskus_sensitiivinen-lajitieto_lajilista_2017.xlsx">sensitive species data</ext-link>). Then the rules of restriction were decided on for each of the species. Measures of restriction ranged from complete non-disclosure of data to temporal and spatial restrictions. The identified safeguards concerning the sensitive data management in all use cases led us to create a series of innovative solutions </p>
+        <p>Researchers often wish to restrict the openness of data they have gathered for research purposes These restrictions include embargo periods, limitations on the precision of data and controls on how the data is used. In many cases, however, researchers are willing to allow unrestricted official use of their data in certain cases such as for  conservation management or land use planning. In these cases they will often allow storage and restricted use of exact data without an embargo. The same may be true for other data owners, such as nongovernmental organisations (NGOs) or private citizens. To support restrictions to openness, while simultaneously securing mobilisation of valuable datasets, FinBIF applies data sharing contracts including, as a rule, a precondition to share the original data with the public authorities for official use under the Creative Commons 4.0 BY -licence (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">CC 4.0 BY</ext-link>).</p>
+        <p>The technical solution to enabling the rather complex data policy is that FinBIF stores the collated data in two separate data warehouses: a public one for the distribution of fully open data and temporally and spatially coarsened sensitive data, alongside another containing all data but with restricted access to authorised users. In addition, to allow case-by-case release of restricted data, FinBIF has developed a data request function (Fig. <xref ref-type="fig" rid="F5185753">1</xref>). When users of the open data retrieve a dataset using, e.g., taxonomic and spatial filtering, they receive a search result stating whether there are restricted data available based on the filters used. In these cases a user can issue a data request, automatically distributed to all owners of data contained in the collated data batch.</p>
+        <p>Agreeing on the principles about how to apply restrictions to data openness and how to define authoritative use, has not been easy given the lack of precedents. It has required thorough and inclusive consultation with both state administration, conservation practitioners, scientific specialists and lawyers. The two main cultural constraints to overcome have been (1) embracing the FAIR principles of <italic>truly</italic> ‘as open as possible’ and <italic>only</italic> ‘as closed as (absolutely) necessary (<xref ref-type="bibr" rid="B5229462">European Commission 2016</xref>); and, perhaps surprisingly, (2) figuring out novel ways to work  across different state administrative sectors to share data.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>sensitive data</kwd>
+        <kwd>restricted data</kwd>
+        <kwd>open data</kwd>
+        <kwd>FinBIF</kwd>
+        <kwd>GBIF</kwd>
+        <kwd>data use</kwd>
+        <kwd>FAIR</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Kari M Lahti</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5229462">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Commission</surname>
+              <given-names>European</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <chapter-title>Guidelines on FAIR data management</chapter-title>
+          <source>Horizon 2020, version 3.0</source>
+        </element-citation>
+      </ref>
+      <ref id="B5229450">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>M. D.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <fpage>160018</fpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5185753" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Restricted Data Request: service user interface for managing requesters' "ready-for-download" data or "pending issues" at FinBIF.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37395-g001.jpg" position="float" id="oo_291610.JPG" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

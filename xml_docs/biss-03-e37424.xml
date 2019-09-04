@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37424</article-id>
+      <article-id pub-id-type="publisher-id">37424</article-id>
+      <article-id pub-id-type="manuscript">11728</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI55 - Federated Infrastructures for Sustainable Biodiversity Data Management</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>SEINet: A Centralized Specimen Resource Managed by a Distributed Network of Researchers</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Gilbert</surname>
+            <given-names>Edward</given-names>
+          </name>
+          <email xlink:type="simple">egbot@asu.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5006-8092</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gries</surname>
+            <given-names>Corinna</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9091-6543</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Franz</surname>
+            <given-names>Nico</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7089-7018</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Leslie R.</surname>
+            <given-names>Landrum</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nash III</surname>
+            <given-names>Thomas H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Arizona State University, Tempe, United States of America</addr-line>
+        <institution>Arizona State University</institution>
+        <addr-line content-type="city">Tempe</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Arizona State University, Symbiota, Tempe, United States of America</addr-line>
+        <institution>Arizona State University, Symbiota</institution>
+        <addr-line content-type="city">Tempe</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Wisconsin, Madison, Madison, United States of America</addr-line>
+        <institution>University of Wisconsin, Madison</institution>
+        <addr-line content-type="city">Madison</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Edward Gilbert (<email xlink:type="simple">egbot@asu.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37424</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A8E87DF9E43C53CFB69F0798A7343ED0">A8E87DF9E43C53CFB69F0798A7343ED0</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Edward Gilbert, Corinna Gries, Nico Franz, Landrum Leslie R., Thomas H. Nash III</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The SEINet Portal Network has a complex social and development history spanning nearly two decades. Initially established as a basic online search engine for a select handful of biological collections curated within the southwestern United States, SEINet has since matured into a biodiversity data network incorporating more than 330 institutions and 1,900 individual data contributors. Participating institutions manage and publish over 14 million specimen records, 215,000 observations, and 8 million images. Approximately 70% of the collections make use of the data portal as their primary "live" specimen management platform. The SEINet interface now supports 13 regional data portals distributed across the United States and northern Mexico (<ext-link ext-link-type="uri" xlink:href="http://symbiota.org/docs/seinet/">http://symbiota.org/docs/seinet/</ext-link>). Through many collaborative efforts, it has matured into a tool for biodiversity data exploration, which includes species inventories, interactive identification keys, specimen and field images, taxonomic information, species distribution maps, and taxonomic descriptions.</p>
+        <p>SEINet’s initial developmental goals were to construct a read-only interface that integrated specimen records harvested from a handful of distributed natural history databases. Intermittent network conductivity and inconsistent data exchange protocols frequently restricted data persistence. National funding opportunities supported a complete redesign towards the development of a centralized data cache model with periodic "snapshot" updates from original data sources. A service-based management infrastructure was integrated into the interface to mobilize small- to medium-sized collections (&lt;1 million specimen records) that commonly lack consistent infrastructure and technical expertise to maintain a standard compliant specimen database. These developments were the precursors to the Symbiota software project (<xref ref-type="bibr" rid="B5194984">Gries et al. 2014</xref>). Through further development of Symbiota, SEINet transformed into a robust specimen management system specifically geared toward specimen digitization with features including data entry from label images, harvesting data from specimen duplicates, batch georeferencing, data validation and cleaning, generating progress reports, and additional tools to improve the efficiency of the digitization process. The central developmental paradigm focused on data mobilization through the production of:</p>
+        <p>
+          <list list-type="order"><list-item><p>a versatile import module capable of ingesting a diverse range of data structures,</p></list-item><list-item><p>a robust toolkit to assist in digitizing and managing specimen data and images, and</p></list-item><list-item><p>a <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/standards/dwc/">D</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/standards/dwc/">arwin Core</ext-link> Archive (DwC-A) compliant data publishing and export toolkit to facilitate data distribution to global aggregators such as <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">Global Biodiversity Information Facility</ext-link> (GBIF) and <ext-link ext-link-type="uri" xlink:href="https://www.idigbio.org/">iDigBio</ext-link>.</p></list-item></list>
+        </p>
+        <p>User interfaces consist of a decentralized network of regional data portals, all connecting to a centralized shared data source. Each of the 13 data portals are configured to present a regional perspective specifically tailored to represent the needs of the local research community. This infrastructure has supported the formation of regional consortia, who provide network support to aid local institutions in digitizing and publishing their collections within the network. The community-based infrastructure creates a sense of ownership – perhaps even good-natured competition – by the data providers and provides extra incentive to improve data quality and expand the network.</p>
+        <p>Certain areas of development remain challenging in spite of the project's overall success. For instance, data managers continuously struggle to maintain a current local taxonomic thesaurus used for name validation, data cleaning, and to resolve taxonomic discrepancies commonly encountered when integrating collection datasets. We will discuss the successes and challenges associated with the long-term sustainability model and explore potential future paths for SEINet that support the long-term goal of maintaining a data provider that is in full compliance with the FAIR use principles of making the datasets findable, accessible, interoperable, and reusable (<xref ref-type="bibr" rid="B5194994">Wilkinson et al. 2016</xref>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>natural history collections</kwd>
+        <kwd>biodiversity data</kwd>
+        <kwd>specimen digitization</kwd>
+        <kwd>open access</kwd>
+        <kwd>SEINet</kwd>
+        <kwd>Symbiota</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Edward E. Gilbert</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5194984">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Gries</surname>
+              <given-names>Corinna</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gilbert</surname>
+              <given-names>Edward</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>Nico</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Symbiota – A virtual platform for creating voucher-based biodiversity information communities</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>2</volume>
+          <pub-id pub-id-type="doi">10.3897/bdj.2.e1114</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5194994">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>Mark D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumontier</surname>
+              <given-names>Michel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aalbersberg</surname>
+              <given-names>IJsbrand Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Appleton</surname>
+              <given-names>Gabrielle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Axton</surname>
+              <given-names>Myles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baak</surname>
+              <given-names>Arie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blomberg</surname>
+              <given-names>Niklas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boiten</surname>
+              <given-names>Jan-Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>da Silva Santos</surname>
+              <given-names>Luiz Bonino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourne</surname>
+              <given-names>Philip E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouwman</surname>
+              <given-names>Jildau</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brookes</surname>
+              <given-names>Anthony J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crosas</surname>
+              <given-names>Mercè</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dillo</surname>
+              <given-names>Ingrid</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumon</surname>
+              <given-names>Olivier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Edmunds</surname>
+              <given-names>Scott</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Evelo</surname>
+              <given-names>Chris T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Finkers</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gonzalez-Beltran</surname>
+              <given-names>Alejandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Alasdair J. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groth</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goble</surname>
+              <given-names>Carole</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grethe</surname>
+              <given-names>Jeffrey S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heringa</surname>
+              <given-names>Jaap</given-names>
+            </name>
+            <name name-style="western">
+              <surname>’t Hoen</surname>
+              <given-names>Peter A. C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hooft</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuhn</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Ruben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Joost</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lusher</surname>
+              <given-names>Scott J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martone</surname>
+              <given-names>Maryann E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Albert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Abel L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Persson</surname>
+              <given-names>Bengt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocca-Serra</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roos</surname>
+              <given-names>Marco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Schaik</surname>
+              <given-names>Rene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sansone</surname>
+              <given-names>Susanna-Assunta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schultes</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sengstag</surname>
+              <given-names>Thierry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Slater</surname>
+              <given-names>Ted</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strawn</surname>
+              <given-names>George</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swertz</surname>
+              <given-names>Morris A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thompson</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Lei</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Mulligen</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Velterop</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wittenburg</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolstencroft</surname>
+              <given-names>Katherine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zhao</surname>
+              <given-names>Jun</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Barend</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <pub-id pub-id-type="doi">10.1038/sdata.2016.18</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

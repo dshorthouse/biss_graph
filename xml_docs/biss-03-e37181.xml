@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37181</article-id>
+      <article-id pub-id-type="publisher-id">37181</article-id>
+      <article-id pub-id-type="manuscript">11381</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Practical Tools for Collection Managers: Label designer, annotation tools and a QR code reader</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Heikkinen</surname>
+            <given-names>Mikko</given-names>
+          </name>
+          <email xlink:type="simple">mikko.heikkinen@helsinki.fi</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9898-1916</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Riihikoski</surname>
+            <given-names>Ville-Matti</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kuusijärvi</surname>
+            <given-names>Anniina</given-names>
+          </name>
+          <email xlink:type="simple">anniina.kuusijarvi@helsinki.fi</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koivunen</surname>
+            <given-names>Anne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lahti</surname>
+            <given-names>Kari</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schulman</surname>
+            <given-names>Leif</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1990-2173</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Mikko Heikkinen (<email xlink:type="simple">mikko.heikkinen@helsinki.fi</email>), Anniina Kuusijärvi (<email xlink:type="simple">anniina.kuusijarvi@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37181</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/C6ABDE756A2151239CF3D17600B7ECBA">C6ABDE756A2151239CF3D17600B7ECBA</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mikko Heikkinen, Ville-Matti Riihikoski, Anniina Kuusijärvi, Anne Koivunen, Kari Lahti, Leif Schulman</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Kotka is a collection management system (CMS) developed by the Finnish Museum of Natural History (Luomus) and used by all major institutes with natural history collections in Finland. It is one of the primary data sources of the Finnish Biodiversity Information Facility through which the data managed in Kotka is distributed (<ext-link ext-link-type="uri" xlink:href="https://laji.fi/en"><underline>species.fi</underline></ext-link>). Kotka is designed to allow flexible development of new tools to support collection management practices. This paper describes some of the tools included in Kotka.</p>
+        <p>
+          <bold>Label designer</bold>
+        </p>
+        <p>Printed labels have traditionally been used to store and display data about specimens. In modern collection informatics their role in connecting specimens to electronic data and in collection and data curation is emphasised. Requirements for the labels are changing rapidly and different types of specimens have completely different label designs.</p>
+        <p>To give the collection managers an option to design suitable labels to meet their needs, we have created a WYSIWYG (What You See is What You Get) label designer (Fig. <xref ref-type="fig" rid="F5182617">1</xref>). It allows users to pick desired data fields and arrange them on the label, adjust styles and sizes, and generate HTTP-URI identifiers with QR Codes (Quick Response Codes).</p>
+        <p>The label designer can be used with a modern web browser or as a standalone desktop application, on both Windows and Mac. It is <ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/luomus/laji.fi-front/src/master/projects/generic-label-maker/"><underline>open source</underline></ext-link> and can be integrated with other applications by using it as an Angular module or as an <ext-link ext-link-type="uri" xlink:href="https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements"><underline>custom element</underline></ext-link> to any site.</p>
+        <p>The label designer serves both scientific natural history collection managers and amateurs managing private collections. At Luomus the tool is used both in the Kotka CMS and in the Notebook system for species occurrence records.</p>
+        <p>
+          <bold>Annotations</bold>
+        </p>
+        <p>As collections are increasingly used and managed digitally, the traditional means of quality control and data improvement are no longer sufficient. We have developed tools which allow e.g. external researchers and citizen experts to review specimen data online at species.fi (<ext-link ext-link-type="uri" xlink:href="https://species.fi"><underline>species.fi</underline></ext-link>), and annotate the data by evaluating its quality, propose and/or change species identifications and include comments. The annotations are delivered to collection managers who can then use them to update and improve the specimen data at the primary data source.</p>
+        <p>
+          <bold>QR Code reader</bold>
+        </p>
+        <p>Modern specimen labels often include specimen identifiers such as QR Codes or barcodes. To improve collection management efficiency, we have made a QR Code reader application, which allows collection managers to read these codes and display specimen data quickly on a handheld device (e.g. mobile phone) or a desktop computer with a web camera.</p>
+        <p>The application is <ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/luomus/kotka-qr-reader/src/master/"><underline>open source</underline></ext-link> and can be configured to connect to any system utilizing HTTP-URI identifiers.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>collection management</kwd>
+        <kwd>QR code</kwd>
+        <kwd>specimen label</kwd>
+        <kwd>annotation</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mikko Heikkinen</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <floats-group>
+    <fig id="F5182617" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Screenshot of the label designer showing an example design.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37181-g001.png" position="float" id="oo_291429.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

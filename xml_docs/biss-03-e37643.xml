@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37643</article-id>
+      <article-id pub-id-type="publisher-id">37643</article-id>
+      <article-id pub-id-type="manuscript">11041</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS31 - Quantification of biodiversity across scales</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Introducing ‘The bdverse’: a family of R packages for biodiversity data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Gueta</surname>
+            <given-names>Tomer</given-names>
+          </name>
+          <email xlink:type="simple">tomer.gu@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1557-8596</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Barve</surname>
+            <given-names>Vijay</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4852-2567</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nagarajah</surname>
+            <given-names>Thiloshon</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gibas</surname>
+            <given-names>Povilas</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5311-6021</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Carmel</surname>
+            <given-names>Yohay</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Department of Civil and Environmental Engineering, The Technion – Israel Institute of Technology, Haifa, Israel</addr-line>
+        <institution>Department of Civil and Environmental Engineering, The Technion – Israel Institute of Technology</institution>
+        <addr-line content-type="city">Haifa</addr-line>
+        <country>Israel</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, Gainesville, United States of America</addr-line>
+        <institution>Florida Museum of Natural History</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Informatics Institute of Technology, Colombo, Sri Lanka</addr-line>
+        <institution>Informatics Institute of Technology</institution>
+        <addr-line content-type="city">Colombo</addr-line>
+        <country>Sri Lanka</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Vilnius University, Vilnius, Lithuania</addr-line>
+        <institution>Vilnius University</institution>
+        <addr-line content-type="city">Vilnius</addr-line>
+        <country>Lithuania</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Tomer Gueta (<email xlink:type="simple">tomer.gu@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37643</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/65AB31F06E3F5650ABB668AB00BCD8C1">65AB31F06E3F5650ABB668AB00BCD8C1</uri>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Tomer Gueta, Vijay Barve, Thiloshon Nagarajah, Povilas Gibas, Yohay Carmel</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p><ext-link ext-link-type="uri" xlink:href="https://bd-r.github.io/The-bdverse/">The bdverse</ext-link> is a collection of packages that form a general framework for facilitating biodiversity science in R. We build it to serve as a sustainable and agile infrastructure that enhances the value of biodiversity data by allowing users to conveniently employ R, for data exploration, quality assessment, data cleaning, and standardization. The <italic>bdverse</italic> supports users with and without programming capabilities. It<bold/>includes six unique packages in a hierarchal structure — representing different functionality levels (Fig. <xref ref-type="fig" rid="F5164234">1</xref>). Major features of three core packages will be highlighted and demonstrated: (i) <ext-link ext-link-type="uri" xlink:href="https://bd-r.github.io/The-bdverse/bdDwC.html"><italic>bdDwC</italic></ext-link> provides an interactive Shiny app and a set of functions for standardizing field names in compliance with Darwin Core (DwC) format; (ii) <ext-link ext-link-type="uri" xlink:href="https://bd-r.github.io/The-bdverse/bdchecks.html"><italic>bdchecks</italic></ext-link> is an infrastructure for performing, filtering and managing various biodiversity data checks; (iii) <ext-link ext-link-type="uri" xlink:href="https://bd-r.github.io/The-bdverse/bdclean.html"><italic>bdclean</italic></ext-link> is a user-friendly data cleaning Shiny app for the inexperienced R user. It provides features to manage complete workflow for biodiversity data cleaning, including data upload; user input - in order to adjust cleaning procedures; data cleaning; and finally, generation of various reports and versions of the data.</p>
+        <p>We are now working on submitting the <italic>bdverse</italic> packages to <ext-link ext-link-type="uri" xlink:href="https://ropensci.org/software-review/">rOpenSci software review</ext-link>, and as soon as the packages meet core requirements, we will officially release the <italic>bdverse</italic>. The <italic>bdverse</italic> project won the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/news/4TuHBNfycgO4GEMOKkMi4u/six-winners-top-the-2018-ebbe-nielsen-challenge#bdverse">2nd prize in the 2018 Ebbe Nielsen Challenge</ext-link>.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity informatic</kwd>
+        <kwd>data quality</kwd>
+        <kwd>R</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Google</named-content>
+            <named-content content-type="funder_identifier">100006785</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/100006785</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Tomer Gueta</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>ISF grant No. 127/16</p>
+        <p>The Technion, Blumenstein family fund</p>
+        <p>Google Summer of Code program</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>ISF grant No. 127/16</p>
+      <p>The Technion, Blumenstein family fund</p>
+      <p>Google Summer of Code program</p>
+    </sec>
+  </back>
+  <floats-group>
+    <fig id="F5164234" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>A schematic representation of the <italic>bdverse</italic>, a toolbelt of packages for handling biodiversity data in R. Repositories of all packages can be publicly accessed via GitHub (<ext-link ext-link-type="uri" xlink:href="https://github.com/bd-R">https://github.com/bd-R</ext-link>).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37643-g001.png" position="float" id="oo_276287.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

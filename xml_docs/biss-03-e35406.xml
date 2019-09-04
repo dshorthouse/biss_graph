@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35406</article-id>
+      <article-id pub-id-type="publisher-id">35406</article-id>
+      <article-id pub-id-type="manuscript">11587</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP70 - Access &amp; Benefit-Sharing, Digital Sequence Information and Biodiversity Data allaying for CBD goals</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Sharing the benefits of taxonomic research: time to upgrade the model</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Lyal</surname>
+            <given-names>Christopher H.C.</given-names>
+          </name>
+          <email xlink:type="simple">c.lyal@nhm.ac.uk</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Neumann</surname>
+            <given-names>Dirk</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nivart</surname>
+            <given-names>Anne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, , United Kingdom</addr-line>
+        <institution>Natural History Museum, London</institution>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">SNSB, Zoologische Staatssammlung Muenchen, Munich, Germany</addr-line>
+        <institution>SNSB, Zoologische Staatssammlung Muenchen</institution>
+        <addr-line content-type="city">Munich</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Naturwissenschaftliche Sammlungen Bayerns, Munich, Germany</addr-line>
+        <institution>Naturwissenschaftliche Sammlungen Bayerns</institution>
+        <addr-line content-type="city">Munich</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">National Museum of Natural History, Paris, France</addr-line>
+        <institution>National Museum of Natural History</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Christopher H.C. Lyal (<email xlink:type="simple">c.lyal@nhm.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35406</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DE06E9645C145FDDBE816E7B9CD5775C">DE06E9645C145FDDBE816E7B9CD5775C</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Christopher H.C. Lyal, Dirk Neumann, Anne Nivart</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Many permits for collecting biological samples have simple conditions, such as returning specimens and information. In meeting them researchers are ‘sharing benefits’ in the context of the Convention on Biological Diversity (CBD). However, the documents giving such conditions are often poorly connected to long-term research by many individuals, leading to tail-off of delivery. The conditions and the benefits shared are also often ineffective for biodiversity conservation because of inefficient linkage to environmental managers and policy priorities. A new model is needed to better manage permit conditions so that users of biological and genetic material are aware of the agreements and can deliver with minimal additional effort, and to provide better linkage to application in provider countries. Many of the informatics tools to permit this are already available. The paper will outline the elements of the model and suggest means of implementation.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Anne Nivart</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37164</article-id>
+      <article-id pub-id-type="publisher-id">37164</article-id>
+      <article-id pub-id-type="manuscript">11353</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI55 - Federated Infrastructures for Sustainable Biodiversity Data Management</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Use of European Open Science Cloud and National e-Infrastructures for the Long-Term Storage of Digitised Assets from Natural History Collections</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Nieva de la Hidalga</surname>
+            <given-names>Abraham</given-names>
+          </name>
+          <email xlink:type="simple">nievadelahidalgaa@cardiff.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7348-7612</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cazenave</surname>
+            <given-names>Nicolas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Agosti</surname>
+            <given-names>Donat</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9286-1200</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wu</surname>
+            <given-names>Zhengzhe</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dillen</surname>
+            <given-names>Mathias</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3973-1252</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nielsen</surname>
+            <given-names>Lars H</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Cardiff University School of Computer Science and Informatics, Cardiff, United Kingdom</addr-line>
+        <institution>Cardiff University School of Computer Science and Informatics</institution>
+        <addr-line content-type="city">Cardiff</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">CINES, Montpellier, France</addr-line>
+        <institution>CINES</institution>
+        <addr-line content-type="city">Montpellier</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">www.plazi.org, Bern, Switzerland</addr-line>
+        <institution>www.plazi.org</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">University of Helsinki, Helsinki, Finland</addr-line>
+        <institution>University of Helsinki</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">CERN/Zenodo, Geneve, Switzerland</addr-line>
+        <institution>CERN/Zenodo</institution>
+        <addr-line content-type="city">Geneve</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Abraham Nieva de la Hidalga (<email xlink:type="simple">nievadelahidalgaa@cardiff.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37164</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B4D0A67F5F0D51619F75FBC899843FBC">B4D0A67F5F0D51619F75FBC899843FBC</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Abraham Nieva de la Hidalga, Nicolas Cazenave, Donat Agosti, Zhengzhe Wu, Mathias Dillen, Lars H Nielsen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Digitisation of Natural History Collections (NHC) has evolved from transcription of specimen catalogues in databases to web portals providing access to data, digital images, and 3D models of specimens. These portals increase global accessibility to specimens and help preserve the physical specimens by reducing their handling. The size of the NHC requires developing high-throughput digitisation workflows, as well as research into novel acquisition systems, image standardisation, curation, preservation, and publishing. Nowadays, herbarium sheet digitisation workflows (and fast digitisation stations) can digitise up to 6,000 specimens per day. Operating those digitisation stations in parallel, can increase the digitisation capacity. The high-resolution images obtained from these specimens, and their volume require substantial bandwidth, and disk space and tapes for storage of original digitised materials, as well as availability of computational processing resources for generating derivatives, information extraction, and publishing. While large institutions have dedicated digitisation teams that manage the whole workflow from acquisition to publishing, other institutions cannot dedicate resources to support all digitisation activities, in particular long-term storage. National and European e-infrastructures can provide an alternative solution by supporting different parts of the digitisation workflows. In the context of the Innovation and consolidation for large scale digitisation of natural heritage (<xref ref-type="bibr" rid="B5218298">ICEDIG Project 2018</xref>), three different e-infrastructures providing long-term storage have been analysed through three pilot studies: EUDAT-CINES, Zenodo, and National Infrastructures.</p>
+        <p>The EUDAT-CINES pilot centred on transferring large digitised herbarium collections from the National Museum of Natural History France (MNHN) to the storage infrastructure provided by the Centre Informatique National de l’Enseignement Supérieur (<xref ref-type="bibr" rid="B5218307">CINES 2014</xref>), a European trusted digital repository. The upload, processing, and access services are supported by a combination of services provided by the European Collaborative Data Infrastructure (<xref ref-type="bibr" rid="B5218316">EUDAT CDI 2019</xref>) and CINES . The Zenodo pilot included the upload of herbarium collections from Meise Botanic Garden (APM) and other European herbaria into the Zenodo repository (<xref ref-type="bibr" rid="B5218325">Zenodo 2019</xref>). The upload, processing and access services are supported by Zenodo services, accessed by APM. The National Infrastructures pilot facilitated the upload of digital assets derived from specimens of herbarium and entomology collections held at the Finnish Museum of Natural History (LUOMUS) into the Finnish Biodiversity Information Facility (<xref ref-type="bibr" rid="B5218334">FinBIF 2019</xref>). This pilot concentrates on simplifying the integration of digitisation facilities to Finnish national e-infrastructures, using services developed by LUOMUS to access FinBIF resources.</p>
+        <p>The data models employed in the pilots allow defining data schemas according to the types of collection and specimen images stored. For EUDAT-CINES, data were composed of the specimen data and its business metadata (those the institution making the deposit, in this case MNHN, considers relevant for the data objects being stored), enhanced by archiving metadata, added during the archiving process (institution, licensing, identifiers, project, archiving date, etc). EUDAT uses ePIC identifiers (<xref ref-type="bibr" rid="B5218343">ePIC 2019</xref>) to identify each deposit. The Zenodo pilot was designed to allow defining specimen data and metadata supporting indexing and access to resources. Zenodo uses DataCite Digital Object Identifiers (DOI) and the underlying data types as the main identifiers for the resources, augmented with fields based on standard TDWG vocabularies. FinBIF compiles Finnish biodiversity information to one single service for open access sharing. In FinBIF, HTTP URI based identifiers are used for all data, which link the specimen data with other information, such as images.</p>
+        <p>The pilot infrastructure design reports describe features, capacities, functions and costs for each model, in three specific contexts are relevant for the implementation of the Distributed Systems of Scientific Collections (<xref ref-type="bibr" rid="B5218352">DiSSCo 2019</xref>) research infrastructure, informing the options for long-term storage and archiving digitised specimen data. The explored options allow preservation of assets and support easy access. In a wider context, the results provide a template for service evaluation in the European Open Science Cloud (<xref ref-type="bibr" rid="B5218361">EOSC 2019</xref>) which can guide similar efforts. </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>European Open Science Cloud</kwd>
+        <kwd>e-infrastructure</kwd>
+        <kwd>long-term storage</kwd>
+        <kwd>federated cloud</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>ICEDIG</kwd>
+        <kwd>EUDAT</kwd>
+        <kwd>Zenodo</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="8"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Abraham Nieva de la Hidalga</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Horizon 2020 Framework Programme of the European Union</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>EUDAT, CINES, Zenodo, Plazi, Botanic Gardens Meise, University of Finland</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Horizon 2020 Framework Programme of the European Union</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>ICEDIG – “Innovation and consolidation for large scale digitisation of natural heritage” H2020-INFRADEV-2016-2017 – Grant Agreement No. 777483</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>EUDAT, CINES, Zenodo, Plazi, Botanic Gardens Meise, University of Finland</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5218307">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>CINES</surname>
+            </name>
+          </person-group>
+          <article-title>Centre Informatique National de l’Enseignement Supérieur (National Computer Center for Higher Education) </article-title>
+          <uri>https://www.cines.fr/</uri>
+          <date-in-citation content-type="access-date">2019-05-01T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5218352">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>DiSSCo</surname>
+            </name>
+          </person-group>
+          <article-title>DiSSCo - Distributed System of Scientific Collections Research Infrastructure</article-title>
+          <uri>https://dissco.eu/</uri>
+          <date-in-citation content-type="access-date">2019-05-01T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5218361">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>EOSC</surname>
+            </name>
+          </person-group>
+          <article-title>European Open Science Cloud Portal</article-title>
+          <uri>https://www.eosc-portal.eu/</uri>
+          <date-in-citation content-type="access-date">2019-05-01T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5218343">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>ePIC</surname>
+            </name>
+          </person-group>
+          <article-title>ePIC Persistent Identifiers for eResearch</article-title>
+          <uri>https://www.pidconsortium.eu/</uri>
+          <date-in-citation content-type="access-date">2019-05-01T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5218316">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>CDI</surname>
+              <given-names>EUDAT</given-names>
+            </name>
+          </person-group>
+          <article-title>EUDAT Research Data Services, Expertise &amp; Technology Solutions</article-title>
+          <uri>https://eudat.eu/</uri>
+          <date-in-citation content-type="access-date">2019-05-01T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5218334">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>FinBIF</surname>
+            </name>
+          </person-group>
+          <article-title>Finnish Biodiversity Information Facility</article-title>
+          <uri>https://laji.fi/en</uri>
+          <date-in-citation content-type="access-date">2019-05-01T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5218298">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Project</surname>
+              <given-names>ICEDIG</given-names>
+            </name>
+          </person-group>
+          <article-title>Innovation and consolidation for large scale digitisation of natural heritage Grant agreement ID:777483. H2020 programme.  Start: 2018-01-01 End: 2020-03-31</article-title>
+          <uri>https://cordis.europa.eu/project/rcn/216630/factsheet/en</uri>
+          <date-in-citation content-type="access-date">2019-05-01T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5218325">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Zenodo</surname>
+            </name>
+          </person-group>
+          <article-title>Zenodo - Research Shared</article-title>
+          <uri>https://zenodo.org/</uri>
+          <date-in-citation content-type="access-date">2019-05-01T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

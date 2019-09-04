@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37975</article-id>
+      <article-id pub-id-type="publisher-id">37975</article-id>
+      <article-id pub-id-type="manuscript">11287</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>From Rare Species Detection to Whole-Community Diversity Using High-Throughput Sequencing of Freshwater eDNA</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Alves</surname>
+            <given-names>Maria Judite</given-names>
+          </name>
+          <email xlink:type="simple">mjalves@museus.ulisboa.pt</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0550-4190</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Gante</surname>
+            <given-names>Hugo</given-names>
+          </name>
+          <email xlink:type="simple">hugo.gante@indstate.edu</email>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Veríssimo</surname>
+            <given-names>Ana</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3396-9822</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ribeiro</surname>
+            <given-names>Filipe</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Santos</surname>
+            <given-names>Carlos David</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jentoft</surname>
+            <given-names>Sissel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">cE3c - Center for Ecology, Evolution and Environmental Changes &amp; Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>cE3c - Center for Ecology, Evolution and Environmental Changes &amp; Museu Nacional de História Natural e da Ciência, Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Indiana State University, Terre Haute, IN, United States of America</addr-line>
+        <institution>Indiana State University</institution>
+        <addr-line content-type="city">Terre Haute, IN</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">CIBIO - Research Center in Biodiversity and Genetic Resources, Universidade do Porto, Porto, Portugal</addr-line>
+        <institution>CIBIO - Research Center in Biodiversity and Genetic Resources, Universidade do Porto</institution>
+        <addr-line content-type="city">Porto</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">MARE - Marine and Environmental Sciences Centre, Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>MARE - Marine and Environmental Sciences Centre, Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Núcleo de Teoria e Pesquisa do Comportamento, Universidade Federal do Pará, Universidade Federal do Pará, Belém, Brazil</addr-line>
+        <institution>Núcleo de Teoria e Pesquisa do Comportamento, Universidade Federal do Pará, Universidade Federal do Pará</institution>
+        <addr-line content-type="city">Belém</addr-line>
+        <country>Brazil</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Centre for Ecological and Evolutionary Synthesis (CEES), Department of Biosciences, University of Oslo , Oslo, Norway</addr-line>
+        <institution>Centre for Ecological and Evolutionary Synthesis (CEES), Department of Biosciences, University of Oslo </institution>
+        <addr-line content-type="city">Oslo</addr-line>
+        <country>Norway</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Maria Judite Alves (<email xlink:type="simple">mjalves@museus.ulisboa.pt</email>), Hugo Gante (<email xlink:type="simple">hugo.gante@indstate.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37975</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/AD5140524C5C5AD8AB2D5FC0A315612A">AD5140524C5C5AD8AB2D5FC0A315612A</uri>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Understanding natural communities and ecosystems and the services they provide to humanity is highly dependent on knowledge about species composition and diversity through space and time. This is especially difficult in aquatic systems where traditional census methods provide species compositions that are usually truncated since rare species tend to go undetected. Detection of the rare species is important because they are either threatened or invasives at the earliest stage of invasion. One recent approach allowing detection of rare species uses environmental DNA (eDNA), present in water or soil, as traces of their existence.</p>
+        <p>Here we propose to make use of recent technological developments in the area of high throughput sequencing to characterize freshwater fish communities and detect rare species, using a combination of eDNA metabarcoding and bulk eDNA metagenomics. A case-study will be conducted on the River Tagus (Portugal), which is inhabited by several rare fish species including both native and introduced taxa. In addition, the applicability of eDNA metagenomics for estimating the genetic diversity of populations will be assessed by comparing the results against those produced by traditional genetic screening of individual fish samples.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>eDNA metabarcoding</kwd>
+        <kwd>eDNA metagenomics</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Fundação para a Ciência e a Tecnologia</named-content>
+            <named-content content-type="funder_identifier">501100001871</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001871</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Maria Judite Alves</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>02/SAICT/2017</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Museu Nacional de História Natural e da Ciência &amp; cE3c - Center for Ecology, Evolution and Environmental Changes &amp; MARE - Marine and Environmental Sciences Centre, Universidade de Lisboa, Portugal</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>02/SAICT/2017</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>PTDC/BIA-CBI/31644/2017</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Museu Nacional de História Natural e da Ciência &amp; cE3c - Center for Ecology, Evolution and Environmental Changes &amp; MARE - Marine and Environmental Sciences Centre, Universidade de Lisboa, Portugal</p>
+    </sec>
+  </back>
+</article>

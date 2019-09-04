@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37685</article-id>
+      <article-id pub-id-type="publisher-id">37685</article-id>
+      <article-id pub-id-type="manuscript">11415</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS73 - Biodiversity Informatics: Perspectives from the Global South</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Primary Biodiversity Data Gaps Assessment and Data Use for Decision-making: A West African Experience</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Freeman</surname>
+            <given-names>Benedictus</given-names>
+          </name>
+          <email xlink:type="simple">benedictusfreeman@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0895-4952</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Peterson</surname>
+            <given-names>A. Townsend</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0243-2379</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Biodiversity Institute, University of Kansas, Lawrence, Kansas, United States of America</addr-line>
+        <institution>Biodiversity Institute, University of Kansas</institution>
+        <addr-line content-type="city">Lawrence, Kansas</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Benedictus Freeman (<email xlink:type="simple">benedictusfreeman@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37685</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/E575C348A032572E9431B2A9B3774A2C">E575C348A032572E9431B2A9B3774A2C</uri>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Benedictus Freeman, A. Townsend Peterson</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Primary biodiversity data, data documenting presences of particular species at particular sites at a point in time, available in standard digital formats, provide the basis for many quantitative studies that can inform effective and reliable national, regional, and global biodiversity conservation decisions. However, these datasets are often unavailable, incomplete, or unevenly distributed across regions and landscapes. We assessed the survey completeness and gaps in current knowledge of birds of West Africa, using digital, accessible primary biodiversity data, obtained from the Global Biodiversity Information Facility and eBird. Additionally, using ecological niche modeling approaches, we modeled the current and potential future geographic distributions of a diverse suite of range-restricted and ecologically important bird species, and used the resulting models to identify priority areas for conservation and future surveys (Fig. <xref ref-type="fig" rid="F5189271">1</xref>). The survey completeness and gap analyses revealed marked spatial, seasonal, and temporal (historical) gaps and biases in the coverage of bird records across the region (Fig. <xref ref-type="fig" rid="F5189271">1</xref>).<bold/>Well-surveyed sites were clustered around points of access such as major cities, roads, and national reserves or parks, mainly in Ghana, The Gambia, Senegal, Côte d’Ivoire, and Cameroon (Fig. <xref ref-type="fig" rid="F5189271">1</xref>). For our distributional analysis, we found broad present-day potential distributions with respect to climate. Future potential distributions, taking into account climate change processes, tended to be still-broader and more inclusive than present-day distributions, so climate-change-driven range losses and gains were minimal. Our models identified Liberia, southeastern Sierra Leone, southwestern Côte d’Ivoire, and southwestern Ghana to have high climate suitability in the present and in the future for most species. These results illustrate the spatial and temporal biases and gaps in West African bird data, and emphasize the need to promote high-quality biodiversity data mobilization and publication in West Africa and by extension the developing world. To address these biases at the regional level, research institutions and individuals need to engage in more systematic planning and biodiversity research, taking into account the potential for spatial, temporal, and seasonal biases.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>conservation planning</kwd>
+        <kwd>biodiversity inventory completeness</kwd>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>climate change</kwd>
+        <kwd>range-restricted species</kwd>
+        <kwd>ecological niche modeling</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Benedictus Freeman</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <floats-group>
+    <fig id="F5189271" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Maps showing summary results from survey completeness and gap analyses at 0.5° spatial resolution (top) and an example result from the distributional analysis (bottom) for an endemic West African bird species for present and future climate projections.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37685-g001.png" position="float" id="oo_291777.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

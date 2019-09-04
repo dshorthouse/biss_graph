@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37179</article-id>
+      <article-id pub-id-type="publisher-id">37179</article-id>
+      <article-id pub-id-type="manuscript">11384</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Kotka - A national multi-purpose collection management system</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Heikkinen</surname>
+            <given-names>Mikko</given-names>
+          </name>
+          <email xlink:type="simple">mikko.heikkinen@helsinki.fi</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9898-1916</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Riihikoski</surname>
+            <given-names>Ville-Matti</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kuusijärvi</surname>
+            <given-names>Anniina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Talvitie</surname>
+            <given-names>Dare</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lahti</surname>
+            <given-names>Tapani</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schulman</surname>
+            <given-names>Leif</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1990-2173</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mikko Heikkinen (<email xlink:type="simple">mikko.heikkinen@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37179</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5D44C2BFB60B582EAAF40D9A431C3993">5D44C2BFB60B582EAAF40D9A431C3993</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mikko Heikkinen, Ville-Matti Riihikoski, Anniina Kuusijärvi, Dare Talvitie, Tapani Lahti, Leif Schulman</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Many natural history museums share a common problem: a multitude of legacy collection management systems (CMS) and the difficulty of finding a new system to replace them. <ext-link ext-link-type="uri" xlink:href="https://wiki.helsinki.fi/display/digit/Kotka+Collection+Management+System">Kotka</ext-link> is a CMS created by the Finnish Museum of Natural History (Luomus) to solve this problem. Its development started in late 2011 and was put into operational use in 2012. Kotka was first built to replace dozens of in-house systems previously used at Luomus, but eventually grew into a national system, which is now used by 10 institutions in Finland. Kotka currently holds c. 1.7 million specimens from zoological, botanical, paleontological, microbial and botanic garden collections, as well as data from genomic resource collections. Kotka is designed to fit the needs of different types of collections and can be further adapted when new needs arise.</p>
+        <p>Kotka differs in many ways from traditional CMS's. It applies simple and pragmatic approaches. This has helped it to grow into a widely used system despite limited development resources – on average less than one full-time equivalent developer (FTE).</p>
+        <p>The aim of Kotka is to improve collection management efficiency by providing practical tools. It emphasizes the quantity of digitized specimens over completeness of the data. It also harmonizes collection management practices by bringing all types of collections under one system.</p>
+        <p>Kotka stores data mostly in a denormalized free text format using a triplestore and a simple hierarchical data model (Fig. <xref ref-type="fig" rid="F5182757">1</xref>). This allows greater flexibility of use and faster development compared to a normalized relational database. New data fields and structures can easily be added as needs arise. Kotka does some data validation, but quality control is seen as a continuous process and is mostly done after the data has been recorded into the system. The data model is loosely based on the ABCD (Access to Biological Collection Data) standard, but has been adapted to support practical needs.</p>
+        <p>Kotka is a web application and data can be entered, edited, searched and exported through a browser-based user interface. However, most users prefer to enter new data in customizable MS-Excel templates, which support the hierarchical data model, and upload these to Kotka. Batch updates can also be done using Excel. Kotka stores all revisions of the data to avoid any data loss due to technical or human error.</p>
+        <p>Kotka also supports designing and printing specimen labels, annotations by external users, as well as handling accessions, loan transactions, and the <ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/abs/about/">Nagoya protocol</ext-link>. Taxonomy management is done using a separate system provided by the <ext-link ext-link-type="uri" xlink:href="https://species.fi">Finnish Biodiversity Information Facility (FinBIF)</ext-link>. This decoupling also allows entering specimen data before the taxonomy is updated, which speeds up specimen digitization. Every specimen is given a persistent unique HTTP-URI identifier (<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/database/bax003">CETAF stable identifiers</ext-link>). Specimen data is accessible through the FinBIF portal at <ext-link ext-link-type="uri" xlink:href="https://species.fi">species.fi</ext-link>, and will later be shared to GBIF according to agreements with data holders.</p>
+        <p>Kotka is continuously developed and adapted to new requirements in close collaboration with curators and technical collection staff, using agile software development methods. It is available as <ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/luomus/kotka/src/master/">open source</ext-link>, but is tightly integrated with other FinBIF infrastructure, and currently only offered as an online service (Software as a Service) hosted by FinBIF.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>collection management system</kwd>
+        <kwd>natural history museum collection</kwd>
+        <kwd>denormalized database</kwd>
+        <kwd>web application</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mikko Heikkinen</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <floats-group>
+    <fig id="F5182757" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Specimen data model used by Kotka. Every specimen can have any number of sub-specimens (e.g. insects in a jar), and each of them any number of identifications, type information and preparations (morphological preparations, DNA extracts, tissue samples or such).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37179-g001.png" position="float" id="oo_291591.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

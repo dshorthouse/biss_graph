@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38439</article-id>
+      <article-id pub-id-type="publisher-id">38439</article-id>
+      <article-id pub-id-type="manuscript">11739</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PT - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ecobiomics: Environmental metagenomic biomonitoring</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Macklin</surname>
+            <given-names>James A</given-names>
+          </name>
+          <email xlink:type="simple">james.macklin@canada.ca</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9508-1349</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Baird</surname>
+            <given-names>Donald</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Newton</surname>
+            <given-names>Keith Glen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Agriculture and Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture and Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Environment and Climate Change Canada, Fredericton, Canada</addr-line>
+        <institution>Environment and Climate Change Canada</institution>
+        <addr-line content-type="city">Fredericton</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: James A Macklin (<email xlink:type="simple">james.macklin@canada.ca</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38439</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/95ED6E194F985395931B7CB881123256">95ED6E194F985395931B7CB881123256</uri>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Land use disturbances are having enormous adverse impacts on the biodiversity and integrity of natural and managed ecosystems around the world. Adverse impacts on biodiversity are compromising ecosystem services and processes, reducing ecosystem resilience, and leading to unpredictable ecosystem responses to environmental change. The Metagenomics-Based Ecosystem Biomonitoring Project (EcoBiomics) focuses on the urgent need to better understand the extent and significance of ongoing changes to biodiversity in the soil and aquatic ecosystems that sustain essential ecosystem services upon which Canadians and the Canadian economy depend. This project uniquely recognizes that a breadth of scientific expertise from within the Canadian government is required to undertake this research, which is spread across relevant departments and agencies with Biodiversity portfolios. It involves over 50 participants (researchers, technicians, bioinformaticians, software developers, managers and students, etc.) contributing to many smaller projects in several locations across Canada organized by themes. The objectives of this project include:</p>
+        <p>
+          <list list-type="order"><list-item><p>Develop standard soil and water methods and a federal Bioinformatics Platform to harmonize analyses of metabarcoding, metagenomics and metatranscriptomics data across federal departments/agencies;</p></list-item><list-item><p>Establish genomic observatories and comprehensive biodiversity baselines for assessing future changes to water and soil biodiversity at long-term environmental monitoring sites in Canada;</p></list-item><list-item><p>Develop new knowledge to improve water quality and soil health by comprehensively characterizing aquatic microbiomes, soil microbiomes, and invertebrate zoobiomes, and testing hypotheses to enhance environmental assessment, monitoring, and remediation activities.</p></list-item></list>
+        </p>
+        <p>Our poster will focus primarily on the challenges associated with the first objective. Genomic technologies are revolutionizing biodiversity assessment in soil and aquatic ecosystems, and they now offer the only practical way to comprehensively characterize this enormous biodiversity. These technologies and associated tools allow us to obtain comprehensive baseline biodiversity data that are essential to support evidence-based decision-making. However, a strong focus of this project is to enable environmental assessment, monitoring, and remediation activities by a multitude of potential end users and thus standardized protocols and processes must be determined and shared. For the data generated, several procedures were defined. A minimum metadata profile related to the sampling event is required for all projects, which follows existing standards including the DarwinCore (<ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/">https://dwc.tdwg.org</ext-link>). Sample preparation was also standardized based primarily on protocols developed in earlier projects that were validated for use in Ecobiomics, for example the Earth Microbiome Project (<ext-link ext-link-type="uri" xlink:href="http://www.earthmicrobiome.org/">http://www.earthmicrobiome.org</ext-link>). The procedures for DNA extraction through sequencing largely followed the Minimum Information about “X” Sequence (MIxS) standard (<ext-link ext-link-type="uri" xlink:href="http://gensc.org/mixs/">gensc.org/mixs</ext-link>). This data is all input into an in-house custom-built software package, Sequence Database (SeqDB) used by all participants across the entire project, which is made available centrally via a federal high-performance computing centre. SeqDB not only stores the metadata and data generated but also maintains provenance based on defined workflows for metabarcoding, shotgun metagenomics, and other “omics” pipelines. It also supports project management through various metrics and visualizations.</p>
+        <p>We will document some of the challenges to standardizing data and workflows in large multi-domain and multi-department project like Ecobiomics and the need for further standard development to truly support data sharing and integration across a highly diverse ecosystem of genomic observatories globally.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>genomics</kwd>
+        <kwd>environment</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>metagenomics</kwd>
+        <kwd>monitoring</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>James Macklin</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

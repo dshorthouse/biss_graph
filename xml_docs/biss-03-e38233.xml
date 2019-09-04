@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38233</article-id>
+      <article-id pub-id-type="publisher-id">38233</article-id>
+      <article-id pub-id-type="manuscript">11679</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Artificial Intelligence's Role in Global Camera Trap Data Management and Analytics via Wildlife Insights</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Thau</surname>
+            <given-names>David</given-names>
+          </name>
+          <email xlink:type="simple">dave.thau@wwfus.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ahumada</surname>
+            <given-names>Jorge A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Birch</surname>
+            <given-names>Tanya</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fegraus</surname>
+            <given-names>Eric</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Flores</surname>
+            <given-names>Nicole</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jetz</surname>
+            <given-names>Walter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kays</surname>
+            <given-names>Roland</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kinnaird</surname>
+            <given-names>Margaret</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kulkarni</surname>
+            <given-names>Sayali</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lyet</surname>
+            <given-names>Arnaud</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>O’Brien</surname>
+            <given-names>Timothy G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Palmer</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schuttler</surname>
+            <given-names>Stephanie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Duong</surname>
+            <given-names>Michelle</given-names>
+          </name>
+          <xref ref-type="aff" rid="A11">11</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Oliver</surname>
+            <given-names>Ruth</given-names>
+          </name>
+          <xref ref-type="aff" rid="A11">11</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zhao</surname>
+            <given-names>Jennifer Y.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A12">12</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>McShea</surname>
+            <given-names>William J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A13">13</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">WWF, San Francisco, United States of America</addr-line>
+        <institution>WWF</institution>
+        <addr-line content-type="city">San Francisco</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Conservation International, Arlington, United States of America</addr-line>
+        <institution>Conservation International</institution>
+        <addr-line content-type="city">Arlington</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim"> Google Inc., Mountain View, United States of America</addr-line>
+        <institution> Google Inc.</institution>
+        <addr-line content-type="city">Mountain View</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim"> Conservation International, Arlington, United States of America</addr-line>
+        <institution> Conservation International</institution>
+        <addr-line content-type="city">Arlington</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim"> Yale University, New Haven, United States of America</addr-line>
+        <institution> Yale University</institution>
+        <addr-line content-type="city">New Haven</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">North Carolina Museum of Natural Sciences, Raleigh, United States of America</addr-line>
+        <institution>North Carolina Museum of Natural Sciences</institution>
+        <addr-line content-type="city">Raleigh</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">WWF International, Nairobi, Kenya</addr-line>
+        <institution>WWF International</institution>
+        <addr-line content-type="city">Nairobi</addr-line>
+        <country>Kenya</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">Google Research, Mountain View, United States of America</addr-line>
+        <institution>Google Research</institution>
+        <addr-line content-type="city">Mountain View</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim">World Wildlife Fund, Washington D.C., United States of America</addr-line>
+        <institution>World Wildlife Fund</institution>
+        <addr-line content-type="city">Washington D.C.</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">Wildlife Conservation Society, New York, United States of America</addr-line>
+        <institution>Wildlife Conservation Society</institution>
+        <addr-line content-type="city">New York</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A11">
+        <label>11</label>
+        <addr-line content-type="verbatim">Yale University, New Haven, United States of America</addr-line>
+        <institution>Yale University</institution>
+        <addr-line content-type="city">New Haven</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A12">
+        <label>12</label>
+        <addr-line content-type="verbatim"> Smithsonian Conservation Biology Institute, Front Royal, United States of America</addr-line>
+        <institution> Smithsonian Conservation Biology Institute</institution>
+        <addr-line content-type="city">Front Royal</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A13">
+        <label>13</label>
+        <addr-line content-type="verbatim">Smithsonian Conservation Biology Institute, Front Royal, United States of America</addr-line>
+        <institution>Smithsonian Conservation Biology Institute</institution>
+        <addr-line content-type="city">Front Royal</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: David Thau (<email xlink:type="simple">dave.thau@wwfus.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38233</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DE0F3E845234588C8A62C36D3243B195">DE0F3E845234588C8A62C36D3243B195</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>David Thau, Jorge A. Ahumada, Tanya Birch, Eric Fegraus, Nicole Flores, Walter Jetz, Roland Kays, Margaret Kinnaird, Sayali Kulkarni, Arnaud Lyet, Timothy G. O’Brien, Jonathan Palmer, Stephanie Schuttler, Michelle Duong, Ruth Oliver, Jennifer Y. Zhao, William J. McShea</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Camera traps have existed since the 1890s (<xref ref-type="bibr" rid="B5216578">Kucera and Barrett 2011</xref>), but they weren’t widely used until the introduction of commercial infrared-triggered cameras in the early 1990s (<xref ref-type="bibr" rid="B5216592">Meek et al. 2014</xref>). Since then, millions, perhaps billions of camera trap images have been collected for many reasons, biodiversity monitoring being one of the key applications. Unfortunately, although there are camera trap deployments all over the world, these operations occur in isolation, limiting the impact they could have on a global understanding of biodiversity health. Even within individual institutions, managing and analyzing multiple camera trap deployments in aggregate can be challenging. In fact, managing a single deployment of camera traps is non-trivial and important data are frequently cast aside as bycatch, left unanalyzed on decaying hard drives.</p>
+        <p><ext-link ext-link-type="uri" xlink:href="https://wildlifeinsights.org/">Wildlife Insights</ext-link> attempts to overcome these hurdles by providing camera trap data upload, management, and analysis services. It provides the world’s largest database of camera trap images by bringing together the camera trapping efforts of several the world’s largest conservation and research organizations, and it is open to future contributors. Artificial Intelligence-driven services sit at the heart of the platform. New camera trap data uploads are automatically analyzed to differentiate between images with people, non-human animals, and no animals. The images with non-human animals are further analyzed to detect specific species. The proposed labels are sent back to the submitter for review and then uploaded to the database. All uploaded images, unless specifically embargoed, are immediately available for analysis by all users of the system. A selection of tools are provided to support analyses of global biodiversity.</p>
+        <p>This presentation will describe Wildlife Insights and its AI implementation in detail, contextualized by case studies using analyses of the data currently stored on the platform. Challenges around integrating camera trap data within the platform and with other external services that work with the platform will also be discussed. The talk will end with some thoughts about future directions for the AI services, especially with regards to integration with related platforms.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>artificial intelligence</kwd>
+        <kwd>species identification</kwd>
+        <kwd>computer vision</kwd>
+        <kwd>big data</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>David Thau</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5216578">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kucera</surname>
+              <given-names>T. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barrett</surname>
+              <given-names>R. H.</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <chapter-title>A history of camera trapping</chapter-title>
+          <person-group person-group-type="editor">
+            <name name-style="western">
+              <surname>O'Connell</surname>
+              <given-names>Allan F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nichols</surname>
+              <given-names>James D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Karanth</surname>
+              <given-names>K. Ullas</given-names>
+            </name>
+          </person-group>
+          <source>Camera traps in animal ecology</source>
+          <publisher-name>Springer</publisher-name>
+          <publisher-loc>Tokyo</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="B5216592">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Meek</surname>
+              <given-names>P</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fleming</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ballard</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Banks</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Claridge</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sanderson</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swann</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <source>Camera trapping: Wildlife management and research</source>
+          <publisher-name>CSIRO Publishing</publisher-name>
+          <size units="page">392</size>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

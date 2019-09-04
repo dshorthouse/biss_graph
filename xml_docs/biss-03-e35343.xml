@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35343</article-id>
+      <article-id pub-id-type="publisher-id">35343</article-id>
+      <article-id pub-id-type="manuscript">11312</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI20 - Semantic Annotation of Collection Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Semantically Linking Specimens and Images</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hyam</surname>
+            <given-names>Roger</given-names>
+          </name>
+          <email xlink:type="simple">rhyam@rbge.org.uk</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Botanic Garden Edinburgh, Edinburgh, United Kingdom</addr-line>
+        <institution>Royal Botanic Garden Edinburgh</institution>
+        <addr-line content-type="city">Edinburgh</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Roger Hyam (<email xlink:type="simple">rhyam@rbge.org.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35343</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A4524F38C19658B4BB71183A0667569D">A4524F38C19658B4BB71183A0667569D</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Roger Hyam</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Many of the world’s natural history collections are creating high resolution digital images of their specimens. They often make these available on the web through some form or zoomable viewer. For historical reasons, a hotchpotch of technologies are used to achieve this. This diversity has lead to two issues. Firstly, maintenance becomes costly as technologies need replacing. Secondly there is little chance to share data between institutions or provide a unified user experience. A researcher visiting four different virtual collections may have four very different experiences.</p>
+        <p>Similar issues exist in the archives and libraries disciplines. They also need to share high resolution, annotated images of the physical objects in their care. In response to this issue many have coalesced around the International Image Interoperability Framework (IIIF).</p>
+        <p>IIIF is a set of shared application programming interface (API) specifications for interoperable functionality in digital image repositories. It separates the notion of a viewer, which may be used as part of a website or other application, and the web services that feed data to that viewer. By using a common API for serving data about images, different viewers can be used to view the same images, thus providing an upgrade path that does not require replacement of viewer and server software at the same time and allows different viewers to be used for the same image data. Potentially more importantly, it facilitates the construction of applications that view data from different collections as if they were in the same place. From the researcher’s point of view, the experience could be the same whether the virtual specimen is hosted locally or in a museum on another continent.</p>
+        <p>There is one important thing that has been deliberately omitted from the IIIF standard. This has both enabled its rapid adoption but also makes it incomplete for building research applications. IIIF transmits no semantic data about the subject of the images, only labels. The IIIF data therefore needs to be bound to semantically rich data about the specimens being viewed, in some uniform way.</p>
+        <p>Consortium of Taxonomic Facilities (CETAF<styled-content style="display: none;"/><styled-content style="display: none;"/>) specimen identifiers are now widely adopted by natural history collections in Europe. Each individual collection object is designated by a URI chosen and maintained by the institution owning the specimen (<xref ref-type="bibr" rid="B5196941">Groom et al. 2017</xref>, <xref ref-type="bibr" rid="B5196920">Güntsch et al. 2018</xref>, <xref ref-type="bibr" rid="B5196951">Güntsch et al. 2017</xref>, <xref ref-type="bibr" rid="B5196975">HYAM et al. 2012</xref>). Under <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/DesignIssues/LinkedData.html">Linked </ext-link><ext-link ext-link-type="uri" xlink:href="https://www.w3.org/DesignIssues/LinkedData.html">Data</ext-link> conventions, content negotiation is used at the server so that users accessing an object using a web-browser are redirected to a human-readable representation of the object, typically a web-page, whilst software systems requiring machine-processable representations are redirected to an <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/TR/rdf11-concepts/">RDF</ext-link>-encoded metadata record. CETAF specimen identifiers are therefore ideal partners for IIIF representations of specimens. But how should we join the two together in a semantically rich way that will be generally understandable?</p>
+        <p><ext-link ext-link-type="uri" xlink:href="http://www.synthesys.info/">SYNTHESYS+</ext-link> is a European Commission funded programme that facilitates collaboration and network building among European natural history collections. It is concerned with both physical and virtual access to the 390 million specimens of plants and animals housed in participating institutions. Under <ext-link ext-link-type="uri" xlink:href="http://www.synthesys.info/network-activities.html">Task 4.3</ext-link> of this project, we have been working to create a reliable way to link between the RDF metadata about specimens and images of those specimens in IIIF as well as from images of specimens back to metadata of those specimens. By January 2021, we aim to have ten exemplar institutions publishing IIIF manifest files linked to CETAF identifiers for a few million specimens and for this to act as a catalyst for wider adoption in the natural history community. This presentation gives an update on the rollout of these implementations, paying particular attention to the challenges of semantically annotating specimens with images.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>linked open data</kwd>
+        <kwd>RDF</kwd>
+        <kwd>identifiers</kwd>
+        <kwd>CETAF</kwd>
+        <kwd>IIIF</kwd>
+        <kwd>images</kwd>
+        <kwd>multimedia</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Roger Hyam</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>European Commission:SYNTHESYS+</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Royal Botanic Garden Edinburgh</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>No conflicts</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>European Commission:SYNTHESYS+</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Royal Botanic Garden Edinburgh</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>No conflicts</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5196941">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hyam</surname>
+              <given-names>Roger</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Stable identifiers for collection specimens</article-title>
+          <source>Nature</source>
+          <volume>546</volume>
+          <issue>7656</issue>
+          <fpage>33</fpage>
+          <lpage>33</lpage>
+          <pub-id pub-id-type="doi">10.1038/546033d</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5196951">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hyam</surname>
+              <given-names>Roger</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hagedorn</surname>
+              <given-names>Gregor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chagnoux</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Röpert</surname>
+              <given-names>Dominik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Casino</surname>
+              <given-names>Ana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Droege</surname>
+              <given-names>Gabi</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Glöckler</surname>
+              <given-names>Falko</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gödderz</surname>
+              <given-names>Karsten</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hoffmann</surname>
+              <given-names>Jana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holleman</surname>
+              <given-names>Ayco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kempa</surname>
+              <given-names>Matúš</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Koivula</surname>
+              <given-names>Hanna</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marhold</surname>
+              <given-names>Karol</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nicolson</surname>
+              <given-names>Nicky</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Vincent S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Triebel</surname>
+              <given-names>Dagmar</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects</article-title>
+          <source>Database</source>
+          <volume>2017</volume>
+          <pub-id pub-id-type="doi">10.1093/database/bax003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5196920">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hyam</surname>
+              <given-names>Roger</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chagnoux</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Röpert</surname>
+              <given-names>Dominik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Casino</surname>
+              <given-names>Ana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Droege</surname>
+              <given-names>Gabriele</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gerritsen</surname>
+              <given-names>Willfred</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holetschek</surname>
+              <given-names>Jörg</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marhold</surname>
+              <given-names>Karol</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mergen</surname>
+              <given-names>Patricia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rainer</surname>
+              <given-names>Heimo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Vincent</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Triebel</surname>
+              <given-names>Dagmar</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Standardised Globally Unique Specimen Identifiers</article-title>
+          <source>Biodiversity Information Science and Standards</source>
+          <volume>2</volume>
+          <pub-id pub-id-type="doi">10.3897/biss.2.26658</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5196975">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>HYAM</surname>
+              <given-names>ROGER</given-names>
+            </name>
+            <name name-style="western">
+              <surname>DRINKWATER</surname>
+              <given-names>ROBYN E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>HARRIS</surname>
+              <given-names>DAVID J.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>&lt;p class="HeadingRunIn"&gt;&lt;strong&gt;Stable citations for herbarium specimens on the internet: an illustration from a taxonomic revision of &lt;em&gt;Duboscia &lt;/em&gt;(Malvaceae)&lt;/strong&gt;&lt;/p&gt;</article-title>
+          <source>Phytotaxa</source>
+          <volume>73</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.11646/phytotaxa.73.1.4</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

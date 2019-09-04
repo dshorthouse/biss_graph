@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38251</article-id>
+      <article-id pub-id-type="publisher-id">38251</article-id>
+      <article-id pub-id-type="manuscript">11071</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Operationalizing Plant Traits</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kattge</surname>
+            <given-names>Jens</given-names>
+          </name>
+          <email xlink:type="simple">jkattge@bgc-jena.mpg.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1022-8469</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Max Planck Institute for Biogeochemistry, Jena, Germany</addr-line>
+        <institution>Max Planck Institute for Biogeochemistry</institution>
+        <addr-line content-type="city">Jena</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany</addr-line>
+        <institution>German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig</institution>
+        <addr-line content-type="city">Leipzig</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jens Kattge (<email xlink:type="simple">jkattge@bgc-jena.mpg.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38251</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/BA4093687E8F5F359D1A65B42772B8DD">BA4093687E8F5F359D1A65B42772B8DD</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jens Kattge</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Plant traits – the morphological, anatomical, physiological, biochemical and phenological characteristics of plants and their organs – determine how primary producers respond to environmental factors, affect other trophic levels, influence ecosystem processes and services and provide a link from species richness to ecosystem functional diversity. Trait data thus represent the raw material for a wide range of research from evolutionary biology, community and functional ecology to biogeography. The importance of these topics dictates the urgent need for more and better data and improved data availability and applicability, however, producing larger datasets that allow for more powerful, synthetic analyses increasingly relies on the integration of small, focused studies. Operationalizing plant functional traits has therefore been identified a key issue in plant and vegetation ecology.</p>
+        <p>In 2007 the International Geosphere Bbiosphere Program (IGBP) and DIVERSITAS (together now Future Earth) initiated a global database of plant traits to make the data available for trait-based approaches in ecology and vegetation modelling. This was the start of the TRY initiative (<ext-link ext-link-type="uri" xlink:href="https://www.try-db.org">https://www.try-db.org</ext-link>).</p>
+        <p>In 2019 the TRY database contains about 12 million trait records for more than 300,000 plant taxa and 2000 traits. The data are publicly available under a CC BY license and so far contributed to more than 200 scientific publications.</p>
+        <p>Based on experience in this bottom-up exercise, my presentation will provide a subjective view on what has been essential to make progress towards operationalizing plant traits and how far the plant trait community has progressed.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>TRY plant trait database</kwd>
+        <kwd>plant traits</kwd>
+        <kwd>framework ontology</kwd>
+        <kwd>data model</kwd>
+        <kwd>data integration</kwd>
+        <kwd>open access</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jens Kattge</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

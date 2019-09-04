@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36750</article-id>
+      <article-id pub-id-type="publisher-id">36750</article-id>
+      <article-id pub-id-type="manuscript">11494</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Endemicity and Community Composition of Marine Species along the NW Pacific and Adjacent Arctic Ocean</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Saeedi</surname>
+            <given-names>Hanieh</given-names>
+          </name>
+          <email xlink:type="simple">hanieh.saeedi@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4845-0241</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Simoes</surname>
+            <given-names>Marianna</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4401-5530</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Brandt</surname>
+            <given-names>Angelika</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Senckenberg Research Institute and Natural History Museum; Department of Marine Zoology, Frankfurt am Main, Germany</addr-line>
+        <institution>Senckenberg Research Institute and Natural History Museum; Department of Marine Zoology</institution>
+        <addr-line content-type="city">Frankfurt am Main</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Goethe University Frankfurt, Institute for Ecology, Diversity and Evolution, Frankfurt am Main, Germany</addr-line>
+        <institution>Goethe University Frankfurt, Institute for Ecology, Diversity and Evolution</institution>
+        <addr-line content-type="city">Frankfurt am Main</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">OBIS data manager, deep-sea node, Frankfurt am Main, Germany</addr-line>
+        <institution>OBIS data manager, deep-sea node</institution>
+        <addr-line content-type="city">Frankfurt am Main</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Hanieh Saeedi (<email xlink:type="simple">hanieh.saeedi@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36750</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5970F7F106FB547E8FDD8FCD953E733F">5970F7F106FB547E8FDD8FCD953E733F</uri>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Northwestern (NW) Pacific Ocean lies in one of the most productive, speciose, and diverse regions of the World Ocean, and includes several shallow-water oceanic islands and deep-sea basins of varying depth, hydrology, and degree of isolation. The adjacent Arctic Ocean areas include the northern Bering and southern Chukchi Seas of the Arctic Ocean with short food chains and shallow depths characterizing high productivity areas. Despite its magnitude and relevance, characterization of species diversity and community composition patterns in the NW Pacific Ocean remains poorly explored and largely unknown. Here we attempt to discover how geographic boundaries and depth shape current community assemblages and delimit species distribution ranges and richness using open access data. We also show how endemicity and community composition vary between tropical and temperate NW Pacific and the adjacent Arctic Ocean considering sampling bias. The Eastern Philippine Sea was the hotspot of species richness in the NW Pacific and its adjacent Arctic Ocean even when accounting for sampling bias. The lowest species richness was observed in Papau. Despite high species richness in the Eastern Philippine Sea, the Yellow Sea and Gulf of Tonkin had the highest endemicity rates (ca. 60%) among all other ecoregions. Endemicity ranged 20–40% across 19 ecoregions. Chordata, Arthropoda, and Mollusca contributed more than 50% to the total community composition in the NW Pacific where as Arthropoda, Annelida, and Mollusca were the dominant taxa shaping ca. 82% of the Arctic Ocean community. Pelagic species richness was higher than the  benthic one in both shallow-water and deep-sea regions of the NW Pacific Ocean. However, in the shallow and deep Arctic Ocean, most of the taxa were benthic excluding the deep Kara Sea where pelagic deep-sea species dominated the whole community. Two significantly distinctive clusters (North and South clusters) were classified based on species richness similarity analysis in this area including ecoregions of the (1) Arctic Ocean and North NW Pacific, and (2) Mid to South NW Pacific.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>species richness</kwd>
+        <kwd>endemicity</kwd>
+        <kwd>community composition</kwd>
+        <kwd>NW Pacific</kwd>
+        <kwd>Arctic Ocean</kwd>
+        <kwd>sampling effort</kwd>
+        <kwd>cluster analysis.</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Hanieh Saeedi</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Beneficial project (grant number 03F0780A) was funded by the Federal Ministry for Education and Research (BMBF: Bundesministerium für Bildung und Forschung) in Germany. JQ Young Academy at Goethe University funded the conference attendance.</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Senckenberg Research Institute and Natural History Museum and Goethe University Frankfurt, Frankfurt am Main, Germany</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This paper was part of the “Biogeography of the NW Pacific deep-sea fauna and their possible future invasions into the Arctic Ocean project (Beneficial project)”. Beneficial project (grant number 03F0780A) was funded by Federal Ministry for Education and Research (BMBF: Bundesministerium für Bildung und Forschung) in Germany. We would like also to thank the JQ Young Academy at Goethe University for funding the conference attendance. </p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Beneficial project (grant number 03F0780A) was funded by the Federal Ministry for Education and Research (BMBF: Bundesministerium für Bildung und Forschung) in Germany. JQ Young Academy at Goethe University funded the conference attendance.</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Senckenberg Research Institute and Natural History Museum and Goethe University Frankfurt, Frankfurt am Main, Germany</p>
+    </sec>
+  </back>
+</article>

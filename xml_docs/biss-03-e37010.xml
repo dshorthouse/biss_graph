@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37010</article-id>
+      <article-id pub-id-type="publisher-id">37010</article-id>
+      <article-id pub-id-type="manuscript">10997</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Notes of Life: A platform for recording species observations driven by artificial intelligence</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Lin</surname>
+            <given-names>Congtian</given-names>
+          </name>
+          <email xlink:type="simple">linct@ioz.ac.cn</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wang</surname>
+            <given-names>Jiangning</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ji</surname>
+            <given-names>Liqiang</given-names>
+          </name>
+          <email xlink:type="simple">ji@ioz.ac.cn</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Institute of Zoology, Chinese Academy of Sciences, Beijing, China</addr-line>
+        <institution>Institute of Zoology, Chinese Academy of Sciences</institution>
+        <addr-line content-type="city">Beijing</addr-line>
+        <country>China</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Congtian Lin (<email xlink:type="simple">linct@ioz.ac.cn</email>), Liqiang Ji (<email xlink:type="simple">ji@ioz.ac.cn</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37010</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D238CAA5C9D359CD888E6754A96CB9B3">D238CAA5C9D359CD888E6754A96CB9B3</uri>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Congtian Lin, Jiangning Wang, Liqiang Ji</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Biodiversity research is stepping into a big data era with the rapid increase in the abundance of biodiversity data, especially the large number of species images. It has been a new trend and hot topic on how to utilize artificial intelligence to mine big biodiversity data to support wildlife observation and recognition. In this research, we integrate large numbers of species images, including higher plants, birds and insects, and use a state-of-the-art image deep learning technique to train species auto-recognition models. Currently, we get a model that can recognize more than 900 Chinese birds with top 1 accuracy 81% and top 5 accuracy 95% (top n accuracy means the probability that the correct answer presents in top n predicted results), and more models are coming soon. Based on these models, we developed a platform named Notes of Life (NOL, <ext-link ext-link-type="uri" xlink:href="http://nol.especies.cn">http://nol.especies.cn</ext-link>), which includes a website and a mobile application (app) for assisting biological scientists and citizen scientists to recognize and record wildlife. Users can upload their observation records and images of wildlife through our mobile app while they are investigating in the wild. The website is used for bulk data uploading and management. Species images can be classified by taxon-specific, plug-in recognition models that speed up the process of identification. There is an expert module in NOL where citizen scientists can work interactively with information provided by biological scientists, and post a species image identification request to experts when they cannot recognize the species by themselves or from models. The expert module is for improving the quality of citizen science data, and it is a supplement of the disadvantage of species auto-recognition models. Above all, NOL embraces the idea that scientific research supports citizen science and citizen science gives feedback to science, and of finding a sustainable way to collect increasingly more reliable data for biodiversity research.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity data</kwd>
+        <kwd>deep learning</kwd>
+        <kwd>species recognition</kwd>
+        <kwd>citizen science</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>The National R&amp;amp;D Infrastructure and Facility</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Congtian Lin</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Bioidiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>The Strategic Priority Research Program of the Chinese Academy of Sciences and The National R&amp;D Infrastructure and Facility Development Program of China</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>The Institute of Zoology, Chinese Academy of Sciences</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to thank The Strategic Priority Research Program of the Chinese Academy of Sciences and The National R&amp;D Infrastructure and Facility Development Program of China, "Fundamental Science Data Sharing Platform" (DKA2017-12-02-10), who funded the project. We would like to thank Min Li, Bo Cai and Gang Song, who are the partners of NOL.</p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>The Strategic Priority Research Program of the Chinese Academy of Sciences and The National R&amp;D Infrastructure and Facility Development Program of China</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>The Strategic Priority Research Program of the Chinese Academy of Sciences (Grant No. XDA19050202) and Fundamental Science Data Sharing Platform (Grant No. DKA2017-12-02-10)</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>The Institute of Zoology, Chinese Academy of Sciences</p>
+    </sec>
+  </back>
+</article>

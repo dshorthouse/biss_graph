@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37183</article-id>
+      <article-id pub-id-type="publisher-id">37183</article-id>
+      <article-id pub-id-type="manuscript">11612</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS14 - The role of Earth Science collections within biodiversity research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Palaeontological and Biological Collections – Bridging the gap</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kovar-Eder</surname>
+            <given-names>Johanna</given-names>
+          </name>
+          <email xlink:type="simple">johanna.eder@smns-bw.de</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Krogmann</surname>
+            <given-names>Lars</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rasser</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Roth-Nebelsick</surname>
+            <given-names>Anita</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tilley</surname>
+            <given-names>Laura</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Staatliches Museum für Naturkunde, Stuttgart, Germany</addr-line>
+        <institution>Staatliches Museum für Naturkunde</institution>
+        <addr-line content-type="city">Stuttgart</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Johanna Kovar-Eder (<email xlink:type="simple">johanna.eder@smns-bw.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37183</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/63170C3AB9025E94B6BB03152B334A27">63170C3AB9025E94B6BB03152B334A27</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Johanna Kovar-Eder, Lars Krogmann, Michael Rasser, Anita Roth-Nebelsick, Laura Tilley</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Palaeontology and biology are closely related sciences, as are the collections associated with them. Nevertheless there are differences between the two types of collections and the scientific data that they yield with regards to taxonomy, climate and ecology. In order to bridge the gap between the two subjects, it is important to clarify what these differences are and how they can be used to supplement research that addresses future environmental/climatic issues. In biology, valuable traits of the whole organism serve for taxonomy. In the fossil record, a morphospecies concept needs to be used because specimens are mainly preserved fragmentarily and palaeontologists have to take advantage of morphological traits that are often disregarded by biologists. Another difference is that biological objects represent modern time, while the fossil record provides valuable information on a deep time perspective, i.e., in a third dimension. Yet, these two disciplines obviously depend on each other: while biologists provide palaeontologists with information about unfossilised soft parts, palaeontology can help to solve questions about life in the past.</p>
+        <p>Using four current case studies from the Stuttgart Natural History Museum, we provide examples of how biological and palaeontological information stored in museum collections are linterlinked, and particularly how palaeontology can help to solve current and future problems. We also highlight the potential of palaeontological collections and demonstrate the necessity of digitizing large quantities of objects as well as the related basic information. Case studies are:</p>
+        <p>
+          <list list-type="order"><list-item><p>Fossil leaves provide evidence for past atmospheric CO<sub>2</sub> levels and climate change, which can be used for climate change models.</p></list-item><list-item><p>Fossils help to understand current and future hazards e.g., fossils embedded in tsunami sediments can provide information on how tsunamis affect shelf marine ecosytems.</p></list-item><list-item><p>Extensive taxonomic studies of Miocene land snails and the comparison with extant relatives allow the reconstruction of fossil environments. Combined with complementary methods, the biological, geological and meteorological factors controlling these environments can be reconstructed.</p></list-item><list-item><p>Phylogenetic studies tell us how life evolved and how organisms have changed through time. An important factor for phylogeny is the time-aspect, such as the splitting of lineages. Phylogenetic trees based on modern taxa can only be validated by fossils. We will present an example of insect phylogeny.</p></list-item></list>
+        </p>
+        <p>These case studies not only show how biology and palaeontology are interlinked, but the first three studies are sound examples of how the knowledge of the past helps to understand the present. Furthermore, the first two studies are highly relevant for predicting the future. All of this information can only be used appropriately, if large proportions of data are available that include information on geology and age. For this reason, the Access to Biological Collection Data Extended for Geosciences (ABCD EFG) standard is so important, as it extends the two-dimensional view (Recent) into a third dimension (deep time).</p>
+        <p>Our vision is an integrated modelling of past, present and future scenarios, whether for climate or ecosystem change, or geological hazards. Considering the deep time information, we can model how changes would take place under natural conditions, i.e., without anthropogenic influence. This requires the availability of large data sets of taxonomic information on the EFG level from all over the world.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biology</kwd>
+        <kwd>palaeontology</kwd>
+        <kwd>collection data</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>integrated modelling of the past and future</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Johanna Kovar-Eder</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

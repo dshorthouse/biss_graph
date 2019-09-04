@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37854</article-id>
+      <article-id pub-id-type="publisher-id">37854</article-id>
+      <article-id pub-id-type="manuscript">11114</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>NaturalHeritage: Bridging Belgian natural history collections</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Theeten</surname>
+            <given-names>Franck</given-names>
+          </name>
+          <email xlink:type="simple">franck.theeten@africamuseum.be</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Adam</surname>
+            <given-names>Marielle</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vandenberghe</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9269-6548</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dillen</surname>
+            <given-names>Mathias</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3973-1252</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Semal</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Scory</surname>
+            <given-names>Serge</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2692-8651</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Herpers</surname>
+            <given-names>Jean-Marc</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Van den Spiegel</surname>
+            <given-names>Didier</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mergen</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Smirnova</surname>
+            <given-names>Larissa</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Engledow</surname>
+            <given-names>Henry</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0779-8006</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Casino</surname>
+            <given-names>Ana</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gödderz</surname>
+            <given-names>Karsten</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Museum for Central Africa (RMCA), Tervuren, Belgium</addr-line>
+        <institution>Royal Museum for Central Africa (RMCA)</institution>
+        <addr-line content-type="city">Tervuren</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Royal Belgian Institute of Natural Sciences (RBINS), Brussels, Belgium</addr-line>
+        <institution>Royal Belgian Institute of Natural Sciences (RBINS)</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden (MBG), Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden (MBG)</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Consortium of European Taxonomic Facilities (CETAF, AISBL), Brussels, Belgium</addr-line>
+        <institution>Consortium of European Taxonomic Facilities (CETAF, AISBL)</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Franck Theeten (<email xlink:type="simple">franck.theeten@africamuseum.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37854</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/45E71FF482A953F9ADF067D612B2A13E">45E71FF482A953F9ADF067D612B2A13E</uri>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Franck Theeten, Marielle Adam, Thomas Vandenberghe, Mathias Dillen, Patrick Semal, Serge Scory, Jean-Marc Herpers, Didier Van den Spiegel, Patricia Mergen, Larissa Smirnova, Henry Engledow, Ana Casino, Karsten Gödderz</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Royal Belgian Institute of Natural Sciences (RBINS), the Royal Museum for Central Africa (RMCA) and Meise Botanic Garden house more than 50 million specimens covering all fields of natural history.</p>
+        <p>While many different research topics have their own specificities, throughout the years it became apparent that with regards to collection data management, data publication and exchange via community standards, collection holding institutions face similar challenges (<xref ref-type="bibr" rid="B5219185">James et al. 2018</xref>, <xref ref-type="bibr" rid="B5219083">Rocha et al. 2014</xref>). In the past, these have been tackled in different ways by Belgian natural history institutions. In addition to local and national collaborations, there is a great need for a joint structure to share data between scientific institutions in Europe and beyond. It is the aim of large networks and infrastructures such as the Global Biodiversity Information Facility (GBIF), the Biodiversity Information Standards (TDWG), the Distributed System of Scientific collections (DiSSCo) and the Consortium of European Taxonomic Facilities (CETAF) to further implement and improve these efforts, thereby gaining ever increasing efficiencies.</p>
+        <p>In this context, the three institutions mentioned above, submitted the NaturalHeritage project (<ext-link ext-link-type="uri" xlink:href="http://www.belspo.be/belspo/brain-be/themes_3_HebrHistoScien_en.stm">http://www.belspo.be/belspo/brain-be/themes_3_HebrHistoScien_en.stm</ext-link>) granted in 2017 by the Belgian Science Policy Service, which runs from 2017 to 2020.</p>
+        <p>The project provides links among  databases and services. The unique qualities of each database are maintained, while the information can be concentrated and exposed in a structured way via one access point. This approach aims also to link data that are unconnected at present (e.g. relationship between soil/substrate, vegetation and associated fauna) and to improve the cross-validation of data.</p>
+        <p>(1) The NaturalHeritage prototype (<ext-link ext-link-type="uri" xlink:href="http://www.naturalheritage.be">http://www.naturalheritage.be</ext-link>) is a shared research portal with an open access infrastructure, which is still in the development phase. Its backbone is an ElasticSearch catalogue, with Kibana, and a Python aggregator gathering several types of (re)sources: relational databases, REpresentational State Transfer (REST) services of objects databases and bibliographical data, collections metadata and the GBIF Internet Publishing Toolkit (IPT) for observational and taxonomical data. Semi-structured data in English are semantically analysed and linked to a rich autocomplete mechanism. Keywords and identifiers are indexed and grouped in four categories (“what”, “who”, “where”, “when”). The portal can act also as an Open Archives Initiatives Protocol for Metadata Harvesting (OAI-PMH) service and ease indexing of the original webpage on the internet with microdata enrichment.</p>
+        <p>(2) The collection data management system of DaRWIN (Data Research Warehouse Information Network) of RBINS and RMCA has been improved as well.</p>
+        <p>
+          <list list-type="bullet"><list-item><p>External (meta)data requirements, i.e. foremost publication into or according to the practices and standards of GBIF and OBIS (Ocean Biogeographic Information System: <ext-link ext-link-type="uri" xlink:href="https://obis.org">https://obis.org</ext-link>) for biodiversity data, and INSPIRE (<ext-link ext-link-type="uri" xlink:href="https://inspire.ec.europa.eu">https://inspire.ec.europa.eu</ext-link>) for geological data, have been identified and evaluated. New and extended data structures have been created to be compliant with these standards, as well as the necessary procedures developed to expose the data.</p></list-item><list-item><p>Quality control tools for taxonomic and geographic names have been developed. Geographic names can be hard to confirm as their lack of context often requires human validation. To address this a similarity measure is used to help map the result. Species, locations, sampling devices and other properties have been mapped to the World Register of Marine Species and DarwinCore (<ext-link ext-link-type="uri" xlink:href="http://www.marinespecies.org">http://www.marinespecies.org</ext-link>), Marine Regions and GeoNames, the AGRO Agronomy and Vertebrate trait ontologies and the British Oceanographic Data Centre (BODC) vocabularies (<ext-link ext-link-type="uri" xlink:href="http://www.obofoundry.org/ontology/agro.html">http://www.obofoundry.org/ontology/agro.html</ext-link>). Extensive mapping is necessary to make use of the ExtendedMeasurementOrFact Extension of DarwinCore (<ext-link ext-link-type="uri" xlink:href="https://tools.gbif.org/dwca-validator/extensions.do">https://tools.gbif.org/dwca-validator/extensions.do</ext-link>).</p></list-item></list>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>natural history collections</kwd>
+        <kwd>standardisation</kwd>
+        <kwd>webservices</kwd>
+        <kwd>search portal</kwd>
+        <kwd>interoperable databases</kwd>
+        <kwd>data analysis</kwd>
+        <kwd>data quality and cleaning</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Franck Theeten</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>BRAIN-be Belgian Research Action through Interdisciplinary Networks</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Royal Belgian Institute of Natural Sciences (RBINS)</p>
+        <p>29 rue Vautier, B-1000 Bruxelles</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>BRAIN-be Belgian Research Action through Interdisciplinary Networks</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>NaturalHeritage: BR/175/A3/NATURALHERITAGE</p>
+      <p>Système de base de données modulaire interopérable et portail pour les collections belges d'Histoire Naturelle</p>
+      <p>Modulair interoperabel databasesysteem en portal voor de Belgische Natuurhistorische collecties</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Royal Belgian Institute of Natural Sciences (RBINS)</p>
+      <p>29 rue Vautier, B-1000 Bruxelles</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5219185">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>James</surname>
+              <given-names>S. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Soltis</surname>
+              <given-names>P. S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Belbin</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chapman</surname>
+              <given-names>A. D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nelson</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Paul</surname>
+              <given-names>D. L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Collins</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Herbarium data: Global biodiversity and societal botanical needs for novel research</article-title>
+          <source>Applications in Plant Sciences</source>
+          <volume>6</volume>
+          <issue>2</issue>
+          <fpage>e1024</fpage>
+          <pub-id pub-id-type="doi">10.1002/aps3.1024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5219083">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Rocha</surname>
+              <given-names>L. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aleixo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Allen</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Almeda</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baldwin</surname>
+              <given-names>C. C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barclay</surname>
+              <given-names>M. V.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bates</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bauer</surname>
+              <given-names>A. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Benzoni</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berns</surname>
+              <given-names>C. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>et al.</surname>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Specimen collection: An essential tool</article-title>
+          <source>Science</source>
+          <volume>344</volume>
+          <issue>6186</issue>
+          <fpage>814</fpage>
+          <lpage>815</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.344.6186.814</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37286</article-id>
+      <article-id pub-id-type="publisher-id">37286</article-id>
+      <article-id pub-id-type="manuscript">11345</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS48 Strengthening the biodiversity informatics community of practice through capacity enhancement</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodiversity Information for Development: Building a global community of practice to mobilize and use biodiversity data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Raymond</surname>
+            <given-names>Mélianie</given-names>
+          </name>
+          <email xlink:type="simple">mraymond@gbif.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Rodrigues</surname>
+            <given-names>Andrew</given-names>
+          </name>
+          <email xlink:type="simple">arodrigues@gbif.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Russell</surname>
+            <given-names>Laura Anne</given-names>
+          </name>
+          <email xlink:type="simple">larussell@gbif.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1920-5298</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">GBIF Secretariat, Copenhagen, Denmark</addr-line>
+        <institution>GBIF Secretariat</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">GBIF, Copenhagen, Denmark</addr-line>
+        <institution>GBIF</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Kansas, KU Biodiversity Institute, Lawrence, United States of America</addr-line>
+        <institution>University of Kansas, KU Biodiversity Institute</institution>
+        <addr-line content-type="city">Lawrence</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">VertNet, , United States of America</addr-line>
+        <institution>VertNet</institution>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Mélianie Raymond (<email xlink:type="simple">mraymond@gbif.org</email>), Andrew Rodrigues (<email xlink:type="simple">arodrigues@gbif.org</email>), Laura Anne Russell (<email xlink:type="simple">larussell@gbif.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37286</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4720DCE0BA895A7BA80399A789F4E546">4720DCE0BA895A7BA80399A789F4E546</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mélianie Raymond, Andrew Rodrigues, Laura Anne Russell</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Biodiversity Information for Development, or <ext-link ext-link-type="uri" xlink:href="https://bid.gbif.org/">BID</ext-link>, is a programme funded by the European Union and led by the Global Biodiversity Information Facility (GBIF), aiming to increase the amount of biodiversity information available for use in scientific research and policymaking. In its first phase, BID provided funding to <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/programme/82243/bid-biodiversity-information-for-development#projects">61 projects</ext-link> in the nations of sub-Saharan Africa, the Caribbean and the Pacific between 2015-2019, with a strong focus on developing capacity to mobilize, manage and use biodiversity data within the project teams and their institutions, and through the establishment and strengthening of national nodes.</p>
+        <p>The capacity development approach centred on establishing a community of practice to bring in the expertise in the broader GBIF network to support the project teams in meeting their goals. This involved designing curricula for two workshops in the areas of data mobilization and data use for decision making; developing activities and materials to strengthen a base of mentors and trainers; establishing technical helpdesk support; and matchmaking to provide mentoring support to the funded projects. The community of practice, through mentoring and reuse of the workshop materials, has been expanded to support the capacity development needs in other programmes, reaching other regions, including Asia, South-East Europe and Eurasia.</p>
+        <p>During this presentation, we will review the main findings of the BID impact study and guiding examples from within the BID programme to identify the key successes and lessons learned relating to capacity development. As this approach has wider application to the biodiversity community, we invite discussion how we can build on the experience through the BID programme to further develop our community of practice, narrowing knowledge gaps between various groups of biodiversity professionals.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>mentoring</kwd>
+        <kwd>capacity enhancement</kwd>
+        <kwd>community of practice</kwd>
+        <kwd>GBIF</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mélianie Raymond</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

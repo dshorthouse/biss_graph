@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37472</article-id>
+      <article-id pub-id-type="publisher-id">37472</article-id>
+      <article-id pub-id-type="manuscript">11322</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Your Digitisation Project is Funded… Now What?</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Cole</surname>
+            <given-names>Heather</given-names>
+          </name>
+          <email xlink:type="simple">heather.cole@canada.ca</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8890-1748</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Agriculture Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Heather Cole (<email xlink:type="simple">heather.cole@canada.ca</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37472</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/02AA0391DC06543B8F4539DAC598CC0B">02AA0391DC06543B8F4539DAC598CC0B</uri>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>When the reality of successful funding for your digitisation project sets in and it is time to start spending, there are countless decisions that need to be made. Equipment needs to be purchased, staff need to be hired and protocols need to be developed. In 2014, the <ext-link ext-link-type="uri" xlink:href="http://www.agr.gc.ca/eng/science-and-innovation/agriculture-and-agri-food-research-centres-and-collections/?id=1181591790641#details-panel3">biological collections of Agriculture and Agri-Food Canada</ext-link> received funding (Government of Canada Budget 2016) for digitisation of their accessions, which include roughly 18–19 million preserved plant, insect and fungal specimens, as well as living fungal cultures and germplasm. Goals include the creation of virtual collections and digital inventories as well as specimen imaging and data capture. Now half-way through the funded project, the logistical opportunities and challenges associated with the digitisation of these diverse collections will be presented including short-term and long-term solutions, digitisation workflows and some lessons learned.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>natural history collections</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>imaging</kwd>
+        <kwd>data capture</kwd>
+        <kwd>lessons learned</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Government of Canada Budget 2016: Growing the middle class. 2016. Department of Finance Canada. http://www.budget.gc.ca/2016/docs/plan/toc-tdm-en.html</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Heather Cole</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

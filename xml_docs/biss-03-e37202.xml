@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37202</article-id>
+      <article-id pub-id-type="publisher-id">37202</article-id>
+      <article-id pub-id-type="manuscript">11484</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A decade of the India Biodiversity Portal: Planning ahead with technology to enhance citizen science participation in India</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Vattakaven</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <email xlink:type="simple">thomas.vee@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2337-3825</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Surendran</surname>
+            <given-names>Harikrishnan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rajagopal</surname>
+            <given-names>Prabhakar</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Strand Life Sciences, Bangalore, India</addr-line>
+        <institution>Strand Life Sciences</institution>
+        <addr-line content-type="city">Bangalore</addr-line>
+        <country>India</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Metastring Foundation, Bangalore, India</addr-line>
+        <institution>Metastring Foundation</institution>
+        <addr-line content-type="city">Bangalore</addr-line>
+        <country>India</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Thomas Vattakaven (<email xlink:type="simple">thomas.vee@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37202</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/BF6B8054D3B756AA8567D75FADB1F7B9">BF6B8054D3B756AA8567D75FADB1F7B9</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Thomas Vattakaven, Harikrishnan Surendran, Prabhakar Rajagopal</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The <ext-link ext-link-type="uri" xlink:href="indiabiodiversity.org/">India Biodiversity Portal</ext-link> (IBP) was initiated a decade ago, aiming to aggregate data on all species within India. The portal has been running a citizen science module for the past 8 years, aggregating observation data from the general public. The portal runs many flagship citizen science campaigns, such as the <ext-link ext-link-type="uri" xlink:href="https://treesindia.indiabiodiversity.org/show/">Neighborhood Trees Campaign</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://indiabiodiversity.org/group/indianmoths/show">National Moth Week</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://indiabiodiversity.org/group/spotting_alien_invasive_species/userGroup/show">Spot<styled-content style="background-color: rgb(255, 232, 232);">t</styled-content></ext-link><ext-link ext-link-type="uri" xlink:href="https://indiabiodiversity.org/group/spotting_alien_invasive_species/userGroup/show">ing Alien Invasive species,</ext-link> <ext-link ext-link-type="uri" xlink:href="https://indiabiodiversity.org/group/mapping_indian_snails_and_slugs/show">Mapping Indian Snails and Slugs</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://indiabiodiversity.org/group/frog_watch/show">Frogwatch</ext-link>. We have learnt valuable lessons in harnessing participation in citizen science, implementing functionality and in integrating technological advancements into the platform codebase. Following up on these, we are implementing new features that will streamline development, entice users and further spur participation. We discuss some of the proposed changes and our justification, including the impacts we expect in generating better citizen science data.</p>
+        <p>A key lesson arising out of our campaigns in remote regions of India, where internet penetration is relatively new, is that most users are connected to the web exclusively through a mobile device. Most do not have access to a personal computer or an email account. Yet they are internet savvy and use mobile applications to accomplish complex tasks such as banking activities, often logging in and being authenticated exclusively through a mobile number. We are implementing short-messaging-service (SMS) or one-time password-based login mechanisms, for login even without an email account for authentication. Although many initiatives have been investing in platform-specific mobile apps to cater to a growing mobile user community, maintaining and updating multiple mobile apps alongside enhancements to the web version is a resource-intensive task that most platforms cannot afford. Inconsistency in functions and usability across different versions of the same platform may lead to gaps in data collection. To address this challenge and streamline development, we have begun updating the portal codebase to enable Progressive Web Apps, which will replace conventional mobile applications while also serving as Single Page Applications that provide a unified experience across device platforms and alleviating the need for updating mobile apps separately.</p>
+        <p>For existing contributors on the portal, comparisons of their contributions against other users are a motivating factor to contribute further. Leaderboards and reputation systems are proven methods to promote activity and provide recognition to participants. Such leaderboards also incentivise newer participants to emulate leaders and climb the boards. We are building a reputation system that not only recognizes quantity but also the quality of the user’s contribution. In addition, we are working on integrating intelligent push notification technology that will constantly engage users by keeping them abreast of activity related to content reflecting their interest on the portal. These features are expected to engage contributors and keep them motivated towards further data contributions.</p>
+        <p>Finally, the most rewarding outcome from contributing citizen science data is in visualizing its impact. The most obvious are improvements in species distribution maps that are generated for each species page on the portal. Users are greatly motivated by contributing data that may enhance known distributions and may constitute range extensions for a species. Distribution maps on the portal are being revamped so that information is presented to the user in real-time through visualisations that are are both attractive and easy to interpret. These will provide users with gratification and help spur participation further.</p>
+        <p>IBP is also instituting the ability to automate the classification of its data to identify publication-grade data. Through a combination of user’s reputation and other data quality criteria, the data on IBP will be automatically graded, allowing such data to be pushed to Global Biodiversity Information Facility on a periodic basis as a <ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/">Darwin Core Archive</ext-link>, contributing to global biodiversity data.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>citizen science</kwd>
+        <kwd>technology</kwd>
+        <kwd>participation</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>biodiversity data</kwd>
+        <kwd>progressive web app</kwd>
+        <kwd>reputation system</kwd>
+        <kwd>leaderboards</kwd>
+        <kwd>mobile application</kwd>
+        <kwd>India</kwd>
+        <kwd>India Biodiversity Portal</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Thomas Vattakaven</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>National Geographic Society</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>National Geographic Society</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>Enhancing the India Biodiversity Portal: Technology for better citizen science engagement and species distributions</p>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37222</article-id>
+      <article-id pub-id-type="publisher-id">37222</article-id>
+      <article-id pub-id-type="manuscript">11249</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Efficient Pipeline for Automating Species ID in new Camera Trap Projects</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Beery</surname>
+            <given-names>Sara</given-names>
+          </name>
+          <email xlink:type="simple">sbeery@caltech.edu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Morris</surname>
+            <given-names>Dan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Yang</surname>
+            <given-names>Siyu</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Simon</surname>
+            <given-names>Marcel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Norouzzadeh</surname>
+            <given-names>Arash</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Joshi</surname>
+            <given-names>Neel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Caltech, Pasadena, United States of America</addr-line>
+        <institution>Caltech</institution>
+        <addr-line content-type="city">Pasadena</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Microsoft, Seattle, United States of America</addr-line>
+        <institution>Microsoft</institution>
+        <addr-line content-type="city">Seattle</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Wyoming, Laramie, United States of America</addr-line>
+        <institution>University of Wyoming</institution>
+        <addr-line content-type="city">Laramie</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sara Beery (<email xlink:type="simple">sbeery@caltech.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37222</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/7CC74A59BF2E56B4998184AF0DCC6C03">7CC74A59BF2E56B4998184AF0DCC6C03</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sara Beery, Dan Morris, Siyu Yang, Marcel Simon, Arash Norouzzadeh, Neel Joshi</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Camera traps are heat- or motion-activated cameras placed in the wild to monitor and investigate animal populations and behavior. They are used to locate threatened species, identify important habitats, monitor sites of interest, and analyze wildlife activity patterns. At present, the time required to manually review images severely limits productivity. Additionally, ~70% of camera trap images are empty, due to a high rate of false triggers.</p>
+        <p>Previous work has shown good results on automated species classification in camera trap data (<xref ref-type="bibr" rid="B5179582">Norouzzadeh et al. 2018</xref>), but further analysis has shown that these results do not generalize to new cameras or new geographic regions (<xref ref-type="bibr" rid="B5179572">Beery et al. 2018</xref>). Additionally, these models will fail to recognize any species they were not trained on. In theory, it is possible to re-train an existing model in order to add missing species, but in practice, this is quite difficult and requires just as much machine learning expertise as training models from scratch. Consequently, very few organizations have successfully deployed machine learning tools for accelerating camera trap image annotation.</p>
+        <p>We propose a different approach to applying machine learning to camera trap projects, combining a <italic>generalizable detector</italic> with <italic>project-specific classifiers</italic>.</p>
+        <p>We have trained an animal detector that is able to find and localize (but not identify) animals, even species not seen during training, in diverse ecosystems worldwide. See Fig. <xref ref-type="fig" rid="F5179601">1</xref> for examples of the detector run over camera trap data covering a diverse set of regions and species, unseen at training time. By first finding and localizing animals, we are able to:</p>
+        <p>
+          <list list-type="order"><list-item><p>drastically reduce the time spent filtering empty images, and</p></list-item><list-item><p>dramatically simplify the process of training species classifiers, because we can crop images to individual animals (and thus classifiers need only worry about animal pixels, not background pixels).</p></list-item></list>
+        </p>
+        <p>With this detector model as a powerful new tool, we have established a modular pipeline for on-boarding new organizations and building project-specific image processing systems. We break our pipeline into four stages:</p>
+        <p> <bold>1. Data ingestion</bold></p>
+        <p>First we transfer images to the cloud, either by uploading to a drop point or by mailing an external hard drive. Data comes in a variety of formats; we convert each data set to the <ext-link ext-link-type="uri" xlink:href="http://lila.science/faq">COCO-Camera Traps format</ext-link>, i.e. we create a Javascript Object Notation (<ext-link ext-link-type="uri" xlink:href="https://www.json.org/">JSON</ext-link>) file that encodes the annotations and the image locations within the organization’s file structure.</p>
+        <p>
+          <bold>2. Animal detection </bold>
+        </p>
+        <p>We next run our (generic) animal detector on all the images to locate animals. We have developed an infrastructure for efficiently running this detector on millions of images, dividing the load over multiple nodes.</p>
+        <p>We find that a single detector works for a broad range of regions and species. If the detection results (as validated by the organization) are not sufficiently accurate, it is possible to collect annotations for a small set of their images and fine-tune the detector. Typically these annotations would be fed back into a new version of the general detector, improving results for subsequent projects.</p>
+        <p>
+          <bold>3. Species classification</bold>
+        </p>
+        <p>Using species labels provided by the organization, we train a (project-specific) classifier on the cropped-out animals.</p>
+        <p><bold>4. Applying the system to new data</bold> </p>
+        <p>We use the general detector and the project-specific classifier to power tools facilitating accelerated verification and image review, e.g. visualizing the detections, selecting images for review based on model confidence, etc.</p>
+        <p>The aim of this presentation is to present a new approach to <italic>structuring</italic> camera trap projects, and to formalize discussion around the steps that are required to successfully apply machine learning to camera trap images.</p>
+        <p>The work we present is available at <ext-link ext-link-type="uri" xlink:href="http://github.com/microsoft/cameratraps">http://github.com/microsoft/cameratraps</ext-link>, and we welcome new collaborating organizations.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>camera traps</kwd>
+        <kwd>species classification</kwd>
+        <kwd>computer vision</kwd>
+        <kwd>artificial intelligence</kwd>
+        <kwd>machine learning</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>This work was supported in part by NSFGRFP Grant No. 1745301, the views are those of the authors and do not necessarily reflect the views of the NSF.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sara Beery</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5179572">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Beery</surname>
+              <given-names>Sara</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Van Horn</surname>
+              <given-names>Grant</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Perona</surname>
+              <given-names>Pietro</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Recognition in Terra Incognita</article-title>
+          <source>Computer Vision – ECCV 2018</source>
+          <fpage>472</fpage>
+          <lpage>489</lpage>
+          <pub-id pub-id-type="doi">10.1007/978-3-030-01270-0_28</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5179582">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Norouzzadeh</surname>
+              <given-names>Mohammad Sadegh</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nguyen</surname>
+              <given-names>Anh</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kosmala</surname>
+              <given-names>Margaret</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swanson</surname>
+              <given-names>Alexandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Palmer</surname>
+              <given-names>Meredith S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Craig</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clune</surname>
+              <given-names>Jeff</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning</article-title>
+          <source>Proceedings of the National Academy of Sciences</source>
+          <volume>115</volume>
+          <issue>25</issue>
+          <pub-id pub-id-type="doi">10.1073/pnas.1719367115</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5179601" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Animal detection results. Original images provided by the University of Washington.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37222-g001.png" position="float" id="oo_291099.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

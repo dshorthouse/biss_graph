@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35887</article-id>
+      <article-id pub-id-type="publisher-id">35887</article-id>
+      <article-id pub-id-type="manuscript">11461</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST69 - Machine Observations Interest Group: A first dive into Darwin Core for exchanging biologging data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Bio-logging Data in Darwin Core: Use Cases</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Newman</surname>
+            <given-names>Peggy</given-names>
+          </name>
+          <email xlink:type="simple">peggydnewman@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Pye</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <email xlink:type="simple">jonpye@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2807-5867</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Davidson</surname>
+            <given-names>Sarah C</given-names>
+          </name>
+          <email xlink:type="simple">sdavidson@orn.mpg.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2766-9201</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Desmet</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8442-8025</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Atlas of Living Australia, Canberra, Australia</addr-line>
+        <institution>Atlas of Living Australia</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Ocean Tracking Network, Halifax, Canada</addr-line>
+        <institution>Ocean Tracking Network</institution>
+        <addr-line content-type="city">Halifax</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Max Planck Institute for Ornithology, Radolfzell, Germany</addr-line>
+        <institution>Max Planck Institute for Ornithology</institution>
+        <addr-line content-type="city">Radolfzell</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">The Ohio State University, Columbus, United States of America</addr-line>
+        <institution>The Ohio State University</institution>
+        <addr-line content-type="city">Columbus</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Research Institute for Nature and Forest (INBO), Brussels, Belgium</addr-line>
+        <institution>Research Institute for Nature and Forest (INBO)</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Peggy Newman (<email xlink:type="simple">peggydnewman@gmail.com</email>), Jonathan Pye (<email xlink:type="simple">jonpye@gmail.com</email>), Sarah C Davidson (<email xlink:type="simple">sdavidson@orn.mpg.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35887</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/ED61C71E11DD5A15987284C0FEF23065">ED61C71E11DD5A15987284C0FEF23065</uri>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Animal-borne sensor data, along with other types of sensor-based observations, provide a growing volume and proportion of documentation about biodiversity. These data differ from the traditional specimen, sampling and human observation records for which the <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/">Taxonomic Database Working Group</ext-link> (TDWG) originally designed the Darwin Core standard. The original intention of the new TDWG <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/community/mobs/">Machine Observations Interest Group</ext-link> is to facilitate a body of work combining the informatics expertise of TDWG with that of subject matter experts to document best practice guidelines for applying Darwin Core to bio-logging datasets. This session offers the opportunity to walk through some of the use cases developed so far, including a terrestrial GPS tracking and acceleration dataset from Movebank and a marine acoustic telemetry dataset from the Ocean Tracking Network using stationary as well as mobile acoustic receivers.</p>
+        <p>Through these examples, we will describe the strategy and rationale for the approaches taken to the application of Darwin Core using typical animal tracking scenarios laced with some of the common complexities in bio-logging and other types of machine-based biodiversity observations.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Peggy Newman (Facilitator)</p>
+      </sec>
+    </notes>
+  </front>
+</article>

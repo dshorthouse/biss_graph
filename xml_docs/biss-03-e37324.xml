@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37324</article-id>
+      <article-id pub-id-type="publisher-id">37324</article-id>
+      <article-id pub-id-type="manuscript">11167</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP39 - Increasing Opportunities to Align Data Initiatives for Bio/Geo Collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An alliance for biodiversity knowledge: Rethinking international collaboration in biodiversity informatics</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hobern</surname>
+            <given-names>Donald</given-names>
+          </name>
+          <email xlink:type="simple">dhobern@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6492-4016</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Miller</surname>
+            <given-names>Joseph T</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5788-9010</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">International Barcode of Life, Canberra, Australia</addr-line>
+        <institution>International Barcode of Life</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Donald Hobern (<email xlink:type="simple">dhobern@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37324</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/1FCB9A3525B455299B506B7297A5C67B">1FCB9A3525B455299B506B7297A5C67B</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Donald Hobern, Joseph T Miller</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>There has been major progress over the last two decades in digitising historical knowledge of biodiversity and in making biodiversity data freely and openly accessible. Interlocking efforts bring together international partnerships and networks, national, regional and institutional projects and investments and countless individual contributors, spanning diverse biological and environmental research domains, government agencies and non-governmental organisations, citizen science and commercial enterprise. However, current efforts remain inefficient and inadequate to address the global need for accurate data on the world's species and on changing patterns and trends in biodiversity. Significant challenges include imbalances in regional engagement in biodiversity informatics activity, uneven progress in data mobilisation and sharing, the lack of stable persistent identifiers for data records, redundant and incompatible processes for cleaning and interpreting data and the absence of functional mechanisms for knowledgeable experts to curate and improve data.</p>
+        <p>The first Global Biodiversity Informatics Conference (GBIC) in 2012 delivered the Global Biodiversity Informatics Outlook (GBIO, <xref ref-type="bibr" rid="B5178630">Hobern et al. 2012</xref>), an architectural vision for the major components of a distributed global infrastructure for biodiiversity information, but realigning the work of existing organisations and projects to achieve this vision remains challenging. Recognising the need for greater alignment between efforts at all scales, the <ext-link ext-link-type="uri" xlink:href="https://gbif.org">Global Biodiversity Information Facility</ext-link> (GBIF) convened the second Global Biodiversity Informatics Conference (GBIC2) in July 2018 to propose a coordination mechanism for developing shared roadmaps for biodiversity informatics. GBIC2 attendees reached consensus on the need for a global <italic>alliance for biodiversity knowledge</italic>, learning from examples such as the <ext-link ext-link-type="uri" xlink:href="https://ga4gh.org">Global Alliance for Genomics and Health</ext-link> (GA4GH) and the open software communities under the <ext-link ext-link-type="uri" xlink:href="http://apache.org">Apache Software Foundation</ext-link>. These initiatives provide models for multiple stakeholders with decentralised funding and independent governance to combine resources and develop sustainable solutions that address common needs.</p>
+        <p>GBIF was asked to coordinate next steps following GBIC2, including publication of a paper, <bold>Connecting data and expertise: a new alliance for biodiversity knowledge</bold> (<xref ref-type="bibr" rid="B5178481">Hobern et al. 2019</xref>). The supplementary materials for the paper include PDF brochures explaining the concept in eleven languages. During 2019, GBIF is coordinating further consultations to establish an optimal model for the governance and operations of the <italic>alliance</italic> and to advance collaboration around some of the major building blocks of the GBIO. Collaboration at this scale, and across all aspects of biodiversity information, is essential for effective delivery of important information products such as the <ext-link ext-link-type="uri" xlink:href="https://geobon.org/ebvs/what-are-ebvs/">Essential Biodiversity Variables</ext-link> and the planned pan-European natural history collections infrastructure, <ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">DiSSCo</ext-link>.</p>
+        <p>This presentation explains the goals for this alliance and updates on progress during 2019 in operationalising the concept.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>alliance for biodiversity knowledge</kwd>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>infrastructure</kwd>
+        <kwd>standards</kwd>
+        <kwd>capacity enhancement</kwd>
+        <kwd>international cooperation</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>The proposal for an alliance for biodiversity knowledge was developed at the GBIC2 workshop in July, 2018. GBIC2 was an activity under the GBIF Annual Work Programme 2018, with additional funding from the Atlas of Living Australia, DiSSCo, Field Museum, Harvard Museum of Comparative Zoology, iDigBio, JRS Biodiversity Foundation, L’Agence Française pour la Biodiversité, Netherlands Biodiversity Information Facility, Pensoft Publishers and UN Environment and using facilities made available by the University of Copenhagen.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Joseph T. Miller</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5178630">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hobern</surname>
+              <given-names>Donald</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Apostolico</surname>
+              <given-names>Alberto</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Arnaud</surname>
+              <given-names>Elizabeth</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bello</surname>
+              <given-names>Juan Carlos</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Canhos</surname>
+              <given-names>Dora</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dubois</surname>
+              <given-names>Gregoire</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Field</surname>
+              <given-names>Dawn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Alonso García</surname>
+              <given-names>Enrique</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hardisty</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Harrison</surname>
+              <given-names>Jerry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heidorn</surname>
+              <given-names>Bryan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Krishtalka</surname>
+              <given-names>Leonard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mata</surname>
+              <given-names>Erick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Page</surname>
+              <given-names>Roderic</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Parr</surname>
+              <given-names>Cynthia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>Jeff</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willoughby</surname>
+              <given-names>Selwyn</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>Global Biodiversity Informatics Outlook: Delivering biodiversity knowledge in the information age</article-title>
+          <source>Global Biodiversity Information Facility</source>
+          <pub-id pub-id-type="doi">10.15468/6JXA-YB44</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5178481">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hobern</surname>
+              <given-names>Donald</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baptiste</surname>
+              <given-names>Brigitte</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Copas</surname>
+              <given-names>Kyle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hahn</surname>
+              <given-names>Andrea</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Huis</surname>
+              <given-names>Edwin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kim</surname>
+              <given-names>Eun-Shik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McGeoch</surname>
+              <given-names>Melodie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Naicker</surname>
+              <given-names>Isayvani</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Navarro</surname>
+              <given-names>Laetitia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Noesgaard</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>Michelle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rodrigues</surname>
+              <given-names>Andrew</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schigel</surname>
+              <given-names>Dmitry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sheffield</surname>
+              <given-names>Carolyn A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>John</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Connecting data and expertise: a new alliance for biodiversity knowledge</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>7</volume>
+          <pub-id pub-id-type="doi">10.3897/bdj.7.e33679</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

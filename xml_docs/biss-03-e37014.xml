@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37014</article-id>
+      <article-id pub-id-type="publisher-id">37014</article-id>
+      <article-id pub-id-type="manuscript">11213</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS73 - Biodiversity Informatics: Perspectives from the Global South</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Outlook of Biodiversity Informatics in Benin: Main achievements</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ganglo</surname>
+            <given-names>Jean Cossi</given-names>
+          </name>
+          <email xlink:type="simple">ganglocj@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Laboratory of Forest Sciences, University of Abomey-Calavi, Abomey-Calavi, Benin</addr-line>
+        <institution>Laboratory of Forest Sciences, University of Abomey-Calavi</institution>
+        <addr-line content-type="city">Abomey-Calavi</addr-line>
+        <country>Benin</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jean Cossi Ganglo (<email xlink:type="simple">ganglocj@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37014</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B9D32D59F20C5426800351A3AC8B478D">B9D32D59F20C5426800351A3AC8B478D</uri>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jean Cossi Ganglo</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Benin became member of the Global Biodiversity Information Facility (GBIF) in 2004 and acceded to the status of voting member in 2011. GBIF Benin through the constant efforts of its node is now very active in GBIF community with respect to capacity building, data mobilization and data uses. GBIF Benin published more than 400 000 occurrence data from about 125 datasets on GBIF portal . As for capacity building, GBIF Benin yearly organizes at least 2 (two) workshops to enhance the capacities of national and regional partners in data mobilization and data uses. At regional level, GBIF Benin is leading a consortium of many countries (Senegal, Côte-d’Ivoire, Niger, Democratic Republic of Congo, Guinea, and Madagascar etc.) to help overcome the challenges of data mobilization and data uses at regional level. From the academic year 2017-2018, GBIF Benin, through its node manager, successfully cooperated with the University of Kansas to create a master program in biodiversity informatics. Biodiversity informatics is a field of investigation relatively new in science and is concerned with massive occurrence data collection on biodiversity as well as on environment; data treatments, analysis, and representations so as to derive sound research products to inform decisions on biodiversity conservation and sustainable uses in the context of climate and global changes. In Benin, the master program in biodiversity informatics is a permanent two-year program structured in teaching units with the following contents: 1) Basics concepts of biodiversity; 2) Biodiversity data capture; 3) Biodiversity inventories; 4) Biodiversity data analysis; 5) Climate change and biodiversity; 6) Ecological niche modeling and strategies for biodiversity conservation; 7) Data-science-policy interface; 8) Public Health and Applications of biodiversity data etc. At completion of their studies, students graduated in the program will be capacitated so as to achieve the following innovative objectives: 1) Use Geographic Information System to map spatial distribution of species; 2) Model the current and the future ecological niche of species in the context of climate and global changes; 3) Characterize biodiversity on scales ranging from local to global; 4) Assess geographic patterns among suites of species (i.e., communities); 5) Refine the knowledge on particular taxonomic groups; 6) Define priority zones of biodiversity conservation; 7) Develop strategies of species conservation; 8) Implement biodiversity conservation strategies; 9) Predict the risks of propagation of infectious diseases (Lassa fever, Ebola fever etc.) which vectors are living organisms, so as to support preventive actions, etc.</p>
+        <p>With such capacities, the graduated students of the master program are obviously the new generation of biodiversity information scientists who are able to address the needs of information so as to contribute to biodiversity conservation and its sustainable uses. Furthermore, in their respective countries and the rest of Africa, they will successfully contribute to the achievements of the Sustainable Development Goals as defined by the United Nations in 2015. With respect to data uses, more and more research products are piling up in Benin and are being integrated into decision makers’ arena. In 2018, the results of our data uses were integrated in the elaboration of the second communication on climate change of Benin.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>capacity building</kwd>
+        <kwd>data mobilization</kwd>
+        <kwd>data use</kwd>
+        <kwd>masters program in biodiversity informatics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jean Cossi Ganglo</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

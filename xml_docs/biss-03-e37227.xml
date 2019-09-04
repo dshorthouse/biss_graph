@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37227</article-id>
+      <article-id pub-id-type="publisher-id">37227</article-id>
+      <article-id pub-id-type="manuscript">11512</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>State of the Art in Computational Bioacoustics and Machine Learning: How far have we come?</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Stowell</surname>
+            <given-names>Dan</given-names>
+          </name>
+          <email xlink:type="simple">dan.stowell@qmul.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8068-3769</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Queen Mary University of London, London, United Kingdom</addr-line>
+        <institution>Queen Mary University of London</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Dan Stowell (<email xlink:type="simple">dan.stowell@qmul.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37227</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/891FD73179835DA8B6C2484C118CA3AD">891FD73179835DA8B6C2484C118CA3AD</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Dan Stowell</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Terrestrial bioacoustics, like many other domains, has recently witnessed some transformative results from the application of deep learning and big data (<xref ref-type="bibr" rid="B5206604">Stowell 2017</xref>, <xref ref-type="bibr" rid="B5206614">Mac Aodha et al. 2018</xref>, <xref ref-type="bibr" rid="B5206707">Fairbrass et al. 2018</xref>, <xref ref-type="bibr" rid="B5206697">Mercado III and Sturdy 2017</xref>). Generalising over specific projects, which bioacoustic tasks can we consider "solved"? What can we expect in the near future, and what remains hard to do? What does a bioacoustician need to understand about deep learning? This contribution will address these questions, giving the audience a concise summary of recent developments and ways forward. It builds on recent projects and evaluation campaigns led by the author (<xref ref-type="bibr" rid="B5206582">Stowell et al. 2015</xref>, <xref ref-type="bibr" rid="B5206593">Stowell et al. 2018</xref>), as well as broader developments in signal processing, machine learning and bioacoustic applications of these. We will discuss which type of deep learning networks are appropriate for audio data, how to address zoological/ecological applications which often have few available data, and issues in integrating deep learning predictions with existing workflows in statistical ecology.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>audio</kwd>
+        <kwd>sound</kwd>
+        <kwd>machine learning</kwd>
+        <kwd>deep learning</kwd>
+        <kwd>bioacoustics</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Engineering and Physical Sciences Research Council</named-content>
+            <named-content content-type="funder_identifier">501100000266</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100000266</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="6"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Dan Stowell</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5206707">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Fairbrass</surname>
+              <given-names>Alison J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Firman</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Williams</surname>
+              <given-names>Carol</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brostow</surname>
+              <given-names>Gabriel J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Titheridge</surname>
+              <given-names>Helena</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jones</surname>
+              <given-names>Kate E.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>CityNet-Deep learning tools for urban ecoacoustic assessment</article-title>
+          <source>Methods in Ecology and Evolution</source>
+          <volume>10</volume>
+          <issue>2</issue>
+          <fpage>186</fpage>
+          <lpage>197</lpage>
+          <pub-id pub-id-type="doi">10.1111/2041-210x.13114</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5206614">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Mac Aodha</surname>
+              <given-names>Oisin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gibb</surname>
+              <given-names>Rory</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barlow</surname>
+              <given-names>Kate E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Browning</surname>
+              <given-names>Ella</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Firman</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Freeman</surname>
+              <given-names>Robin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Harder</surname>
+              <given-names>Briana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kinsey</surname>
+              <given-names>Libby</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mead</surname>
+              <given-names>Gary R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Newson</surname>
+              <given-names>Stuart E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pandourski</surname>
+              <given-names>Ivan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Parsons</surname>
+              <given-names>Stuart</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Russ</surname>
+              <given-names>Jon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Szodoray-Paradi</surname>
+              <given-names>Abigel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Szodoray-Paradi</surname>
+              <given-names>Farkas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tilova</surname>
+              <given-names>Elena</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Girolami</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brostow</surname>
+              <given-names>Gabriel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jones</surname>
+              <given-names>Kate E.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Bat detective—Deep learning tools for bat acoustic signal detection</article-title>
+          <source>PLOS Computational Biology</source>
+          <volume>14</volume>
+          <issue>3</issue>
+          <pub-id pub-id-type="doi">10.1371/journal.pcbi.1005995</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5206697">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Mercado III</surname>
+              <given-names>Eduardo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sturdy</surname>
+              <given-names>Christopher B.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Classifying Animal Sounds with Neural Networks</article-title>
+          <source>Comparative Bioacoustics: An Overview</source>
+          <fpage>414</fpage>
+          <lpage>461</lpage>
+          <pub-id pub-id-type="doi">10.2174/9781681083179117010013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5206582">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stowell</surname>
+              <given-names>Dan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Giannoulis</surname>
+              <given-names>Dimitrios</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Benetos</surname>
+              <given-names>Emmanouil</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lagrange</surname>
+              <given-names>Mathieu</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Plumbley</surname>
+              <given-names>Mark D.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Detection and Classification of Acoustic Scenes and Events</article-title>
+          <source>IEEE Transactions on Multimedia</source>
+          <volume>17</volume>
+          <issue>10</issue>
+          <fpage>1733</fpage>
+          <lpage>1746</lpage>
+          <pub-id pub-id-type="doi">10.1109/tmm.2015.2428998</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5206604">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stowell</surname>
+              <given-names>Dan</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Computational Bioacoustic Scene Analysis</article-title>
+          <source>Computational Analysis of Sound Scenes and Events</source>
+          <fpage>303</fpage>
+          <lpage>333</lpage>
+          <pub-id pub-id-type="doi">10.1007/978-3-319-63450-0_11</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5206593">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stowell</surname>
+              <given-names>Dan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wood</surname>
+              <given-names>Michael D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pamuła</surname>
+              <given-names>Hanna</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stylianou</surname>
+              <given-names>Yannis</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Glotin</surname>
+              <given-names>Hervé</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Automatic acoustic detection of birds through deep learning: The first Bird Audio Detection challenge</article-title>
+          <source>Methods in Ecology and Evolution</source>
+          <volume>10</volume>
+          <issue>3</issue>
+          <fpage>368</fpage>
+          <lpage>380</lpage>
+          <pub-id pub-id-type="doi">10.1111/2041-210x.13103</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

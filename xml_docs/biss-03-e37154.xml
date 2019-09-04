@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37154</article-id>
+      <article-id pub-id-type="publisher-id">37154</article-id>
+      <article-id pub-id-type="manuscript">11378</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI29 - GGBN – A global infrastructure for molecular research and collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An Evolving Business Model for a Biodiversity Biobank Network: GGBN</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Barker</surname>
+            <given-names>Katharine</given-names>
+          </name>
+          <email xlink:type="simple">barkerk@si.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4788-0223</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Astrin</surname>
+            <given-names>Jonas J</given-names>
+          </name>
+          <email xlink:type="simple">j.astrin.zfmk@uni-bonn.de</email>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Droege</surname>
+            <given-names>Gabriele</given-names>
+          </name>
+          <email xlink:type="simple">g.droege@bgbm.org</email>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Coddington</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <email xlink:type="simple">coddington@si.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6004-7730</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Seberg</surname>
+            <given-names>Ole</given-names>
+          </name>
+          <email xlink:type="simple">oles@snm.ku.dk</email>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">National Museum of Natural History, Smithsonian Institution, Washington, D.C., United States of America</addr-line>
+        <institution>National Museum of Natural History, Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington, D.C.</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">ZFMK, Bonn, Germany</addr-line>
+        <institution>ZFMK</institution>
+        <addr-line content-type="city">Bonn</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Botanic Garden and Botanical Museum Berlin, Berlin, Germany</addr-line>
+        <institution>Botanic Garden and Botanical Museum Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Natural History Museum of Denmark, University of Copenhagen, Copenhagen, Denmark</addr-line>
+        <institution>Natural History Museum of Denmark, University of Copenhagen</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Katharine Barker (<email xlink:type="simple">barkerk@si.edu</email>), Jonas J Astrin (<email xlink:type="simple">j.astrin.zfmk@uni-bonn.de</email>), Gabriele Droege (<email xlink:type="simple">g.droege@bgbm.org</email>), Jonathan Coddington (<email xlink:type="simple">coddington@si.edu</email>), Ole Seberg (<email xlink:type="simple">oles@snm.ku.dk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37154</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/1CF49C51076854878C05BE927164F85A">1CF49C51076854878C05BE927164F85A</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>GGBN, the Global Genome Biodiversity Network, is a consortium of virtually linked biodiversity biobanks that provide unified open access to their sample data through a web portal (<ext-link ext-link-type="uri" xlink:href="http://www.ggbn.org">www.ggbn.org</ext-link>), together improve best practices and develop standards. Since its inception in 2011, GGBN has largely been supported by external grants and in-kind support from its members. Starting with representatives from<bold/>thirteen organizations across Africa, Australia, Europe, North, Central, and South America, preliminary plans for an international coordinating mechanism for biodiversity biobanks was developed. In 2013, an interim executive committee was established and an MOU (memorandum of understanding) was distributed to 17 potential collaborators for signature. Subsequently a governance and business model were developed based on input from across the collections and research communities. As the network grew, the interim executive committee solicited letters of intent to transition GGBN into a formal member-driven organization. In 2016 with 12 biodiversity collections online through GGBN’s data portal, the organization was launched and the business model implemented. This included a general and a technical secretariat, an executive committee and general assembly of its, at that time, 41 members. Having grown to encompass 87 general assembly members and 22 collections online in two years, GGBN is assessing its current business model, with focus on increasing revenue, and marketing strategy. Results of this assessment and associated next steps for GGBN are presented and discussed.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity biobanking</kwd>
+        <kwd>business model</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Katharine Barker</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

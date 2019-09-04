@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37505</article-id>
+      <article-id pub-id-type="publisher-id">37505</article-id>
+      <article-id pub-id-type="manuscript">11244</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Collections Digitization and Assessment Dashboard, a Tool for Supporting Informed Decisions</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Casino</surname>
+            <given-names>Ana</given-names>
+          </name>
+          <email xlink:type="simple">ana.casino@cetaf.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Raes</surname>
+            <given-names>Niels</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4329-4892</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Addink</surname>
+            <given-names>Wouter</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3090-1761</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Woodburn</surname>
+            <given-names>Matt</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6496-1423</uri>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">CETAF, Brussels, Belgium</addr-line>
+        <institution>CETAF</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Distributed System of Scientific Collections-DiSSCo Coordination Team, Brussels, Belgium</addr-line>
+        <institution>Distributed System of Scientific Collections-DiSSCo Coordination Team</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Distributed System of Scientific Collections - DiSSCo, Leiden, Netherlands</addr-line>
+        <institution>Distributed System of Scientific Collections - DiSSCo</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Species 2000 Secretariat, Leiden, Netherlands</addr-line>
+        <institution>Species 2000 Secretariat</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Ana Casino (<email xlink:type="simple">ana.casino@cetaf.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37505</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F69D9092D887505297E73229751A0E09">F69D9092D887505297E73229751A0E09</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Natural Science Collections (NSCs) contain specimen-related data from which we extract valuable information for science and policy. Openness of those collections facilitates development of science. Moreover, virtual accessibility to physical containers by means of their digitization will allow an exponential increase in the level of available information. Digitization of collections will allow us to set a comprehensive registry of reliable, accurate, updated, comparable and interconnected information. Equally, the scope of interested potential users will largely expand and so will the different levels of granularity required by researchers, institutions and governmental bodies. Meeting diverse needs entails a special effort in data management and data analysis to extract, digest and present information on a compressed but still precise and objective-oriented format.</p>
+        <p>The Collections Digitisation Dashboard (CDD) underpins such an attempt. The CDD stands as a practical tool that specifically aims to support high-level decisions with a wide coverage of data, by providing a visual, simplified and structured arrangement that will allow discovery of key indicators concerning digitization of bio- and geodiversity collections. The realm of possible approaches to the CDD covers levels of digitization, collection exceptionality, resourceavailability and many others. Still all those different angles need to be aligned and processed at once to provide an overall overview of the status of NSCs in the digitization process and analyse its further development. The CDD is a powerful mechanism to identify priorities, specialisation lines together with regional development, gaps and niches and future capabilities as well, and strengths and weaknesses across collections, institutions, countries and regions. It can perfectly underpin measurable and comparable assessments, with evolution indexes and progress indicators, all under an overarching homogenous approach.</p>
+        <p>The Distributed System of Scientific Collections (<underline><ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">DiSSCo) </ext-link></underline>Research Infrastructure, currently in its preparatory phase, is built on top of the largest ever community of collections-related institutions across Europe and anchored on the Consortium of European Taxonomic Facilities (<underline><ext-link ext-link-type="uri" xlink:href="https://cetaf.org/">CETAF)</ext-link></underline>. It aims to provide a unique virtual access point to NSCs by facilitating a large and massive digitisation effort throughout Europe. Setting up priorities and specialization areas is pivotal to its success. To that end, the DiSSCo CDD will provide a valuation tool to summarize and showcase NSC's digitization status on a first-hand visualization.</p>
+        <p>Different projects and initiatives will contribute, jointly and on a synergetic basis, to the production of the DiSSCo CDD. The <underline><ext-link ext-link-type="uri" xlink:href="https://www.icedig.eu/"> ICEDIG </ext-link></underline> project will address its basics features, terms of classification and tiers of information, and will produce a prototype and a set of recommendations on how to better attempt a massive dashboard by collating specific collections-based information and defining global strategic representations. CETAF working groups on collections and digitization will provide the desired homogeneity in describing and capturing the different implementation requirements from the users’ perspectives, which will be complemented by the contributions made under the umbrella of the COST Action <underline><ext-link ext-link-type="uri" xlink:href="https://www.mobilise-action.eu/"> MOBILISE</ext-link></underline>. The Action will use networking activities to identify the right standards and policies to enable enlarging the scope of the DiSSCo CDD and its broader implementation by linking to the <underline><ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/"> TDWG </ext-link></underline> criteria and adopted standards. Complementarily, the ELViS platform to be developed under the <underline><ext-link ext-link-type="uri" xlink:href="http://www.synthesys.info/"> SYNTHESYS+</ext-link></underline> project will provide the right virtual environment. Furthermore, SYNTHESYS+ will address the assessment capabilities of the CDD to enable the visual representation becoming a practical assessment mechanism and endow it with a dynamic feature for analysis over the time. The DiSSCo CDD will thus become an instrumental mechanism for decision-taking that will be embedded into the clustering initiative of products and services provided to the <underline><ext-link ext-link-type="uri" xlink:href="https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud"> EOSC</ext-link></underline>by the <underline><ext-link ext-link-type="uri" xlink:href="http://envri.eu/envri-fair/"> ENVRI-FAIR </ext-link></underline> project in the environmental domain.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>natural science collections</kwd>
+        <kwd>institutional description</kwd>
+        <kwd>dashboard</kwd>
+        <kwd>visualization</kwd>
+        <kwd>high-level information</kwd>
+        <kwd>informed decision-making</kwd>
+        <kwd>DiSSCo</kwd>
+        <kwd>alignment</kwd>
+        <kwd>research infrastructure</kwd>
+        <kwd>tools</kwd>
+        <kwd>mechanisms</kwd>
+        <kwd>digitization</kwd>
+        <kwd>biodiversity and geodiversity</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Ana Casino</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

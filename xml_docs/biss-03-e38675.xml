@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38675</article-id>
+      <article-id pub-id-type="publisher-id">38675</article-id>
+      <article-id pub-id-type="manuscript">11604</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST43 - How can specialized data aggregators better integrate information? Is following Darwin Core enough?</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Challenges in the Development and Curation of Species-plot Datasets in South Africa: The National Vegetation Database of phytosociological plots as a case study</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Daly</surname>
+            <given-names>Brenda</given-names>
+          </name>
+          <email xlink:type="simple">b.daly@sanbi.org.za</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3732-8339</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">South African National Biodiversity Institute, Cape Town, South Africa</addr-line>
+        <institution>South African National Biodiversity Institute</institution>
+        <addr-line content-type="city">Cape Town</addr-line>
+        <country>South Africa</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Brenda Daly (<email xlink:type="simple">b.daly@sanbi.org.za</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38675</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/9BC37548821D5724A12EE4854F330D61">9BC37548821D5724A12EE4854F330D61</uri>
+      <history>
+        <date date-type="received">
+          <day>31</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Brenda Daly</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The South African National Biodiversity Institute is the custodian of numerous national level botanical and zoological datasets that have been collated over several decades and is mandated to ensure that taxonomic and ecological data are made available to the public through responsible data sharing. This study describes the nature of, and presents/discusses relevant standards for, the case study of the National Vegetation Database; the process adopted in the development of a vegetation-plot database; and current data management practices being undertaken in relation to the various stages of research data management. Phytosociological data is a record of vegetation abundance, richness, density and the associated environmental variables within a specified area or plot which usually includes a record of locality. The study aims to review the diversity of approaches in storing species-plot information in databases and to provide minimum data standards for these datasets.</p>
+        <p>The surveying, classifying, and mapping of vegetation enables monitoring of ecosystems and ultimately can lead to improved conservation planning and land management. A coordinated and integrated approach is therefore needed to record, rectify, and manage these data and capture accurate metadata. Preliminary findings indicate that a lack of version control can impact the authenticity of the data if records are altered or deleted. Data affluence/abundance (currently comprised of 53 500 plots within 384 sample projects, totalling 1 064 770 species occurrence records) is a challenge because these data often differ in formats, varying methodologies, and metadata within these research projects. The curation of plot data requires a standardised approach in the different steps from data acquisition to provision of results. Species names need to coincide with currently accepted taxonomy, and although certain details are specific to a species-plot project depending on their research interest, various other data should be made consistent in terms of field names and formats to improve the quality of the resulting aggregated set of botanical records. All decisions to modify data records to achieve data consistency should be clearly explained in the metadata record for the dataset.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>phytosociology</kwd>
+        <kwd>vegetation-environment plot data</kwd>
+        <kwd>database</kwd>
+        <kwd>data standards</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Brenda Daly</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>South African National Biodiversity Institute</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>South African National Biodiversity Institute</p>
+    </sec>
+  </back>
+</article>

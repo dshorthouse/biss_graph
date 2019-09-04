@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37422</article-id>
+      <article-id pub-id-type="publisher-id">37422</article-id>
+      <article-id pub-id-type="manuscript">11539</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI87 - Empowering the taxonomic community by linking information through names and taxonomy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Managing Taxon Data in FinBIF</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Piirainen</surname>
+            <given-names>Esko</given-names>
+          </name>
+          <email xlink:type="simple">esko.piirainen@helsinki.fi</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Laiho</surname>
+            <given-names>Eija-Leena</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>von Bonsdorff</surname>
+            <given-names>Tea</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lahti</surname>
+            <given-names>Tapani</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Esko Piirainen (<email xlink:type="simple">esko.piirainen@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37422</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/BD6EF1CAC7C75E9496A6B3DCDAD0DCCD">BD6EF1CAC7C75E9496A6B3DCDAD0DCCD</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Esko Piirainen, Eija-Leena Laiho, Tea von Bonsdorff, Tapani Lahti</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Finnish Biodiversity Information Facility, FinBIF (<ext-link ext-link-type="uri" xlink:href="https://species.fi">https://species.fi</ext-link>), has developed its own taxon database. This allows FinBIF taxon specialists to maintain their own, expert-validated view of Finnish species. The database covers national needs and can be rapidly expanded by our own development team. Furthermore, in the database each taxon is given a globally unique persistent URI identifier (<ext-link ext-link-type="uri" xlink:href="https://www.w3.org/TR/uri-clarification">https://www.w3.org/TR/uri-clarification</ext-link>), which refers to the taxon concept, not just to the name. The identifier doesn’t change <styled-content style="display: none;"/>if the taxon concept doesn’t change. We aim to ensure compatibility with checklists from other countries by linking taxon concepts as Linked Data (<ext-link ext-link-type="uri" xlink:href="https://www.w3.org/wiki/LinkedData">https://www.w3.org/wiki/LinkedData</ext-link>) — a work started as a part of the Nordic e-Infrastructure Collaboration (NeIC) DeepDive project (<ext-link ext-link-type="uri" xlink:href="https://neic.no/deepdive/">https://neic.no/deepdive</ext-link>).</p>
+        <p>The database is used as a basis for observation/specimen searches, e-Learning and identification tools, and it is browsable by users of the FinBIF portal. The data is accessible to everyone under CC-BY 4.0 license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0">https://creativecommons.org/licenses/by/4.0</ext-link>) in machine readable formats.</p>
+        <p>The taxon specialists maintain the taxon data using a web application. Currently, there are 60 specialists. All changes made to the data go live every night. The nightly update interval allows the specialists a grace period to make their changes. Allowing the taxon specialists to modify the taxonomy database themselves leads to some challenges. To maintain the integrity of critical data, such as lists of protected species, we have had to limit what the specialists can do. Changes to critical data is carried out by an administrator.</p>
+        <p>The database has special features for linking observations to the taxonomy. These include hidden species aggregates and tools to override how a certain name used in observations is linked to the taxonomy. Misapplied names remain an unresolved problem. The most precise way to record an observation is to use a taxon concept: Most observations are still recorded using plain names, but it is possible for the observer to pick a concept. Also, when data is published in FinBIF from other information systems, the data providers can link their observations to the concepts using the identifiers of concepts. The ability to use taxon concepts as basis of observations means we have to maintain the concepts over time — a task that may become arduous in the future (Fig. <xref ref-type="fig" rid="F5188220">1</xref>).</p>
+        <p>As it stands now, the FinBIF taxon data model — including adjacent classes such as publication, person, image, and endangerment assessments — consists of 260 properties. If the data model were stored in a normalized relational database, there would be approximately 56 tables, which could be difficult to maintain. Keeping track of a complete history of data is difficult in relational databases. Alternatively, we could use document storage to store taxon data. However, there are some difficulties associated with document storages: (1) much work is required to implement a system that does small atomic update operations; (2) batch updates modifying multiple documents usually require writing a script; and (3) they are not ideal for doing searches. We use a document storage for observation data, however, because they are well suited for storing large quantities of complex records.</p>
+        <p>In FinBIF, we have decided to use a triplestore for all small datasets, such as taxon data. More specifically, the data is stored according to the RDF specification (<ext-link ext-link-type="uri" xlink:href="https://www.w3.org/RDF">https://www.w3.org/RDF</ext-link>). An RDF Schema defines the allowed properties for each class. Our triplestore implementation is an Oracle relational database with two tables (resource and statement), which gives us the ability to do SQL queries and updates. Doing small atomic updates is easy as only a small subset of the triplets can be updated instead of the entire data entity. Maintaining a complete record of history comes without much effort, as it can be done on an individual triplet level. For performance-critical queries, the taxon data is loaded into an Elasticsearch (<ext-link ext-link-type="uri" xlink:href="https://www.elastic.co">https://www.elastic.co</ext-link>) search engine.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>taxonomy</kwd>
+        <kwd>taxon concepts</kwd>
+        <kwd>linked open data</kwd>
+        <kwd>observations</kwd>
+        <kwd>database solutions</kwd>
+        <kwd>triplestore</kwd>
+        <kwd>ontology</kwd>
+        <kwd>RDF</kwd>
+        <kwd>Elasticsearch</kwd>
+        <kwd>FinBIF</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Esko Piirainen</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <floats-group>
+    <fig id="F5188220" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>A screenshot of FinBIF Taxon Editor web application. The figure illustrates a scenario where a taxon concept has been split into two concepts. The original concept remains in the database as a hidden aggregate.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37422-g001.png" position="float" id="oo_291691.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

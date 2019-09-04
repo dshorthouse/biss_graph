@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37473</article-id>
+      <article-id pub-id-type="publisher-id">37473</article-id>
+      <article-id pub-id-type="manuscript">11659</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>ENTODIG-3D</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ylinampa</surname>
+            <given-names>Toivo</given-names>
+          </name>
+          <email xlink:type="simple">toivo.ylinampa@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Saarenmaa</surname>
+            <given-names>Hannu</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Nampaworks, Joensuu, Finland</addr-line>
+        <institution>Nampaworks</institution>
+        <addr-line content-type="city">Joensuu</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Sertifer, Joensuu, Finland</addr-line>
+        <institution>Sertifer</institution>
+        <addr-line content-type="city">Joensuu</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Toivo Ylinampa (<email xlink:type="simple">toivo.ylinampa@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37473</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/EB1D4E2602665D86BB8539FE106D6ED5">EB1D4E2602665D86BB8539FE106D6ED5</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Toivo Ylinampa, Hannu Saarenmaa</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>New innovations are needed to speed up digitisation of insect collections. More than one half of all specimens in scientific collections are pinned insects. In Europe this means 500-1,000 million such specimens. Today’s fastest mass-digitisation (i.e., imaging) systems for pinned insects can achieve circa 70 specimens/hour and 500/day by one operator (<xref ref-type="bibr" rid="B5192196">Tegelberg et al. 2014</xref>, <xref ref-type="bibr" rid="B5192207">Tegelberg et al. 2017</xref>). This is in contrast of the 5,000/day rate of the state-of-the-art mass-digitisation systems for herbarium sheets (<xref ref-type="bibr" rid="B5192182">Oever and Gofferje 2012</xref>).</p>
+        <p>The slowness of imaging pinned insects follows from the fact that they are essentially 3D objects. Although butterflies, moths, dragonflies and similar large-winged insects can be prepared (spread) as 2D objects, the fact that the labels are pinned under the insect specimen makes even these samples 3D. In imaging, the labels are often removed manually, which slows down the imaging process. If the need for manual handling of the labels can be skipped, the imaging speed can easily multiplied.</p>
+        <p>ENTODIG-3D (Fig. <xref ref-type="fig" rid="F5192286">1</xref>) is an automated camera system, which takes pictures of insect collection boxes (units and drawers) and digitizes them, minimizing time-consuming manual handling of specimens. “Units” are small boxes or trays contained in drawers of collection cabinets, and are being used in most major insect collections. A camera is mounted on motorized rails, which moves in two dimensions over a unit or a drawer. Camera movement is guided by a machine learning object detection program. QR-codes are printed and placed underneath the unit or drawer. QR-codes may contain additional information about each specimen, for example the place it originated from in the collection. Also, the object detection program detects the specimen, and stores its coordinates. The camera mount rotates and tilts, which ensures that the camera may take photographs from all angles and positions.</p>
+        <p>Pictures are transferred into the computer, which calculates a 3D-model with photogrammetry, from which the label text beneath the specimen may be read. This approach requires heavy computation in the segmentation of the top images, and in the creation of a 3D model of the unit, and in extraction of label images of many specimens. Firstly, a sparse point cloud is calculated. Secondly, a dense point cloud is calculated. Finally, a textured mesh is calculated. With machine learning object detection, the top layer, which consists of the insect, may be removed. This leaves the bottom layer with labels visible for later processing by OCR (optical character recognition).</p>
+        <p>This is a new approach to digitise pinned insects in collections. The physical setup is not expensive. Therefore, many systems could be installed in parallel to work overnight to produce the images of tens of drawers. The setup is not physically demanding for the specimens, as they can be left untouched in the unit or drawer. A digital object is created, consisting of label text, unit or drawer QR-code, specimen coordinates in a drawer with unique identifier, and a top-view photo of the specimen. The drawback of this approach is the heavy computing that is needed to create the 3D-models.</p>
+        <p>ENTODIG-3D can currently digitise one sample in five minutes, almost without manual work. Theoretically, potentially sustainable rate is approximately one hundred thousand samples per year. The rate is similar as the current insect digitisation system in Helsinki (Tegelberg &amp; al. 2017), but without the need for manual handling of individual specimens. By adding more computing power, the rate may be increased in linear fashion.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>mass digitization</kwd>
+        <kwd>3D-imaging</kwd>
+        <kwd>robotics</kwd>
+        <kwd>machine learning object detection</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Toivo Ylinampa, Hannu Saarenmaa</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5192182">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Oever</surname>
+              <given-names>Jon Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gofferje</surname>
+              <given-names>Marc</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>‘From Pilot to production’: Large scale digitisation project at Naturalis Biodiversity Center</article-title>
+          <source>ZooKeys</source>
+          <volume>209</volume>
+          <fpage>87</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="doi">10.3897/zookeys.209.3609</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192196">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Tegelberg</surname>
+              <given-names>Riitta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mononen</surname>
+              <given-names>Tero</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Saarenmaa</surname>
+              <given-names>Hannu</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>High-performance digitization of natural history collections: Automated imaging lines for herbarium and insect specimens</article-title>
+          <source>Taxon</source>
+          <volume>63</volume>
+          <issue>6</issue>
+          <fpage>1307</fpage>
+          <lpage>1313</lpage>
+          <pub-id pub-id-type="doi">10.12705/636.13</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192207">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Tegelberg</surname>
+              <given-names>Riitta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kahanpaa</surname>
+              <given-names>Jere</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Karppinen</surname>
+              <given-names>Janne</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mononen</surname>
+              <given-names>Tero</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wu</surname>
+              <given-names>Zhenzhe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Saarenmaa</surname>
+              <given-names>Hannu</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Mass digitization of individual pinned insects using conveyor-driven imaging</article-title>
+          <source>2017 IEEE 13th International Conference on e-Science (e-Science)</source>
+          <pub-id pub-id-type="doi">10.1109/escience.2017.85</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5192286" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>ENTODIG-3D Imaging Station.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37473-g001.png" position="float" id="oo_291899.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

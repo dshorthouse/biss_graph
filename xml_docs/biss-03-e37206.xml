@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37206</article-id>
+      <article-id pub-id-type="publisher-id">37206</article-id>
+      <article-id pub-id-type="manuscript">11503</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>FAIR.ReD: Semantic knowledge graph infrastructure for the life sciences</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Vogt</surname>
+            <given-names>Lars</given-names>
+          </name>
+          <email xlink:type="simple">lars.m.vogt@googlemail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8280-0487</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Auer</surname>
+            <given-names>Sören</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bartolomaeus</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Buttigieg</surname>
+            <given-names>Pier Luigi</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4366-3088</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Grobe</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Michalik</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Stocker</surname>
+            <given-names>Markus</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Usbeck</surname>
+            <given-names>Ricardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Rheinische Friedrich-Wilhelms-Universität, Bonn, Germany</addr-line>
+        <institution>Rheinische Friedrich-Wilhelms-Universität</institution>
+        <addr-line content-type="city">Bonn</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Technische Informationsbibliothek (TIB), Hannover, Germany</addr-line>
+        <institution>Technische Informationsbibliothek (TIB)</institution>
+        <addr-line content-type="city">Hannover</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Alfred-Wegener-Institut für Polar und Meeresforschung, Bremen, Germany</addr-line>
+        <institution>Alfred-Wegener-Institut für Polar und Meeresforschung</institution>
+        <addr-line content-type="city">Bremen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Zoologisches Forschungsmuseum Alexander Koenig, Bonn, Germany</addr-line>
+        <institution>Zoologisches Forschungsmuseum Alexander Koenig</institution>
+        <addr-line content-type="city">Bonn</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Zoologisches Institut &amp; Museum, Greifswald, Germany</addr-line>
+        <institution>Zoologisches Institut &amp; Museum</institution>
+        <addr-line content-type="city">Greifswald</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Fraunhofer Institut für Intelligente Analyse- und Informationssysteme (IAIS), München, Germany</addr-line>
+        <institution>Fraunhofer Institut für Intelligente Analyse- und Informationssysteme (IAIS)</institution>
+        <addr-line content-type="city">München</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Lars Vogt (<email xlink:type="simple">lars.m.vogt@googlemail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37206</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D5BA4FF272A6533C9050303AE5464A34">D5BA4FF272A6533C9050303AE5464A34</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Lars Vogt, Sören Auer, Thomas Bartolomaeus, Pier Luigi Buttigieg, Peter Grobe, Peter Michalik, Markus Stocker, Ricardo Usbeck</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>We would like to present <italic>FAIR Research Data:</italic> <italic>Semantic Knowledge Graph Infrastructure for the Life Sciences</italic> (in short, FAIR.ReD), a project initiative that is currently being evaluated for funding. FAIR.ReD is a software environment for developing data management solutions according to the FAIR (<underline>F</underline>indable, <underline>A</underline>ccessible, <underline>I</underline>nteroperable, <underline>R</underline>eusable; <xref ref-type="bibr" rid="B5186807">Wilkinson et al. 2016</xref>) data principles. It utilizes what we call a Data Sea Storage, which employs the idea of Data Lakes to decouple data storage from data access but modifies it by storing data in a semantically structured format as either semantic graphs or semantic tables, instead of storing them in their native form. Storage follows a top-down approach, resulting in a standardized storage model, which allows sharing data across all FAIR.ReD Knowledge Graph Applications (KGAs) connected to the same Sea, with newly developed KGAs having automatically access to all contents in the Sea. In contrast access and export of data follows a bottom-up approach that allows the specification of additional data models to meet the varying domain-specific and programmatic needs for accessing structured data. The FAIR.ReD engine enables bidirectional data conversion between the two storage models and any additional data model, which will substantially reduce conversion workload for data-rich institutes (Fig. <xref ref-type="fig" rid="F5186868">1</xref>). Moreover, with the possibility to store data in semantic tables, FAIR.ReD provides high performance storage for incoming data streams such as sensory data.</p>
+        <p>FAIR.ReD KGAs are modularly organized. Modules can be edited using the FAIR.ReD editor and combined to form coherent KGAs. The editor allows domain experts to develop their own modules and KGAs without any programming experience required, thus also allowing smaller projects and individual researchers to build their own FAIR data management solution.</p>
+        <p>Contents from FAIR.ReD KGAs can be published under a Creative Commons license as documents, micropublications, or nanopublications, each receiving their own DOI. A publication-life-cycle is implemented in FAIR.ReD and allows updating published contents for corrections or additions without overwriting the originally published version. Together with the fact that data and metadata are semantically structured and machine-readable, all contents from FAIR.ReD KGAs will comply with the FAIR Guiding Principles. Due to all FAIR.Red KGAs providing access to semantic knowledge graphs in both a human-readable and a machine-readable version, FAIR.ReD seamlessly integrates the complex RDF (Resource Description Framework) world with a more intuitively comprehensible presentation of data in form of data entry forms, charts, and tables.</p>
+        <p>Guided by use cases, the FAIR.ReD environment will be developed using semantic programming where the source code of an application is stored in its own ontology. The set of source code ontologies of a KGA and its modules provides the steering logic for running the KGA. With this clear separation of steering logic from interpretation logic, semantic programming follows the idea of separating main layers of an application, analog to the separation of interpretation logic and presentation logic. Each KGA and module is specified exactly in this way and their source code ontologies stored in the Data Sea. Thus, all data and metadata are semantically transparent and so is the data management application itself, which substantially improves their sustainability on all levels of data processing and storing.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>semantic knowledge graph</kwd>
+        <kwd>Data Sea Storage</kwd>
+        <kwd>FAIR data principle</kwd>
+        <kwd>semantic programming</kwd>
+        <kwd>knowledge graph application</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Lars Vogt</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5186807">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>Mark D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumontier</surname>
+              <given-names>Michel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aalbersberg</surname>
+              <given-names>IJsbrand Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Appleton</surname>
+              <given-names>Gabrielle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Axton</surname>
+              <given-names>Myles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baak</surname>
+              <given-names>Arie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blomberg</surname>
+              <given-names>Niklas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boiten</surname>
+              <given-names>Jan-Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>da Silva Santos</surname>
+              <given-names>Luiz Bonino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourne</surname>
+              <given-names>Philip E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouwman</surname>
+              <given-names>Jildau</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brookes</surname>
+              <given-names>Anthony J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crosas</surname>
+              <given-names>Mercè</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dillo</surname>
+              <given-names>Ingrid</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumon</surname>
+              <given-names>Olivier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Edmunds</surname>
+              <given-names>Scott</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Evelo</surname>
+              <given-names>Chris T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Finkers</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gonzalez-Beltran</surname>
+              <given-names>Alejandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Alasdair J. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groth</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goble</surname>
+              <given-names>Carole</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grethe</surname>
+              <given-names>Jeffrey S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heringa</surname>
+              <given-names>Jaap</given-names>
+            </name>
+            <name name-style="western">
+              <surname>’t Hoen</surname>
+              <given-names>Peter A. C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hooft</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuhn</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Ruben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Joost</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lusher</surname>
+              <given-names>Scott J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martone</surname>
+              <given-names>Maryann E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Albert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Abel L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Persson</surname>
+              <given-names>Bengt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocca-Serra</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roos</surname>
+              <given-names>Marco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Schaik</surname>
+              <given-names>Rene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sansone</surname>
+              <given-names>Susanna-Assunta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schultes</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sengstag</surname>
+              <given-names>Thierry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Slater</surname>
+              <given-names>Ted</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strawn</surname>
+              <given-names>George</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swertz</surname>
+              <given-names>Morris A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thompson</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Lei</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Mulligen</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Velterop</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wittenburg</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolstencroft</surname>
+              <given-names>Katherine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zhao</surname>
+              <given-names>Jun</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Barend</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <pub-id pub-id-type="doi">10.1038/sdata.2016.18</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5186868" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p><bold>Example of a FAIR.ReD </bold>  <bold>KGA that uses two FAIR.ReD modules.</bold> Schema of the general architecture of a FAIR.ReD KGA, with two FAIR.ReD data modules and their accompanying FAIR.ReD metadata modules and the FAIR.ReD Data Sea Storage. FAIR.ReD modules and KGAs are editable using the FAIR.ReD editor. All unpublished contents (i.e., contents that are still in draft status) in the FAIR.ReD Data Sea Storage are not openly accessible and require access rights.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37206-g001.jpg" position="float" id="oo_291661.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

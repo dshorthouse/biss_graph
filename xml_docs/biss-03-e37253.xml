@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37253</article-id>
+      <article-id pub-id-type="publisher-id">37253</article-id>
+      <article-id pub-id-type="manuscript">11300</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>FinBIF: An all-embracing, integrated, cross-sectoral biodiversity data infrastructure</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Schulman</surname>
+            <given-names>Leif</given-names>
+          </name>
+          <email xlink:type="simple">leif.schulman@helsinki.fi</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1990-2173</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Juslén</surname>
+            <given-names>Aino</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lahti</surname>
+            <given-names>Kari M</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Leif Schulman (<email xlink:type="simple">leif.schulman@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37253</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/448DEDB85151539E9CE3BFBD1AEA0685">448DEDB85151539E9CE3BFBD1AEA0685</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Leif Schulman, Aino Juslén, Kari M Lahti</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The service model of the Global Biodiversity Information Facility (GBIF) is being implemented in an increasing number of national biodiversity (BD) data services. While GBIF already shares &gt;10<sup>9</sup> data points, national initiatives are an essential component: increase in GBIF-mediated data relies on national data mobilisation and GBIF is not optimised to support local use. The Finnish Biodiversity Information Facility (FinBIF), initiated in 2012 and operational since late 2016, is one of the more recent examples of national BD research infrastructures (RIs) – and arguably among the most comprehensive. Here, we describe FinBIF’s development and service integration, and provide a model approach for the construction of all-inclusive national BD RIs.</p>
+        <p>FinBIF integrates a wide array of BD RI approaches under the same umbrella. These include large-scale and multi-technology digitisation of natural history collections; building a national DNA barcode reference library and linking it to species occurrence data; citizen science platforms enabling recording, managing and sharing of observation data; management and sharing of restricted data among authorities; community-driven species identification support; an e-learning environment for species identification; and IUCN Red Listing (Fig. <xref ref-type="fig" rid="F5178285">1</xref>).</p>
+        <p>FinBIF’s aims are to accelerate digitisation, mobilisation, and distribution of biodiversity data and to boost their use in research and education, environmental administration, and the private sector. The core functionalities of FinBIF were built in a 3.5-year project (01/2015–06/2018) by a consortium of four university-based natural history collection facilities led by the Finnish Museum of Natural History Luomus. Close to 30% of the total funding was granted through the Finnish Research Infrastructures programme (FIRI) governed by the national research council and based on scientific excellence. Government funds for productivity enhancement in state administration covered c.40 % of the development and the rest was self-financed by the implementing consortium of organisations that have both a research and an education mission.</p>
+        <p>The cross-sectoral scope of FinBIF has led to rapid uptake and a broad user base of its functionalities and services. Not only researchers but also administrative authorities, various enterprises and a large number of private citizens show a significant interest in the RI (Table <xref ref-type="table" rid="T5178287">1</xref>).</p>
+        <p>FinBIF is now in its second construction cycle (2019–2022), funded through the FIRI programme and, thus, focused on researcher services. The work programme includes integration of tools for data management in ecological restoration and e-Lab tools for spatial analyses, morphometric analysis of 3D images, species identification from sound recordings, and metagenomics analyses.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>administration</kwd>
+        <kwd>citizen science</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>DNA barcoding</kwd>
+        <kwd>e-Lab</kwd>
+        <kwd>e-Learning</kwd>
+        <kwd>Finland</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>Red Listing</kwd>
+        <kwd>research infrastructure</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Suomen Akatemia</named-content>
+            <named-content content-type="funder_identifier">501100002341</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100002341</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="1"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Leif Schulman</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Finnish Research Infrastructures FIRI</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank the numreous IT-specialists, other staff at Luomus and partner insitutions, and external experts who have contributed to constructing FinBIF in a myriad of ways. The funding from the Academy of Finland and the Finnish Ministry of Finance is gratefully acknowledged.</p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Finnish Research Infrastructures FIRI</p>
+    </sec>
+  </back>
+  <floats-group>
+    <fig id="F5178285" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>The structure of FinBIF comprises multi-source data mobilisation (grey segment), IT development for data management and distribution (brown), and cross-sectoral networking among data providers and users (red). Data providers, data-generating processes and collaborators (outermost, dark green circle) feed data and expertise to existing or FinBIF-produced primary databases (dark blue). From here data go through a standardisation and annotation process (light green) into the FinBIF data warehouse (light blue) to form one fit-for-use data mass. The portal <ext-link ext-link-type="uri" xlink:href="https://Laji.fi">Laji.fi</ext-link> / <ext-link ext-link-type="uri" xlink:href="https://laji.fi/en">Species.fi</ext-link> is the gateway to the harmonised data, accessible by end-users and channelled to international data-sharing systems through APIs.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37253-g001.png" position="float" id="oo_290865.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <table-wrap id="T5178287" position="float" orientation="portrait">
+      <label>Table 1.</label>
+      <caption>
+        <p>FinBIF’s registered users by category according to the domain of the e-mail address used for registration (03/2019; n = 4,587). FinBIF is an open service and has had c. 350,000 users in total, but registration is required for up- and downloading of data.</p>
+      </caption>
+      <table rules="all" border="1" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align:top">
+              <bold>User category</bold>
+            </td>
+            <td rowspan="1" colspan="1" style="vertical-align:top">
+              <bold>Share of total (%)</bold>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align:top">Private citizen</td>
+            <td rowspan="1" colspan="1" style="vertical-align:top">78.9</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align:top">Research and education</td>
+            <td rowspan="1" colspan="1" style="vertical-align:top">13.2</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align:top">Private sector organisations</td>
+            <td rowspan="1" colspan="1" style="vertical-align:top">4.8</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align:top">-          bioeconomy enterprises 0.8 %</td>
+            <td rowspan="1" colspan="1" style="vertical-align:top"/>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align:top">-          media 0.2 %</td>
+            <td rowspan="1" colspan="1" style="vertical-align:top"/>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align:top">-          other enterprises 2.9 %</td>
+            <td rowspan="1" colspan="1" style="vertical-align:top"/>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align:top">-          NGOs 0.9 %</td>
+            <td rowspan="1" colspan="1" style="vertical-align:top"/>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align:top">State and municipal administration</td>
+            <td rowspan="1" colspan="1" style="vertical-align:top">3.1</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>

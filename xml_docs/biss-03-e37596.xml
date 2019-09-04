@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37596</article-id>
+      <article-id pub-id-type="publisher-id">37596</article-id>
+      <article-id pub-id-type="manuscript">11357</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST15 - Molecular biodiversity evidence in time and space: data linkages and standards</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>FAIR data in meta-omics research: Using the MOD-CO schema to describe structural and operational elements of workflows from field to publication</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Harjes</surname>
+            <given-names>Janno</given-names>
+          </name>
+          <email xlink:type="simple">janno7806@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Triebel</surname>
+            <given-names>Dagmar</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1980-3148</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Link</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Weibulat</surname>
+            <given-names>Tanja</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Glöckner</surname>
+            <given-names>Frank Oliver</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8528-9023</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rambold</surname>
+            <given-names>Gerhard</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Bayreuth, Bayreuth, Germany</addr-line>
+        <institution>University of Bayreuth</institution>
+        <addr-line content-type="city">Bayreuth</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Staatliche Naturwissenschaftliche Sammlungen Bayerns, Munich, Germany</addr-line>
+        <institution>Staatliche Naturwissenschaftliche Sammlungen Bayerns</institution>
+        <addr-line content-type="city">Munich</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">German Federation for Biological Data e.V., Bremen, Germany</addr-line>
+        <institution>German Federation for Biological Data e.V.</institution>
+        <addr-line content-type="city">Bremen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Alfred-Wegener-Institut, Helmholtz Zentrum für Polar- und Meeresforschung, Bremerhaven, Germany</addr-line>
+        <institution>Alfred-Wegener-Institut, Helmholtz Zentrum für Polar- und Meeresforschung</institution>
+        <addr-line content-type="city">Bremerhaven</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Janno Harjes (<email xlink:type="simple">janno7806@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37596</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/55E87B57154F54CE827AE57B3E512F8A">55E87B57154F54CE827AE57B3E512F8A</uri>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Janno Harjes, Dagmar Triebel, Anton Link, Tanja Weibulat, Frank Oliver Glöckner, Gerhard Rambold</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Nucleic acid and protein sequencing-based analyses are increasingly applied to determine origin, identity and traits of environmental (biological) objects and organisms. In this context, the need for corresponding data structures has become evident. As existing schemas and community standards in the domains of biodiversity and molecular biological research are comparatively limited with regard to the number of generic and specific elements, previous schemas for describing the physical and digital objects need to be replaced or expanded by new elements for covering the requirements from meta-omics techniques and operational details. On the one hand, schemas and standards are hitherto mostly focussed on elements, descriptors, or concepts that are relevant for data exchange and publication, on the other hand, detailed operational aspects regarding origin context and laboratory processing, as well as data management details, like the documentation of physical and digital object identifiers, are rather neglected.</p>
+        <p>The conceptual schema for Meta-omics Data and Collection Objects (MOD-CO; <ext-link ext-link-type="uri" xlink:href="https://www.mod-co.net/">https://www.mod-co.net/</ext-link>) has been set up recently <xref ref-type="bibr" rid="B5182908">Rambold et al. 2019</xref>. It includes design elements (descriptors or concepts), describing structural and operational details along the work- and dataflow from gathering environmental samples to the various transformation, transaction, and measurement steps in the laboratory up to sample and data publication and archiving. The concepts are named according to a multipartite naming structure, describing internal hierarchies and are arranged in concept (sub-)collections. By supporting various kinds of data record relationships, the schema allows for the concatenation of individual records of the operational segments along a workflow (Fig. <xref ref-type="fig" rid="F5195680">1</xref>). Thus, it may serve as a logical and structural backbone for laboratory information management systems. The concept structure in version 1.0 comprises 653 descriptors (concepts) and 1,810 predefined descriptor states, organised in 37 concept (sub-)collections. The published version 1.0 is available as various schema representations of identical content (<ext-link ext-link-type="uri" xlink:href="https://www.mod-co.net/wiki/Schema_Representations">https://www.mod-co.net/wiki/Schema_Representations</ext-link>). A normative XSD (= XML Schema Definition) for the schema version 1.0 is available under <ext-link ext-link-type="uri" xlink:href="http://schema.mod-co.net/MOD-CO_1.0.xsd">http://schema.mod-o.net/MOD-CO_1.0.xsd</ext-link>.</p>
+        <p>The MOD-CO concepts might be integrated as descriptor/element structures in the relational database DiversityDescriptions (DWB-DD) an open-source and freely available software of the Diversity Workbench (DWB; <ext-link ext-link-type="uri" xlink:href="https://diversityworkbench.net/Portal/DiversityDescriptions">https://diversityworkbench.net/Portal/DiversityDescriptions</ext-link>; <ext-link ext-link-type="uri" xlink:href="https://diversityworkbench.net">https://diversityworkbench.net</ext-link>). Currently, DWB-DD is installed at the Data Center of the Bavarian Natural History Collections (SNSB) to build an instance of its own for storing and maintaining MOD-CO-structured meta-omics research data packages and enrich them with ‘metadata’ elements from the community standards Ecological Markup Language (EML), Minimum Information about any (x) Sequence (MIxS), Darwin Core (DwC) and Access to Biological Collection Data (ABCD). These activities are achieved in the context of ongoing FAIR ('Findable, Accessible, Interoperable and Reuseable') biodiversity research data publishing via the German Federation for Biological Data (GFBio) network (<ext-link ext-link-type="uri" xlink:href="https://www.gfbio.org/">https://www.gfbio.org/</ext-link>). Version 1.1 of the schema with extended collections of structural and operational design concepts is scheduled for 2020.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>collection data</kwd>
+        <kwd>conceptual schema</kwd>
+        <kwd>DiversityDescriptions</kwd>
+        <kwd>LIMS</kwd>
+        <kwd>meta-omics</kwd>
+        <kwd>workflow segments</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Bundesministerium für Bildung und Forschung</named-content>
+            <named-content content-type="funder_identifier">501100002347</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100002347</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Janno Harjes</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We are grateful for discussions with Andreas Brachmann (Munich), Gregor Hagedorn (Berlin), Derek Peršoh (Bochum), Veronica Sanz (Munich), Carola Söhngen (Braunschweig), Thorsten Stoeck (Kaiserslautern), Christoph Tebbe (Braunschweig), and Pelin Yilmaz (Bremen).</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5182908">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Rambold</surname>
+              <given-names>Gerhard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yilmaz</surname>
+              <given-names>Pelin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Harjes</surname>
+              <given-names>Janno</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Klaster</surname>
+              <given-names>Sabrina</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sanz</surname>
+              <given-names>Veronica</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Link</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Glöckner</surname>
+              <given-names>Frank Oliver</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Triebel</surname>
+              <given-names>Dagmar</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Meta-omics data and collection objects (MOD-CO): a conceptual schema and data model for processing sample data in meta-omics research</article-title>
+          <source>Database</source>
+          <volume>2019</volume>
+          <pub-id pub-id-type="doi">10.1093/database/baz002</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5195680" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Workflow segments concatenated to a single workflow. A workflow segment comprises the elementary operations transformation, measurement and transaction being applied once or twice (due to preceding subsampling) to a physical object in focus, and the generation of data (measurement) and its subsequent transformation, measurement and transaction within the segment.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37596-g001.jpg" position="float" id="oo_292229.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

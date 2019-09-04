@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37470</article-id>
+      <article-id pub-id-type="publisher-id">37470</article-id>
+      <article-id pub-id-type="manuscript">11045</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>How the Luxembourg Natural History Museum Has Established and Maintained a National Bio- and Geodiversity Data System</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Walisch</surname>
+            <given-names>Tania</given-names>
+          </name>
+          <email xlink:type="simple">tania.walisch@mnhn.lu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pepin</surname>
+            <given-names>Claude</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Braun</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3620-6188</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Musée national d'histoire naturelle Luxembourg, Luxembourg, Luxembourg</addr-line>
+        <institution>Musée national d'histoire naturelle Luxembourg</institution>
+        <addr-line content-type="city">Luxembourg</addr-line>
+        <country>Luxembourg</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Tania Walisch (<email xlink:type="simple">tania.walisch@mnhn.lu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37470</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/909DA6CAE0E05489AB98DFEEACFC4462">909DA6CAE0E05489AB98DFEEACFC4462</uri>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Tania Walisch, Claude Pepin, Paul Braun</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Over the past 20 years, the Luxembourg National Museum for Natural History (LMNH) has built a bio- and geodiversity information system to collate, manage and publish natural heritage observation and specimen data on a national and international level. To date the system counts over 2 million taxon occurrence and over 100,000 specimen records.</p>
+        <p>The Museum has chosen, whenever available, public or open source software tools complying to international biodiversity data standards for recording, managing and publishing data to increase resilience, stay connected with community initiatives and mutualise development costs. A central component of the Museum’s national data hub is <ext-link ext-link-type="uri" xlink:href="http://www.recorder6.info/page24.html">Recorder 6</ext-link>, a client-server database software for wildlife recording developed by the National Biodiversity Network in the UK. Today, the Recorder-Lux database contains a large portion of natural heritage information in Luxembourg and is synchronised daily into a publication database connected via the Integrated Publishing Toolkit (IPT) to the Global Biodiversity Information Facility (GBIF). Moreover, Recorder-Lux data is accessible via the national species mapping portal <ext-link ext-link-type="uri" xlink:href="http://mdata.mnhn.lu">mdata.mnhn.lu</ext-link> which has been developed in-house and is aimed at scientists, professionals and decision makers. The Museum has also developed a set of data entry and upload functionalities on its website <ext-link ext-link-type="uri" xlink:href="http://data.mnhn.lu">data.mnhn.lu </ext-link>using the open source software <ext-link ext-link-type="uri" xlink:href="http://www.indicia.org.uk">Indicia</ext-link>, a toolkit that provides a ready-made set of services and tools for online wildlife recording. In 2019, we implement the Atlas of Living Luxembourg (ALL) website <ext-link ext-link-type="uri" xlink:href="http://all.mnhn.lu">all.mnhn.lu</ext-link>, based on the open source Atlas of Living Australia software. ALL is the most comprehensive data portal about natural heritage in Luxembourg, showing specimen data from the museum’s botany, zoology, paleontology, petrology and mineralogy collections as well as fungi, animal and plant observations collected from national and international organisations (via GBIF).</p>
+        <p>Data providers vary from individual scientific collaborators to professional regional record centers or private consultancies working for public administrations. They use different tools offered by the museum to enter, manage and transfer their data to the system. Thus several regional record centers chose the client-server Recorder 6 software to manage and exchange their data, whereas individual scientific collaborators of the Museum enter or upload their data via the online data entry forms available on<ext-link ext-link-type="uri" xlink:href="https://data.mnhn.lu"/><ext-link ext-link-type="uri" xlink:href="https://data.mnhn.lu">data.mnhn.lu</ext-link>. For large-scale, long-term, professional biodiversity monitoring and inventories at the national level, specific data entry forms and functionalities have been configured on the Indicia website. Finally, citizens can record species observations via the iNaturalist smartphone app.</p>
+        <p>Due to the museum’s long history of conducting field inventories alongside collating and managing natural history collections, the data hub holds observation and collection data in one database. In 2003, the Museum has developed the Collection Management and Thesaurus extensions for the Recorder 6 software to catalogue, describe and manage specimens in the Museum collections. It allows handling of field-gathered data alongside specimen-specific data such as storage location, specimen type and conservation status. In recent years this has become an essential tool for the increasing effort directed at the digitisation of the diverse natural history collections at the Museum.</p>
+        <p>Our small database team faces the challenge of integrating an ever increasing number of records from a variety of datasets, tools and initiatives. To keep the technical and administrative work as simple as possible we have implemented an open data policy and aim to increase the use of IPT to connect databases instead of physically importing all data into one central database. To improve data quality we focus on training experts to work with our Indicia verification tool.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity data</kwd>
+        <kwd>geodiversity data</kwd>
+        <kwd>collection management</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>Recorder 6</kwd>
+        <kwd>Atlas of Living Australia</kwd>
+        <kwd>Indicia</kwd>
+        <kwd>Integrated Publishing Toolkit</kwd>
+        <kwd>Global Biodiversity Information Facility</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Tania Walisch</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

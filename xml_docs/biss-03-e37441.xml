@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37441</article-id>
+      <article-id pub-id-type="publisher-id">37441</article-id>
+      <article-id pub-id-type="manuscript">11037</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP17 - Science Powered by Informatics – Connecting Policy Needs with Data Driven Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Towards an Integrated Biodiversity Technology Program Supporting Transparent Decision Making in Australia</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Huijbers</surname>
+            <given-names>Chantal</given-names>
+          </name>
+          <email xlink:type="simple">c.huijbers@griffith.edu.au</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5206-3415</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Richmond</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Belbin</surname>
+            <given-names>Lee</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8900-6203</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Holewa</surname>
+            <given-names>Hamish</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Griffith University, Gold Coast, Australia</addr-line>
+        <institution>Griffith University</institution>
+        <addr-line content-type="city">Gold Coast</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Atlas of Living Australia, CSIRO, Canberra, Australia</addr-line>
+        <institution>Atlas of Living Australia, CSIRO</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Chantal Huijbers (<email xlink:type="simple">c.huijbers@griffith.edu.au</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37441</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/BF85C19C86325511AEEEDC1C03A538F0">BF85C19C86325511AEEEDC1C03A538F0</uri>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Chantal Huijbers, Sarah Richmond, Lee Belbin, Hamish Holewa</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Effective management of our natural world under current and future conditions requires efficient, collaborative and complementary planning and decision-making processes with clear lines of accountability. While there has been significant progress in establishing national databases for the management of species observation data, these only represent samples of a species' total distribution. The need and challenge therefore is to model these point-based observation data to obtain estimates or projections of the total range and distribution of the species. Such Species Distribution Models (SDMs), also known as Environmental Niche Models (ENMs), and the geographic data (or “maps”) they generate, provide vital information needed by governments at all levels to meet various policy and statutory responsibilities and obligations. SDMs quantify the response of species occurrence to environmental conditions described by variables such as climate, substrate, productivity and vegetation. The outcomes of an SDM can be used to identify locations and regions with potentially suitable environmental conditions for a species, as well as assess how species may respond to projected future climate changes or habitat loss. While SDMs are widely used in many decision- and policy-making programs, investment in species distribution information has been fragmented and limited.</p>
+        <p>In Australia, three different government departments joined forces with the <ext-link ext-link-type="uri" xlink:href="https://www.ala.org.au/">Atlas of Living Australia</ext-link> and the <ext-link ext-link-type="uri" xlink:href="http://www.bccvl.org.au/">Biodiversity and Climate Change Virtual Laboratory</ext-link> to develop a standard framework for modelling threatened species distributions for use in policy and environmental decision-making. The pilot program that will be conducted throughout 2019 includes three complementary pillars:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>An expert panel with both researchers and government practitioners who will review current SDM practices used in government and develop a set of best-practice methods.</p></list-item><list-item><p>A technology program that includes the development of a new modelling platform that implements the best-practice methods for transparent and reproducible SDMs for decision making as established by the expert panel. Additionally, there will be an online portal for publishing ecological model outputs in a searchable catalogue to enhance cross-jurisdiction collaborations.</p></list-item><list-item><p>Establishment of a training and skill development program to upskill decision makers using the new tools and methodology in practice.</p></list-item></list>
+        </p>
+        <p>This presentation will showcase the outcomes of this program and highlight how digital infrastructure can enhance decision making. In this case specifically, the collaboration across government departments ensures a) a consistent approach across jurisdictions, b) an increase in model quality, thereby leading to a decrease in unnecessary survey or consultation efforts, c) an increase in suitability, robustness and reproducibility of SDMs, and d) increased advocacy and coordination in national programs and resources.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>species distribution modelling</kwd>
+        <kwd>decision making</kwd>
+        <kwd>Australia</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>government</kwd>
+        <kwd>platform</kwd>
+        <kwd>infrastructure</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Chantal Huijbers</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

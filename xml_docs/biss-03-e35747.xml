@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35747</article-id>
+      <article-id pub-id-type="publisher-id">35747</article-id>
+      <article-id pub-id-type="manuscript">11578</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PT - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Swedish Taxonomy Initative &amp; Biodiversity Infrastructure</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sjödin Skarp</surname>
+            <given-names>Liselott</given-names>
+          </name>
+          <email xlink:type="simple">liselott.sjodin.skarp@slu.se</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden</addr-line>
+        <institution>Swedish University of Agricultural Sciences (SLU)</institution>
+        <addr-line content-type="city">Uppsala</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Swedish Species Information Centre (ArtDatabanken, SSIC), Uppsala, Sweden</addr-line>
+        <institution>Swedish Species Information Centre (ArtDatabanken, SSIC)</institution>
+        <addr-line content-type="city">Uppsala</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Liselott Sjödin Skarp (<email xlink:type="simple">liselott.sjodin.skarp@slu.se</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35747</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/32639B92EE8B537CBA5A640572FFD445">32639B92EE8B537CBA5A640572FFD445</uri>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Liselott Sjödin Skarp</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Swedish Species Information Centre (<ext-link ext-link-type="uri" xlink:href="https://www.artdatabanken.se/en/"><underline>ArtDatabanken, SSIC</underline></ext-link>) at the Swedish University of Agricultural Sciences (<ext-link ext-link-type="uri" xlink:href="https://www.slu.se/en/"><underline>SLU</underline></ext-link>) accumulates, analyses and disseminates information concerning Swedish species, habitats and ecosystems. The SSIC hosts the Swedish Taxonomy Initiative <ext-link ext-link-type="uri" xlink:href="https://www.artdatabanken.se/var-verksamhet/svenska-artprojektet/"><underline>(STI)</underline></ext-link> and produces <ext-link ext-link-type="uri" xlink:href="https://www.artdatabanken.se/var-verksamhet/rodlistning/"><underline>the Swedish Red List</underline></ext-link>. In addition, the SSIC is the leading partner within the Swedish LifeWatch (<ext-link ext-link-type="uri" xlink:href="https://www.slu.se/en/subweb/swedish-lifewatch/"><underline>SLW</underline></ext-link>) consortium, which cooperates with the Biodiversity Atlas Sweden (BAS) and the Living Atlas Community.</p>
+        <p>The SSIC provides an open access biodiversity reporting and analysis infrastructure including for example the Swedish Species Observation System (<ext-link ext-link-type="uri" xlink:href="https://www.artportalen.se/"><underline>artportalen.se</underline></ext-link>), the Swedish taxonomic backbone (<ext-link ext-link-type="uri" xlink:href="https://www.dyntaxa.se/"><underline>dyntaxa.se</underline></ext-link>) and tools for species information including traits, terminology and species determination (<ext-link ext-link-type="uri" xlink:href="http://artfakta.artdatabanken.se/"><underline>artfakta.se</underline></ext-link>). All systems, including the SLW Analysis Portal (<ext-link ext-link-type="uri" xlink:href="https://analysisportal.se/"><underline>analysisportal.se</underline></ext-link>), rely on recognized standards to ensure interoperability and consist of databases, API:s and portals. The Artportalen platform now contains &gt;69 000 000 georeferenced observations, along with 1 300 000 images, video or sound, of some 32 000 species from Sweden. The data are harvested by SLW and the Global Biodiversity Information Facility (GBIF). In addition to reports from NGOs and the general public, which generate &gt;90% of the observations, a rapidly increasing number of Swedish governmental authorities and agencies are using the platform to store regional and local species inventories collected by standardized scientific methods. There are sophisticated systems for validation and to secure data quality, and the records are used by scientists as well as by county and municipality councils as a principle biodiversity resource in environmental planning and decision making. Data concerning some species considered to be particularly sensitive to disturbance are classified and not openly available. These data can be accessed via a hierarchy of access levels so as to enable such classified data to available to, for example, environmental officers and to be used in management purposes The SSIC has just launched new API:s, modules for improved reporting of species checklists and invasive species, and a new platform aggregating the services in a single web interface and based on responsive design and specific interfaces for different users (<ext-link ext-link-type="uri" xlink:href="http://artfakta.artdatabanken.se/"><underline>artfakta.se</underline></ext-link>). Improvements are also to be made in the infrastructure of the Swedish taxonomic backbone, which now contains data for almost all Swedish species (more than 275 000 scientific names and 62 000 species). </p>
+        <p>In 2002, when the Swedish Taxonomy Initiative (STI) was established, the SSIC was commissioned by the Swedish Parliament to identify all species of multicellular plants, fungi and animals in the country and to make the information available to scientists, conservationists and the public. The information is presented in the Artfakta platform and in a series of identification handbooks, The Encyclopedia of the Swedish Flora and Fauna. In addition, the STI supports barcoding activities, scientific courses and announces grants for museums and taxonomic research and inventories within poorly known organismal groups. The Swedish and Norwegian taxonomy initiatives work cooperatively to increase the collective knowledge of poorly known species and, as a result, more than 3 000 species new to Sweden and Norway have been found, approximately a third being new to science. The attempt to join forces between different Scandinavian counterparts via technical progress and to focus on digitalization and sharing information on species and communities from the same biogeographical region has proven a successful concept.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Biodiversity infrastructure</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>species information</kwd>
+        <kwd>determination keys</kwd>
+        <kwd>Citizen Science</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Liselott Sjödin Skarp</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>The Swedish Species Information Centre (ArtDatabanken, SSIC) at the Swedish University of Agricultural Sciences (SLU) </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>The Swedish Species Information Centre (ArtDatabanken, SSIC) at the Swedish University of Agricultural Sciences (SLU) </p>
+    </sec>
+  </back>
+</article>

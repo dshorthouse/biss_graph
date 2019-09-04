@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38260</article-id>
+      <article-id pub-id-type="publisher-id">38260</article-id>
+      <article-id pub-id-type="manuscript">11650</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Automated Methods in Digitisation of Pinned Insects</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Wu</surname>
+            <given-names>Zhengzhe</given-names>
+          </name>
+          <email xlink:type="simple">zhengzhe.wu@helsinki.fi</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kahanpää</surname>
+            <given-names>Jere</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sihvonen</surname>
+            <given-names>Pasi</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2237-9325</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koivunen</surname>
+            <given-names>Anne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Saarenmaa</surname>
+            <given-names>Hannu</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">BioShare Digitization www.bioshare.com, Joensuu, Finland</addr-line>
+        <institution>BioShare Digitization www.bioshare.com</institution>
+        <addr-line content-type="city">Joensuu</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Zhengzhe Wu (<email xlink:type="simple">zhengzhe.wu@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38260</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/8439D94051355851A429324A0F2B8558">8439D94051355851A429324A0F2B8558</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Zhengzhe Wu, Jere Kahanpää, Pasi Sihvonen, Anne Koivunen, Hannu Saarenmaa</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Digitisation of natural history collections draws increasing attention. The digitised specimens not only facilitate the long-term preservation of biodiversity information but also boost the easy access and sharing of information. There are more than two billion specimens in the world’s natural history collections and pinned insect specimens compose of more than half of them (<xref ref-type="bibr" rid="B5210811">Tegelberg et al. 2014</xref>, <xref ref-type="bibr" rid="B5210821">Tegelberg et al. 2017</xref>). However, it is still a challenge to digitise pinned insect specimens with current state-of-art systems. The slowness of imaging pinned insects is due to the fact that they are essentially 3D objects and associated labels are pinned under the insect specimen. During the imaging process, the labels are often removed manually, which slows down the whole process. How can we avoid handling the labels pinned under often fragile and valuable specimens in order to increase the speed of digitsation?</p>
+        <p>In our work (<xref ref-type="bibr" rid="B5210971">Saarenmaa et al. 2019</xref>) for T3.1.2 task in the ICEDIG (<ext-link ext-link-type="uri" xlink:href="https://www.icedig.eu/">https://www.icedig.eu</ext-link>) project, we first briefly reviewed the state-of-the-art approaches on small insect digitisation. Then recent promising technological advances on imaging were presented, some of which have not yet been used for insect digitisation. It seems that one single approach will not be enough to digitise all insect collections efficiently. The approach has to be optimized based on the features of the specimens and their associated labels. To obtain a breakthrough in insect digitisation, it is necessary to utilize a combination of existing and new technologies in novel workflows. To explore the options, we identified six approaches for digitising pinned insects with the goal of minimum manipulations of labels as follows.</p>
+        <p>
+          <list list-type="order"><list-item><p>Minimal labels: Image selected individual specimens without removing labels from the pin by using two cameras. This method suits for small insects with only one or a few well-spaced labels.</p></list-item><list-item><p>Multiple webcams: Similar to the minimal labels approach, but with multiple webcams at different positions. This has been implemented in a prototype system with 12 cameras (<xref ref-type="bibr" rid="B5210860">Hereld et al. 2017</xref>) and in the ALICE system with six DSLR cameras (<xref ref-type="bibr" rid="B5210833">Price et al. 2018</xref>). </p></list-item><list-item><p>Imaging of units: Similar to the multiple webcams approach, but image the entire unit (“Units” are small boxes or trays contained in drawers of collection cabinets, and are being used in most major insect collections).</p></list-item><list-item><p>Camera in robot arm: Image the individual specimen or the unit with the camera mounted at a robot arm to capture large number of images from different views.</p></list-item><list-item><p>Camera on rails: Similar to camera in robot arm approach, but the camera is mounted on rails to capture the unit. A 3D model of the insects and/or units can be created, and then labels are extracted. This is being prototyped by the ENTODIG-3D system (<xref ref-type="bibr" rid="B5289770">Ylinampa and Saarenmaa 2019</xref>).</p></list-item><list-item><p>Terahertz time-gated multispectral imaging: Image the individual specimen with terahertz time-gated multispectral imaging devices.</p></list-item></list>
+        </p>
+        <p>Experiments on selected approaches 2 and 5 are in progress and the preliminary results will be presented.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>digitisation</kwd>
+        <kwd>automation</kwd>
+        <kwd>3D imaging</kwd>
+        <kwd>pinned insects</kwd>
+        <kwd>3D digitizaton</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="6"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Zhengzhe Wu</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>European Union’s Horizon 2020 research and innovation programme under grant agreement No 777483 “ICEDIG".</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>European Union’s Horizon 2020 research and innovation programme under grant agreement No 777483 “ICEDIG".</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5210860">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hereld</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ferrier</surname>
+              <given-names>Nicola J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agarwal</surname>
+              <given-names>Nitin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sierwald</surname>
+              <given-names>Petra</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Designing a High-Throughput Pipeline for Digitizing Pinned Insects</article-title>
+          <source>2017 IEEE 13th International Conference on e-Science (e-Science)</source>
+          <pub-id pub-id-type="doi">10.1109/escience.2017.88</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5210833">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>Benjamin Wills</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dupont</surname>
+              <given-names>Steen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Allan</surname>
+              <given-names>Elizabeth Louise</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blagoderov</surname>
+              <given-names>Vladimir</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Butcher</surname>
+              <given-names>Alice Jenny</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Durrant</surname>
+              <given-names>James</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holtzhausen</surname>
+              <given-names>Pieter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kokkini</surname>
+              <given-names>Phaedra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Livermore</surname>
+              <given-names>Laurence</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hardy</surname>
+              <given-names>Helen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Vincent</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>ALICE: Angled Label Image Capture and Extraction for high throughput insect specimen digitisation</article-title>
+          <source>OSF Preprints</source>
+          <pub-id pub-id-type="doi">10.31219/osf.io/s2p73</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5210971">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Saarenmaa</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wu</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Koivunen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willemse</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>MS12 Interim report on automated methods in digitisation of pinned insects</article-title>
+          <source>ICEDIG Project working paper</source>
+        </element-citation>
+      </ref>
+      <ref id="B5210811">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Tegelberg</surname>
+              <given-names>Riitta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mononen</surname>
+              <given-names>Tero</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Saarenmaa</surname>
+              <given-names>Hannu</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>High-performance digitization of natural history collections: Automated imaging lines for herbarium and insect specimens</article-title>
+          <source>Taxon</source>
+          <volume>63</volume>
+          <issue>6</issue>
+          <fpage>1307</fpage>
+          <lpage>1313</lpage>
+          <pub-id pub-id-type="doi">10.12705/636.13</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5210821">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Tegelberg</surname>
+              <given-names>Riitta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kahanpaa</surname>
+              <given-names>Jere</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Karppinen</surname>
+              <given-names>Janne</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mononen</surname>
+              <given-names>Tero</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wu</surname>
+              <given-names>Zhengzhe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Saarenmaa</surname>
+              <given-names>Hannu</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Mass Digitization of Individual Pinned Insects Using Conveyor-Driven Imaging</article-title>
+          <source>2017 IEEE 13th International Conference on e-Science (e-Science)</source>
+          <pub-id pub-id-type="doi">10.1109/escience.2017.85</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5289770">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ylinampa</surname>
+              <given-names>Toivo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Saarenmaa</surname>
+              <given-names>Hannu</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>ENTODIG-3D</article-title>
+          <source>Biodiversity Information Science and Standards</source>
+          <volume>3</volume>
+          <pub-id pub-id-type="doi">10.3897/biss.3.37473</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36614</article-id>
+      <article-id pub-id-type="publisher-id">36614</article-id>
+      <article-id pub-id-type="manuscript">11593</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PT - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Building an Accounting System for Russian Federation Biological Resources: Birds</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kalyakin</surname>
+            <given-names>Mikhail V.</given-names>
+          </name>
+          <email xlink:type="simple">kalyakin@zmmu.msu.ru</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tomkovich</surname>
+            <given-names>Pavel S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koblik</surname>
+            <given-names>Eugeny A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Red'kin</surname>
+            <given-names>Yaroslav A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Voltzit</surname>
+            <given-names>Olga V.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Zoological museum of Lomonosov Moscow State University, Moscow, Russia</addr-line>
+        <institution>Zoological museum of Lomonosov Moscow State University</institution>
+        <addr-line content-type="city">Moscow</addr-line>
+        <country>Russia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mikhail V. Kalyakin (<email xlink:type="simple">kalyakin@zmmu.msu.ru</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36614</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/BA55E5509F5A5F38B93EFC09EF618E1A">BA55E5509F5A5F38B93EFC09EF618E1A</uri>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mikhail V. Kalyakin, Pavel S. Tomkovich, Eugeny A. Koblik, Yaroslav A. Red&amp;apos;kin, Olga V. Voltzit</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Biological diversity (BD), or diversity of all living organisms and levels of their organization, represents one of the most important natural resources of the country. As with other resources, BD assets and issues need documentation and tracking: it is impossible to protect and manage BD resources without such accounting. We recognize the need is critical for a sophisticated system to store, synthesize, use, and share BD data. Accepting and understanding this need is illustrated by the second Global Biodiversity Informatics Conference (<ext-link ext-link-type="uri" xlink:href="https://www.biodiversityinformatics.org/">GBIC2</ext-link>) in 2018 Digital documentation of the BD state is not properly established in the Russian Federation, and a scientific analysis of the basics of monitoring of natural resources and their management have been missing.</p>
+        <p>Contstruction of a comprehensive BD database is an obvious step for biologists. This presentation will cover our view of a practical way to develop of scientific principles and to create an adequate system to documentthe monitoring of biological diversity within the Russian Federation. Digitization and documentation of collections has just begun in the Zoological Museum of Lomonosov Moscow State University, starting with birds. Using thisthis model group, plans are to develop scientific approaches to identify the most important parameters, the analysis and monitoring of which can provide effective knowledge about the composition, spatial distribution, temporal dynamics of the composition, and abundance of this animal group within the country. Once developed, such a system and schema of a monitoring of biological resources can be further transferred with necessary adjustments to other groups of living organisms as well as recommended for use in practical purposes (e.g., conservation, augmentation, efficient use) by the relevant state services.</p>
+        <p>For the first time, we will carry out a comprehensive analysis of the bird data available to Russian scientists from one of the largest Northern Eurasian collections from Lomonosov Moscow State University and Zoological Institute of Russian Academy of Sciences, St.Petersburg, reflecting composition, variation and historical dynamics of the spatial distribution of birds inRussia territories and adjacent regions over more than two centuries. The project will analyze biomaterial collections for genetic studies, existing collections databases and those under development for faunistics, bioacoustics, literature, and field accounts of Russian ornithological resources. We will parameterize taxonomic composition of a model group, including the presence and levels of intraspecific genetic, morphological and ecological diversity; the spatial distribution of species and subspecies; species and subspecies abundance in different parts of the country; the temporal dynamics of composition, abundance and spatial distribution of birds; main biological peculiarities of species traits; key practical, scientific, educational, and conservation uses of specific species; and their roles in the ecosystems.</p>
+        <p>We will participate in the organization and support of several databases, atlas projects, monitoring schemes, coordination of citizen science programs and long-time works with foreign colleagues in the European Bird Census Council (<ext-link ext-link-type="uri" xlink:href="https://www.ebcc.info/">https://www.ebcc.info</ext-link>) and several international working groups (e.g. <ext-link ext-link-type="uri" xlink:href="https://www.waderstudygroup.org/">https://www.waderstudygroup.org</ext-link>). A special task is a public relations project oriented toward a state administration for improvement of ideas important to the creation of a system of national accounting of biological resources.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biological diversity</kwd>
+        <kwd>biological resource</kwd>
+        <kwd>databases</kwd>
+        <kwd>atlas</kwd>
+        <kwd>monitoring</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mikhail V. Kalyakin</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Zoological museum of Lomonosov Moscow State University, Moscow, Russia</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>No</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Zoological museum of Lomonosov Moscow State University, Moscow, Russia</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>No</p>
+    </sec>
+  </back>
+</article>

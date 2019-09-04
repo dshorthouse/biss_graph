@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.39054</article-id>
+      <article-id pub-id-type="publisher-id">39054</article-id>
+      <article-id pub-id-type="manuscript">11150</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>DaRWIN: An open source natural history collections data management system</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Adam</surname>
+            <given-names>Marielle</given-names>
+          </name>
+          <email xlink:type="simple">madam@naturalsciences.be</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Theeten</surname>
+            <given-names>Franck</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Herpers</surname>
+            <given-names>Jean-Marc</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vandenberghe</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9269-6548</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Semal</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Van den Spiegel</surname>
+            <given-names>Didier</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Duchesne</surname>
+            <given-names>Paul-André</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6160-2852</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Belgian Institute of Natural Sciences (RBINS), Brussels, Belgium</addr-line>
+        <institution>Royal Belgian Institute of Natural Sciences (RBINS)</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Royal Museum for Central Africa (RMCA), Tervuren, Belgium</addr-line>
+        <institution>Royal Museum for Central Africa (RMCA)</institution>
+        <addr-line content-type="city">Tervuren</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Natagora, Namur, Belgium</addr-line>
+        <institution>Natagora</institution>
+        <addr-line content-type="city">Namur</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Marielle Adam (<email xlink:type="simple">madam@naturalsciences.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e39054</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/980729C566F3523CB98CF94357E9AFFA">980729C566F3523CB98CF94357E9AFFA</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>08</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Marielle Adam, Franck Theeten, Jean-Marc Herpers, Thomas Vandenberghe, Patrick Semal, Didier Van den Spiegel, Paul-André Duchesne</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>DaRWIN (Data Research Warehouse Information Network) is an in-house solution developed by the Royal Belgian Institute of Natural Sciences (RBINS), as a Natural History collections management system for biological and geological samples in collections. In 2014, the Royal Museum for Central Africa (RMCA) adopted this system for its collections and started to take part in new developments.</p>
+        <p>The DaRWIN database currently manages information on more than 600,000 records (about 4 million specimens) housed at the RBINS and more than 650,000 records (more than 1 million specimens) at the RMCA.</p>
+        <p>DaRWIN is an open source system, consisting of a PostgreSQL database and a customizable web-interface based on the Symfony framework (<ext-link ext-link-type="uri" xlink:href="https://symfony.com">https://symfony.com</ext-link>).</p>
+        <p>DaRWIN is divided into 2 parts:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>one public section that gives a “read-only” access to digitised specimens,</p></list-item><list-item><p>one section for registered users, with different levels of access rights (user, encoder, conservator and administrator), customizable for each collection and allowing update of specimens and collections, daily management of collections, and the potential for dealing with sensitive information.</p></list-item></list>
+        </p>
+        <p>DaRWIN stores sample data and related information such as place and date of collection, missions and collectors, identifiers, technicians involved, taxonomy, identification information (type, stage, state, etc.), bibliography, related files, storage, etc. Other features that deal with day-to-day curation operations are available: loans, printing of labels for storage, statistics and reporting. DaRWIN features its own JSON (JavaScript Object Notation) webservice for specimens and scientific names and can export data in tab-delimited, Excel, PDF and GeoJSON formats.</p>
+        <p>More recently, a procedure for importing batches of data has been developed, based on tab-delimited files, making integration of data from (old/historical) databases faster and more controlled.</p>
+        <p>Additional improvements of the user interface and database model have been made. For example, parallel taxonomical hierarchies can be created, allowing users to work with temporary taxonomies, old scientific names (basionyms and synonyms) and document the history of type specimens.</p>
+        <p>Finally, quality control and data cleaning on several tables have been implemented, e.g. mapping of locality names with vocabularies like Geonames, adding ISO 3166 two-letter country codes (<ext-link ext-link-type="uri" xlink:href="https://www.iso.org/iso-3166-country-codes.html">https://www.iso.org/iso-3166-country-codes.html</ext-link>), cleaning duplicates from people/institutions and taxonomy catalogues. A tool for checking taxonomical names on GBIF (Global Biodiversity Information Facility), WoRMS (World Register of Marine Species) and DaRWIN itself, based on webservices and tab-delimited files, has been developed.</p>
+        <p>Last year, RBINS, RMCA and Meise Botanic Garden (MBG) defined a new framework of collaboration in the NaturalHeritage project (<ext-link ext-link-type="uri" xlink:href="http://www.naturalheritage.be">http://www.naturalheritage.be</ext-link>), in order to foster interoperability among their collection data sources. This new framework presents itself as one common research portal for data on natural history collections (from DaRWIN and other existing collection databases) of the three partnered institutions and makes data compliant to a standard agreed by the partners. See Poster "NaturalHeritage: Bridging Belgian Natural History Collections" for more information.</p>
+        <p>DaRWIN is accessible online (<ext-link ext-link-type="uri" xlink:href="http://darwin.naturalsciences.be/">http://darwin.naturalsciences.be</ext-link>). A Github repository is also available (<ext-link ext-link-type="uri" xlink:href="https://github.com/naturalsciences/natural_heritage_darwin">https://github.com/naturalsciences/natural_heritage_darwin</ext-link>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data management</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>standardization</kwd>
+        <kwd>webservices</kwd>
+        <kwd>data quality and cleaning</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Marielle Adam</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>BRAIN-be Belgian Research Action through Interdisciplinary Networks</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Royal Belgian Institute of Natural Sciences, 29 rue Vautier, B-1000 Brussels, Belgium</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>BRAIN-be Belgian Research Action through Interdisciplinary Networks</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>NaturalHeritage: BR/175/A3/NATURALHERITAGE</p>
+      <p>Système de base de données modulaire interopérable et portail pour les collections belges d'Histoire Naturelle</p>
+      <p>Modulair interoperabel database systeem en portal voor de Belgische Natuurhistorische collecties</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Royal Belgian Institute of Natural Sciences, 29 rue Vautier, B-1000 Brussels, Belgium</p>
+    </sec>
+  </back>
+</article>

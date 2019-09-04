@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35218</article-id>
+      <article-id pub-id-type="publisher-id">35218</article-id>
+      <article-id pub-id-type="manuscript">11057</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS78 - Facilitating Capacity Building of Young Researchers</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Digitisation of Geocollections and the New Generation of Curators</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Paredes</surname>
+            <given-names>Ricardo</given-names>
+          </name>
+          <email xlink:type="simple">ricardo.paredes@uc.pt</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9984-2456</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Science Museum – University of Coimbra. Largo Marquês de Pombal, 3000-272 Coimbra, Portugal</addr-line>
+        <institution>Science Museum – University of Coimbra. Largo Marquês de Pombal</institution>
+        <addr-line content-type="city">3000-272 Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Procesos Bióticos Mesozoicos Research Group - Complutense University, Madrid, Spain</addr-line>
+        <institution>Procesos Bióticos Mesozoicos Research Group - Complutense University</institution>
+        <addr-line content-type="city">Madrid</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">MARE - Marine and Environmental Sciences Centre, University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>MARE - Marine and Environmental Sciences Centre, University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Ricardo Paredes (<email xlink:type="simple">ricardo.paredes@uc.pt</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35218</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/44F73D6F0E185B55AFAC89EF47958EA3">44F73D6F0E185B55AFAC89EF47958EA3</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Ricardo Paredes</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Digital inventory of collections is one of the main priorities of curatorship work at museums. In the Science Museum of the University of Coimbra these process started in 2007 with the development of the Virtual Museum project reaching 9,000 digitised specimens of Natural History. The public access to the information via the museum webpage increased the impact of the museum collections for the public and for the scientific and museum communities in Portugal and abroad. The number of loans for exhibitions and research visitors has grown exponentially. The Portuguese Museology Association (APOM) prized the former domain http://museudaciencia.inwebonline.net/ in 2010 with the Best Implementation and Multimedia Managment. Since 2007 the Museum has been improving its facilities and human resources and a new generation of curators and assistant curators are getting involved. Nevertheless, a substantial part of this new generation has been maintained by fellowships associated to time-limited projects, resulting in an inevitable gap of continuity. An infrastructure project is currently developing at the museum, the PRISC consortium (Portuguese Research Infrastructure of Scientific Collections). It consists of an e-infrastructure providing the services to the collections with special emphasis in the human resources curatorship. In the case of the geocollections this represents the filling of an almost one decade gap of no collection digitisation activity. The geocollections are the second largest archive of specimens and associated data of the museum, reaching an estimated amount of more than 30,000 specimens. It comprises Mineralogy, Petrology and Palaeontology specimens and is one of the largest and oldest Portuguese geodiversity repositories. The online portal is fed by the information stored in a database that is steadily growing with new incoming specimens, 2D images, and data from the transcription of relevant label records and old catalogues. That process is crucial to promote the best-practice systems for collection management. Geocollections have specific requirements comparing to other Natural History collections and dedicated thesaurus are mandatory to accommodate the related data. That process has been developed in many cases by feeding the data to the database but in other cases forced to reprogramme new fields in it. The terminology associated with the specimens, such as lithostratigraphy units, chronostratigraphic terms, or regional rock and mineral names are frequently out of date and should be readjusted to the internationally accepted names. This is one of the cases that evidences how important it is to improve good practice initiatives to normalize the data. Most of the Museum´s databases are feeding global data-sharing utilities such as Global Biodiversity Information Facility (GBIF) or The Encyclopedia of Life (EOL). This global sharing of data claims important data quality and standardization implementation practices. In order to fulfill that goal, a new generation of curators is being prepared with skills in a logic of networking. The involvement and enthusiasm of these young generations of curators is at the base of a quality curatorship in today’s museums.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Online collections</kwd>
+        <kwd>minerals</kwd>
+        <kwd>rocks</kwd>
+        <kwd>fossils</kwd>
+        <kwd>curatorship management</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Ricardo Paredes</p>
+      </sec>
+    </notes>
+  </front>
+</article>

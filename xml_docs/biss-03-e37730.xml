@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37730</article-id>
+      <article-id pub-id-type="publisher-id">37730</article-id>
+      <article-id pub-id-type="manuscript">11595</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP91 - Developing a Data-Literate Workforce in Biodiversity Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Visualisation of Taxonomic Knowledge: Exploring and reporting taxonomic data, training students in taxonomy</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Bourgoin</surname>
+            <given-names>Thierry</given-names>
+          </name>
+          <email xlink:type="simple">bourgoin@mnhn.fr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9277-2478</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vignes Lebbe</surname>
+            <given-names>Régine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bailly</surname>
+            <given-names>Nicolas</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4994-0653</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Museum national Histoire naturelle, UMR 7205 MNHN-CNRS-Sorbonne Université-EPHE, Paris, France</addr-line>
+        <institution>Museum national Histoire naturelle, UMR 7205 MNHN-CNRS-Sorbonne Université-EPHE</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Sorbonne Université, MNHN, CNRS, EPHE, Université des Antilles, Institut Systématique Évolution Biodiversité, ISYEB, Paris, France</addr-line>
+        <institution>Sorbonne Université, MNHN, CNRS, EPHE, Université des Antilles, Institut Systématique Évolution Biodiversité, ISYEB</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of British Columbia / Beaty Biodiversity Museum, Vancouver, Canada</addr-line>
+        <institution>University of British Columbia / Beaty Biodiversity Museum</institution>
+        <addr-line content-type="city">Vancouver</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Thierry Bourgoin (<email xlink:type="simple">bourgoin@mnhn.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37730</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/9125EF5B80E65220B7B8F8D49915C91C">9125EF5B80E65220B7B8F8D49915C91C</uri>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Thierry Bourgoin, Régine Vignes Lebbe, Nicolas Bailly</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Taxon concepts are complex, dynamic representations of the real world that are labelled with scientific names designating them. While names, taxa and classifications should be managed separately in databases (<xref ref-type="bibr" rid="B5196119">Bourgoin et al. 2019</xref>, <xref ref-type="bibr" rid="B5201820">Gallut et al. 2005</xref>), students may have difficulty comprehending the dynamic nature of the link between the three entities because taxa circumscriptions are complex to apprehend through textual representation and because names are independently ruled by nomenclatural codes. Exploring, reporting and training users about taxonomic knowledge are complex challenges that could be alleviated through development of efficient visualization tools.</p>
+        <p>We propose here a tool that generates a graphical representation visualizing the successive concepts of a taxon accepted as valid with its different names and positions in classifications, including its synonyms, homonyms, chresonyms, and other related taxonomic and nomenclatural issues during its lifetime. This tool has been successfully implemented both in database visualisation and used in training students about taxonomy.</p>
+        <p>In the database FLOW, <ext-link ext-link-type="uri" xlink:href="http://hemiptera-databases.org/flow/">Fulgoromorpha Lists On the Web</ext-link>, (<xref ref-type="bibr" rid="B5196110">Bourgoin 2019</xref>), the tool creates a graphical translation of the referenced nomenclatural and classificatory story of a taxon such as the one presented in Table <xref ref-type="table" rid="T5189825">1</xref>.</p>
+        <p>Thanks to a dedicated editor, the textual/html chronological account of the nomenclatural history of the taxon is displayed on the taxon page of the taxon <ext-link ext-link-type="uri" xlink:href="https://www.hemiptera-databases.org/flow/?db=flow&amp;page=explorer&amp;card=searching&amp;lang=en">Elicini</ext-link>. A javascript code reinterprets the chronological account displaying the corresponding graphical view as shown in Fig. <xref ref-type="fig" rid="F5189896">1</xref>. </p>
+        <p>The graphic provides a global view of the classification and nomenclatural history of the taxon. Different shapes and colours are associated with the different types of nomenclatural acts or information of both nomenclatural and taxonomic value. The tool is also easily adaptable to any domain dealing with changing knowledge with traceable chronology. This tool has been used successfully in the last several years to better visualize concepts of synomymy, homonymy and chresonymy; and, because it makes the differences between names and taxa, and the importance of contextualizing taxa in classifications, clearly understandable, it has proven particularly useful in training students in taxonomy.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>taxonomic data visualisation</kwd>
+        <kwd>training in taxonomy</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="1"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Thierry Bourgoin</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5196110">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bourgoin</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>FLOW (Fulgoromorpha Lists on The Web): a world knowledge base dedicated to Fulgoromorpha. Version 8, updated</article-title>
+          <uri>http://hemiptera-databases.org/flow/</uri>
+          <date-in-citation content-type="access-date">2019-04-09T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5196119">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bourgoin</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bailly</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zaragueta</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vignes-Lebbe</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Taxonomy at the forefront of complex sciences: Names, Taxa and Classifications are necessary for complete taxon formalization</article-title>
+          <source>Submitted</source>
+        </element-citation>
+      </ref>
+      <ref id="B5201820">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Gallut</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Anta</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourgoin</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Soulier-Perkins</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Beard-Falgas</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vignes-Lebbe</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>DBTNT: DataBase To Names and Taxa</article-title>
+          <source>A View on Life’s Diversity: European developments in Biodiversity Information and the Catalogue of Life</source>
+          <conf-name>Species 2000 europa and European Network for Biodiversity Information (ENBI) Biodiversity Informatics Fair</conf-name>
+          <conf-loc>Stockholm, Sweden</conf-loc>
+          <conf-date>15 October 2005</conf-date>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5189896" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Graphical display of taxon concepts in their respective classifications, names, and nomenclatural acts related to the taxon Elicini (Insecta, Hemiptera, Tropiduchidae) as reported in FLOW, according to Table <xref ref-type="table" rid="T5189825">1</xref>.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37730-g001.png" position="float" id="oo_291782.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <table-wrap id="T5189825" position="float" orientation="portrait">
+      <label>Table 1.</label>
+      <caption>
+        <p>Textual chronology of the names and classifications for the tribal taxon <ext-link ext-link-type="uri" xlink:href="https://www.hemiptera-databases.org/flow/?db=flow&amp;page=explorer&amp;card=searching&amp;lang=en">Elicini</ext-link> (Insecta, Hemiptera, Tropiduchidae) as reported in the FLOW database.</p>
+      </caption>
+      <table rules="all" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:594px">
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="1" style="height:30.0pt; text-align:center; width:96px">1.</td>
+            <td rowspan="1" colspan="1" style="height:30.0pt; width:497px">Elicaini Melichar, 1915 transferred from [Fulgoromorpha, Fulgoroidea, Lophopidae, Lophopinae] to [Fulgoromorpha, Fulgoroidea, Nogodinidae] according to Fennah (1978): 118</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="height:30.0pt; text-align:center; width:96px">2.</td>
+            <td rowspan="1" colspan="1" style="height:30.0pt; width:497px">Elicaini Melichar, 1915 incorrect original spelling of Elicini Melichar, 1915 emended by Fennah (1978): 118</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="height:45.0pt; text-align:center; width:96px">3.</td>
+            <td rowspan="1" colspan="1" style="height:45.0pt; width:497px">Gaetuliina Fennah, 1978 transferred from [Fulgoromorpha, Fulgoroidea, Nogodinidae, Bladinini] to [Fulgoromorpha, Fulgoroidea, Tropiduchidae] as Gaetuliini <italic>status novo</italic> according to Gnezdilov (2007): 296</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="height:45.0pt; text-align:center; width:96px">4.</td>
+            <td rowspan="1" colspan="1" style="height:45.0pt; width:497px">Gaetuliina Fennah, 1978 transferred from [Fulgoromorpha, Fulgoroidea, Nogodinidae, Bladinini] to [Fulgoromorpha, Fulgoroidea, Tropiduchidae] as Gaetuliini <italic>status novo</italic> according to Gnezdilov (2007): 296</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="height:45.0pt; text-align:center; width:96px">5.</td>
+            <td rowspan="1" colspan="1" style="height:45.0pt; width:497px">Elicina Melichar, 1915 [Fulgoromorpha, Fulgoroidea, Nogodinidae, Bladinini] previous rank of Elicini Melichar, 1915 [Fulgoromorpha, Fulgoroidea, Tropiduchidae, Elicinae] according to Gnezdilov (2013): 184</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="height:30.0pt; text-align:center; width:96px">6.</td>
+            <td rowspan="1" colspan="1" style="height:30.0pt; width:497px">Gaetuliini Fennah, 1978 synonym of Elicini Melichar, 1915 according to Gnezdilov (2013): 184</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37615</article-id>
+      <article-id pub-id-type="publisher-id">37615</article-id>
+      <article-id pub-id-type="manuscript">11727</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS86 - Machine learning: an emerging toolkit for biodiversity science using museum collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Methods, New Software Tools, and Best Practices for Developing High-quality Training Data for Machine Learning-based Image Analysis in Biodiversity Research</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Stucky</surname>
+            <given-names>Brian J.</given-names>
+          </name>
+          <email xlink:type="simple">stucky.brian@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Brenskelle</surname>
+            <given-names>Laura</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Guralnick</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, University of Florida, Gainesville, FL, United States of America</addr-line>
+        <institution>Florida Museum of Natural History, University of Florida</institution>
+        <addr-line content-type="city">Gainesville, FL</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Brian J. Stucky (<email xlink:type="simple">stucky.brian@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37615</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/838AD35F999951998FE5229F4A5BBD09">838AD35F999951998FE5229F4A5BBD09</uri>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Brian J. Stucky, Laura Brenskelle, Robert Guralnick</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Recent progress in using deep learning techniques to automate the analysis of complex image data is opening up exciting new avenues for research in biodiversity science.  However, potential applications of machine learning methods in biodiversity research are often limited by the relative scarcity of data suitable for training machine learning models. Development of high-quality training data sets can be a surprisingly challenging task that can easily consume hundreds of person-hours of time. In this talk, we present the results of our recent work implementing and comparing several different methods for generating annotated, biodiversity-oriented image data for training machine learning models, including collaborative expert scoring, local volunteer image annotators with on-site training, and distributed, remote image annotation via citizen science platforms. We discuss error rates, among-annotator variance, and depth of coverage required to ensure highly reliable image annotations.  We also discuss time considerations and efficiency of the various methods. Finally, we present new software, called ImageAnt (currently under development), that supports efficient, highly flexible image annotation workflows. ImageAnt was created primarily in response to the challenges we discovered in our own efforts to generate image-based training data for machine learning models. ImageAnt features a simple user interface and can be used to implement sophisticated, adaptive scripting of image annotation tasks.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>machine learning</kwd>
+        <kwd>computer vision</kwd>
+        <kwd>image labeling</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Brian J. Stucky</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

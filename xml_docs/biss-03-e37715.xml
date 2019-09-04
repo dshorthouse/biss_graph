@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37715</article-id>
+      <article-id pub-id-type="publisher-id">37715</article-id>
+      <article-id pub-id-type="manuscript">11259</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS73 - Biodiversity Informatics: Perspectives from the Global South</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodiversidata: A Collaborative Initiative Towards Open Data Availability in Uruguay</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Grattarola</surname>
+            <given-names>Florencia</given-names>
+          </name>
+          <email xlink:type="simple">fgrattarola@lincoln.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8282-5732</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pincheira-Donoso</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">School of Life Sciences, University of Lincoln, Brayford Campus, Lincoln, Lincolnshire LN6 7DL, United Kingdom</addr-line>
+        <institution>School of Life Sciences, University of Lincoln, Brayford Campus</institution>
+        <addr-line content-type="city">Lincoln, Lincolnshire LN6 7DL</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Queen’s University Belfast, School of Biological Sciences, MacroBiodiversity Lab, Belfast, United Kingdom</addr-line>
+        <institution>Queen’s University Belfast, School of Biological Sciences, MacroBiodiversity Lab</institution>
+        <addr-line content-type="city">Belfast</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Florencia Grattarola (<email xlink:type="simple">fgrattarola@lincoln.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37715</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/3ACEA7B3B85E5A2485B46C6AA998E463">3ACEA7B3B85E5A2485B46C6AA998E463</uri>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Florencia Grattarola, Daniel Pincheira-Donoso</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Data-sharing has become a key component in the modern scientific era of large-scale research, with numerous advantages for both data collectors and users. However, data-sharing in Uruguay remains neglected given that major public sources of biodiversity information (government and academia) are not open-access. As a consequence, the patterns and drivers of biodiversity in this country remain poorly understood and so does our ability to manage and conserve its biodiversity. To overcome this critical gap, collaborative strategies are needed to communicate the importance and benefits of data openness, exchange and provide technical tools and training on all aspects of data management, sharing practices, focus on incentives, and motivation structures for data-holders. Here, we introduce the Biodiversidata initiative (<ext-link ext-link-type="uri" xlink:href="http://biodiversidata.org">www.biodiversidata.org</ext-link>) – a novel Uruguayan Consortium of Biodiversity Data. Biodiversidata is a collaboration among experts with the aim of improving the country’s biodiversity knowledge and the open-access of the vast resources they generate. Biodiversidata aims to collate the first comprehensive open-access database on Uruguay's whole biodiversity, to support advancements in scientific research and conservation actions. Currently, Biodiversidata consists of over 30 experts from across national and international institutions, studying diverse biodiversity groups. After less than two years, we have collected, curated and standardised a dataset of ~70,000 records of primary biodiversity data of tetrapod species – the first and most comprehensive open biodiversity database ever gathered for Uruguay to date. However, the process is hampered by multiple challenges:</p>
+        <p>
+          <list list-type="order"><list-item><p>the lack of support for sampling of specimens and maintenance of collections has contributed to the situation were data are often perceived as personal property rather than collective resources;</p></list-item><list-item><p>institutions have no plans or strategies directed to digitisation of their collections which actually places biodiversity data in Uruguay ‘at risk’ of being lost;</p></list-item><list-item><p>the scarce governmental and academic incentive structures towards open scientific research relegates data-sharing to a personal decision;</p></list-item><list-item><p>although scientists individually are willing to share their research data, the lack of data management plans within their research groups hampers the capacity to digitise the data and thus, to make them available;</p></list-item><list-item><p>former initiatives aimed to create comprehensive biodiversity databases did not consider the balance between openness and gain for researchers, setting the subject of data-sharing more of an obligation than a path of promotion, which impacted negatively in the perception of scientist to open their data.</p></list-item></list>
+        </p>
+        <p>To overcome some of these challenges, we decided to direct Biodiversidata to individual researchers/experts and not institutions. We called them with the plan of collecting the maximum possible amount of data from vertebrate, invertebrate and plant species, use it to collaboratively generate impactful scientific research. An important aspect was that we requested data only to fit the premise of being primary biodiversity data (i.e., data records that document the occurrence of a species in space and time). This meant cleaning and standardising very heterogeneous information, from a variety of source types and formats, including updating scientific names and georeferentiating sampling locations. However, centralising the cleaning process allowed researchers to send their raw records without spending time cleaning them themselves and, as a consequence, enlarged the amount of data being collated. Collectively, Biodiversidata’s approach towards changing the culture of data-sharing practices has relied on the reinforcement of a scientific collaboration culture that benefits not only researchers at the individual level, but the progress of larger-scale issues as a whole. There is a long way to go on the subject of open research data in Uruguay, though, aiming strategies to people, capitalising data management and progressing with step-by-step rewards, is already showing some preliminary encouraging results.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>Uruguay</kwd>
+        <kwd>collaborative strategies</kwd>
+        <kwd>open data</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Agencia Nacional de Investigación e Innovación</named-content>
+            <named-content content-type="funder_identifier">100008725</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/100008725</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Florencia Grattarola</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>POS_EXT_2016_1_136663 </p>
+    </sec>
+  </back>
+</article>

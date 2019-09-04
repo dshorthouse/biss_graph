@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37268</article-id>
+      <article-id pub-id-type="publisher-id">37268</article-id>
+      <article-id pub-id-type="manuscript">11508</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>New Uses for an Old and Abandoned Colonial Collection: The herpetological collection of the Instituto de Investigação Científica Tropical (Lisbon, Portugal)</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Pires Ceríaco</surname>
+            <given-names>Luis Miguel</given-names>
+          </name>
+          <email xlink:type="simple">luisceriaco@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pimentel Marques</surname>
+            <given-names>Mariana</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Museu de História Natural e da Ciência, Universidade do Porto, Porto, Portugal</addr-line>
+        <institution>Museu de História Natural e da Ciência, Universidade do Porto</institution>
+        <addr-line content-type="city">Porto</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>Museu Nacional de História Natural e da Ciência, Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">CIBIO - Centro de Investigação em Biodiversidades e Recursos Genéticos, Porto, Portugal</addr-line>
+        <institution>CIBIO - Centro de Investigação em Biodiversidades e Recursos Genéticos</institution>
+        <addr-line content-type="city">Porto</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Luis Miguel Pires Ceríaco (<email xlink:type="simple">luisceriaco@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37268</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/13044B0DE084540CA5CDFD5A4EF61BAB">13044B0DE084540CA5CDFD5A4EF61BAB</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Luis Miguel Pires Ceríaco, Mariana Pimentel Marques</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The herpetological collections of the <ext-link ext-link-type="uri" xlink:href="https://arquivo.pt/wayback/20161105234533/http://www2.iict.pt/">Instituto de Investigação Científica</ext-link><ext-link ext-link-type="uri" xlink:href="https://arquivo.pt/wayback/20161105234533/http://www2.iict.pt/"> Tropical</ext-link> (Lisbon, Portugal) are the largest and most diverse collections of amphibians and reptiles in the country. These were collected in the mid-twentieth century in the former Portuguese colonies in Africa and Asia, and were the object of study of several naturalists that used them to describe and catalogue the herpetofauna of those areas. After the independence of these colonies in the mid 1970's, the research on this material nearly halted, and the collections became abandoned, without proper curation and lacking accessibility. In 2015, we started a process to recover these collections (Fig. <xref ref-type="fig" rid="F5187500">1</xref>). This encompassed basic curation, e.g. cleaning and substituting jars and fluid preservatives, cataloguing the entire collection, digitizing and georeferencing all the specimens, and making data available through the Global Biodiversity Information Facility at <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/publisher/9fdb5a90-a5a6-11dd-8d5f-b8a03c50a862">GBIF.org</ext-link>. While doing this, each specimen was also linked to its bibliographic data, its taxonomic identity carefully reviewed, and rare and important specimens (e.g., type specimens) flagged.</p>
+        <p>Currently, the collection is completely accessible, both physically and electronically, and it is being used by researchers and students around the world. Some results have already been published including the description of species new to science (<xref ref-type="bibr" rid="B5219574">Ceríaco et al. 2016</xref>, <xref ref-type="bibr" rid="B5219584">Ceríaco et al. 2017</xref>, <xref ref-type="bibr" rid="B5219564">Ceríaco 2015</xref>, <xref ref-type="bibr" rid="B5219594">Soares et al. 2018</xref>), new country checklists, the publication of an Atlas of Angolan Herpetofauna (<xref ref-type="bibr" rid="B5219554">Marques et al. 2018</xref>), <ext-link ext-link-type="uri" xlink:href="https://www.iucnredlist.org/">International Union for Conservation of Nature (</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.iucnredlist.org/">IUCN</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.iucnredlist.org/">)</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.iucnredlist.org/"> Red List assessments</ext-link>, and student training.</p>
+        <p>This presentation provides an overview of the recovery process of the collection, discusses strategies on how to digitize and make historical collections available to the community, and demonstrates how biological collections amassed during colonial times can be of extreme importance to the study and preservation of present day biodiversity.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Africa</kwd>
+        <kwd>Asia</kwd>
+        <kwd>digitization</kwd>
+        <kwd>georeference</kwd>
+        <kwd>amphibians</kwd>
+        <kwd>reptiles</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Luis Miguel Pires Ceríaco</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Museu de História Natural e da Ciência da Universidade do Porto (Porto, Portugal);</p>
+        <p>Museu Nacional de História Natural e da Ciência, Universidade de Lisboa (Lisbon, Portugal);</p>
+        <p>Instituto de Investigação Científica Tropical, Universidade de Lisboa (Lisbon, Portugal)</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Museu de História Natural e da Ciência da Universidade do Porto (Porto, Portugal);</p>
+      <p>Museu Nacional de História Natural e da Ciência, Universidade de Lisboa (Lisbon, Portugal);</p>
+      <p>Instituto de Investigação Científica Tropical, Universidade de Lisboa (Lisbon, Portugal)</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5219564">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ceríaco</surname>
+              <given-names>Luis M. P.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Lost in the middle of the sea, found in the back of the shelf: A new giant species of <italic>Trachylepis </italic>(Squamata: Scincidae) from Tinhosa Grande islet, Gulf of Guinea</article-title>
+          <source>Zootaxa</source>
+          <volume>3973</volume>
+          <issue>3</issue>
+          <fpage>511</fpage>
+          <lpage>527</lpage>
+          <pub-id pub-id-type="doi">10.11646/zootaxa.3973.3.6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5219574">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ceríaco</surname>
+              <given-names>Luis P</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marques</surname>
+              <given-names>Mariana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bauer</surname>
+              <given-names>Aaron</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>A review of the genus <italic>Trachylepis </italic>(Sauria: Scincidae) from the Gulf of Guinea, with descriptions of two new species in the <italic>Trachylepis maculilabris</italic> (Gray, 1845) species complex.</article-title>
+          <source>Zootaxa</source>
+          <volume>4109</volume>
+          <issue>3</issue>
+          <fpage>284</fpage>
+          <lpage>314</lpage>
+          <comment content-type="language">English</comment>
+          <pub-id pub-id-type="doi">10.11646/zootaxa.4109.3.2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5219584">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ceríaco</surname>
+              <given-names>Luis M. P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marques</surname>
+              <given-names>Mariana P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schmitz</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bauer</surname>
+              <given-names>Aaron M.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>The “Cobra-preta” of São Tomé Island, Gulf of Guinea, is a new species of <italic>Naja </italic>Laurenti, 1768 (Squamata: Elapidae)</article-title>
+          <source>Zootaxa</source>
+          <volume>4324</volume>
+          <issue>1</issue>
+          <fpage>121</fpage>
+          <lpage>141</lpage>
+          <uri>http://zoobank.org/6E545FDA-E061-49D9-BA68-79C2ACABE5F4</uri>
+          <pub-id pub-id-type="doi">10.11646/zootaxa.4324.1.7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5219554">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Marques</surname>
+              <given-names>Mariana P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ceríaco</surname>
+              <given-names>Luis M. P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blackburn</surname>
+              <given-names>David C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bauer</surname>
+              <given-names>Aaron M.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Diversity and distribution of the amphibians and terrestrial reptiles of Angola – Atlas of historical and bibliographic records (1840–2017)</article-title>
+          <source>Proceedings of the California Academy of Sciences</source>
+          <volume>65</volume>
+          <issue>Supplement 2</issue>
+          <fpage>1</fpage>
+          <lpage>501</lpage>
+          <uri>http://researcharchive.calacademy.org/research/izg/PCAS%20v65%20Suppl%20II%2028Dept18%20Angola%20(CAS%20web).pdf</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5219594">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Soares</surname>
+              <given-names>Leonor B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ceríaco</surname>
+              <given-names>Luis M. P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marques</surname>
+              <given-names>Mariana P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bastos-Silveira</surname>
+              <given-names>Cristiane</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scheinberg</surname>
+              <given-names>Lauren A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>James Harris</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brehm</surname>
+              <given-names>António</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jesus</surname>
+              <given-names>José</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Review of the leaf-litter skinks (Scincidae: <italic>Panaspis</italic>) from the Gulf of Guinea Oceanic Islands, with the description of a new species</article-title>
+          <source>African Journal of Herpetology</source>
+          <volume>67</volume>
+          <issue>2</issue>
+          <fpage>132</fpage>
+          <lpage>159</lpage>
+          <pub-id pub-id-type="doi">10.1080/21564574.2017.1413015</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5187500" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Initial phase of the recovery process of the herpetological collections of the Instituto de Investigação Científica Tropical (Lisbon, Portugal). Photo by Luis M. P. Ceríaco</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37268-g001.jpg" position="float" id="oo_291671.JPG" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

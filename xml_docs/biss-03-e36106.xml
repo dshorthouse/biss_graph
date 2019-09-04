@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36106</article-id>
+      <article-id pub-id-type="publisher-id">36106</article-id>
+      <article-id pub-id-type="manuscript">11706</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS78 - Facilitating Capacity Building of Young Researchers</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Training Taxonomists for the Digital World: Are we prepared?</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Georgiev</surname>
+            <given-names>Boyko B</given-names>
+          </name>
+          <email xlink:type="simple">boyko_georgiev@yahoo.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Casino</surname>
+            <given-names>Ana</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Voreadou</surname>
+            <given-names>Catherina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Institute of Biodiversity and Ecosystem Research - Bulgarian Academy of Sciences, Sofia, Bulgaria</addr-line>
+        <institution>Institute of Biodiversity and Ecosystem Research - Bulgarian Academy of Sciences</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">CETAF, Brussels, Belgium</addr-line>
+        <institution>CETAF</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Natural History Museum of Crete, Leoforos Sofokli Venizelou, Greece</addr-line>
+        <institution>Natural History Museum of Crete</institution>
+        <addr-line content-type="city">Leoforos Sofokli Venizelou</addr-line>
+        <country>Greece</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Boyko B Georgiev (<email xlink:type="simple">boyko_georgiev@yahoo.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36106</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/6C862C50D85157FDBF12311479C5BDCE">6C862C50D85157FDBF12311479C5BDCE</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Boyko B Georgiev, Ana Casino, Catherina Voreadou</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Digital knowledge and skills are rapidly becoming integral part of the work of the modern taxonomist. Their importance is further increased with the recent recognition of DiSSCo (<italic>Distributed System of Scientific Collections, </italic>https://dissco.eu). This new pan-European research infrastructure envisions placing European natural science collections at the centre of data-intensive scientific excellence and innovation for taxonomic and environmental research, food security, health and the bioeconomy. The mission of this ambitious project is to mobilise, unify and deliver bio- and geo-diversity information at the scale, form and precision required by scientific communities as well as to transform a fragmented landscape into a coherent and responsive research infrastructure.</p>
+        <p>An important step in improving the capacity of the research community underpinning DiSSCo is the COST Action MOBILISE (<italic>Mobilising Data, Policies and Experts in Scientific Collections</italic>, https://www.mobilise-action.eu).<styled-content style="background-color: rgb(255, 232, 232);"/>One of major capacity-building objectives is to facilitate implementation of common standards and newly-developed techniques by training and education. Its achievement is envisaged by standardised training modules such as training courses, workshops, webinars, online tutorials and short-term visits to other research units.</p>
+        <p>The first impression from surveying interests of candidates to be included into training events, demonstrates an uneven distribution of digital knowledge and skills across countries, institutions and generations. We advocate that a massive coordinated training programme may result in more efficient establishment of common standards and, consequently, better implementation of the forthcoming joint efforts in the development of the new pan-European research infrastricture.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Digital knowledge</kwd>
+        <kwd>digital skills</kwd>
+        <kwd>DiSSCo</kwd>
+        <kwd>MOBILISE</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>research</kwd>
+        <kwd>education</kwd>
+        <kwd>training</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>capacity building</kwd>
+        <kwd>young researchers</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Boyko B Georgiev</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 - "SS78-Facilitating Capacity Building of Young Researchers"</p>
+      </sec>
+    </notes>
+  </front>
+</article>

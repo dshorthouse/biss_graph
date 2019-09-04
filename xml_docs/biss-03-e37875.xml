@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37875</article-id>
+      <article-id pub-id-type="publisher-id">37875</article-id>
+      <article-id pub-id-type="manuscript">11675</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST60 - World Catalogue of Collections – describing and assessing collections for identifying relevant gaps</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Describing the German Research Infrastructure DCOLL Based on the Criteria Defined by the One World Collection Group - a test case</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Berger</surname>
+            <given-names>Frederik</given-names>
+          </name>
+          <email xlink:type="simple">frederik.berger@mfn.berlin</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany</addr-line>
+        <institution>Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Frederik Berger (<email xlink:type="simple">frederik.berger@mfn.berlin</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37875</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/7C14A3005E69582D8BE9311561818879">7C14A3005E69582D8BE9311561818879</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Frederik Berger</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The standardized description of collections is an important means for prioritizing collection digitization on a supra-institutional level. Different organizational and systematic structures prevent easy comparison of collections sizes and foci, in order to make informed decisions on setting priorities and efficiently distributing tasks. In autumn 2018, the consortium of German Natural Sciences Collections (DCOLL),  consisting of seven natural history collections holding institutions integrated as a National Research Infrastructure*<xref ref-type="fn" rid="FN5192793">1</xref> performed a top-level description of the consortium's collections based on a subset of the criteria defined by the One World Collection Working Group (OWC). OWC is based on an initiative of the directors of the world's largest Natural Science Collections and aims at making collections and ressource allocations comparable. Categories relating to the staff structure of institutions were omitted, as those were considered sensitive and of little use for the purpose. The survey focused on collection size and geographical distribution only. Since some partners already had previously assembled the necessary data and since the OWC criteria are based on a reasonably high level, allowing the integration of heterogenous collections, the OWC dashboard presented an opportunity to achieve quick standardized results. However, as one purpose of the survey was to support decisions on the consortium's digitization strategy, arguably not the objective of OWC, a field to describe the digitization rate had to be added. Another shortcoming of the OWC dashboard for this purpose was the difficulty in subsuming some important sub-collections into the given criteria, namely digital collections (like animal sound archives) and non-biological or non-geological collections (e.g. historical objects and archives). On the positive side, the survey proved to be very helpful to indicate the consortium's collection focus in comparison with other institutions on an international level. This can provide valuable information for establishing an integrated collection development and digitization strategy on a supra-institutional level. It can be shown for example that 41% of the objects with origin from Europe in Natural Science Collections are held by DCOLL. While it may be possible to derive meaningful strategic goals from this information, it is a big challenge to implement practical objectives based on the same criteria. From a bottom-up perspective the OWC dashboard aggregates data, which were collected in a non-standardized form within institutions across organizational structures. Increasing the granularity from this level will result in an unreasonable effort. This presentation discusses the process of collecting information based on the OWC criteria and will present the collection structure of DCOLL.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>One World Collection</kwd>
+        <kwd>prioritization</kwd>
+        <kwd>digitization</kwd>
+        <kwd>DCOLL</kwd>
+        <kwd>research infrastructure</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Frederik Berger</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>I wish to thank all staff members of the DCOLL institutions who contributed to the survey in 2018.</p>
+    </ack>
+    <fn-group>
+      <fn id="FN5192793">
+        <label>*1</label>
+        <p>Members of the consortium are Botanischer Garten und Botanisches Museum (Berlin), Deutsche Sammlung von Mikroorganismen und Zellkulturen (Braunschweig), Museum für Naturkunde (Berlin),  Senckenberg Gesellschaft für Naturforschung (Frankfurt), Zoologisches Forschungsmuseum Alexander Koenig (Bonn), Staatliches Museum für Naturkunde (Stuttgart), Staatliche Naturwissenschaftliche Sammlungen Bayerns (München). The proposal is currently under revision by the German Ministry for Education and Research for inclusion onto the Roadmap for Research Infrastructures.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

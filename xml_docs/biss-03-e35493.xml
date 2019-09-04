@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35493</article-id>
+      <article-id pub-id-type="publisher-id">35493</article-id>
+      <article-id pub-id-type="manuscript">11217</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI33 - Improving access to hidden scientific data in the Biodiversity Heritage Library</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>It’s Not Always FAIR: Choosing the Best Platform for Your Biodiversity Heritage Literature</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kearney</surname>
+            <given-names>Nicole</given-names>
+          </name>
+          <email xlink:type="simple">nkearney@museum.vic.gov.au</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2883-0906</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Biodiversity Heritage Library Australia, Melbourne, Australia</addr-line>
+        <institution>Biodiversity Heritage Library Australia</institution>
+        <addr-line content-type="city">Melbourne</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nicole Kearney (<email xlink:type="simple">nkearney@museum.vic.gov.au</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35493</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/EC2A155C16BB5BC1A6D04F816065A873">EC2A155C16BB5BC1A6D04F816065A873</uri>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nicole Kearney</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The <ext-link ext-link-type="uri" xlink:href="http://www.biodiversitylibrary.org/">Biodiversity Heritage Library (BHL)</ext-link> is a global consortium of over 460 contributors who have specifically chosen the BHL as the online platform to host their digitised biodiversity heritage literature. In 2018, staff from <ext-link ext-link-type="uri" xlink:href="https://www.biodiversitylibrary.org/collection/bhlau">BHL Australia</ext-link> (a project funded by the <ext-link ext-link-type="uri" xlink:href="https://www.ala.org.au/">Atlas of Living Australia</ext-link> and hosted by <ext-link ext-link-type="uri" xlink:href="https://museumsvictoria.com.au/">Museums Victoria</ext-link>) travelled across the Tasman Sea to work with the <ext-link ext-link-type="uri" xlink:href="http://www.aucklandmuseum.com/">Auckland War Memorial Museum (Tāmaki Paenga Hira)</ext-link> to start a new branch of the BHL – BHL New Zealand.</p>
+        <p>The Auckland War Memorial Museum has a novel approach when it comes to its own online content. They believe that the best way to amplify their collections is not via their own website, but via external collaborations. Acknowledging that their own website cannot best serve the many different types of content they curate and create, they seek the external platforms that can – platforms that have the specific functionality required to make each type of content findable, accessible, interoperable and reusable (FAIR), and that will reach and impact the greatest audience.</p>
+        <p>When the Auckland Museum was seeking the best platform for their biodiversity heritage literature, they were attracted by the BHL’s functionality (such as <ext-link ext-link-type="uri" xlink:href="https://blog.biodiversitylibrary.org/2018/05/announcing-full-text-search-on-bhl.html">Full Text Search</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://about.biodiversitylibrary.org/ufaqs/what-is-optical-character-recognition-ocr-and-how-does-bhl-use-it/">Optical Character Recognition</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://about.biodiversitylibrary.org/ufaqs/how-are-scientific-names-identified-throughout-the-bhl-corpus/">Global Names Recognition and Discovery</ext-link>); the extended discoverability and interoperability enabled via the BHL’s partnerships (such as with the <ext-link ext-link-type="uri" xlink:href="https://eol.org/">Encyclopedia of Life</ext-link>, the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">Global Biodiversity Information Facility</ext-link>, and the <ext-link ext-link-type="uri" xlink:href="https://cetaf.org/">Consortium of European Taxonomic Facilities</ext-link>); and BHL’s massive audience.</p>
+        <p>However, the BHL is not the only platform hosting biodiversity heritage literature. Commercial publishers are rapidly uploading the back issues of the journals they host. There are now thousands of out-of-copyright journal articles on websites such as <ext-link ext-link-type="uri" xlink:href="https://onlinelibrary.wiley.com/">Wiley Online Library</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://www.tandfonline.com/">Taylor &amp; Francis Online</ext-link>. Historic literature is not the primary focus for these publishers, but the functionality they provide for journal articles has brought the historic publications they host into the modern linked network of scholarly research. Every article on their websites, whether it was published 200 years ago or today, receives a Digital Object Identifier (a DOI).</p>
+        <p>A DOI is a unique permanent identifier assigned to a piece of online content (usually) at the time of its publication – a persistent link that should be included in every citation of that piece of content. In an ideal world, the DOI system would enable readers to link from article to article in a never-ending trail of knowledge. However, a significant proportion of our historic literature still sits outside this linked network, representing dead ends (or at least annoying setbacks) in the quest for information. The other invaluable benefit of DOIs is that they provide citation metrics, allowing authors, publishers and institutions to track the use and impact of their publications.</p>
+        <p>The historic literature is the foundation upon which our understanding of biodiversity is based. It is critical that this foundation is easily discoverable, openly accessible, persistently linkable and unambiguously trackable. The BHL – the world’s largest online library of biodiversity heritage literature – has an enormous role to play in ensuring that this literature is brought into the DOI system, and that publishers and researchers continue to have the option of an online platform that not only provides the best functionality for biodiversity heritage literature, but also open access to it.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>heritage literature</kwd>
+        <kwd>digital object identifiers</kwd>
+        <kwd>DOIs</kwd>
+        <kwd>persistent identifiers</kwd>
+        <kwd>open access</kwd>
+        <kwd>online publishing</kwd>
+        <kwd>scholarly research</kwd>
+        <kwd>journals</kwd>
+        <kwd>copyright</kwd>
+        <kwd>public domain</kwd>
+        <kwd>Biodiversity Heritage Library</kwd>
+        <kwd>BHL</kwd>
+        <kwd>findability</kwd>
+        <kwd>discoverability</kwd>
+        <kwd>accessibility</kwd>
+        <kwd>interoperability</kwd>
+        <kwd>reusability</kwd>
+        <kwd>FAIR</kwd>
+        <kwd>citations</kwd>
+        <kwd>bioinformatics</kwd>
+        <kwd>functionality</kwd>
+        <kwd>research</kwd>
+        <kwd>publishing</kwd>
+        <kwd>publishers</kwd>
+        <kwd>libraries</kwd>
+        <kwd>collections</kwd>
+        <kwd>metrics</kwd>
+        <kwd>impact</kwd>
+        <kwd>Australia</kwd>
+        <kwd>New Zealand</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Atlas of Living Australia</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nicole Kearney</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37078</article-id>
+      <article-id pub-id-type="publisher-id">37078</article-id>
+      <article-id pub-id-type="manuscript">11029</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST13 - Enhancing taxonomic publications for dynamic data exchange and navigation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mobilizing Data from Taxonomic Literature for an Iconic Species (Dinosauria, Theropoda, <italic>Tyrannosaurus rex</italic>)</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Miller</surname>
+            <given-names>Jeremy A.</given-names>
+          </name>
+          <email xlink:type="simple">jeremy.miller@naturalis.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8918-9775</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Braumuller</surname>
+            <given-names>Yanell</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kishor</surname>
+            <given-names>Puneet</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Shorthouse</surname>
+            <given-names>David Peter</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7618-5230</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dimitrova</surname>
+            <given-names>Mariya</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8083-6048</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sautter</surname>
+            <given-names>Guido</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Agosti</surname>
+            <given-names>Donat</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9286-1200</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">www.plazi.org, Bern, Switzerland</addr-line>
+        <institution>www.plazi.org</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Leiden University, Leiden, Netherlands</addr-line>
+        <institution>Leiden University</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Agriculture &amp; Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture &amp; Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Pensoft Publishers, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">IPD Böhm, Karlsruhe Institute of Technology, Karlsruhe, Germany</addr-line>
+        <institution>IPD Böhm, Karlsruhe Institute of Technology</institution>
+        <addr-line content-type="city">Karlsruhe</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jeremy A. Miller (<email xlink:type="simple">jeremy.miller@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37078</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2930E897457D54D9A3E756C2673B1622">2930E897457D54D9A3E756C2673B1622</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jeremy A. Miller, Yanell Braumuller, Puneet Kishor, David Peter Shorthouse, Mariya Dimitrova, Guido Sautter, Donat Agosti</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>A vast amount of biodiversity data is reported in the primary taxonomic literature. In the past, we have demonstrated the use of semantic enhancement to extract data from taxonomic literature and make it available to a network of databases (<xref ref-type="bibr" rid="B5163560">Miller et al. 2015</xref>). For technical reasons, semantic enhancement of taxonomic literature is most efficient when customized according to the format of a particular journal. This journal-based approach captures and disseminates data on whatever taxa happen to be published therein. But if we want to extract all treatments on a particular taxon of interest, these are likely to be spread across multiple journals. Fortunately, the GoldenGATE Imagine document editor (<xref ref-type="bibr" rid="B5163587">Sautter 2019</xref>) is flexible enough to parse most taxonomic literature.</p>
+        <p><italic>Tyrannosaurus rex</italic> is an iconic dinosaur with broad public appeal, as well as the subject of more than a century of scholarship. The Naturalis Biodiversity Center recently acquired a specimen that has become a major attraction in the public exhibit space. For most species on earth, the primary taxonomic literature contains nearly everything that is known about it. Every described species on earth is the subject of one or more taxonomic treatments. A taxon-based approach to semantic enhancement can mobilize all this knowledge using the network of databases and resources that comprise the modern biodiversity informatics infrastructure. When a particular species is of special interest, a taxon-based approach to semantic enhancement can be a powerful tool for scholarship and communication. In light of this, we resolved to semantically enhance all taxonomic treatments on <italic>T. rex</italic>. Our objective was to make these treatments and associated data available for the broad range of stakeholders who might have an interest in this animal, including professional paleontologists, the curious public, and museum exhibits and public communications personnel.</p>
+        <p>Among the routine parsing and data sharing activities in the Plazi workflow (<xref ref-type="bibr" rid="B5163577">Agosti and Egloff 2009</xref>), taxonomic treatments, as well as cited figures, are deposited in the Biodiversity Literature Repository (BLR), and occurrence records are shared with the Global Biodiversity Information Facility (GBIF). Treatment citations were enhanced with hyperlinks to the cited treatment on TreatmentBank, and specimen citations were linked to their entries on public facing collections databases. We used the OpenBiodiv biodiversity knowledge graph (<xref ref-type="bibr" rid="B5164175">Senderov et al. 2017</xref>) to discover other taxa mentioned together with <italic>T. rex</italic>, and to create a timeline of <italic>T. rex</italic> research to evaluate the impact of individual researchers and specimen repositories to <italic>T. rex</italic> research. We contributed treatment links to WikiData, and queried WikiData to discover identifiers to different platforms holding data about <italic>T. rex</italic>. We used <ext-link ext-link-type="uri" xlink:href="https://bloodhound-tracker.net/">bloodhound-tracker.net</ext-link> to disambiguate human agents, like collectors, identifiers, and authors. We evaluate the adequacy of the fields currently available to extract data from taxonomic treatments, and make recommendations for future standards.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jeremy A. Miller</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5163577">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Egloff</surname>
+              <given-names>Willi</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Taxonomic information exchange and copyright: the Plazi approach</article-title>
+          <source>BMC Research Notes</source>
+          <volume>2</volume>
+          <fpage>53</fpage>
+          <pub-id pub-id-type="doi">10.1186/1756-0500-2-53</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5163560">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Miller</surname>
+              <given-names>Jeremy A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>Guido</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Georgiev</surname>
+              <given-names>Teodor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Catapano</surname>
+              <given-names>Terry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Patterson</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>King</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pereira</surname>
+              <given-names>Serrano</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vos</surname>
+              <given-names>Rutger Aldo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sierra</surname>
+              <given-names>Soraya</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Integrating and visualizing primary data from prospective and legacy taxonomic literature.</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>3</volume>
+          <fpage>e5063</fpage>
+          <pub-id pub-id-type="doi">10.3897/BDJ.3.e5063</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5163587">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>GoldenGATE Imagine Document Editor</article-title>
+          <publisher-name>Plazi</publisher-name>
+          <uri>http://plazi.org/resources/treatmentbank/goldengate-editor/</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5164175">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Senderov</surname>
+              <given-names>Viktor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Georgiev</surname>
+              <given-names>Teodor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Catapano</surname>
+              <given-names>Terry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>Guido</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tuama</surname>
+              <given-names>Éamonn Ó</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>Nico</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Simov</surname>
+              <given-names>Kiril</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stoev</surname>
+              <given-names>Pavel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>OpenBiodiv: an Implementaion of a Semantic System Running on top of the Biodiversity Knowledge Graph</article-title>
+          <source>Proceedings of TDWG</source>
+          <volume>1</volume>
+          <fpage>e20084</fpage>
+          <uri>https://biss.pensoft.net/article/20084/list/8/</uri>
+          <pub-id pub-id-type="doi">10.3897/tdwgproceedings.1.20084</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

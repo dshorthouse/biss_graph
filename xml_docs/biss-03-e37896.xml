@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37896</article-id>
+      <article-id pub-id-type="publisher-id">37896</article-id>
+      <article-id pub-id-type="manuscript">11282</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>DiSSCo, iDigBio and the Future of Global Collaboration</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Nelson</surname>
+            <given-names>Gil</given-names>
+          </name>
+          <email xlink:type="simple">gnelson@floridamuseum.ufl.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7851-4445</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Paul</surname>
+            <given-names>Deborah L</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2639-7520</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, University of Florida, Gainesville, FL, United States of America</addr-line>
+        <institution>Florida Museum of Natural History, University of Florida</institution>
+        <addr-line content-type="city">Gainesville, FL</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Florida State University, Tallahassee, United States of America</addr-line>
+        <institution>Florida State University</institution>
+        <addr-line content-type="city">Tallahassee</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Gil Nelson (<email xlink:type="simple">gnelson@floridamuseum.ufl.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37896</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D7780365B80655B48661E7E4555995E0">D7780365B80655B48661E7E4555995E0</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Integrated Digitized Biocollections (<ext-link ext-link-type="uri" xlink:href="https://www.idigbio.org/">iDigBio)</ext-link> is the United States’ (US) national resource and coordinating center for biodiversity specimen digitization and mobilization. It was established in 2011 through the US National Science Foundation’s (NSF) Advancing Digitization of Biodiversity Collections (ADBC) program, an initiative that grew from a working group of museum-based and other biocollections professionals working in concert with NSF to make collections' specimen data accessible for science, education, and public consumption. The working group, Network Integrated Biocollections Alliance (NIBA), released two reports (<xref ref-type="bibr" rid="B5216370">Beach et al. 2010</xref>, <xref ref-type="bibr" rid="B5216394">American Institute of Biological Sciences 2013</xref>) that provided the foundation for iDigBio and ADBC.</p>
+        <p>iDigBio is restricted in focus to the ingestion of data generated by public, non-federal museum and academic collections. Its focus is on specimen-based (as opposed to observational) occurrence records. iDigBio currently serves about 118 million transcribed specimen-based records and 29 million specimen-based media records from approximately 1600 datasets. These digital objects have been contributed by about 700 collections representing nearly 400 institutions and is the most comprehensive biodiversity data aggregator in the US.</p>
+        <p>Currently, iDigBio, <ext-link ext-link-type="uri" xlink:href="https://www.dissco.eu/">DiSSCo</ext-link> (Distributed System of Scientific Collections), <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">GBIF</ext-link> (Global Biodiversity Information Facility), and the Atlas of Living Australia (<ext-link ext-link-type="uri" xlink:href="https://www.ala.org.au/">ALA</ext-link>) are collaborating on a global framework to harmonize technologies towards standardizing and synchronizing ingestion strategies, data models and standards, cyberinfrastructure, APIs (application programming interface), specimen record identifiers, etc. in service to a developing consolidated global data product that can provide a common source for the world’s digital biodiversity data. The collaboration strives to harness and combine the unique strengths of its partners in ways that ensure the individual needs of each partner’s constituencies are met, design pathways for accommodating existing and emerging aggregators, simultaneously strengthen and enhance access to the world’s biodiversity data, and underscore the scope and importance of worldwide biodiversity informatics activities. Collaborators will share technology strategies and outputs, align conceptual understandings, and establish and draw from an international knowledge base.</p>
+        <p>These collaborators, along with Biodiversity Information Standards (<ext-link ext-link-type="uri" xlink:href="https://tdwg.org">TDWG</ext-link>), will join iDigBio and the Smithsonian National Museum of Natural History as they host Biodiversity 2020 in Washington, DC. Biodiversity 2020 will combine an international celebration of the worldwide progress made in biodiversity data accessibility in the 21<sup>st</sup> century with a biodiversity data conference that extends the life of Biodiversity Next. It will provide a venue for the GBIF governing board meeting, TDWG annual meeting, and the annual iDigBio Summit as well as three days of plenary and concurrent sessions focused on the present and future of biodiversity data generation, mobilization, and use.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>DiSSCo</kwd>
+        <kwd>iDigBio</kwd>
+        <kwd>data aggregation</kwd>
+        <kwd>TDWG</kwd>
+        <kwd>GBIF</kwd>
+        <kwd>ALA</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Gil Nelson</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>iDigBio is funded by grants from the National Science Foundation's Advancing Digitization of Biodiversity Collections Program [DBI-1115210 (2011-2018) and DBI-1547229 (2016-2021)]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>iDigBio is funded by grants from the National Science Foundation's Advancing Digitization of Biodiversity Collections Program [DBI-1115210 (2011-2018) and DBI-1547229 (2016-2021)]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>iDigBio Phase 2</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5216394">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sciences</surname>
+              <given-names>American Institute of Biological</given-names>
+            </name>
+          </person-group>
+          <article-title>Implementation Plan for the Network Integrated Biocollections Alliance</article-title>
+          <uri>https://aibs.org/public-policy/NIBA_Implementation_Plan.pdf</uri>
+          <date-in-citation content-type="access-date">2019-04-21T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5216370">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Beach</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blum</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Donoghue</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ford</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mares</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thiers</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Westneat</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wheeler</surname>
+              <given-names>Q,.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wiegmann</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>The Network Integrated Biocollections Alliance. A Strategic Plan for Establishing a Network Integrated Biocollections Alliance</article-title>
+          <uri>https://digbiocol.wordpress.com/brochure</uri>
+          <date-in-citation content-type="access-date">2019-04-21T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

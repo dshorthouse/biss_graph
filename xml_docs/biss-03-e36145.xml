@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36145</article-id>
+      <article-id pub-id-type="publisher-id">36145</article-id>
+      <article-id pub-id-type="manuscript">11574</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Automatic Pollen Species Image Identification</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Polling</surname>
+            <given-names>Marcel</given-names>
+          </name>
+          <email xlink:type="simple">marcel.polling@naturalis.nl</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>De Boer</surname>
+            <given-names>Hugo J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Donders</surname>
+            <given-names>Timme</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Verbeek</surname>
+            <given-names>Fons J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gravendeel</surname>
+            <given-names>Barbara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Oslo, Natural History Museum, Oslo, Norway</addr-line>
+        <institution>University of Oslo, Natural History Museum</institution>
+        <addr-line content-type="city">Oslo</addr-line>
+        <country>Norway</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Utrecht, Utrecht, Netherlands</addr-line>
+        <institution>University of Utrecht</institution>
+        <addr-line content-type="city">Utrecht</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Leiden Institute for Advanced Computer Science, Leiden University, Leiden, Netherlands</addr-line>
+        <institution>Leiden Institute for Advanced Computer Science, Leiden University</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Marcel Polling (<email xlink:type="simple">marcel.polling@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36145</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/79C7A34F1FBF577A9E9CF8C7E119FB4B">79C7A34F1FBF577A9E9CF8C7E119FB4B</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Marcel Polling, Hugo J. De Boer, Timme Donders, Fons J. Verbeek, Barbara Gravendeel</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Recent data shows increasing numbers of hay fever patients, with approximately 10-30% of the population affected worldwide (<xref ref-type="bibr" rid="B5224225">Pawankar et al. 2011</xref>). This increase is most likely caused by prolonged and intensified pollen seasons which in turn have been linked to increased CO<sub>2 </sub>concentrations (<xref ref-type="bibr" rid="B5224235">Ziska et al. 2003</xref>, <xref ref-type="bibr" rid="B5224201">D'Amato et al. 2007</xref>, <xref ref-type="bibr" rid="B5224189">Albertine et al. 2014</xref>). Apart from this, especially in cities, the so-called ‘heat island effect’ enables exotic plant species to establish themselves there. In the Netherlands alone, six new species settle in cities on a yearly basis and some of these are severely allergenic (<xref ref-type="bibr" rid="B5224216">Denters 2004</xref>). Pollen concentrations in the air are currently monitored using pollen samplers that collect pollen on sticky traps. These are checked manually under the microscope, a process that requires highly trained specialists. Moreover, microscopic pollen identification rarely allows discrimination of pollen types at species or even genus level even though the allergenicity may be very different. While there has been progress in automating the microscope using machine learning, automatic microscopes have not been able to systematically identify pollen to the species level. We designed an automated approach identify a predefined set of pollen on microscopic pollen samples. We use 2D light microscope images and a confocal fluorescence microscope for 3D images to create a reference dataset of highly similar pollen species to train automated image recognition software, and compare the results. The most accurate method will be used to apply to a pollen sample time series (1970-present) to find trends in allergenic pollen species over time. Here I present the first results of this research and the challenges to overcome.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>convolutional neural networks</kwd>
+        <kwd>hay fever</kwd>
+        <kwd>machine learning</kwd>
+        <kwd>pollen</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>H2020 MSCA-ITN-ETN Plant.ID. Horizon 2020 research and innovation programme</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Marcel Polling</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>H2020 MSCA-ITN-ETN Plant.ID. European Union Horizon 2020 research and innovation programme</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Naturalis Biodiversity Center</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>H2020 MSCA-ITN-ETN Plant.ID. European Union Horizon 2020 research and innovation programme</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>Grant Agreement No 765000</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Naturalis Biodiversity Center</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5224189">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Albertine</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Manning</surname>
+              <given-names>W. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>DaCosta</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stinson</surname>
+              <given-names>K. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Muilenberg</surname>
+              <given-names>M. L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rogers</surname>
+              <given-names>C. A.</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Projected carbon dioxide to increase grass pollen and allergen exposure despite higher ozone levels</article-title>
+          <source>PLoS One</source>
+          <volume>9</volume>
+          <issue>11</issue>
+          <uri>https://www.ncbi.nlm.nih.gov/pubmed/25372614</uri>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0111712</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5224201">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>D'Amato</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cecchi</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bonini</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nunes</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Annesi-Maesano</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Behrendt</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Liccardi</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Popov</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Cauwenberge</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Allergenic pollen and pollen allergy in Europe</article-title>
+          <source>Allergy</source>
+          <volume>62</volume>
+          <issue>9</issue>
+          <fpage>976</fpage>
+          <lpage>90</lpage>
+          <uri>https://www.ncbi.nlm.nih.gov/pubmed/17521313</uri>
+          <pub-id pub-id-type="doi">10.1111/j.1398-9995.2007.01393.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5224216">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Denters</surname>
+              <given-names>Ton</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <source>Stadsplanten: velgids voor de stad</source>
+          <publisher-name>Fontaine Uitgevers</publisher-name>
+          <isbn>9059560752</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5224225">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pawankar</surname>
+              <given-names>Ruby</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Canonica</surname>
+              <given-names>GW</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holgate</surname>
+              <given-names>ST</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lockey</surname>
+              <given-names>RF</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>World Allergy Organization (WAO) white book on allergy</article-title>
+          <source>Wisconsin: World Allergy Organisation</source>
+        </element-citation>
+      </ref>
+      <ref id="B5224235">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ziska</surname>
+              <given-names>L. H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gebhard</surname>
+              <given-names>D. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Frenz</surname>
+              <given-names>D. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Faulkner</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Singer</surname>
+              <given-names>B. D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Straka</surname>
+              <given-names>J. G.</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Cities as harbingers of climate change: Common ragweed, urbanization, and public health</article-title>
+          <source>Journal of Allergy and Clinical Immunology</source>
+          <volume>111</volume>
+          <issue>2</issue>
+          <fpage>290</fpage>
+          <lpage>295</lpage>
+          <uri>&lt;Go to ISI&gt;://WOS:000180942700011</uri>
+          <pub-id pub-id-type="doi">10.1067/mai.2003.53</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

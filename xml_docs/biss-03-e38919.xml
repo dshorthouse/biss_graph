@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38919</article-id>
+      <article-id pub-id-type="publisher-id">38919</article-id>
+      <article-id pub-id-type="manuscript">11459</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST69 - Machine Observations Interest Group: A first dive into Darwin Core for exchanging biologging data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Lessons from the First Year of the International Bio-Logging Society’s Data Standardisation Working Group</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Newman</surname>
+            <given-names>Peggy</given-names>
+          </name>
+          <email xlink:type="simple">peggydnewman@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Cagnacci</surname>
+            <given-names>Francesca</given-names>
+          </name>
+          <email xlink:type="simple">francesca.cagnacci@fmach.it</email>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Davidson</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <email xlink:type="simple">sdavidson@orn.mpg.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2766-9201</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Atlas of Living Australia, Canberra, Australia</addr-line>
+        <institution>Atlas of Living Australia</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Fondazione Edmund Mach IASMA, Trento, Italy</addr-line>
+        <institution>Fondazione Edmund Mach IASMA</institution>
+        <addr-line content-type="city">Trento</addr-line>
+        <country>Italy</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Max Planck Institute for Ornithology, Radolfzell, Germany</addr-line>
+        <institution>Max Planck Institute for Ornithology</institution>
+        <addr-line content-type="city">Radolfzell</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">The Ohio State University, Columbus, United States of America</addr-line>
+        <institution>The Ohio State University</institution>
+        <addr-line content-type="city">Columbus</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Peggy Newman (<email xlink:type="simple">peggydnewman@gmail.com</email>), Francesca Cagnacci (<email xlink:type="simple">francesca.cagnacci@fmach.it</email>), Sarah Davidson (<email xlink:type="simple">sdavidson@orn.mpg.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38919</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/6E13290EFF025697949FEAC4ACA9DABD">6E13290EFF025697949FEAC4ACA9DABD</uri>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>08</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Peggy Newman, Francesca Cagnacci, Sarah Davidson</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Data Standardisation Working Group pursues the recently formed <ext-link ext-link-type="uri" xlink:href="https://www.bio-logging.net/">International Bio-Logging Society's</ext-link> (IBioLS) objective “to progress standardisation of data protocols used within the bio-logging community, with a view to making databases interoperable”. During 2017 and 2018, the group has garnered a lot of interest across the sector from well over 200 colleagues with broad international representation from device manufacturers, researchers, biodiversity data experts and bio-logging database managers.</p>
+        <p>Through a series of remote meetings, the group has explored a range of existing, relevant standards, projects and platforms that could be leveraged to facilitate data decoding, exchange, archiving and discoverability.</p>
+        <p>This presentation will highlight some of the research and examples discussed by the group including the Open Geospatial Consortium (<ext-link ext-link-type="uri" xlink:href="http://www.opengeospatial.org/">OGC</ext-link>) and <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/standards/">W3C</ext-link> sensor-based standards that are being adopted in similar sectors, <ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/">Darwin Core</ext-link> and the <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.3897/BDJ.5.e10989">OBIS-ENV-DATA</ext-link> Darwin Core format as a way to define completed datasets, NASA’s Oceanographic In-situ data Interoperability Project (<ext-link ext-link-type="uri" xlink:href="https://oiip.jpl.nasa.gov/">OIIP</ext-link>), which developed prototype templates for biologging data, and the <ext-link ext-link-type="uri" xlink:href="http://vocab.nerc.ac.uk/">NERC Vocabulary Server</ext-link> for managing persistent terms.</p>
+        <p>Considerable challenges ahead lie in resourcing the development of standards, enabling technical leadership, and negotiating governance and consensus in a domain where most of the stakeholders participate in a common market as either manufacturers or consumers of sensor infrastructure.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Peggy Newman</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

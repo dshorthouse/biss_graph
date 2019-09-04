@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37760</article-id>
+      <article-id pub-id-type="publisher-id">37760</article-id>
+      <article-id pub-id-type="manuscript">11033</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Accelerating Digitisation of Biological Collections: the Coimbra Herbarium case study</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Santos</surname>
+            <given-names>Joaquim</given-names>
+          </name>
+          <email xlink:type="simple">joaquimsantos@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2160-4968</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sales</surname>
+            <given-names>Fátima</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rupino</surname>
+            <given-names>Paulo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Centre for Functional Ecology, Coimbra, Portugal</addr-line>
+        <institution>Centre for Functional Ecology</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">CISUC, Department of Informatics Engineering, University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>CISUC, Department of Informatics Engineering, University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Joaquim Santos (<email xlink:type="simple">joaquimsantos@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37760</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/6EF8333C264A574BA663A715B8EF7D59">6EF8333C264A574BA663A715B8EF7D59</uri>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Joaquim Santos, Fátima Sales, Paulo Rupino</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Hebaria are biological collections of preserved plants, algae, fungi and lichens used for scientific purposes. Fast communication and information exchange are fundamental to accelerate the investigation on biodiversity. The major world herbaria are concentrating efforts to digitise their collections and making available the information online.</p>
+        <p>Over the last decade, the Herbarium of the University of Coimbra (COI – acronym in <italic>Index Herbariorum</italic>) has made efforts to make available online the information of its plant collection of c. 800,000 specimens (http://coicatalogue.uc.pt). However, only c. 10% is processed to this date, in part due to the slowness of the methods generally used in herbaria. This work is a contribution to accelerating the digitising process, both by improving digitising procedures and by involving citizens in populating COI database.</p>
+        <p>To accomplish that, a new workflow was developed to automatically create records in the database from batches of digital images with minimum information, plus a collaborative platform was developed to allow the transcription of specimen labels from digital images in a web environment.</p>
+        <p>Creating records from the images benefits from the physical organisation of the herbarium, with specimens grouped in taxon folders. This way, when taking pictures of a set of specimens, it is possible to store them in folders with the name of the taxon. A script will then read the name of the folder and check in the database if each ranking of the taxon exists on the taxon tree (genus, species, infraspecific ranks), and in case it does not, it creates one, and then it creates a record based on each of the specimens inside that folder assigning a determination to it.</p>
+        <p>The collaborative application (<ext-link ext-link-type="uri" xlink:href="http://coicatalogue.uc.pt/collaborative">http://coicatalogue.uc.pt/collaborative</ext-link>) has innovative features, such as displaying forms sequentially, revealing only one field at a time (Fig. <xref ref-type="fig" rid="F5167408">1</xref>). But the most differentiating feature is probably the process of validation for submitted values. Registered users are included under a category, according to their contribution history. Contributors can be upgraded to the next level when they submit a certain number of validated fields. Therefore, there is a progression based on proficiency, allowing users to become familiar with the specimen information system as they use the platform and, simultaneously, it attributes a confidence level to users. This can be used to validate data, assigning a confidence value to a submission, based on user status (points system). Validation of values submitted by users is obtained when the sum of points for a concurrent value meets a threshold, so a single answer from an expert user could be enough to get validation but would require five basic users submitting the same value to be accepted (Table <xref ref-type="table" rid="T5167405">1</xref>).</p>
+        <p>Although collateral, there is a major, and unique, advantage to this project. The collaborative application can be used as a tool to make corrections to the herbarium database, easily and directly online. This quickly improves the database as such effortless procedure increases this kind of contributions.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>collaborative applications</kwd>
+        <kwd>digitising herbaria</kwd>
+        <kwd>automate databasing processes</kwd>
+        <kwd>specimen annotation</kwd>
+        <kwd>community data editing</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="1"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Joaquim Santos</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Herbarium of the University of Coimbra</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Herbarium of the University of Coimbra</p>
+    </sec>
+  </back>
+  <floats-group>
+    <fig id="F5167408" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Collaborative application in specimen view, showing the image and the form side-by-side.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37760-g001.png" position="float" id="oo_276757.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <table-wrap id="T5167405" position="float" orientation="portrait">
+      <label>Table 1.</label>
+      <caption>
+        <p>Collaborative application: user categories and roles.</p>
+      </caption>
+      <table rules="all" border="1" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <bold>Role</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Category</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Description</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Accepted submissions required</bold>
+            </td>
+            <td rowspan="1" colspan="1">
+              <bold>Points attributed to each submission</bold>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="5" colspan="1">CONTRIBUTOR</td>
+            <td rowspan="1" colspan="1">Basic</td>
+            <td rowspan="1" colspan="1">First time user. Fields displayed are restricted.</td>
+            <td rowspan="1" colspan="1">0</td>
+            <td rowspan="1" colspan="1">10</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Beginner</td>
+            <td rowspan="1" colspan="1">More fields are displayed, but some are restricted.</td>
+            <td rowspan="1" colspan="1">10</td>
+            <td rowspan="1" colspan="1">20</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Competent</td>
+            <td rowspan="1" colspan="1">More fields are displayed, but some are restricted.</td>
+            <td rowspan="1" colspan="1">50</td>
+            <td rowspan="1" colspan="1">30</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Advanced</td>
+            <td rowspan="1" colspan="1">More fields are displayed, but some are restricted.</td>
+            <td rowspan="1" colspan="1">100</td>
+            <td rowspan="1" colspan="1">40</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Expert</td>
+            <td rowspan="1" colspan="1">Can submit all fields.</td>
+            <td rowspan="1" colspan="1">500</td>
+            <td rowspan="1" colspan="1">50</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">ADMINISTRATOR</td>
+            <td rowspan="1" colspan="1">Administrator</td>
+            <td rowspan="1" colspan="1">Can perform all tasks above, data management (submission approval).</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">50</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">ROOT</td>
+            <td rowspan="1" colspan="1">Root</td>
+            <td rowspan="1" colspan="1">Can perform all tasks above, administrator management, specimen management.</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">50</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37504</article-id>
+      <article-id pub-id-type="publisher-id">37504</article-id>
+      <article-id pub-id-type="manuscript">11669</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>From Leaf to Label: A robust automated workflow for stomata detection</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Meeus</surname>
+            <given-names>Sofie</given-names>
+          </name>
+          <email xlink:type="simple">sofie.meeus@plantentuinmeise.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0715-8647</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wyffels</surname>
+            <given-names>Francis</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5491-8349</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Van den Bulcke</surname>
+            <given-names>Jan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Ghent University, Ghent, Belgium</addr-line>
+        <institution>Ghent University</institution>
+        <addr-line content-type="city">Ghent</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sofie Meeus (<email xlink:type="simple">sofie.meeus@plantentuinmeise.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37504</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/65AA4CB80E515923BD5B33DD8CA26D73">65AA4CB80E515923BD5B33DD8CA26D73</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sofie Meeus, Francis Wyffels, Jan Van den Bulcke</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Leaf stomata are microscopic pores on the leaves of plants which control the balance between water loss and CO<sub>2</sub> uptake by the plant. As plants adapt their stomatal traits in response to environmental parameters such as water availability, temperature and atmospheric carbon dioxide concentrations, stomatal size and density of preserved leaves have allowed for reconstruction of past climates. Stomata serve as ‘gates’ between deep-soil water reservoirs and the atmosphere and are a key determinant of transpiration in models for operational predictions of the near-climate. It is well known that stomatal size and density vary widely across plant species and even though efforts have mapped stomatal behavior globally, more detail is needed as including more interspecific trait variation in climate models could significantly reduce the error in model predictions. Despite their important function, no standardized methodology has yet been described to measure stomatal traits which is widely considered to be labour-intensive and time-consuming and to this day mostly performed manually.</p>
+        <p>Herbaria contain a treasure of unique ecological data covering large temporal scales. We used the African Herbarium of Meise Botanic Garden which contains over 1.2 million African specimens with a very good coverage of the Congo Basin (dating back to 1880) to develop a workflow for extracting stomatal trait data starting from the herbarium specimen, involving the automatic detection of stomata using a deep learning approach. The purpose of developing this workflow is to generate a large amount of data on stomatal traits on an easy, cost- and time- efficient manner. Here, we will present the leaf-to-label workflow and demonstrate how it was used to study the effect of global change on leaf adaptation in central African rainforest over the past 100 years. </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Herbaria</kwd>
+        <kwd>deep learning</kwd>
+        <kwd>stomata</kwd>
+        <kwd>Meise Botanic Garden</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sofie Meeus</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

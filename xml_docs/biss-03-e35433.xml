@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35433</article-id>
+      <article-id pub-id-type="publisher-id">35433</article-id>
+      <article-id pub-id-type="manuscript">10966</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Automatizing the Detection of Erroneous Species Occurrence Records</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jimenez Rosenberg</surname>
+            <given-names>Raul G</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sierra-Alcocer</surname>
+            <given-names>Raul</given-names>
+          </name>
+          <email xlink:type="simple">raul.sierra@conabio.gob.mx</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6686-2266</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), Mexico City, Mexico</addr-line>
+        <institution>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</institution>
+        <addr-line content-type="city">Mexico City</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Raul Sierra-Alcocer (<email xlink:type="simple">raul.sierra@conabio.gob.mx</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35433</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/41A613E0E2BC5E11A3392E68C3A8B80D">41A613E0E2BC5E11A3392E68C3A8B80D</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Raul G Jimenez Rosenberg, Raul Sierra-Alcocer</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The work involved in checking millions of records by hand is hard and requires thousands of human hours. At the increasing rate at which we are collecting new data from different sources with a wide range of 'quality', the problem is getting worse. An institution like CONABIO (National Commission for the Knowledge and Use of Biodiversity, Mexico) dedicates a large amount of human resources to review species records to ensure that data published by the institution has high quality. At CONABIO we are designing a system to help us direct our attention to the most problematic data.</p>
+        <p>Our methodology (<xref ref-type="bibr" rid="B5183654">Stephens et al. 2019</xref>) scores a species record according to the features of its location, and it labels it as suspicious if it has a low score. A low score means that the features of the location are unusual for that species. The features of locations are the set of abiotic, like climate and topographic charactersitics and occurrences of other species in the location. Although this does not mean that a record is wrong, it may be an indicator that a record needs to be assessed.</p>
+        <p>The system we are designing works in two scenarios: in one, it scores new data based on parameters adjusted from validated data; in the second, the system checks for consistency in the database, that is, it flags records of a species that seem like outliers according to the predominant records distribution for that species. Our initial tests show that we could speed up the detection process for some problematic records. In one of our tests, where we used data that were previously labeled by hand, the method flagged 624 records, out of which 70 were confirmed as incorrect data. If we look only at the precision of the results it might seem like a poor performance, however if we look at the amount of work it might save us, it looks promising because to find the same number of inaccurate records without any assistance we would have had to review almost 5,000 records.</p>
+        <p>This talk is a proof of concept for this system, and details on our initial results, reviewing both weaknesses and strengths. </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data cleaning</kwd>
+        <kwd>species occurrence records</kwd>
+        <kwd>statistical tools</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Raul Sierra-Alcocer</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5183654">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stephens</surname>
+              <given-names>Christopher R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sierra-Alcocer</surname>
+              <given-names>Raúl</given-names>
+            </name>
+            <name name-style="western">
+              <surname>González-Salazar</surname>
+              <given-names>Constantino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barrios</surname>
+              <given-names>Juan M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Salazar Carrillo</surname>
+              <given-names>Juan Carlos</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robredo Ezquivelzeta</surname>
+              <given-names>Everardo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>del Callejo Canal</surname>
+              <given-names>Enrique</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>SPECIES: A platform for the exploration of ecological data</article-title>
+          <source>Ecology and Evolution</source>
+          <volume>9</volume>
+          <issue>4</issue>
+          <fpage>1638</fpage>
+          <lpage>1653</lpage>
+          <pub-id pub-id-type="doi">10.1002/ece3.4800</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

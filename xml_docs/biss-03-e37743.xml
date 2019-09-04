@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37743</article-id>
+      <article-id pub-id-type="publisher-id">37743</article-id>
+      <article-id pub-id-type="manuscript">11685</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Flora Prepper: Preparing floras for morphological parsing and integration</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Pender</surname>
+            <given-names>Jocelyn</given-names>
+          </name>
+          <email xlink:type="simple">pender.jocelyn@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0548-9418</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Agriculture and Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture and Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jocelyn Pender (<email xlink:type="simple">pender.jocelyn@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37743</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/C7F3E0CB199257CCAE21B4EBA4E0494F">C7F3E0CB199257CCAE21B4EBA4E0494F</uri>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The increased availability of digital floras and the application of optical character recognition (OCR) to digitized texts has resulted in exciting opportunities for flora data mining. For example, the software package CharaParser has been developed for the semantic annotation of morphological descriptions from taxonomic treatments (<xref ref-type="bibr" rid="B5192869">Cui 2012</xref>). However, after digitization and OCR processing and before parsing of morphological treatments can begin, content types must be annotated (i.e., text represents names, morphology, discussion or distribution). In addition to enabling morphological parsing, content type annotation also facilitates content search and data linkage. For example, by annotating pieces of a floral treatment, assertions from various floras of the same type can be combined into a single document (i.e., a "mash-up" floral treatment). Several products and pipelines have been developed for the semantic annotation, or mark-up, of taxonomic documents (e.g., GoldenGATE, FlorML; <xref ref-type="bibr" rid="B5192906">Sautter et al. 2012</xref>, <xref ref-type="bibr" rid="B5192894">Hamann et al. 2014</xref>). However, these products lack a combination of both ease of implementation (e.g., the ability to run as a script in a programmatic workflow) and the use of modern parsing methods, such as text mining and Natural Language Processing (NLP) approaches.</p>
+        <p>Here I present a pilot project implementing text mining and NLP approaches to marking-up floras implemented in Python. I will describe the success of the project, and summarize lessons learned, especially in relation to previous flora markup projects. Annotation of existing flora documents is an essential step towards building next-generation floras (i.e., mash-ups and enhanced floras as platforms) and enables automated trait extraction. Building an easy-to-use access point to modern text mining and NLP techniques for botanical literature will allow for more flexible and responsive flora annotation, and is an important step towards realizing botanical data integration goals.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Flora</kwd>
+        <kwd>text mining</kwd>
+        <kwd>natural language processing</kwd>
+        <kwd>Python</kwd>
+        <kwd>annotation</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jocelyn Pender</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5192869">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Cui</surname>
+              <given-names>Hong</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>CharaParser for fine-grained semantic annotation of organism morphological descriptions</article-title>
+          <source>Journal of the American Society for Information Science and Technology</source>
+          <volume>63</volume>
+          <issue>4</issue>
+          <fpage>738</fpage>
+          <lpage>754</lpage>
+          <pub-id pub-id-type="doi">10.1002/asi.22618</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192894">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hamann</surname>
+              <given-names>Thomas D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roos</surname>
+              <given-names>Marinus C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sosef</surname>
+              <given-names>Marc</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smets</surname>
+              <given-names>Erik</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Detailed mark-up of semi-monographic legacy taxonomic works using FlorML</article-title>
+          <source>Taxon</source>
+          <volume>63</volume>
+          <issue>2</issue>
+          <fpage>377</fpage>
+          <lpage>393</lpage>
+          <pub-id pub-id-type="doi">10.12705/632.11</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192906">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>Guido</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Böhm</surname>
+              <given-names>Klemens</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>Semi-automated XML markup of biosystematic legacy literature with the GoldenGate editor</article-title>
+          <source>Biocomputing 2007</source>
+          <pub-id pub-id-type="doi">10.1142/9789812772435_0037</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37356</article-id>
+      <article-id pub-id-type="publisher-id">37356</article-id>
+      <article-id pub-id-type="manuscript">11568</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI10 - How does Wikimedia Solve the Problems of Biodiversity Informatics?</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>If Wikipedia is the Gateway to Biodiversity Knowledge, How do we Open the Gate?</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kearney</surname>
+            <given-names>Nicole</given-names>
+          </name>
+          <email xlink:type="simple">nkearney@museum.vic.gov.au</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2883-0906</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Biodiversity Heritage Library Australia, Melbourne, Australia</addr-line>
+        <institution>Biodiversity Heritage Library Australia</institution>
+        <addr-line content-type="city">Melbourne</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nicole Kearney (<email xlink:type="simple">nkearney@museum.vic.gov.au</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37356</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F2A9BF4B2E28547294520B5E439BEF65">F2A9BF4B2E28547294520B5E439BEF65</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nicole Kearney</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Wikipedia may have become the world’s principal source of information, but it is not a reliable source. Wikipedia itself is quite explicit on this point. The Wikipedia article entitled <italic><ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_not_a_reliable_source">Wikipedia is not a reliable source</ext-link></italic> clearly states that, because Wikipedia can be edited by anyone, at any time, “any information it contains at any particular time could be vandalism, a work in progress, or just plain wrong” (<xref ref-type="bibr" rid="B5219609">Wikipedia 2019a</xref>).</p>
+        <p><styled-content style="font-size: 1em;">Despite this, Wikipedia continues to gain status as a trusted authority on, well, everything. It does not, however, have authority on its own; it has authority because it links to authoritative sources. Wikipedia’s </styled-content> <italic><ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/Wikipedia:Verifiability">Verifiability</ext-link></italic> <styled-content style="font-size: 1em;">policy (<xref ref-type="bibr" rid="B5219636">Wikipedia 2019b</xref>) states that:</styled-content></p>
+        <p>
+          <list list-type="order"><list-item><p>all material in its articles should be “attributable to reliable and published sources”; and</p></list-item><list-item><p>all quotations and any material likely to be challenged “must be supported by inline citations”.</p></list-item></list>
+        </p>
+        <p>This does not mean that Wikipedia is always right; rather (according to the Wikipedia article <italic><ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_wrong">Wikipedia is wrong</ext-link></italic>) that “the threshold for inclusion in Wikipedia is verifiability, not truth” (<xref ref-type="bibr" rid="B5219672">Wikipedia 2019c</xref>).</p>
+        <p>What this does mean is that Wikipedia is riddled with citations to the primary literature. Thus, articles about the world’s species reference taxonomic descriptions (and subsequent revisions), as well as scientific papers about physiology, evolution, behaviour, ecology, conservation, etc. In order “to facilitate the verification of sourced statements”, Wikipedia’s <italic><ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/Wikipedia:Scientific_citation_guidelines#Citation_format">Scientific Citation Guidelines</ext-link></italic> encourage editors to, wherever possible, include links to scientific articles in the form of DOIs (Digital Object Identifiers) (<xref ref-type="bibr" rid="B5219681">Wikipedia 2019d</xref>).</p>
+        <p>A DOI is a unique, permanent and persistent identifier that is assigned to a fixed piece of online content (usually) at the time of its publication. The DOI system creates a reciprocal linked network of scholarly publications that allows researchers to click from article to article in a never-ending trail of knowledge (whether those articles are in scientific journals or on Wikipedia). This linked network functions seamlessly for modern scientific publications, because DOIs have been almost universally adopted by scientific publishers. But issues arise when it comes to linking to historic publications.</p>
+        <p>Historic literature is the foundation upon which our understanding of biodiversity is based. If Wikipedia is the world’s gateway to that literature, Wikipedia editors must be able to find it and link to it. This presentation will discuss the complexities involved in linking from Wikipedia to the legacy scientific literature, particularly the availability of that literature online, the difference between easy and open access, and what the bioinformatics community can do to help.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Wikipedia</kwd>
+        <kwd>Digital Object Identifiers</kwd>
+        <kwd>DOIs</kwd>
+        <kwd>persistent identifiers</kwd>
+        <kwd>citations</kwd>
+        <kwd>publications</kwd>
+        <kwd>online publishing</kwd>
+        <kwd>scientific publications</kwd>
+        <kwd>scholarly publishing</kwd>
+        <kwd>open access</kwd>
+        <kwd>paywalls</kwd>
+        <kwd>historic literature</kwd>
+        <kwd>legacy literature</kwd>
+        <kwd>copyright</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>bioinformatics</kwd>
+        <kwd>authority control</kwd>
+        <kwd>sources</kwd>
+        <kwd>references</kwd>
+        <kwd>verifiability</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nicole Kearney</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiveristy_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5219609">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wikipedia</surname>
+            </name>
+          </person-group>
+          <article-title>Wikipedia is not a reliable source</article-title>
+          <uri>https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_not_a_reliable_source</uri>
+          <date-in-citation content-type="access-date">2019-04-17T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5219636">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wikipedia</surname>
+            </name>
+          </person-group>
+          <article-title>Verifiability</article-title>
+          <uri>https://en.wikipedia.org/wiki/Wikipedia:Verifiability</uri>
+          <date-in-citation content-type="access-date">2019-04-17T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5219672">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wikipedia</surname>
+            </name>
+          </person-group>
+          <article-title>Wikipedia is wrong</article-title>
+          <uri>https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_wrong</uri>
+          <date-in-citation content-type="access-date">2019-04-17T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5219681">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wikipedia</surname>
+            </name>
+          </person-group>
+          <article-title>Scientific citation guidelines</article-title>
+          <uri>https://en.wikipedia.org/wiki/Wikipedia:Scientific_citation_guidelines#Citation_format</uri>
+          <date-in-citation content-type="access-date">2019-04-17T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

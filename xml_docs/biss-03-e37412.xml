@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37412</article-id>
+      <article-id pub-id-type="publisher-id">37412</article-id>
+      <article-id pub-id-type="manuscript">11615</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI20 - Semantic Annotation of Collection Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>From Data to Knowledge: A semantic knowledge graph application for curating specimen data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Grobe</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <email xlink:type="simple">p.grobe@leibniz-zfmk.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4991-5781</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Baum</surname>
+            <given-names>Roman</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5246-9351</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bhatty</surname>
+            <given-names>Philipp</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Köhler</surname>
+            <given-names>Christian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Meid</surname>
+            <given-names>Sandra</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Quast</surname>
+            <given-names>Björn</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3760-5834</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vogt</surname>
+            <given-names>Lars</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8280-0487</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Zoological Research Museum Alexander Koenig, Bonn, Germany</addr-line>
+        <institution>Zoological Research Museum Alexander Koenig</institution>
+        <addr-line content-type="city">Bonn</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Rheinische Friedrich-Wilhelms-Universität, Bonn, Germany</addr-line>
+        <institution>Rheinische Friedrich-Wilhelms-Universität</institution>
+        <addr-line content-type="city">Bonn</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Peter Grobe (<email xlink:type="simple">p.grobe@leibniz-zfmk.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37412</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A1653BD38DFD53CEBBEDEB7052637313">A1653BD38DFD53CEBBEDEB7052637313</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Peter Grobe, Roman Baum, Philipp Bhatty, Christian Köhler, Sandra Meid, Björn Quast, Lars Vogt</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The landscape of currently existing repositories of specimen data consists of isolated islands, with each applying its own underlying data model. Using standardized protocols such as DarwinCore or ABCD, specimen data and metadata are exchanged and published on web portals such as GBIF.</p>
+        <p>However, data models differ across repositories. This can lead to problems when comparing and integrating content from different systems. for example, in one system there is a field with the label 'determination', in another there is a field with the label 'taxonomic identification'. Both might refer to the same concepts of organism identification process (e.g., 'obi:organism identification assay'; <ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/OBI_0001624">http://purl.obolibrary.org/obo/OBI_0001624</ext-link>), but the intuitive meaning of the content is not clear and the understanding of the providers of the information might differ from that of the users. Without additional information, data integration across isolated repositories is thus difficult and error-prone. As a consequence, interoperability and retrievability of data across isolated repositories is difficult.</p>
+        <p>Linked Open Data (LOD) promises an improvement. URIs can be used for concepts that are ideally created and accepted by a community and that provide machine-readable meanings. LOD thereby supports transfer of data into information and then into knowledge, thus making the data FAIR (<italic>F</italic>indable, <italic>A</italic>ccessible, <italic>I</italic>nteroperable, <italic>R</italic>eusable; <xref ref-type="bibr" rid="B5191786">Wilkinson et al. 2016</xref>). Annotating specimen associated data with LOD, therefore, seems to be a promising approach to guarantee interoperability across different repositories. However, all currently used specimen collection management systems are based on relational database systems, which lack semantic transparency and thus do not provide easily accessible, machine-readable meanings for the terms used in their data models. As a consequence, transferring their data contents into an LOD framework may lead to loss or misinterpretation of information. This discrepancy between LOD and relational databases results from the lack of semantic transparency and machine-readability of data in relational databases.</p>
+        <p>Storing specimen collection data as semantic Knowledge Graphs provides semantic transparency and machine-readability of data. Semantic Knowledge Graphs are graphs that are based on the syntax of <italic>‘Subject – Property – Object’</italic> of the Resource Description Framework (RDF). The <italic>‘Subject’</italic> and <italic>‘Property’</italic> position is taken by URIs and the <italic>‘Object’</italic> position can be taken either by a URI or by a label or value. Since a given URI can take the <italic>‘Subject’</italic> position in one RDF statement and the <italic>‘Object’</italic> position in another RDF statement, several RDF statements can be connected to form a directed labeled graph, i.e. a semantic graph. Semantic Knowledge Graphs are graphs in which each described specimen and its parts and properties possess their own URI and thus can be individually referenced. These URIs are used to describe the respective specimen and its properties using the RDF syntax. Additional RDF statements specify the ontology class that each part and property instantiates. The reference to the URIs of the instantiated ontology classes guarantees the <italic>F</italic>indability, <italic>I</italic>nteroperability, and <italic>R</italic>eusability of information contained in semantic Knowledge Graphs. Specimen collection data contained in semantic Knowledge Graphs can be made <italic>A</italic>ccessible in a human-readable form through an interface and in a machine-readable form through a SPARQL endpoint (<ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/SPARQL">https://en.wikipedia.org/wiki/SPARQL</ext-link>). As a consequence, semantic Knowledge Graphs comply with the FAIR guiding principles. By using URIs for the semantic Knowledge Graph of each specimen in the collection, it is also available as LOD.</p>
+        <p>With semantic <ext-link ext-link-type="uri" xlink:href="https://proto.morphdbase.de">Morph·D·Base</ext-link><ext-link ext-link-type="uri" xlink:href="https://proto.morphdbase.de">,</ext-link> we have implemented a prototype to this approach that is based on <ext-link ext-link-type="uri" xlink:href="https://www.semantic-web-journal.net/content/semantic-programming-framework-developing-ontology-controlled-applications">Semantic Programming</ext-link>. We present the prototype and discuss different aspects of how specimen collection data are handled. By using community created terminologies and standardized methods for the contents created (e.g. species identification) as well as URIs for each expression, we make the data and metadata semantically transparent and communicable.</p>
+        <p>The source code for Semantic Programming and for semantic Morph·D·Base is available from <ext-link ext-link-type="uri" xlink:href="https://github.com/SemanticProgramming"> https://github.com/SemanticProgramming</ext-link>. The prototype of semantic Morph·D·Base can be accessed here: <ext-link ext-link-type="uri" xlink:href="https://proto.morphdbase.de">https://proto.morphdbase.de</ext-link>.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>semantic programming</kwd>
+        <kwd>FAIR data principle</kwd>
+        <kwd>knowledge graph application</kwd>
+        <kwd>collection data</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Deutsche Forschungsgemeinschaft</named-content>
+            <named-content content-type="funder_identifier">501100001659</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001659</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Peter Grobe</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>DFG LIS: Information Infrastructures for Research Data (http://gepris.dfg.de/gepris/projekt/248394582)</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>DFG LIS: Information Infrastructures for Research Data (http://gepris.dfg.de/gepris/projekt/248394582)</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>eScience-Compliant Standards for Morphology</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5191786">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>Mark D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumontier</surname>
+              <given-names>Michel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aalbersberg</surname>
+              <given-names>IJsbrand Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Appleton</surname>
+              <given-names>Gabrielle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Axton</surname>
+              <given-names>Myles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baak</surname>
+              <given-names>Arie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blomberg</surname>
+              <given-names>Niklas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boiten</surname>
+              <given-names>Jan-Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>da Silva Santos</surname>
+              <given-names>Luiz Bonino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourne</surname>
+              <given-names>Philip E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouwman</surname>
+              <given-names>Jildau</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brookes</surname>
+              <given-names>Anthony J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crosas</surname>
+              <given-names>Mercè</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dillo</surname>
+              <given-names>Ingrid</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumon</surname>
+              <given-names>Olivier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Edmunds</surname>
+              <given-names>Scott</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Evelo</surname>
+              <given-names>Chris T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Finkers</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gonzalez-Beltran</surname>
+              <given-names>Alejandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Alasdair J. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groth</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goble</surname>
+              <given-names>Carole</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grethe</surname>
+              <given-names>Jeffrey S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heringa</surname>
+              <given-names>Jaap</given-names>
+            </name>
+            <name name-style="western">
+              <surname>’t Hoen</surname>
+              <given-names>Peter A. C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hooft</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuhn</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Ruben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Joost</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lusher</surname>
+              <given-names>Scott J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martone</surname>
+              <given-names>Maryann E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Albert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Abel L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Persson</surname>
+              <given-names>Bengt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocca-Serra</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roos</surname>
+              <given-names>Marco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Schaik</surname>
+              <given-names>Rene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sansone</surname>
+              <given-names>Susanna-Assunta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schultes</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sengstag</surname>
+              <given-names>Thierry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Slater</surname>
+              <given-names>Ted</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strawn</surname>
+              <given-names>George</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swertz</surname>
+              <given-names>Morris A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thompson</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Lei</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Mulligen</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Velterop</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wittenburg</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolstencroft</surname>
+              <given-names>Katherine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zhao</surname>
+              <given-names>Jun</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Barend</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <pub-id pub-id-type="doi">10.1038/sdata.2016.18</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

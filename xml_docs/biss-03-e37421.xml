@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37421</article-id>
+      <article-id pub-id-type="publisher-id">37421</article-id>
+      <article-id pub-id-type="manuscript">11026</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS19 - Exploring biodiversity knowledge by ontologies</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Assisting Biologists in Editing Taxonomic Information by Confronting Multiple Data Sources using Linked Data Standards</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Michel</surname>
+            <given-names>Franck</given-names>
+          </name>
+          <email xlink:type="simple">franck.michel@cnrs.fr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9064-0463</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Faron-Zucker</surname>
+            <given-names>Catherine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tercerie</surname>
+            <given-names>Sandrine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ettorre</surname>
+            <given-names>Antonia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Olivier</surname>
+            <given-names>Gargominy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Université Côte d'Azur, CNRS, Inria, I3S, Sophia-Antipolis, France</addr-line>
+        <institution>Université Côte d'Azur, CNRS, Inria, I3S</institution>
+        <addr-line content-type="city">Sophia-Antipolis</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim"> Université Côte d'Azur, CNRS, Inria, I3S, Sophia-Antipolis, France</addr-line>
+        <institution> Université Côte d'Azur, CNRS, Inria, I3S</institution>
+        <addr-line content-type="city">Sophia-Antipolis</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Muséum national d'Histoire naturelle, Paris, France</addr-line>
+        <institution>Muséum national d'Histoire naturelle</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Franck Michel (<email xlink:type="simple">franck.michel@cnrs.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37421</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0172823BC2665357BD452E46542F4160">0172823BC2665357BD452E46542F4160</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Franck Michel, Catherine Faron-Zucker, Sandrine Tercerie, Antonia Ettorre, Gargominy Olivier</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>During the last decade, Web APIs (Application Programming Interface) have gained significant traction to the extent that they have become a de-facto standard to enable HTTP-based, machine-processable data access. Despite this success, however, they still often fail in making data interoperable, insofar as they commonly rely on proprietary data models and vocabularies that lack formal semantic descriptions essential to ensure reliable data integration. In the biodiversity domain, multiple data aggregators, such as the <ext-link ext-link-type="uri" xlink:href="http://gbif.org/"> Global Biodiversity Information Facility </ext-link> (GBIF) and the <ext-link ext-link-type="uri" xlink:href="http://eol.org/"> Encyclopedia of Life </ext-link> (EoL), maintain specialized Web APIs giving access to billions of records about taxonomies, occurrences, or life traits (<xref ref-type="bibr" rid="B5165094">Triebel et al. 2012</xref>). They publish data sets spanning complementary and often overlapping regions, epochs or domains, but may also report or rely on potentially conflicting perspectives, e.g. with respect to the circumscription of taxonomic concepts. It is therefore of utmost importance for biologists and collection curators to be able to confront the knowledge they have about taxa with related data coming from third-party data sources.</p>
+        <p>To tackle this issue, the French <ext-link ext-link-type="uri" xlink:href="https://www.mnhn.fr/"> National Museum of Natural History </ext-link> (MNHN) has developed an application to edit <ext-link ext-link-type="uri" xlink:href="https://inpn.mnhn.fr/programme/referentiel-taxonomique-taxref?lg=en"> TAXREF</ext-link>, the French taxonomic register for fauna, flora and fungus (<xref ref-type="bibr" rid="B5164937">Gargominy et al. 2018</xref>). TAXREF registers all species recorded in metropolitan France and overseas territories, accounting for 260,000+ biological taxa (200,000+ species) along with 570,000+ scientific names. The <ext-link ext-link-type="uri" xlink:href="https://taxref.mnhn.fr/taxref-web/"> TAXREF-Web </ext-link> application compares data available in TAXREF with corresponding data from third-party data sources, points out disagreements and allows biologists to add, remove or amend TAXREF accordingly. This requires that TAXREF-Web developers write a specific piece of code for each considered Web API to align TAXREF representation with the Web API counterpart. This task is time-consuming and makes maintenance of the web application cumbersome.</p>
+        <p>In this presentation, we report on a new implementation of TAXREF-Web that harnesses the <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/standards/semanticweb/data">Linked Data standards</ext-link>: <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/TR/2014/REC-rdf11-concepts-20140225/">Resource Description Framework</ext-link> (RDF), the Semantic Web format to represent knowledge graphs, and <ext-link ext-link-type="uri" xlink:href="http://www.w3.org/TR/2013/REC-sparql11-query-20130321/">SPARQL</ext-link>, the W3C standard to query RDF graphs. In addition, we leverage the <italic>SPARQL Micro-Service</italic><italic/>architecture (<xref ref-type="bibr" rid="B5165024">Michel et al. 2018</xref>)<italic>,</italic> a lightweight approach to query Web APIs using SPARQL. A SPARQL micro-service is a SPARQL endpoint that wraps a Web API service; it typically produces a small, resource-centric RDF graph by invoking the Web API and transforming the response into RDF triples.</p>
+        <p>We developed <italic>SPARQL </italic>micro-services to wrap the Web APIs of <ext-link ext-link-type="uri" xlink:href="http://gbif.org/">GBIF</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.marinespecies.org/">World Register of Marine Species</ext-link> (WoRMS), <ext-link ext-link-type="uri" xlink:href="http://fishbase.org"> FishBase</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.indexfungorum.org/"> Index Fungorum</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.eu-nomen.eu/pesi/"> Pan-European Species directories Infrastructure </ext-link> (PESI), <ext-link ext-link-type="uri" xlink:href="http://zoobank.org/"> ZooBank</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.ipni.org/"> International Plant Names Index </ext-link> (IPNI), EoL, <ext-link ext-link-type="uri" xlink:href="http://tropicos.org/">Tropicos</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.sandre.eaufrance.fr/">Sandre</ext-link>. These micro-services consistently translate Web APIs responses into RDF graphs utilizing mainly two well-adopted vocabularies: <ext-link ext-link-type="uri" xlink:href="https://schema.org/">Schema.org</ext-link> (<xref ref-type="bibr" rid="B5164960">Guha et al. 2015</xref>) and <ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/rdf/">Darwin Core</ext-link> (<xref ref-type="bibr" rid="B5164926">Baskauf et al. 2015</xref>). This approach brings about two major advantages. First, the large adoption of Schema.org and Darwin Core ensures that the services can be immediately understood and reused by a large audience within the biodiversity community. Second, wrapping all these Web APIs in SPARQL micro-services “suddenly” makes them technically and semantically interoperable, since they all represent resources (taxa, habitats, traits, etc.) in a common manner. Consequently, the integration task is simplified: confronting data from multiple sources essentially consists of writing the appropriate SPARQL queries, thus making easier web application development and maintenance. We present several concrete cases in which we use this approach to detect disagreements between TAXREF and the aforementioned data sources, with respect to taxonomic information (author, synonymy, vernacular names, classification, taxonomic rank), habitats, bibliographic references, species interactions and life traits.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Web API</kwd>
+        <kwd>data integration</kwd>
+        <kwd>Linked Data</kwd>
+        <kwd>SPARQL</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Franck Michel</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5164926">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Baskauf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deck</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Webb</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morris</surname>
+              <given-names>P. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schildhauer</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <source>Darwin Core RDF Guide</source>
+          <publisher-name>Biodiversity Information Standards (TDWG). http://rs.tdwg.org/dwc/terms/guides/rdf/</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B5164937">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Gargominy</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tercerie</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Régnier</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ramage</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dupont</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Daszkiewicz</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Poncet</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>TAXREF v12, référentiel taxonomique pour la France : méthodologie, mise en oeuvre et diffusion. Muséum national d'Histoire naturelle</article-title>
+          <source>Rapport Patrinat 2018-117</source>
+        </element-citation>
+      </ref>
+      <ref id="B5164960">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Guha</surname>
+              <given-names>R. V.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brickley</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>MacBeth</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Schema.org: Evolution of Structured Data on the Web</article-title>
+          <source>ACM Queue - Structured Data</source>
+          <volume>13</volume>
+          <issue>9</issue>
+          <fpage>1</fpage>
+        </element-citation>
+      </ref>
+      <ref id="B5165024">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Michel</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Faron-Zucker</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gargominy</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gandon</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Integration of Web APIs and Linked Data Using SPARQL Micro-Services — Application to Biodiversity Use Cases</article-title>
+          <source>Information</source>
+          <volume>9</volume>
+          <issue>12</issue>
+          <fpage>310</fpage>
+          <pub-id pub-id-type="doi">10.3390/info9120310</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5165094">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Triebel</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hagedorn</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rambold</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>An appraisal of megascience platforms for biodiversity information</article-title>
+          <source>MycoKeys</source>
+          <volume>5</volume>
+          <fpage>45</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="doi">10.3897/mycokeys.5.4302</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

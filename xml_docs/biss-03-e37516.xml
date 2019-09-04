@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37516</article-id>
+      <article-id pub-id-type="publisher-id">37516</article-id>
+      <article-id pub-id-type="manuscript">11327</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Decision-Making at National Level for the Support of Research Infrastructures</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ridder-Numan</surname>
+            <given-names>Jeannette</given-names>
+          </name>
+          <email xlink:type="simple">j.w.a.ridder@minocw.nl</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Ministry of Education, Culture and Science, Den Haag, Netherlands</addr-line>
+        <institution>Ministry of Education, Culture and Science</institution>
+        <addr-line content-type="city">Den Haag</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jeannette Ridder-Numan (<email xlink:type="simple">j.w.a.ridder@minocw.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37516</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/7DBC05365BF155BB8604CE8FAEF5ADC1">7DBC05365BF155BB8604CE8FAEF5ADC1</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jeannette Ridder-Numan</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The presentation will elaborate on the Dutch decision-making process concerning large-scale research infrastructures at national and European levels. The process involves several stakeholders, from scientists, to funders to Ministries. The Permanent Committee for Scientific Infrastructures (<ext-link ext-link-type="uri" xlink:href="http://www.onderzoeksfaciliteiten.nl/permanente-commissie">http://www.onderzoeksfaciliteiten.nl/permanente-commissie</ext-link>) plays a high-level decision-making and vision role in this effort. The committee is independent and part of NWO, the Netherland's Research Organisation for Scientific Research, on special request of the Minister of Education, Culture and Science. This level of decision making is necessary to participate at the next level within the vision of the European Roadmap for Research Infrastructures. This Roadmap is set up by the European Strategy Forum for Research Infrastrcutures (ESFRI, <ext-link ext-link-type="uri" xlink:href="https://www.esfri.eu">https://www.esfri.eu</ext-link>) and is a portfolio of Research Infrastructures regarded as crucial to shape the European Landscape of scientific Research Infrastrcutures. <ext-link ext-link-type="uri" xlink:href="http://dissco.eu">DiSCCo</ext-link> (Distributed System of Scientific Collections), led by Naturalis (Leiden) is a recent and good example of such an infrastructure that gained a place in the European research infrastructure environment connecting 115 Museums, Botanical Gardens and collection-holding Universities in 21 European countries.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>national decision-making</kwd>
+        <kwd>infrastructure</kwd>
+        <kwd>ESFRI</kwd>
+        <kwd>Roadmap</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jeannette Ridder-Numan</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

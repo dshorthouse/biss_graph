@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38274</article-id>
+      <article-id pub-id-type="publisher-id">38274</article-id>
+      <article-id pub-id-type="manuscript">11686</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Finnish Biodiversity Information Facility - Improving the Taxonomic Coverage and Deepening the Information Content Through Collaboration</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Lahti</surname>
+            <given-names>Kari M</given-names>
+          </name>
+          <email xlink:type="simple">kari.lahti@helsinki.fi</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Skarp</surname>
+            <given-names>Liselott Sjodin</given-names>
+          </name>
+          <email xlink:type="simple">liselott.sjodin.skarp@slu.se</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2214-709X</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, P.O.BOX 17, 00014 Helsinki University, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">P.O.BOX 17, 00014 Helsinki University</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Swedish Species Information Centre (ArtDatabanken, SSIC), Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden</addr-line>
+        <institution>Swedish Species Information Centre (ArtDatabanken, SSIC), Swedish University of Agricultural Sciences (SLU)</institution>
+        <addr-line content-type="city">Uppsala</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Kari M Lahti (<email xlink:type="simple">kari.lahti@helsinki.fi</email>), Liselott Sjodin Skarp (<email xlink:type="simple">liselott.sjodin.skarp@slu.se</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38274</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/73D5632A8D4254BAB2079AD018499585">73D5632A8D4254BAB2079AD018499585</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Kari M Lahti, Liselott Sjodin Skarp</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Finnish Biodiversity Information Facility FinBIF  (LINK: <ext-link ext-link-type="uri" xlink:href="https://laji.fi/en">species.fi</ext-link>), operational since late 2016, is one of the more recent examples of comprehensive, all-inclusive national biodiversity research infrastructures. FinBIF integrates a wide array of biodiversity information approaches under the same umbrella. These include species information Fig. <xref ref-type="fig" rid="F5211825">1</xref> (e.g. descriptions, photos and administrative attributes); citizen science platforms enabling recording, managing and sharing of observation data; an e-learning environment for species identification; management and sharing of restricted data among authorities; building a national DNA barcode reference library and linking it to species occurrence data; community-driven species identification support; large-scale and multi-technology digitisation of natural history collections; and IUCN Red Listing to conduct a periodic national assesment of the status of the threatened species.</p>
+        <p>To improve the taxonomic coverage and the content of species information, FinBIF is starting a process to collaborate with the species information community at large, in order to collate already existing but not yet openly distributed information. This also means digitisation of information from analogue sources. In addition, the attempt is to join forces with Scandinavian counterparts, namely Artdatabanken (LINK: <ext-link ext-link-type="uri" xlink:href="https://www.artdatabanken.se/">https://www.artdatabanken.se/</ext-link>) and Artsdatabanken (LINK: <ext-link ext-link-type="uri" xlink:href="https://www.artsdatabanken.no/">https://www.artsdatabanken.no/</ext-link>), for more efficient knowledge exchange within the countries sharing the same biogeographical region and thus similar species composition. The aim is also to reach politically high level agreement for deeper and wider commitment to collaborate in compiling, digitising and sharing relevant biodiversity information over the national borders. </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>species information</kwd>
+        <kwd>taxonomy</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Kari Lahti</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Finnish Research Infrastructures FIRI</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Finnish Research Infrastructures FIRI</p>
+    </sec>
+  </back>
+  <floats-group>
+    <fig id="F5211825" position="float" orientation="portrait">
+      <object-id content-type="arpha">3BF52AEE6AB95552A9D036C7F49CE741</object-id>
+      <label>Figure 1.</label>
+      <caption>
+        <p>A view to species information card in species.fi-service at FinBIF.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e38274-g001.jpg" position="float" id="oo_297405.JPG" orientation="portrait" xlink:type="simple">
+        <uri content-type="original_file">https://binary.pensoft.net/fig/297405</uri>
+      </graphic>
+    </fig>
+  </floats-group>
+</article>

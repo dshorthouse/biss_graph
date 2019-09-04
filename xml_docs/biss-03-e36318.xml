@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36318</article-id>
+      <article-id pub-id-type="publisher-id">36318</article-id>
+      <article-id pub-id-type="manuscript">11196</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS77 - Digital biodiversity data as a frontier for new research avenues</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Creation of a Climatic Map of the Flora of the Netherlands</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sparrius</surname>
+            <given-names>Laurens</given-names>
+          </name>
+          <email xlink:type="simple">sparrius@floron.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4925-9289</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>van der Hak</surname>
+            <given-names>Dion D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">FLORON Plant Conservation Netherlands, Nijmegen, Netherlands</addr-line>
+        <institution>FLORON Plant Conservation Netherlands</institution>
+        <addr-line content-type="city">Nijmegen</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Laurens Sparrius (<email xlink:type="simple">sparrius@floron.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36318</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F1FAE2DFDC0550AD85E27DC494C3DFCD">F1FAE2DFDC0550AD85E27DC494C3DFCD</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Laurens Sparrius, Dion D. van der Hak</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In this study, a high-resolution map showing the response of wild plants to climate patterns was created by combining open data from various sources.</p>
+        <p>The first step was to estimate the average temperature in the European distribution of each plant species occurring in the Netherlands. We used GBIF observations (<xref ref-type="bibr" rid="B5205129">GBIF.org 2017</xref>, 70.3M records) and the Worldclim2 BIO1 climatic model (<xref ref-type="bibr" rid="B5205110">Fick and Hijmans 2017</xref>) as datasources. Data cleaning included taxonomy (mapping names to local nomenclature and identifiers), removing taxa with less than 250 observations, and spatial aggregation to match a 50 km UTM grid. As GBIF data was found to be spatially biased, we overlayed both datasets using a bootstrapping approach (<xref ref-type="bibr" rid="B5172576">Sparrius et al. 2018a</xref>, <xref ref-type="bibr" rid="B5172566">Sparrius et al. 2018b</xref>). This resulted in a temperature indicator for thousands of plant species called the Species Temperature Index (STI).</p>
+        <p>The second step is to create a map that combines spatial distribution of flora with the temperature indices. The distribution of all vascular plants in the Netherlands was extracted as a 1x1 km grid from the National Database Flora en Fauna (<xref ref-type="bibr" rid="B5205120">NDFF 2017</xref>, 22M observations). The mean community STI, or Community Temperature Index (CTI), was then calculated for all species occurring in each grid cell. The result is a map showing the temperature as indicated by the flora.</p>
+        <p>On the map several patterns are visible which can be statistically explained by the the average temperature in the country, urban heat islands, and influx of southern species along rivers (Fig. <xref ref-type="fig" rid="F5205108">1</xref>).</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Laurens B. Sparrius</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5205110">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Fick</surname>
+              <given-names>Stephen E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hijmans</surname>
+              <given-names>Robert J.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>WorldClim 2: new 1-km spatial resolution climate surfaces for global land areas</article-title>
+          <source>International Journal of Climatology</source>
+          <volume>37</volume>
+          <issue>12</issue>
+          <fpage>4302</fpage>
+          <lpage>4315</lpage>
+          <pub-id pub-id-type="doi">10.1002/joc.5086</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5205129">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>GBIF.org</surname>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>GBIF occurrence download</article-title>
+          <date-in-citation content-type="released">2017-03-20T00:00:00+02:00</date-in-citation>
+          <uri>http://doi. org/10.15468/dl.qw9lpv</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5205120">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>NDFF</surname>
+            </name>
+          </person-group>
+          <article-title>Vascular plant distribution data download</article-title>
+          <uri>https://verspreidingsatlas.nl</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5172576">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sparrius</surname>
+              <given-names>L. B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van den Top</surname>
+              <given-names>G. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Swaay</surname>
+              <given-names>C. A.M.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>An approach to calculate a Species Temperature Index for flora based on open data</article-title>
+          <source>Gorteria</source>
+          <volume>40</volume>
+          <fpage>73</fpage>
+          <lpage>78</lpage>
+          <uri>https://www.repository.naturalis.nl/document/667491</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5172566">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sparrius</surname>
+              <given-names>L. B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van den Top</surname>
+              <given-names>G. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Swaay</surname>
+              <given-names>C. A.M.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>R Script for Species Temperature Index with Open Data</article-title>
+          <source>Zenodo</source>
+          <pub-id pub-id-type="doi">10.5281/ZENODO.1155850</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5205108" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Map of the Netherlands with the Community Temperature Index (CTI) of plants expressed as the mean Species Temperature Index (STI) for all plants found in km squares. Grid squares with less than 150 species were omitted and visualized in the grey background color of the map.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e36318-g001.jpg" position="float" id="oo_295934.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37178</article-id>
+      <article-id pub-id-type="publisher-id">37178</article-id>
+      <article-id pub-id-type="manuscript">11235</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Additivity Project: Achieving additivity of structured taxonomic character data by persistently linking them to individual specimens</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Plitzner</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <email xlink:type="simple">p.plitzner@bgbm.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7740-5423</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Henning</surname>
+            <given-names>Tilo</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1929-3264</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Müller</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Güntsch</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4325-4030</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Berendsohn</surname>
+            <given-names>Walter G.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9945-7606</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Borsch</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kilian</surname>
+            <given-names>Norbert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Botanischer Garten Botanisches Museum, Freie Universität Berlin, Berlin, Germany</addr-line>
+        <institution>Botanischer Garten Botanisches Museum, Freie Universität Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Patrick Plitzner (<email xlink:type="simple">p.plitzner@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37178</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D1A68370F9F750B6850F845C4E52FC01">D1A68370F9F750B6850F845C4E52FC01</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Patrick Plitzner, Tilo Henning, Andreas Müller, Anton Güntsch, Walter G. Berendsohn, Thomas Borsch, Norbert Kilian</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Herbarium specimens have always played a central role in the classical disciplines of plant sciences and the global digitisation efforts now open new horizons. To make full use of the inherent possibilities of specimen based taxonomic descriptions corresponding workflows are needed. A crucial step in the comparative analyses of organisms is the preparation of a character matrix to record and compare the morphological variation of taxa on the basis of individual specimens.</p>
+        <p>This project focuses on the optimisation of the taxonomic research process with respect to delimitation and characterisation (“descriptions”) of taxa (<xref ref-type="bibr" rid="B5176954">Henning et al. 2018</xref>). The angiosperm order Caryophyllales provides exemplar use cases through cooperation with the Global Caryophyllales Initiative (<xref ref-type="bibr" rid="B5176912">Borsch et al. 2015</xref>). The workflow for sample data handling (<xref ref-type="bibr" rid="B5176885">Kilian et al. 2015</xref>), implemented on the EDIT Platform for Cybertaxonomy (<ext-link ext-link-type="uri" xlink:href="http://www.cybertaxonomy.org/">http://www.cybertaxonomy.org</ext-link><underline>,</underline> <xref ref-type="bibr" rid="B5176942">Ciardelli et al. 2009</xref>), has been extended to support additive characterisation of taxa via specimen character data.</p>
+        <p>The Common Data Model (CDM), already supporting persistent inter-linking of specimens and their metadata (<xref ref-type="bibr" rid="B5176871">Plitzner et al. 2017</xref>), has been adapted to facilitate specimen descriptions with characters constructed from the combination of structure and property terms and their corresponding states. Semantic web technology is used to establish and continuously elaborate expert community-coordinated exemplar vocabularies with term ontologies and explanations for characters and states (GFBio Terminology Service, <xref ref-type="bibr" rid="B5176900">Karam et al. 2016</xref>). Character data are recorded and stored in structured form in character state matrices for individual specimens instead of taxa, which allows generation of taxon characterisations by aggregating the data sets for the individual specimens included. Separating characters in structures and properties, which are based on concepts in public ontologies, guarantees a high visibility and instant re-usability of these character data. Taking into account that taxon concepts evolve during the iterative knowledge generation process in systematic biology, additivity of character data from specimen to taxon level therefore greatly facilitates the construction and reproducibility of taxon characterisations from changing specimen and character data sets.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>EDIT Platform for Cybertaxonomy</kwd>
+        <kwd>specimen</kwd>
+        <kwd>character data</kwd>
+        <kwd>semantic web</kwd>
+        <kwd>ontologies</kwd>
+        <kwd>taxon description</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="6"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Patrick Plitzner</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5176912">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Borsch</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hernández-Ledesma</surname>
+              <given-names>Patricia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Flores-Olvera</surname>
+              <given-names>Hilda</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ochoterena</surname>
+              <given-names>Helga</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zuloaga</surname>
+              <given-names>Fernando O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>von Mering</surname>
+              <given-names>Sabine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kilian</surname>
+              <given-names>Norbert</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>An integrative and dynamic approach for monographing species-rich plant groups – Building the global synthesis of the angiosperm order Caryophyllales</article-title>
+          <source>Perspectives in Plant Ecology, Evolution and Systematics</source>
+          <volume>17</volume>
+          <issue>4</issue>
+          <fpage>284</fpage>
+          <lpage>300</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ppees.2015.05.003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5176942">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ciardelli</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kelbert</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kohlbecker</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hoffmann</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>W. G.</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>The EDIT Platform for Cybertaxonomy and the taxonomic workflow: selected Components</article-title>
+          <source>Lecture Notes in Informatics</source>
+          <volume>154</volume>
+          <fpage>625</fpage>
+          <lpage>638</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B5176954">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Henning</surname>
+              <given-names>Tilo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Plitzner</surname>
+              <given-names>Patrick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kilian</surname>
+              <given-names>Norbert</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Building compatible and dynamic character matrices – Current and future use of specimen-based character data</article-title>
+          <source>Botany Letters</source>
+          <volume>165</volume>
+          <fpage>352</fpage>
+          <lpage>360</lpage>
+          <pub-id pub-id-type="doi">10.1080/23818107.2018.1452791</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5176900">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Karam</surname>
+              <given-names>Naouel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller-Birn</surname>
+              <given-names>Claudia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gleisberg</surname>
+              <given-names>Maren</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fichtmüller</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tolksdorf</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>A Terminology Service Supporting Semantic Annotation, Integration, Discovery and Analysis of Interdisciplinary Research Data</article-title>
+          <source>Datenbank-Spektrum</source>
+          <volume>16</volume>
+          <issue>3</issue>
+          <fpage>195</fpage>
+          <lpage>205</lpage>
+          <pub-id pub-id-type="doi">10.1007/s13222-016-0231-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5176885">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kilian</surname>
+              <given-names>Norbert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Henning</surname>
+              <given-names>Tilo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Plitzner</surname>
+              <given-names>Patrick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stöver</surname>
+              <given-names>Ben C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>Kai F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Borsch</surname>
+              <given-names>Thomas</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Sample data processing in an additive and reproducible taxonomic workflow by using character data persistently linked to preserved individual specimens</article-title>
+          <source>Database</source>
+          <volume>2015</volume>
+          <pub-id pub-id-type="doi">10.1093/database/bav094</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5176871">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Plitzner</surname>
+              <given-names>Patrick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kohlbecker</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kilian</surname>
+              <given-names>Norbert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Henning</surname>
+              <given-names>Tilo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stöver</surname>
+              <given-names>Ben</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>The CDM Applied: Unit-Derivation, from Field Observations to DNA Sequences</article-title>
+          <source>Proceedings of TDWG</source>
+          <volume>1</volume>
+          <pub-id pub-id-type="doi">10.3897/tdwgproceedings.1.20366</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

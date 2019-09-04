@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37015</article-id>
+      <article-id pub-id-type="publisher-id">37015</article-id>
+      <article-id pub-id-type="manuscript">11082</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS48 Strengthening the biodiversity informatics community of practice through capacity enhancement</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Considerable Progress in Russian GBIF Community</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Shashkov</surname>
+            <given-names>Maxim</given-names>
+          </name>
+          <email xlink:type="simple">max.carabus@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ivanova</surname>
+            <given-names>Natalya</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4199-5924</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences, Pushchino, Russia</addr-line>
+        <institution>Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences</institution>
+        <addr-line content-type="city">Pushchino</addr-line>
+        <country>Russia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Institute of Physicochemical and Biological Problems in Soil Sciences Russian Academy of Science, Pushchino, Russia</addr-line>
+        <institution>Institute of Physicochemical and Biological Problems in Soil Sciences Russian Academy of Science</institution>
+        <addr-line content-type="city">Pushchino</addr-line>
+        <country>Russia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Maxim Shashkov (<email xlink:type="simple">max.carabus@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37015</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A8D9D127D9085EC6B3D2E1C613E8B696">A8D9D127D9085EC6B3D2E1C613E8B696</uri>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Maxim Shashkov, Natalya Ivanova</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Russia is a huge gap on the open access global biodiversity map of the Global Biodiversity Information Facility (GBIF). National biodiversity data are stored in various sources including<italic/>museums, herbaria, scientific literature and reports as well as in the private collections and local databases. The best known and largest of the Russian herbarium collections are the collections stored in <ext-link ext-link-type="uri" xlink:href="http://sweetgum.nybg.org/science/ih/herbarium-details/?irn=126956">Komarov Botanical Institute of the Russian Academy of Science</ext-link> (&gt;6 M sheets) and <ext-link ext-link-type="uri" xlink:href="http://sweetgum.nybg.org/science/ih/herbarium-details/?irn=125298">Moscow University</ext-link> (&gt;1 M sheets). The largest zoological collection is located in <ext-link ext-link-type="uri" xlink:href="http://zin.ru/">Zoological institute of the Russian Academy of Science</ext-link>, with &gt;60 M specimens. But most of the national biodiversity data is not yet digitized. The national biodiversity portal as well as the list of Russian biodiversity data sources are still absent. Despite this, projects and other activities are implemented to mobilize a national data using international biodiversity data standards.</p>
+        <p>Currently Russia is not a GBIF member, but in the last 5 years, more than 1.6 M occurrences were published by Russian publishers through <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/country/RU/publishing">GBIF.org</ext-link> (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/search?publishing_country=RU">69 datasets</ext-link> at the end of March 2019). The largest GBIF data provider in Russia is the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/publisher/f5fc4e61-b7a0-414b-ab68-b41cb23e7fdc">Lomonosov Moscow State University</ext-link>. The <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/902c8fe7-8f38-45b0-854e-c324fed36303">Digital Moscow University Herbarium</ext-link> includes 971,732 specimens collected from Russia and many other countries. The Russian GBIF community is steadily expanding (Fig. <xref ref-type="fig" rid="F5166647">1</xref>); this is reflected in an increase in the number of publishers and published datasets. The current GBIF network infrastructure in Russia includes 5 IPT (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/ipt">Integrated Publishing Toolkit</ext-link>) installations in Saint Petersburg (two), Pushchino (Moscow region), Moscow, and Syktyvkar (Komi Republic).</p>
+        <p>Russian-language biodiversity informatics materials are collected and presented from an informal web site <ext-link ext-link-type="uri" xlink:href="http://gbif.ru/">http://gbif.ru/</ext-link> with three main sections:</p>
+        <p>
+          <list list-type="order"><list-item><p>data publishing through GBIF,</p></list-item><list-item><p>Russian GBIF activities, and</p></list-item><list-item><p>Russian biodiversity data sources.</p></list-item></list>
+        </p>
+        <p>Additional sections are dedicated to <ext-link ext-link-type="uri" xlink:href="https://www.inaturalist.org/">iNaturalist</ext-link> citizen science system and <ext-link ext-link-type="uri" xlink:href="http://gbif.ru/specify">Russian Specify Software Project</ext-link> community. We provide technical helpdesk support not only for Russian publishers, but also for Russian speakers from the former USSR. The national mailing-list (via google groups) aims to provide a platform for news sharing. Now it includes &gt;240 subscribers.</p>
+        <p>Since the end of 2014, regular biodiversity informatics events are being held in Russia. Last year, two data training courses, funded by GBIF (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/project/1r7RSp5iLqqKYssg88WIW2/gbifru-data-mobilization-activities">project ID Russia-02 </ext-link>- "GBIF.ru data mobilization activities") and <ext-link ext-link-type="uri" xlink:href="https://www.forbio.uio.no/">ForBIO</ext-link> (Research school in biosystematics), were organized in <ext-link ext-link-type="uri" xlink:href="http://gbif.ru/workshop_May_2018">Moscow</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://www.forbio.uio.no/events/courses/2018/Data_mobilization_Baikal.html">Irkutsk region</ext-link> with the participation of 29 Russian researchers. National biodiversity informatics conferences were held in <ext-link ext-link-type="uri" xlink:href="http://kpabg.ru/node/464">Apatity</ext-link> (2017) and <ext-link ext-link-type="uri" xlink:href="http://bit.icc.ru/#eng">Irkutsk</ext-link> (2018).</p>
+        <p>We believe Russia already has a well established community that can become the basis for further development when Russia becomes a GBIF member.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Russia</kwd>
+        <kwd>data mobilization</kwd>
+        <kwd>GBIF</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Maxim Shashkov</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <floats-group>
+    <fig id="F5166647" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Data mobilization progress in Russia</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37015-g001.jpg" position="float" id="oo_276584.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

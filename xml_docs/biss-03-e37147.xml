@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37147</article-id>
+      <article-id pub-id-type="publisher-id">37147</article-id>
+      <article-id pub-id-type="manuscript">11410</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS86 - Machine learning: an emerging toolkit for biodiversity science using museum collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Addressing Uncertainties in Machine Learning Predictions of Conservation Status</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Walker</surname>
+            <given-names>Barnaby E</given-names>
+          </name>
+          <email xlink:type="simple">b.walker@kew.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3884-671X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Leão</surname>
+            <given-names>Tarciso</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bachman</surname>
+            <given-names>Steven P</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1085-6075</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lucas</surname>
+            <given-names>Eve</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nic Lughadha</surname>
+            <given-names>Eimear</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens, Kew, London, United Kingdom</addr-line>
+        <institution>Royal Botanic Gardens, Kew</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Barnaby E Walker (<email xlink:type="simple">b.walker@kew.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37147</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/FFBBE05F15555F0BA06F244042988656">FFBBE05F15555F0BA06F244042988656</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Barnaby E Walker, Tarciso Leão, Steven P Bachman, Eve Lucas, Eimear Nic Lughadha</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Extinction risk assessments are increasingly important to many stakeholders (<xref ref-type="bibr" rid="B5183845">Bennun et al. 2017</xref>) but there remain large gaps in our knowledge about the status of many species. The IUCN Red List of Threatened Species (<xref ref-type="bibr" rid="B5219627">IUCN 2019</xref>, hereafter Red List) is the most comprehensive assessment of extinction risk. However, it includes assessments of just 7% of all vascular plants, while 18% of all assessed animals lack sufficient data to assign a conservation status. The wide availability of species occurrence information through digitised natural history collections and aggregators such as the Global Biodiversity Information Facility (GBIF), coupled with machine learning methods, provides an opportunity to fill these gaps in our knowledge. Machine learning approaches have already been proposed to guide conservation assessment efforts (<xref ref-type="bibr" rid="B5183802">Nic Lughadha et al. 2018</xref>), assign a conservation status to species with insufficient data for a full assessment (<xref ref-type="bibr" rid="B5183835">Bland et al. 2014</xref>), and predict the number of threatened species across the world (<xref ref-type="bibr" rid="B5183791">Pelletier et al. 2018</xref>).</p>
+        <p>The wide range in sources of species occurrence records can lead to data quality issues, such as missing, imprecise, or mistaken information.  These data quality issues may be compounded in databases that aggregate information from multiple sources: many such records derive from field observations (78% for plant species in GBIF; <xref ref-type="bibr" rid="B5183825">Meyer et al. 2016</xref>) largely unsupported by voucher specimens that would allow confirmation or correction of their identification. Even where voucher specimens do exist, different taxonomic or geographic information can be held for a single collection event represented by duplicate specimens deposited in different natural history collections. Tools are available to help clean species occurrence data, but these cannot deal with problems like specimen misidentification, which previous work (<xref ref-type="bibr" rid="B5183779">Nic Lughadha et al. 2019</xref>) has shown to have a large impact on preliminary assessments of conservation status.</p>
+        <p>Machine learning models based on species occurrence records have been reported to predict with high accuracy the conservation status of species. However, given the black-box nature of some of the better machine learning models, it is unclear how well these accuracies apply beyond the data on which the models were trained. Practices for training machine learning models differ between studies, but more interrogation of these models is required if we are to know how much to trust their predictions.</p>
+        <p>To address these problems, we compare predictions made by a machine learning model when trained on specimen occurrence records that have benefitted from minimal or more thorough cleaning, with those based on records from an expert-curated database. We then explore different techniques to interrogate machine learning models and quantify the uncertainty in their predictions.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>IUCN Red List</kwd>
+        <kwd>machine learning</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>uncertainty</kwd>
+        <kwd>conservation assessment</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="7"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Barnaby E Walker</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5183845">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bennun</surname>
+              <given-names>Leon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Regan</surname>
+              <given-names>Eugenie C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bird</surname>
+              <given-names>Jeremy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Bochove</surname>
+              <given-names>Jan-Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Katariya</surname>
+              <given-names>Vineet</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Livingstone</surname>
+              <given-names>Suzanne</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mitchell</surname>
+              <given-names>Robin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Savy</surname>
+              <given-names>Conrad</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Starkey</surname>
+              <given-names>Malcolm</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Temple</surname>
+              <given-names>Helen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pilgrim</surname>
+              <given-names>John D.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>The value of the IUCN Red List for business decision-making</article-title>
+          <source>Conservation Letters</source>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>e12353</fpage>
+          <pub-id pub-id-type="doi">10.1111/conl.12353</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183835">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bland</surname>
+              <given-names>Lucie M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Collen</surname>
+              <given-names>Ben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Orme</surname>
+              <given-names>C. David L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bielby</surname>
+              <given-names>Jon</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Predicting the conservation status of data-deficient species</article-title>
+          <source>Conservation Biology</source>
+          <volume>29</volume>
+          <issue>1</issue>
+          <fpage>250</fpage>
+          <lpage>259</lpage>
+          <pub-id pub-id-type="doi">10.1111/cobi.12372</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5219627">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>IUCN</surname>
+            </name>
+          </person-group>
+          <article-title>The IUCN Red List of Threatened Species. Version 2019-1</article-title>
+          <uri>https://www.iucnredlist.org/</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5183825">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Meyer</surname>
+              <given-names>Carsten</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weigelt</surname>
+              <given-names>Patrick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kreft</surname>
+              <given-names>Holger</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Multidimensional biases, gaps and uncertainties in global plant occurrence information</article-title>
+          <source>Ecology Letters</source>
+          <volume>19</volume>
+          <issue>8</issue>
+          <fpage>992</fpage>
+          <lpage>1006</lpage>
+          <pub-id pub-id-type="doi">10.1111/ele.12624</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183802">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Nic Lughadha</surname>
+              <given-names>E</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Walker</surname>
+              <given-names>Barnaby E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Canteiro</surname>
+              <given-names>Cátia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chadburn</surname>
+              <given-names>Helen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Davis</surname>
+              <given-names>Aaron P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hargreaves</surname>
+              <given-names>Serene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lucas</surname>
+              <given-names>Eve J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schuiteman</surname>
+              <given-names>André</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Williams</surname>
+              <given-names>Emma</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bachman</surname>
+              <given-names>Steven P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baines</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barker</surname>
+              <given-names>Amy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Budden</surname>
+              <given-names>Andrew P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Carretero</surname>
+              <given-names>Julia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clarkson</surname>
+              <given-names>James J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roberts</surname>
+              <given-names>Alexandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rivers</surname>
+              <given-names>Malin C.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>The use and misuse of herbarium specimens in evaluating plant extinction risks</article-title>
+          <source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+          <volume>374</volume>
+          <issue>1763</issue>
+          <pub-id pub-id-type="doi">10.1098/rstb.2017.0402</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183779">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Nic Lughadha</surname>
+              <given-names>Eimear M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Graziele Staggemeier</surname>
+              <given-names>Vanessa</given-names>
+            </name>
+            <name name-style="western">
+              <surname>N. C. Vasconcelos</surname>
+              <given-names>Thais</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Walker</surname>
+              <given-names>Barnaby E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Canteiro</surname>
+              <given-names>Cátia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lucas</surname>
+              <given-names>Eve J.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Harnessing the potential of integrated systematics for conservation of taxonomically complex, megadiverse plant groups</article-title>
+          <source>Conservation Biology</source>
+          <pub-id pub-id-type="doi">10.1111/cobi.13289</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183791">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pelletier</surname>
+              <given-names>Tara A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Carstens</surname>
+              <given-names>Bryan C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tank</surname>
+              <given-names>David C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sullivan</surname>
+              <given-names>Jack</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Espíndola</surname>
+              <given-names>Anahí</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Predicting plant conservation priorities on a global scale</article-title>
+          <source>Proceedings of the National Academy of Sciences</source>
+          <volume>115</volume>
+          <issue>51</issue>
+          <fpage>13027</fpage>
+          <lpage>13032</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1804098115</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

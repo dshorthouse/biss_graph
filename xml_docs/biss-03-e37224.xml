@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37224</article-id>
+      <article-id pub-id-type="publisher-id">37224</article-id>
+      <article-id pub-id-type="manuscript">11055</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>When Data Management Meets Project Management</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Meyke</surname>
+            <given-names>Evgeniy</given-names>
+          </name>
+          <email xlink:type="simple">evgeniy@earthcape.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1986-2631</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">EarthCape OY, Helsinki, Finland</addr-line>
+        <institution>EarthCape OY</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Evgeniy Meyke (<email xlink:type="simple">evgeniy@earthcape.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37224</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4E6FC3B4EF4E56A0AFAB1C54F9EFCBFB">4E6FC3B4EF4E56A0AFAB1C54F9EFCBFB</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Evgeniy Meyke</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Complex projects that collect, curate and analyse biodiversity data are often presented with the challenge of accommodating diverse data types, various curation and output workflows, and evolving project logistics that require rapid changes in the applications and data structures. At the same time, sustainability concerns and maintenance overheads pose a risk to the long term viability of such projects.</p>
+        <p>We advocate the use of flexible, multiplatform tools that adapt to operational, day-to-day challenges while providing a robust, cost efficient, and maintainable framework that serves the needs data collectors, managers and users.</p>
+        <p><ext-link ext-link-type="uri" xlink:href="https://earthcape.com/">EarthCape</ext-link> is a highly versatile platform for managing biodiversity research and collections data, associated molecular laboratory data (Fig. <xref ref-type="fig" rid="F5165264">1</xref>), multimedia, structured ecological surveys and monitoring schemes, and more. The platform includes a fully functional Windows client as well as a web application. The data are stored in the cloud or on-premises and can be accessed by users with various access and editing rights. Ease of customization (making changes to user interface and functionality) is critical for most environments that deal with operational research processes. For active researchers and curators, there is rarely time to wait for a cycle of development that follows a change or feature request. In EarthCape, most of the changes to the default setup can be implemented by the end users with minimum effort and require no programming skills.</p>
+        <p>High flexibility and a range of customisation options is complemented with mapping to <ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/">Darwin Core</ext-link> standard and integration with <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">GBIF</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.geo-locate.org/">Geolocate</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genbank/">Genbank</ext-link>, and <ext-link ext-link-type="uri" xlink:href="https://www.biodiversitylibrary.org/">Biodiversity Heritage Library</ext-link> APIs. The system is currently used daily for rapid data entry, digitization and sample tracking, by such organisations as Imperial College, University of Cambridge, University of Helsinki, University of Oxford.</p>
+        <p>Being an operational data entry and retrieval tool, EarthCape sits at the bottom of Virtual Research Environments ecosystem. It is not a software or platform to build data repositories, but rather a very focused tool falling under "back office" software category. Routine label printing, laboratory notebook maintenance, rapid data entry set up, or any other of relatively loaded user interfaces make use of any industry standard relational database back end. This opens a wide scope for IT designers to implement desired integrations within their institutional infrastructure. APIs and developer access to core EarthCape libraries to build own applications and modules are under development.</p>
+        <p>Basic data visualisation (charts, pivots, dashboards), mapping (full featured desktop GIS module), data outputs (report and label designer) are tailored not only to research analyses, but also for managing logistics and communication when working on (data) papers. The presentation will focus on the software platform featuring most prominent use cases from two areas: ecological research (managing complex network data digitization project) and museum collections management (herbarium and insect collections).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>collection management</kwd>
+        <kwd>software</kwd>
+        <kwd>database</kwd>
+        <kwd>research data</kwd>
+        <kwd>molecular laboratory</kwd>
+        <kwd>GIS</kwd>
+        <kwd>mapping</kwd>
+        <kwd>species</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>labels</kwd>
+        <kwd>museum</kwd>
+        <kwd>natural history</kwd>
+        <kwd>ecology</kwd>
+        <kwd>data management</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Evgeniy Meyke</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>EarthCape is self sustainable providing consulting services and hosting/support based on a subscription model. In operation since 2011.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>EarthCape is self sustainable providing consulting services and hosting/support based on a subscription model. In operation since 2011.</p>
+    </sec>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>Evgeniy Meyke is a lead software developer of EarthCape and prepared the presentation</p>
+    </sec>
+  </back>
+  <floats-group>
+    <fig id="F5165264" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>EarthCape Windows Client Molecular Laboratory Screen.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37224-g001.png" position="float" id="oo_276366.PNG" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

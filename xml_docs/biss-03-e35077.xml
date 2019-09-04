@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35077</article-id>
+      <article-id pub-id-type="publisher-id">35077</article-id>
+      <article-id pub-id-type="manuscript">11239</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Marine collections and global digital repositories as source data to assess the effects of habitat condition and biodiversity loss on African Coastal ecosystem functioning and services</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Bento</surname>
+            <given-names>Marta</given-names>
+          </name>
+          <email xlink:type="simple">mabento@fc.ul.pt</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9790-0272</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Niza</surname>
+            <given-names>Henrique</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cartaxana</surname>
+            <given-names>Alexandra</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Marçal Correia</surname>
+            <given-names>Alexandra</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">MARE - ULisboa, Lisboa, Portugal</addr-line>
+        <institution>MARE - ULisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Faculdade de Ciências da Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>Faculdade de Ciências da Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Museu Nacional de História Natural e da Ciência, Lisboa, Portugal</addr-line>
+        <institution>Museu Nacional de História Natural e da Ciência</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Marta Bento (<email xlink:type="simple">mabento@fc.ul.pt</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35077</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/3EBFDE7300035150A98CA97BB4672AD1">3EBFDE7300035150A98CA97BB4672AD1</uri>
+      <history>
+        <date date-type="received">
+          <day>02</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Marta Bento, Henrique Niza, Alexandra Cartaxana, Alexandra Marçal Correia</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Natural history collections (NHC) worldwide contain vast amount of valuable data that can be used to answer a wide range of questions by exploring biodiversity and natural resources records, having an immense potential to contribute to science, policy making and legislating, and to public scientific awareness. Likewise, the development and increase of global and regional biodiversity digital databases (e.g., Global Biodiversity Information Facility - GBIF; Fauna Europaea; Naturdata, etc.), scientific literature and all digital information regarding biodiversity, ecological areas and climate records comprise a huge amount of primary and processed digital ecological data (DED) accessible globally that can be readily used, at no cost, and integrated to further study e.g. biodiversity changes, ecological processes, natural habitat distribution, prioritizing ecosystem management and conservation actions, etc.</p>
+        <p>Marine invertebrate biodiversity contributes to the structure and stability of ecosystem processes such as productivity, ecological networks, as well as nutrient and biogeochemical cycling having also an economic importance as a food source for local populations. Mangroves and seagrasses encompass ecological and socio-economic relevance as they have a preponderant role in marine and coastal ecosystem biodiversity and functioning providing a vast number of goods and services to local populations. Although generally pristine, mangroves and seagrasses in Africa are extremely vulnerable to the increased migration of rural populations to urban coastal areas and to extreme climate events. As a result, human activities such as construction, agriculture and food harvesting, provoke habitat degradation and biodiversity loss which will have further devastating consequences. The degradation and unsustainable use of these ecosystems have major drawbacks to the elimination of extreme poverty because this is one of the key factors that drive environmental degradation and biodiversity loss.</p>
+        <p>The main goal of this work is to use NHC and digital repositories data (including scientific literature) to assess how biodiversity loss and habitat degradation affect ecosystem functioning and services provided by marine invertebrate communities of mangroves and seagrass meadows in the West and East African coast, using the case study of Mozambique and Príncipe’s Island. These will lead to the construction of a comprehensive dataset, an ecological model and a framework adapted to marine invertebrate biodiversity from Mozambique’s (MZ) and São Tomé and Príncipe’s (STP) mangroves and seagrasses as tools:1) integrate and disseminate marine invertebrate biodiversity data gathered along a spatio-temporal scale; 2) compare marine invertebrate assemblies from pristine and impacted habitats in African countries and predict the progress of these communities to habitat degradation and biodiversity loss; and 3) manage ecosystem functioning and services delivered by marine invertebrate assemblages under anthropogenic and environmental pressure scenarios.</p>
+        <p>Specifically this project intends to:</p>
+        <p>
+          <list list-type="order"><list-item><p>compile and integrate the available information contained in NHC and DED to develop a comprehensive spatio-temporal dataset on marine invertebrate biodiversity (e.g. species, number of individuals, local of occurrence and georeferencing, date of collection/observation), as well as mangroves and seagrasses distribution along the Mozambique’s and Príncipe’s coasts;</p></list-item><list-item><p>assess different indexes of invertebrate marine biodiversity, biodiversity and habitat spatio-temporal distribution;</p></list-item><list-item><p>develop an ecological network approach to assess the functional links of marine invertebrate communities within the studied habitats, and to refine their role in ecosystem functioning, as well as ecosystem services (ES) provided by marine invertebrates in mangroves and seagrasses from MZ and STP;</p></list-item><list-item><p>construct a model to evaluate the ecological responses of mangrove and seagrass invertebrate communities to habitat degradation and biodiversity loss and to predict multi-dimensional (spatial, temporal, and social) trade-offs in local/regional ecosystem services along a spatio-temporal gradient;</p></list-item><list-item><p>develop a practical framework to manage and preserve ecosystem functioning and services delivered by mangrove and seagrass marine invertebrates under a global change scenario.</p></list-item></list>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Marine organisms</kwd>
+        <kwd>Ecosystem Functioning and Services</kwd>
+        <kwd>Biodiversity Repositories</kwd>
+        <kwd>Habitat Condition</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Marta Bento</p>
+      </sec>
+    </notes>
+  </front>
+</article>

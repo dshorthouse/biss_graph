@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37414</article-id>
+      <article-id pub-id-type="publisher-id">37414</article-id>
+      <article-id pub-id-type="manuscript">11310</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI55 - Federated Infrastructures for Sustainable Biodiversity Data Management</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Long-Term Reusability of Biodiversity and Collection Data using a National Federated Data Infrastructure</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Grobe</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <email xlink:type="simple">p.grobe@leibniz-zfmk.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4991-5781</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gleisberg</surname>
+            <given-names>Maren</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Klasen</surname>
+            <given-names>Birgit</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Monje</surname>
+            <given-names>Juan Carlos</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Penzlin</surname>
+            <given-names>Anke</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Weibulat</surname>
+            <given-names>Tanja</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Triebel</surname>
+            <given-names>Dagmar</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1980-3148</uri>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Zoological Research Museum Alexander Koenig, Bonn, Germany</addr-line>
+        <institution>Zoological Research Museum Alexander Koenig</institution>
+        <addr-line content-type="city">Bonn</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Botanical Garden and Botanical Museum Berlin Dahlem, Berlin, Germany</addr-line>
+        <institution>Botanical Garden and Botanical Museum Berlin Dahlem</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">State Museum of Natural History Stuttgart, Stuttgart, Germany</addr-line>
+        <institution>State Museum of Natural History Stuttgart</institution>
+        <addr-line content-type="city">Stuttgart</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Senckenberg Gesellschaft für Naturforschung, Frankfurt, Germany</addr-line>
+        <institution>Senckenberg Gesellschaft für Naturforschung</institution>
+        <addr-line content-type="city">Frankfurt</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">German Federation for Biological Data e.V., Bremen, Germany</addr-line>
+        <institution>German Federation for Biological Data e.V.</institution>
+        <addr-line content-type="city">Bremen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">SNSB IT Center and Botanische Staatssammlung München, Munich, Germany</addr-line>
+        <institution>SNSB IT Center and Botanische Staatssammlung München</institution>
+        <addr-line content-type="city">Munich</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Peter Grobe (<email xlink:type="simple">p.grobe@leibniz-zfmk.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37414</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/28C62C53F7725B47990A492CB3B5237B">28C62C53F7725B47990A492CB3B5237B</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Peter Grobe, Maren Gleisberg, Birgit Klasen, Juan Carlos Monje, Anke Penzlin, Tanja Weibulat, Dagmar Triebel</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>GFBio “German Federation for Biological Data” is a data infrastructure and network set up by several research institutions in Germany. It fosters archiving and long-term reusability of research data and provides open and free access via a joint web portal at <ext-link ext-link-type="uri" xlink:href="http://www.gfbio.org">www.gfbio.org</ext-link>. As part of the working procedures data are semantically enriched and provided via a visualization and analysis tool. The main aim of the infrastructure is to make research data from the biological domain reusable and accessible on the long run following FAIR principles.</p>
+        <p>In order to achieve this, several workflows and best practices have been established. The archiving of biodiversity and collection research data follows the reference model (ISO 14721) for an <bold><underline>O</underline>pen <underline>A</underline>rchival <underline>I</underline>nformation <underline>S</underline>ystem (OAIS)</bold>. The challenges for making data reusable is on the one hand the heterogeneity of this data, on the other hand the often implicit but differing semantics making data integration a hard and difficult process. The use of data management plans is one approach we run to face and solve the challenges. Data management plans contain recipes about the research data, the tools used to acquire data, the content- and exchange formats, the metadata required to describe the data, and finally the costs and resources needed by data providers to deliver structured “Submission Information Packages” (SIPs) in the sense of OAIS.</p>
+        <p>The archiving of a data package as “Archival Information Package” (AIP) is not sufficient to make it reusable in the future. Changes in the semantic meaning over time (content obsolescence), changes in the formats (format obsolescence), and changes in the technology of storage media (hardware obsolescence) are the major factors to be considered here. According to the FAIR principles and to our understanding data is best preserved if it is visible and available for use. The <bold>biodiversity and collection data centers </bold>involved in GFBio therefore have <bold>a curation layer</bold> (cf. management aka OAIS) in the archiving pipeline assembling their in-house management systems for sample and observation data and their asset management systems for all kinds of multimedia. This layer allows a continuous quality control and review of the incoming information packages. Thus, data providers can continuously maintain their data if wished for. The data are stored as AIPs sensu OAIS at the specialized data centers and are accessed by GFBio's core system. Dissemination Information Packages (DIPs) can be generated continuously at every time from the data and disseminated using content standards for data and metadata, like EML, ABCD and MIxS. Data are available via the GFBio website and in parallel using other web portals from the biological domain, e.g. INSDC and GBIF.</p>
+        <p>The GFBio data centers now strive for <bold>certification</bold> of their archiving processes using the Core Trust Seal and for the certification of the FAIRness of single data records.</p>
+        <p>Established data flows and documentation on <bold>best practices</bold> are available under: <ext-link ext-link-type="uri" xlink:href="http://www.gfbio.org/data-centers">www.gfbio.org/data-centers</ext-link>.</p>
+      </abstract>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Deutsche Forschungsgemeinschaft</named-content>
+            <named-content content-type="funder_identifier">501100001659</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001659</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Peter Grobe</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>German Research Fundation (DFG): Information Infrastructures for Research Data</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank the GFBio consortium.</p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>German Research Fundation (DFG): Information Infrastructures for Research Data</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>German Federation for Biological Data (GFBio) Phase III</p>
+    </sec>
+  </back>
+</article>

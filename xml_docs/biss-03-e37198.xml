@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37198</article-id>
+      <article-id pub-id-type="publisher-id">37198</article-id>
+      <article-id pub-id-type="manuscript">11192</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COT - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Examining Herbarium Specimen Citation: Developing a literature-based institutional impact measure</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Nicolson</surname>
+            <given-names>Nicky</given-names>
+          </name>
+          <email xlink:type="simple">nicky.nicolson@brunel.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3700-4884</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Paton</surname>
+            <given-names>Alan</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6052-6675</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Phillips</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9155-8573</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tucker</surname>
+            <given-names>Allan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens, Kew, Richmond, United Kingdom</addr-line>
+        <institution>Royal Botanic Gardens, Kew</institution>
+        <addr-line content-type="city">Richmond</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Department of Computer Science, Brunel University, London, United Kingdom</addr-line>
+        <institution>Department of Computer Science, Brunel University</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nicky Nicolson (<email xlink:type="simple"> nicky.nicolson@brunel.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37198</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2D691A316B3856BEBB138E81B00E2F1F">2D691A316B3856BEBB138E81B00E2F1F</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nicky Nicolson, Alan Paton, Sarah Phillips, Allan Tucker</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Herbarium specimens are critical components of the research process - providing "what, where, when" evidence for species distributions and through type designation, providing the basis for un-ambiguous, standardised nomenclature facilitating the interpretation of scientific names. Specimen references are embedded within research article texts, by convention usually presented in a relatively formalised fashion. As this is a domain-specific practice, general publishers tend not to provide tools for detecting and tracking specimen references to enable bibliometric-style calculations and navigation to the referenced specimen, as is common practice in literature reference management. This means that it is difficult to measure impact, which affects both the individuals responsible for the collection and determination of herbarium specimens (<xref ref-type="bibr" rid="B5176043">McDade et al. 2011</xref>), and the institutions responsible for their long-term management.</p>
+        <p>Specimen digitisation - creating searchable data repositories of metadata and/or images - has enabled many new and larger scale uses for herbarium specimens and their associated data, and stimulated interest in quantifying usage and measuring institutional impact. To date, these impact measures have been conducted by examining usage statistics for specimen portals, or by text searching for specimen identifier patterns.</p>
+        <p>This research uses text mining and document classification techniques to detect article sections likely to contain specimen references, which are then extracted, classified and counted. A dataset of taxonomic publications categorised into paragraph-level units is used to train a text classifier to predict the presence of specimen references within component units of articles (sections or paragraphs). The input to the classifier is a set of features derived from the text contents of paragraphs, which detect content such as latitude/longitude, dates and bracketed lists of herbarium codes. Article units classified as containing specimen references are processed to extract a minimal representation of the specimen reference, including the abbreviated codes for the institutional holder(s) of the specimen material. This allows total and per-institution counts to be calculated, which can be compared to datasets of Global Biodiversity Information Facility data citations, to institutional-level type citations in nomenclatural acts recorded by the International Plant Names Index and to usage statistics recorded by institutional data repositories. As well as counting specimen references, distinct specimen reference styles are detected and quantified, including the use of numeric and persistent identifiers (<xref ref-type="bibr" rid="B5176058">Güntsch et al. 2017</xref>) which can be used to access a standardised metadata record for the specimen.</p>
+        <p>We will present an assessment of the classification and detection process and initial results, and discuss future work to develop this approach to work with different kinds of literature inputs. These techniques have the potential to allow institutions to make better use of existing information to help assess the use and impact of their specimen and data holdings.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>specimen citation</kwd>
+        <kwd>text classification</kwd>
+        <kwd>text mining</kwd>
+        <kwd>citation metrics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nicky Nicolson</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5176058">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hyam</surname>
+              <given-names>Roger</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hagedorn</surname>
+              <given-names>Gregor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chagnoux</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Röpert</surname>
+              <given-names>Dominik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Casino</surname>
+              <given-names>Ana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Droege</surname>
+              <given-names>Gabi</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Glöckler</surname>
+              <given-names>Falko</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gödderz</surname>
+              <given-names>Karsten</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hoffmann</surname>
+              <given-names>Jana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holleman</surname>
+              <given-names>Ayco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kempa</surname>
+              <given-names>Matúš</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Koivula</surname>
+              <given-names>Hanna</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marhold</surname>
+              <given-names>Karol</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nicolson</surname>
+              <given-names>Nicky</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Vincent S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Triebel</surname>
+              <given-names>Dagmar</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Actionable, long-term stable and semantic web compatible identifiers for access to biological collection objects</article-title>
+          <source>Database</source>
+          <volume>2017</volume>
+          <pub-id pub-id-type="doi">10.1093/database/bax003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5176043">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>McDade</surname>
+              <given-names>Lucinda A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Maddison</surname>
+              <given-names>David R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Piwowar</surname>
+              <given-names>Heather A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jameson</surname>
+              <given-names>Mary Liz</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Helgen</surname>
+              <given-names>Kristofer M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Herendeen</surname>
+              <given-names>Patrick S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hill</surname>
+              <given-names>Andrew</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vis</surname>
+              <given-names>Morgan L.</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>Biology needs a modern assessment system for professional productivity</article-title>
+          <source>BioScience</source>
+          <volume>61</volume>
+          <issue>8</issue>
+          <fpage>619</fpage>
+          <lpage>625</lpage>
+          <pub-id pub-id-type="doi">10.1525/bio.2011.61.8.8</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

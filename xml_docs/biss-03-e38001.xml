@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38001</article-id>
+      <article-id pub-id-type="publisher-id">38001</article-id>
+      <article-id pub-id-type="manuscript">11417</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS14 - The role of Earth Science collections within biodiversity research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A National Geoscience Data Platform and its Application in Paleobiodiversity Studies: Experiences from Estonia</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hints</surname>
+            <given-names>Olle</given-names>
+          </name>
+          <email xlink:type="simple">olle.hints@taltech.ee</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4670-4452</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Isakar</surname>
+            <given-names>Mare</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Toom</surname>
+            <given-names>Ursula</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Tallinn University of Technology, Department of Geology, Tallinn, Estonia</addr-line>
+        <institution>Tallinn University of Technology, Department of Geology</institution>
+        <addr-line content-type="city">Tallinn</addr-line>
+        <country>Estonia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Tartu, Natural History Museum, Tartu, Estonia</addr-line>
+        <institution>University of Tartu, Natural History Museum</institution>
+        <addr-line content-type="city">Tartu</addr-line>
+        <country>Estonia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Olle Hints (<email xlink:type="simple">olle.hints@taltech.ee</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38001</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/E38B7ED407E25D6D8A0426D1B096E54B">E38B7ED407E25D6D8A0426D1B096E54B</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Olle Hints, Mare Isakar, Ursula Toom</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Studying deep time biodiversity and environments is largely based on collections of fossils and sedimentary rocks, and the information acquired thereof. The sedimentary bedrocks of Estonia and neighbouring areas constitute a well-preserved archive of Earth history from the late Precambrian to the Devonian period. This interval of geological time hosts several key events in the diversification of life, notably the Cambrian explosion, the Great Ordovician Biodiversification Event and the Hirnantian mass extinction. Documenting and understanding these events has benefited from the geological and paleontological collections from the Baltic region, a large part of which are deposited in Estonia.</p>
+        <p>Since 2004 Estonia has had a 'national geological collection' that virtually joins the archives of three major collection-holding institutions: Tallinn University of Technology, University of Tartu and the Estonian Museum of Natural History (<xref ref-type="bibr" rid="B5189315">Hints et al. 2008</xref>). A key to the functioning of this national consortium is the common database system 'SARV', which started as a simple collection management tool, but has grown into a geoscience data platform linking various types of geoscientific information and supporting also the needs of researchers. Technically the system is based on a relational data model and central database server, a REST API and a number of web-based user interfaces from data management tools to public portals and more specialized applications. Individual components of the system are now built on open source software including MySQL, Apache Solr, Django REST framework, and Angular and Vue JavaScript frameworks. The data model and all recently developed software are available in a Github repository (<ext-link ext-link-type="uri" xlink:href="https://github.com/geocollections">https://github.com/geocollections</ext-link>).</p>
+        <p>Data on individual fossil specimens, digital images, localities, regional stratigraphic units, rock samples, datasets, published references, field notebooks etc. are publicly accessible in the Estonian geoscience collections portal (<ext-link ext-link-type="uri" xlink:href="https://geocollections.info">https://geocollections.info</ext-link>). A separate gateway provides access to the information on fossil taxa and their distribution in the Baltic region (<ext-link ext-link-type="uri" xlink:href="https://fossiilid.info">https://fossiilid.info</ext-link>). Another example of using the same underlying data platform specifically for paleobiodiversity research is the Baltic chitinozoan database CHITDB (<ext-link ext-link-type="uri" xlink:href="http://chitinozoa.net">http://chitinozoa.net</ext-link>; <xref ref-type="bibr" rid="B5184211">Hints et al. 2018</xref>). Chitinozoans are an enigmatic group of Paleozoic microfossils, very useful in biostratigraphy. Some of the largest collections of these fossils worldwide derive from the Baltica paleocontinent and are deposited in Estonia. The chitinozoan portal was developed for managing and publishing the occurrence-level data on chitinozoans, and for quantitatively analysing their diversification history and biotic crises through the Ordovician and Silurian periods. The main benefit of using such an integrated data system is that a user may easily turn back to individual samples and specimen images (for instance, to verify identifications), and combine the paleontological data with information about past environments and climate that might derive from publications, first-hand geochemical data or even from descriptions in field notebooks. Global tools, such as the Paleobiology database, cannot provide such functionality for the time being.</p>
+        <p>The next steps in enhancing the national geoscience data platform in Estonia are related to the development of new data collection and publication modules, building a complete digital library of geoscience publications related to Estonia and widening the user base of the system. Participation in the national research infrastructure roadmap project <ext-link ext-link-type="uri" xlink:href="https://natarc.ut.ee">NATARC</ext-link> as well as the Pan-European <ext-link ext-link-type="uri" xlink:href="https://dissco.eu">DiSSCo</ext-link> will support achieving this and safeguarding the sustainability of geoscience data and corresponding e-services in Estonia.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>geoscience collections</kwd>
+        <kwd>fossils</kwd>
+        <kwd>paleobiodiversity</kwd>
+        <kwd>database</kwd>
+        <kwd>repository</kwd>
+        <kwd>e-service</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Sihtasutus Archimedes</named-content>
+            <named-content content-type="funder_identifier">100008369</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/100008369</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Olle Hints</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>National Research Infrastructure Roadmap of Estonia: Natural History Archives and Information Network (NATARC)</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>National Research Infrastructure Roadmap of Estonia: Natural History Archives and Information Network (NATARC)</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5189315">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hints</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Isakar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hints</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <chapter-title>Geological collections in Estonia</chapter-title>
+          <person-group person-group-type="editor">
+            <name name-style="western">
+              <surname>Parmasto</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Viikberg</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <source>Eesti humanitaar- ja loodusteaduslikud kogud. Seisund, kasutamine, andmebaasid</source>
+          <publisher-name>Tartu University Press</publisher-name>
+          <publisher-loc>Tartu</publisher-loc>
+          <size units="page">181-200</size>
+          <comment content-type="language">Estonian with English summary</comment>
+        </element-citation>
+      </ref>
+      <ref id="B5184211">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hints</surname>
+              <given-names>Olle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Antonovitš</surname>
+              <given-names>Liina</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bauert</surname>
+              <given-names>Garmen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nestor</surname>
+              <given-names>Viiu</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nõlvak</surname>
+              <given-names>Jaak</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tammekänd</surname>
+              <given-names>Mairy</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>CHITDB: a database for documenting and analysing diversification of Ordovician-Silurian chitinozoans in the Baltic region</article-title>
+          <source>Lethaia</source>
+          <volume>51</volume>
+          <issue>2</issue>
+          <fpage>218</fpage>
+          <lpage>227</lpage>
+          <pub-id pub-id-type="doi">10.1111/let.12249</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

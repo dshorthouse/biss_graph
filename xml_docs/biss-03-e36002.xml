@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36002</article-id>
+      <article-id pub-id-type="publisher-id">36002</article-id>
+      <article-id pub-id-type="manuscript">11552</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mission: Implausible — Revealing rogue marine species in records across biodiversity data platforms</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Nozères</surname>
+            <given-names>Claude</given-names>
+          </name>
+          <email xlink:type="simple">claudenozeres@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kennedy</surname>
+            <given-names>Mary</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Canadian Register of Marine Species, Mont-Joli, Canada</addr-line>
+        <institution>Canadian Register of Marine Species</institution>
+        <addr-line content-type="city">Mont-Joli</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">iNaturalist Canada, Dartmouth, Canada</addr-line>
+        <institution>iNaturalist Canada</institution>
+        <addr-line content-type="city">Dartmouth</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Claude Nozères (<email xlink:type="simple">claudenozeres@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36002</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/16097F5D1ECE5901A5F138A0A8B8037A">16097F5D1ECE5901A5F138A0A8B8037A</uri>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Claude Nozères, Mary Kennedy</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Online biodiversity platforms publish datasets with graphic tools to help with quality control of submitted records, but more could be done to make the data robust for ecological analyses. Attention has focused mostly on automating tools for obvious errors, including misspelled names and synonyms, dates, or coordinates. However, a manual review of species identifications and distributions may uncover improbable records, such as a species reported in an area far from its usual range, or a rare species found in an area that has many more records of a related species. Examples are shown by constructing checklists in the Northwest Atlantic, using information from the World Register of Marine Species (WoRMS, <ext-link ext-link-type="uri" xlink:href="http://www.marinespecies.org/">http://www.marinespecies.org</ext-link>) and the Ocean Biogeographic Information System (OBIS, <ext-link ext-link-type="uri" xlink:href="https://obis.org/">https://obis.org</ext-link>). Reviewing rare species records revealed some misidentifications, but in other instances, the rare species was valid while it was the commonly reported species that needed correction. Confirmations were obtained by comparing records from different regions, but also across platforms, including photos from observers on iNaturalist Canada (<ext-link ext-link-type="uri" xlink:href="https://inaturalist.ca/">https://inaturalist.ca</ext-link>), genetic analyses on Barcode of Life Data systems (BOLD, <ext-link ext-link-type="uri" xlink:href="http://www.boldsystems.org/">http://www.boldsystems.org</ext-link>), and literature in the Biodiversity Heritage Library (BHL, <ext-link ext-link-type="uri" xlink:href="https://www.biodiversitylibrary.org/">https://www.biodiversitylibrary.org</ext-link>). While this exercise succeeded in validating the marine taxa of a region, it is an obvious candidate for automation in three areas: 1) flagging records of improbable taxa in a region, 2) comparing records with different types of information (e.g., specimen photos, genetic groupings, or literature records), and 3) updating users and providers when records get flagged as unusual or are modified. The first approach could be explored using online graphics tools or R software packages (rOpenSci, <ext-link ext-link-type="uri" xlink:href="https://ropensci.org/">https://ropensci.org</ext-link>). The second toolset, comparing records across platforms, is partially realized with some linkages already operating between WoRMS, OBIS, BOLD, BHL, iNaturalist, and the Global Biodiversity Information Facility (GBIF, <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">https://www.gbif.org</ext-link>). The third target will be the most difficult to implement, requiring reliable platform cross-linkages and specimen record identifiers to send notifications of changed status of records to both users and the original data source. Ongoing work is discussed on communicating the need to review records across platforms, with the hope that toolsets will be developed to make this task easier.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data mobilization</kwd>
+        <kwd>marine biodiversity</kwd>
+        <kwd>taxonomic diversity</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Claude Nozères</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

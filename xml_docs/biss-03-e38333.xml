@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38333</article-id>
+      <article-id pub-id-type="publisher-id">38333</article-id>
+      <article-id pub-id-type="manuscript">11771</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Species Distribution Modelling Using Deep Learning</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Vos</surname>
+            <given-names>Rutger Aldo</given-names>
+          </name>
+          <email xlink:type="simple">rutgeraldo@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9254-7318</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rademaker</surname>
+            <given-names>Mark</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hogeweg</surname>
+            <given-names>Laurens</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Leiden University, Leiden, Netherlands</addr-line>
+        <institution>Leiden University</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Wageningen University and Research, Wageningen, Netherlands</addr-line>
+        <institution>Wageningen University and Research</institution>
+        <addr-line content-type="city">Wageningen</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">COSMONiO, Groningen, Netherlands</addr-line>
+        <institution>COSMONiO</institution>
+        <addr-line content-type="city">Groningen</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Rutger Aldo Vos (<email xlink:type="simple">rutgeraldo@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38333</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/22DF79129E4C5692BE39E1FCF04F22ED">22DF79129E4C5692BE39E1FCF04F22ED</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Rutger Aldo Vos, Mark Rademaker, Laurens Hogeweg</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Species distribution modelling, or ecological niche modelling, is a collection of techniques for the construction of correlative models based on the combination of species occurrences and GIS data. Using such models, a variety of research questions in biodiversity science can be investigated, among which are the assessment of habitat suitability around the globe (e.g. in the case of invasive species), the response of species to alternative climatic regimes (e.g. by forecasting climate change scenarios, or by hindcasting into palaeoclimates), and the overlap of species in niche space. The algorithms used for the construction of such models include maximum entropy, neural networks, and random forests. Recent advances both in computing power and in algorithm development raise the possibility that deep learning techniques will provide valuable additions to these existing approaches. Here, we present our recent findings in the development of workflows to apply deep learning to species distribution modelling, and discuss the prospects for the large-scale application of deep learning in web service infrastructures to analyze the growing corpus of species occurrence data in biodiversity information facilities.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>species distribution modelling</kwd>
+        <kwd>ecological niche modelling</kwd>
+        <kwd>deep learning</kwd>
+        <kwd>machine learning</kwd>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>GIS</kwd>
+        <kwd>species occurrences</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Rutger Vos</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Naturalis Biodiversity Center</p>
+      </sec>
+      <sec sec-type="Ethics and security">
+        <title>Ethics and security</title>
+        <p>N/A</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>None indicated</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Naturalis Biodiversity Center</p>
+    </sec>
+    <sec sec-type="Ethics and security">
+      <title>Ethics and security</title>
+      <p>N/A</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>None indicated</p>
+    </sec>
+  </back>
+</article>

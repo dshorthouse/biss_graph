@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35165</article-id>
+      <article-id pub-id-type="publisher-id">35165</article-id>
+      <article-id pub-id-type="manuscript">11214</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PT - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Current situation of DNA Barcoding data in biodiversity and genomics databases and data integration for museomics</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Nakazato</surname>
+            <given-names>Takeru</given-names>
+          </name>
+          <email xlink:type="simple">nakazato@dbcls.rois.ac.jp</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0706-2867</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Database Center for Life Science, Mishima, Japan</addr-line>
+        <institution>Database Center for Life Science</institution>
+        <addr-line content-type="city">Mishima</addr-line>
+        <country>Japan</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Takeru Nakazato (<email xlink:type="simple">nakazato@dbcls.rois.ac.jp</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35165</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/656A5B4A3C5B523E881A6604CAF036BE">656A5B4A3C5B523E881A6604CAF036BE</uri>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Takeru Nakazato</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The museomics activity regards museum-preserved specimens as rich resources for DNA studies by extracting and analyzing DNA from these specimens in conjunction with their biodiversity information. Also in biodiversity field, DNA sequence data such as DNA barcoding has become essential as evidence for species identification and phylogenetic analysis as well as occurrence and morphological information. To accelerate biodiversity informatics, it is important to utilize both biodiversity occurrence and morphology data, and bioinformatics sequencing data. There are many databases for biodiversity domain such as GBIF (The Global Biodiversity Information Facility) for species occurrence records, EoL (The Encyclopedia of Life) as a knowledge base of all species, and BOLD (The Barcode of Life Data) for DNA barcoding data. In genomics science, molecular data involving DNA and protein sequences have been captured by the DNA Data Bank in Japan (DDBJ), the European Bioinformatics Institute (EBI, UK), and the National Center for Biotechnology Information (NCBI, US) under the International Nucleotide Sequence Database Collaboration (INSDC) for more than 30 years. Recently, NCBI launched a new database called BioCollections, including 7,930 culture collections, museums, herbaria, and other natural history collections. In addition, we can submit biodiversity information such as specimen voucher IDs, BOLD IDs, and latitude/longitude with DNA sequences. To find out the current situation, I downloaded GenBank (Nucleotide) files (updated at 22 Feb 2019) from the NCBI FTP (file transfer protocol) site and extracted biodiversity features including specimen voucher IDs and BOLD IDs. For Insecta, there are 2,427,343 sequence entries with specimen voucher ID and 1,766,142 entries with BOLD ID of 3,389,495 total entries. The most abundant species with voucher IDs is “<italic>Cecidomyiidae</italic> sp. BOLD−2016” (Diptera) (35,861 sequence entries). The most frequently referred voucher ID is “USNMENT00921257” (1510 sequence entries), indicating <italic>Stenamma megamanni</italic> (Hymenoptera, Formicidae, Myrmicinae). For flowering plants (Magnoliophyta), of 3,094,140 total entries, 1,109,420 sequence entries are assigned with voucher IDs and 73,409 entries with BOLD IDs. Additionally, 79,891 matK entries and 63,821 rbcL entries are submitted with voucher IDs, without BOLD IDs. I also retrieved BOLD data for Insecta and flowering plants. The 2,368,801 GenBank entries are referred from 4,176,481 BOLD total entries for Insecta, and the 259,245 GenBank entries from 345,706 BOLD entries for flowering plants. Some DNA barcoding data exist redundantly in BOLD database because BOLD imports sequences from NCBI submitted as DNA barcoding data in BOLD. These entries have different BOLD IDs but same BIN_URL is assigned. Recently, high-throughput sequencing technology, also called next-generation sequencing technology (NGS), has made a great impact in genomic science. Biodiversity researchers became to perform not only DNA barcoding but also RNA-Seq with NGS. NGS also accelerates museomics activity. NGS data are archived to the Sequence Read Archive (SRA) database, and sample information is described in BioSample database in INSDC. To utilize NGS data for biodiversity field, we will need to integrate such databases and other biodiversity databases. We, Database Center for Life Science, tackle to integrate life science data with Semantic Web technology. We held annual meetings to integrate life science data, called BioHackathons, in which researchers from all over the world participated. We began to RDFize BioSample data, but we should import existing schemes used in the biodiversity field including Darwin Core.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>museomics</kwd>
+        <kwd>DNA sequence</kwd>
+        <kwd>DNA barcoding</kwd>
+        <kwd>database</kwd>
+        <kwd>NGS</kwd>
+        <kwd>semantic web technology</kwd>
+        <kwd>RDF</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Takeru Nakazato</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>The Life Science Database Integration Project.</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>The author has declared that no competing interest exists.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>The Life Science Database Integration Project.</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>The author has declared that no competing interest exists.</p>
+    </sec>
+  </back>
+</article>

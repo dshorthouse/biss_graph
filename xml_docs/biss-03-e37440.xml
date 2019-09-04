@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37440</article-id>
+      <article-id pub-id-type="publisher-id">37440</article-id>
+      <article-id pub-id-type="manuscript">10847</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Virtual Laboratories for Biodiversity Modelling: An Australian perspective</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Richmond</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <email xlink:type="simple">sarah.richmond@griffith.edu.au</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Huijbers</surname>
+            <given-names>Chantal</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5206-3415</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Griffith University, Gold Coast, Australia</addr-line>
+        <institution>Griffith University</institution>
+        <addr-line content-type="city">Gold Coast</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sarah Richmond (<email xlink:type="simple">sarah.richmond@griffith.edu.au</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37440</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F1DFC61F0DEC5E94BCB5DE84383DFBFE">F1DFC61F0DEC5E94BCB5DE84383DFBFE</uri>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sarah Richmond, Chantal Huijbers</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Recent technologies have enabled consistent and continuous collection of ecological data at high resolutions across large spatial scales. The challenge remains, however, to bring these data together and expose them to methods and tools to analyse the interaction between biodiversity and the environment. These challenges are mostly associated with the accessibility, visibility and interoperability of data, and the technical computation needed to interpret the data. Australia has invested in digital research infrastructures through the National Collaborative Research Infrastructure Strategy (NCRIS).</p>
+        <p>Here we present two platforms that provide easy access to global biodiversity, climate and environmental datasets integrated with a suite of analytical tools and linked to high-performance cloud computing infrastructure. The Biodiversity and Climate Change Virtual Laboratory (<ext-link ext-link-type="uri" xlink:href="http://www.bccvl.org.au/"><underline>BCCVL</underline></ext-link>) is a point-and-click online platform for modelling species responses to environmental conditions, which provides an easy introduction into the scientific concepts of models without the need for the user to understand the underlying code. For ecologists who write their own modelling scripts, we have developed <ext-link ext-link-type="uri" xlink:href="https://ecocloud.org.au/"><underline>ecocloud</underline></ext-link>: a new online environment that provides access to data connected with command-line analysis tools like RStudio and Jupyter Notebooks as well as a virtual desktop environment using Australia’s national cloud computing infrastructure. <italic>ecocloud</italic> is built through collaborations among key facilities within the ecosciences domain, establishing a collective long-term vision of creating an ecosystem of infrastructure that provides the capability to enable reliable prediction of future environmental outcomes. Underpinning these tools is an innovative training program, <ext-link ext-link-type="uri" xlink:href="http://ecoed.org.au/"><underline>ecoEd</underline></ext-link>, which provides cohesive training and skill development to enhance the translation of Australia’s digital research infrastructures to the ecoscience community by educating and upskilling the next generation of environmental scientists and managers. Both of these platforms are built using a best-practice microservice model that allows for complete flexibility, scalability and stability in a cloud environment.</p>
+        <p>Both the BCCVL and <italic>ecocloud </italic>are open-source developments and provide opportunities for interoperability with other platforms (e.g. Atlas of Living Austalia). In Australia, the same technical infrastructure is also used for a platform for the humanities and social science domain, indicating that the underlying technologies are not domain specific. We therefore welcome collaborations with other organisations to further develop these platforms for the wider bio- and ecoinformatics community.</p>
+        <p>This presentation will showcase the tools, services, and underpinning infrastructure alongside our training and engagement framework as an exemplar in building platforms for next generation biodiversity science.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>modelling</kwd>
+        <kwd>species distribution modelling</kwd>
+        <kwd>climate change</kwd>
+        <kwd>platform</kwd>
+        <kwd>Australia</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>BCCVL and ecocloud are both funded through the Australian Research Data Commons (ARDC) with equal co-investment from all project partners</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sarah Richmond</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

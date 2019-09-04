@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35382</article-id>
+      <article-id pub-id-type="publisher-id">35382</article-id>
+      <article-id pub-id-type="manuscript">11077</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST43 - How can specialized data aggregators better integrate information? Is following Darwin Core enough?</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An artisan approach to biodiversity software development</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Noé</surname>
+            <given-names>Nico</given-names>
+          </name>
+          <email xlink:type="simple">n.noe@biodiversity.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9503-4750</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Belgian Biodiversity Platform, Brussels, Belgium</addr-line>
+        <institution>Belgian Biodiversity Platform</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nico Noé (<email xlink:type="simple">n.noe@biodiversity.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35382</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/96B25C8A59075A869F471B8734064257">96B25C8A59075A869F471B8734064257</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nico Noé</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In a discipline where interoperability is crucial, funding is limited and reinventing the wheel is frowned upon (and rightfully so), the development of data management tools and biodiversity data portals is generally approached in an industrial way: the same application - whose specifications are often written by a committee - is developed as a complex “one size fits all” tool to be used by various groups in different contexts.</p>
+        <p>While this approach generally makes sense, for the last 15 years the <ext-link ext-link-type="uri" xlink:href="http://www.biodiversity.be/">Belgian Biodiversity Platform</ext-link> has sometimes tried a complementary approach where an artisan-minded software developer is assigned to a specific “customer” and is given a direct communication channel and tons of freedom to develop a simple, made-to-measure application. This empirical experience has shown some unexpected advantages but also, as always, some new challenges. It takes inspiration in things as diverse as the <ext-link ext-link-type="uri" xlink:href="https://agilemanifesto.org/">Agile software manifesto</ext-link> and the apprenticeship model of medieval Europe.</p>
+        <p>This talk will present this unusual approach and reflect on this ongoing experience, hopefully extracting pieces of wisdom that is useful to the broader community. For example, the following questions will be discussed:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>How does this method help mobilize biodiversity data? Can it “convert” scientists to <ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/Open_data">Open Data</ext-link>?</p></list-item><list-item><p>Has it some effects on the team stability and developer retention?</p></list-item><list-item><p>Aren’t you writing the same code again and again, resulting in an unmaintainable mess?</p></list-item><list-item><p>Isn’t this an example of living in isolation? What about sharing data with global initiatives such as <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">GBIF</ext-link>?</p></list-item></list>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>portals</kwd>
+        <kwd>development</kwd>
+        <kwd>IT</kwd>
+        <kwd>data</kwd>
+        <kwd>team management</kwd>
+        <kwd>Agile development</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nicolas Noé</p>
+      </sec>
+    </notes>
+  </front>
+</article>

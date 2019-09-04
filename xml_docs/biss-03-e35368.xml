@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35368</article-id>
+      <article-id pub-id-type="publisher-id">35368</article-id>
+      <article-id pub-id-type="manuscript">11056</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI55 - Federated Infrastructures for Sustainable Biodiversity Data Management</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Gardens4Science: Setting Up a Trusted Network for German Botanic Gardens Using Open Source Technologies</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Holetschek</surname>
+            <given-names>Jörg</given-names>
+          </name>
+          <email xlink:type="simple">j.holetschek@bgbm.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Droege</surname>
+            <given-names>Gabriele</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Güntsch</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4325-4030</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Köster</surname>
+            <given-names>Nils</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Marquardt</surname>
+            <given-names>Jeannine</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4898-5668</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Borsch</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Botanic Garden and Botanical Museum Berlin, Berlin, Germany</addr-line>
+        <institution>Botanic Garden and Botanical Museum Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jörg Holetschek (<email xlink:type="simple">j.holetschek@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35368</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A48FD30245A25B5783AB0666D9A22EE5">A48FD30245A25B5783AB0666D9A22EE5</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jörg Holetschek, Gabriele Droege, Anton Güntsch, Nils Köster, Jeannine Marquardt, Thomas Borsch</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Botanic gardens are an invaluable refuge for plant diversity for conservation, education and research. Worldwide, they manage over 100,000 species, roughly 30% of all plant species diversity, and over 41% of known threatened species; the botanic gardens in Germany house approximately 50,000 different species (<xref ref-type="bibr" rid="B5166341">Marquardt et al. in press</xref>). Scientists in need of plant material rely upon these resources for their research; they require a pooled, up-to-date inventory of ideally all accessions of these gardens.</p>
+        <p>Sharing data from (living) specimen collections online has become routine in the past years; initiatives like <ext-link ext-link-type="uri" xlink:href="http://www.bgci.org/plant_search.php">PlantSearch</ext-link> of Botanic Gardens Conservation International and the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org">Global Biodiversity Information Facility (GBIF) </ext-link> allow requesting specimens of interest. However, these catalogues are accessible for everyone. Legitimate concerns about potential theft and legal issues keep curators of living collections from sharing their full catalogues; in most cases, only filtered views of the data will be fed into these networks.</p>
+        <p>Gardens4Science (<ext-link ext-link-type="uri" xlink:href="http://gardens4science.biocase.org">http://gardens4science.biocase.org</ext-link>) aims at overcoming this issue by creating a trusted network between botanic gardens that allows an unfiltered access on the constituents’ accession catalogues. This unified data pool needs to be automatically synchronized with the individual garden’s catalogues, irrespective of the collection management systems used locally. For the three-year construction phase of Gardens4Science, focus is on <italic>Cactaceae</italic> and <italic>Bromeliaceae</italic>, since these families are well-represented in the collections and ideal models for studying the origin of biodiversity on evolutionary time scale.</p>
+        <p>Gardens4Science’s technical architecture (Fig. <xref ref-type="fig" rid="F5166500">1</xref>) is based on existing tools for setting up biodiversity networks:</p>
+        <p>
+          <list list-type="order"><list-item><p>The <ext-link ext-link-type="uri" xlink:href="http://www.biocase.org/products/provider_software">BioCASe (Biological Collections Access Service) Provider Software</ext-link> acts as an interface to the local databases that shields the network from their peculiarities (database management systems and data models used). BioCASe transforms the data into the <ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/abcd">Access to Biological Collections Data schema</ext-link> (ABCD) and publishes them as a BioCASe-compliant web service (<xref ref-type="bibr" rid="B5166361">Holetschek and Döring 2008</xref>, <xref ref-type="bibr" rid="B5177455">Holetschek et al. 2012</xref>).</p></list-item><list-item><p>The data portal is based on portal software from the <ext-link ext-link-type="uri" xlink:href="http://www.ggbn.org">Global Genome Biodiversity Network</ext-link> and provides a user-specific view on the data. Registered trusted users will be able to display full details of individual accessions, whereas guest users will see only an aggregated view (<xref ref-type="bibr" rid="B5166449">Droege et al. 2014</xref>).</p></list-item><list-item><p>The <ext-link ext-link-type="uri" xlink:href="http://wiki.bgbm.org/bhit">Berlin Indexing and Harvesting Toolkit</ext-link> (B-HIT) is used for harvesting the BioCASe web services of the local catalogues and creating a unified index database (<xref ref-type="bibr" rid="B5166483">Kelbert et al. 2015</xref>). Harvesting is done in regular intervals in order to keep the index in sync with the source databases and does not require any action on the provider’s side.</p></list-item></list>
+        </p>
+        <p>In addition to harvesting, B-HIT performs several data cleaning steps. Foremost, it reconciles scientific names from the source databases with a taxonomic backbone (currently <ext-link ext-link-type="uri" xlink:href="http://caryophyllales.org/cactaceae/">caryophyllales.org</ext-link> for <italic>Cactaceae</italic> and <ext-link ext-link-type="uri" xlink:href="http://bromeliad.nl/taxonList">the Butcher and Gouda checklist</ext-link> for <italic>Bromeliaceae</italic>), which allows harmonizing the taxonomies from the different sources and the correction of outdated species names and orthographic mistakes. Provenance information are validated (for example specified geographic coordinates versus country) and corrected, if possible; date values are parsed and converted into a standard format. The issues found and potential corrections are compiled in reports and send to the curators, so the mistakes can be rectified in the source databases.</p>
+        <p>In the construction phase, Gardens4Science consists of seven German Botanic gardens that share their accessions of the <italic>Bromeliaceae</italic> and <italic>Cactaceae</italic> families. Up to now (March 2019), 19.539 records have been published in Evo-BoGa, with about 3,500 to be added until the end of the project in January 2020. After the construction phase, it is planned to extend the network to include more Botanic Gardens – both from Germany and other countries – as well as additional plant families.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Biodiversity data networks</kwd>
+        <kwd>Open Source</kwd>
+        <kwd>BioCASe</kwd>
+        <kwd>ABCD</kwd>
+        <kwd>Botanical Gardens</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jörg Holetschek</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>BiodiversityNext 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5166449">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Droege</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barker</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Astrin</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bartels</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Butler</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cantrill</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Coddington</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Forest</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gemeinholzer</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hobern</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mackenzie-Dodds</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ó Tuama</surname>
+              <given-names>É.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Petersen</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sanjur</surname>
+              <given-names>O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schindel</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Seberg</surname>
+              <given-names>O.</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>The Global Genome Biodiversity Network (GGBN) Data Portal</article-title>
+          <source>Nucleic Acids Research</source>
+          <volume>42</volume>
+          <issue>1</issue>
+          <fpage>607</fpage>
+          <lpage>612</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkt928</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166361">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Holetschek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Döring</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <chapter-title>Publishing Specimen &amp; Observation Records Using BioCASe Technology</chapter-title>
+          <person-group person-group-type="editor">
+            <name name-style="western">
+              <surname>Gradstein</surname>
+              <given-names>S. R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Klatt</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Normann</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weigelt</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willmann</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wilson</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <source>Systematics 2008 Programme and Abstracts, Göttingen</source>
+        </element-citation>
+      </ref>
+      <ref id="B5177455">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Holetschek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dröge</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>W. G.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>The ABCD of primary biodiversity data access</article-title>
+          <source>Plant Biosystems</source>
+          <volume>146</volume>
+          <issue>4</issue>
+          <fpage>771</fpage>
+          <lpage>779</lpage>
+          <pub-id pub-id-type="doi">10.1080/11263504.2012.740085</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166483">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kelbert</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Droege</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barker</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Braak</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cawsey</surname>
+              <given-names>E. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Coddington</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robertson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Whitacre</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>B-HIT - A Tool for Harvesting and Indexing Biodiversity Data.</article-title>
+          <source>PLoS ONE</source>
+          <volume>10</volume>
+          <issue>11</issue>
+          <fpage>014224</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0142240</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166341">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Marquardt</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Köster</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Droege</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holetschek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bratzel</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zizka</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Koch</surname>
+              <given-names>M. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Borsch</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <year>in press</year>
+          <article-title>What grows where? Towards an infrastructure to connect collections of botanic gardens for research and conservation.</article-title>
+          <source>Proceedings EuroGard VIII</source>
+          <conf-name>Eighth European Botanic Gardens Congress</conf-name>
+          <conf-loc>Lisbon, Portugal</conf-loc>
+          <conf-date>May 7th-11th, 2018</conf-date>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5166500" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Technical infrastructure of the Gardens4Science network</p>
+      </caption>
+      <graphic xlink:href="biss-03-e35368-g001.jpg" position="float" id="oo_276574.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

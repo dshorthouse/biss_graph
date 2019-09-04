@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37095</article-id>
+      <article-id pub-id-type="publisher-id">37095</article-id>
+      <article-id pub-id-type="manuscript">11341</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Developing a High-speed Imaging Set-up for Small Herbaria: a case study from a national herbarium of Nepal (KATH)</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>King</surname>
+            <given-names>Sally</given-names>
+          </name>
+          <email xlink:type="simple">sking@rbge.org.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5809-9811</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Adhikari</surname>
+            <given-names>Bhaskar</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chalise</surname>
+            <given-names>Pratikshya</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dhakal</surname>
+            <given-names>Sajita</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Thapa</surname>
+            <given-names>Til Kumari</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Botanic Garden Edinburgh, Edinburgh, United Kingdom</addr-line>
+        <institution>Royal Botanic Garden Edinburgh</institution>
+        <addr-line content-type="city">Edinburgh</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">National Herbarium &amp; Plant Laboratories (KATH), Kathmandu, Nepal</addr-line>
+        <institution>National Herbarium &amp; Plant Laboratories (KATH)</institution>
+        <addr-line content-type="city">Kathmandu</addr-line>
+        <country>Nepal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sally King (<email xlink:type="simple">sking@rbge.org.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37095</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4318E8A69B6259C5B905A9865C028F4B">4318E8A69B6259C5B905A9865C028F4B</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sally King, Bhaskar Adhikari, Pratikshya Chalise, Sajita Dhakal, Til Kumari Thapa</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Himalayan region is recognised as one of the ‘hottest’ global Biodiversity hotspots, with a third of all species within its range occurring in Nepal. The documentation of the Flora of Nepal is therefore of great importance both nationally and internationally (<xref ref-type="bibr" rid="B5198815">National Herbarium &amp; Plant Laboratories (KATH) 2019</xref>).</p>
+        <p>The Royal Botanic Garden Edinburgh (RBGE) leads the Flora of Nepal project in collaboration with the Department of Plant Resources (DPR, part of the Ministry of Forests and Environment), Nepal Academy of Science and Technology (NAST), Central Department of Botany, Tribhuvan University (CDB-TU) and the Society of Himalayan Botany, Tokyo (SHB) (<xref ref-type="bibr" rid="B5198824">Royal Botanic Gardens Edinburgh 2014</xref>).</p>
+        <p>The National Herbarium and Plant Laboratories (KATH), Kathmandu, Nepal – part of DPR – contains approximately 165,000 herbarium specimens, representing 50% of vascular plant species and 25% of lower plant species known to exist in Nepal. The digitisation of herbarium specimens held at KATH will facilitate access to specimen data, expedite the flora writing process, and make it possible to update species distributions to inform conservation priorities.</p>
+        <p>The existing rate of digitisation was slow with 70-75 specimens being fully digitised a day by three digitisers. Specimen collection labels were fully databased in a Microsoft Access database and imaged at 600 PPI using a single Herbscan. At the current rate of digitisation it will take 7 – 8 years to completely digitise the KATH herbarium.</p>
+        <p>As part of the Darwin Initiative project: Science-based interventions reversing negative impacts of invasive plants in Nepal (<ext-link ext-link-type="uri" xlink:href="http://www.darwininitiative.org.uk/project/23031">http://www.darwininitiative.org.uk/project/23031</ext-link>), a new camera imaging set-up and workflow was devised at RBGE, with installation and staff training provided on-site at KATH herbarium (Fig. <xref ref-type="fig" rid="F5198854">1</xref>). This has almost tripled the rate of digitisation to 180-200 specimens per day.</p>
+        <p>The decision making processes that took place regarding hardware and software are discussed including: speed versus quality, some on-site considerations, the installation process and the proposals put forward to further improve the rate of digitisation.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>digitisation</kwd>
+        <kwd>herbaria</kwd>
+        <kwd>capacity building</kwd>
+        <kwd>imaging</kwd>
+        <kwd>Nepal</kwd>
+        <kwd>KATH</kwd>
+        <kwd>RBGE</kwd>
+        <kwd>Himalayan</kwd>
+        <kwd>camera</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sally King</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5198815">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>(KATH)</surname>
+              <given-names>National Herbarium &amp; Plant Laboratories</given-names>
+            </name>
+          </person-group>
+          <article-title>Flora of Nepal</article-title>
+          <uri>https://kath.gov.np/Flora_of_Nepal</uri>
+          <date-in-citation content-type="access-date">2019-04-15T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5198824">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Edinburgh</surname>
+              <given-names>Royal Botanic Gardens</given-names>
+            </name>
+          </person-group>
+          <article-title>Flora of Nepal</article-title>
+          <uri>http://www.floraofnepal.org/</uri>
+          <date-in-citation content-type="access-date">2019-04-15T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5198854" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>A digitiser at KATH using the new camera imaging workstation.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37095-g001.jpg" position="float" id="oo_294362.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

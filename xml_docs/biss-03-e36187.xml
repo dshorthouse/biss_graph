@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36187</article-id>
+      <article-id pub-id-type="publisher-id">36187</article-id>
+      <article-id pub-id-type="manuscript">11337</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI20 - Semantic Annotation of Collection Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Semantic Annotation of Botanical Collection Data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Röpert</surname>
+            <given-names>Dominik</given-names>
+          </name>
+          <email xlink:type="simple">d.roepert@bgbm.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6565-8450</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Reimeier</surname>
+            <given-names>Fabian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Holetschek</surname>
+            <given-names>Jörg</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Güntsch</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4325-4030</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Botanic Garden and Botanical Museum Berlin, Berlin, Germany</addr-line>
+        <institution>Botanic Garden and Botanical Museum Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Dominik Röpert (<email xlink:type="simple">d.roepert@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36187</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0CF6C3D1941554CEB4297B9C3CEAF942">0CF6C3D1941554CEB4297B9C3CEAF942</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Dominik Röpert, Fabian Reimeier, Jörg Holetschek, Anton Güntsch</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Herbarium specimens have been digitized at the Botanical Garden and Botanical Museum, Berlin (BGBM) since the year 2000. As part of the digitization process, specimen data have been recorded manually for specific basic data elements. Additional elements were usually added later based on the digital images.</p>
+        <p>During the last twenty years, data were transcribed exactly as they were written on the labels, a widely used procedure in European herbaria. This approach led to a large number of orthographic variations especially with regard to person and place names.</p>
+        <p>To improve interoperability between records within our own collection database and across collection databases provided by the community, we have started to enrich our metadata with Linked Open Data (LOD)-based links to semantic resources starting with collectors and geographic entities. Preferred resources for semantic enrichment (e.g., WikiData, GeoNames) have been agreed on by members of the Consortium of European Taxonomic Facilities (CETAF) in order to exploit the potential of semantically enriched collection data in the best possible way.</p>
+        <p>To be able to annotate many collection records in a relatively short time, priority was given to concepts (e.g., specific collector names) that occur on many specimen labels and that have an existing and easy-to-find semantic representation in an external resource. With this approach, we were able to annotate 52,000 specimen records in just a few weeks of working time of a student assistant.</p>
+        <p>The integration of our semantic annotation workflows with other data integration, cleaning, and import processes at the BGBM  is carried out using an OpenRefine-based platform with specific extensions for services and functions related to label transcription activities (<xref ref-type="bibr" rid="B5180998">Kirchhoff et al. 2018</xref>).</p>
+        <p>Our semantically enriched collection data will contribute to a “Botany Pilot,” which is presently being developed by member organizations of CETAF to demonstrate the potential of Linked Open Collection Data and their integration with existing semantic resources.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Linked Open Data</kwd>
+        <kwd>LOD</kwd>
+        <kwd>semantic web</kwd>
+        <kwd>Wikidata</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Dominik Röpert</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5180998">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kirchhoff</surname>
+              <given-names>Agnes</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bügel</surname>
+              <given-names>Ulrich</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Santamaria</surname>
+              <given-names>Eduard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Reimeier</surname>
+              <given-names>Fabian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Röpert</surname>
+              <given-names>Dominik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tebbje</surname>
+              <given-names>Alexander</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chaves</surname>
+              <given-names>Fernando</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Steinke</surname>
+              <given-names>Karl-Heinz</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Toward a service-based workflow for automated information extraction from herbarium specimens</article-title>
+          <source>Database</source>
+          <volume>2018</volume>
+          <fpage>bay103</fpage>
+          <pub-id pub-id-type="doi">10.1093/database/bay103</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

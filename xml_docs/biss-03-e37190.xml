@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37190</article-id>
+      <article-id pub-id-type="publisher-id">37190</article-id>
+      <article-id pub-id-type="manuscript">11411</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Global Open Biodiversity Data: Future Vision of FAIR Biodiversity Data Access, Management, Use and Stewardship</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>De Prins</surname>
+            <given-names>Jurate</given-names>
+          </name>
+          <email xlink:type="simple">jurate.deprins@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Belgian Institute of Natural Sciences, Brussels, Belgium</addr-line>
+        <institution>Royal Belgian Institute of Natural Sciences</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jurate De Prins (<email xlink:type="simple">jurate.deprins@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37190</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F0EEA3F7CBE35EF895A0D4BA0064BEE9">F0EEA3F7CBE35EF895A0D4BA0064BEE9</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jurate De Prins</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Major environmental–biodiversity changes and new developments in technology have changed the way we live, work and how we create our future. The main attention of biodiversity researchers nowadays is focused on the application of the developments of digital technology for fast, efficient and ethical solutions related to biodiversity data management and stewardship, so that everyone can benefit from better data, better science and better policies. Here the originally developed five point biodiversity data research and management programme is presented for your kind attention.</p>
+        <p>
+          <list list-type="bullet"><list-item><p>Open Biodiversity Data (OBD) which are <italic>u</italic><italic>sable</italic>, <italic>u</italic><italic>seful </italic>and <italic>u</italic><italic>sed </italic>to promote the knowledge and the preservation of biodiversity.</p></list-item><list-item><p>Linking Open Biodiversity Data and making it useful for everybody. Knowledge of biodiversity for many and not for few.</p></list-item><list-item><p>The global web is our work platform. OBD creates an open community of contributors and users.</p></list-item><list-item><p>Open is FAIR. FAIR Guiding Principles for biodiversity data management and stewardship (EU Commission 2018)</p></list-item><list-item><p>Circular Open Biodiversity Data a high-value foundation for artificial intelligence.</p></list-item></list>
+        </p>
+        <p>It is of great importance for society, communities and on a global scale to have unbiased and direct access to Open Biodiversity Data, as this maximises the impact  on decision making and development of efficient solutions to tackle environmental problems (<xref ref-type="bibr" rid="B5221231">De Prins 2016</xref>, <xref ref-type="bibr" rid="B5221271">De Prins 2017</xref>, <xref ref-type="bibr" rid="B5221326">De Prins and De Prins 2019a</xref>, <xref ref-type="bibr" rid="B5221336">De Prins and De Prins 2019b</xref>, <xref ref-type="bibr" rid="B5221315">De Prins and Serna 2018</xref>, <xref ref-type="bibr" rid="B5221222">European Commission 2018</xref>). While embracing the latest developments of technology, in particular high resolution visual recognition tools, computer vision technologies to work with huge image galleries and link with other fields of biodiversity data (genetic sequences, distribution data) we are going to create an open international community of knowledgeable users, responsible for OBD. I suggest implementing FAIR guiding principles: <bold>F</bold>indability, <bold>A</bold>ccessibility, <bold>I</bold>nteroperability and <bold>R</bold>eusability. Following FAIR principles OBD become accessible to everybody, they are findable, visual, flexible, interchangeable in different formats, updated and reused for all biodiversity related questions. This kind of approach will ensure the use, and reuse of data in the most efficient way, so biodiversity knowledge and information are based on verified and clean data.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>open biodiversity data</kwd>
+        <kwd>interlinked online data</kwd>
+        <kwd>FAIR principles</kwd>
+        <kwd>artificial intelligence</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Online Taxonomic Databases, Belgian Biodiversity Platform, Belgian Node, GBIF</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="6"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jurate De Prins</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Online Taxonomic Databases</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Royal Belgian Institute of Natural Sciences, Brussels, Belgium</p>
+      </sec>
+      <sec sec-type="Ethics and security">
+        <title>Ethics and security</title>
+        <p>Conforms to Ethical Standards</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>No conflicts of interests.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Belgian Biodiversity Platform, Digitization and Patrimonium Services of the Royal Belgian Institute of Natural Sciences are kindly acknowledged.</p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Online Taxonomic Databases</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Royal Belgian Institute of Natural Sciences, Brussels, Belgium</p>
+    </sec>
+    <sec sec-type="Ethics and security">
+      <title>Ethics and security</title>
+      <p>Conforms to Ethical Standards</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>No conflicts of interests.</p>
+    </sec>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>Full text.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5221231">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>De Prins</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>An integrated taxonomic tool for online dissemination of concise, verified and visualized information on biodiversity, retrieved from data and text mining of natural history collections and libraries.</article-title>
+          <source>JSM Bioinformatics, Genomics and Proteomics</source>
+          <volume>1</volume>
+          <issue>2</issue>
+          <fpage>e1006</fpage>
+        </element-citation>
+      </ref>
+      <ref id="B5221271">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>De Prins</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <chapter-title>Lepidoptera Collection Curation and Data Management</chapter-title>
+          <source>Lepidoptera</source>
+          <publisher-name>InTechOpen</publisher-name>
+          <size units="page">20</size>
+          <uri>https://www.intechopen.com/books/lepidoptera/lepidoptera-collection-curation-and-data-management</uri>
+          <isbn>978-953-51-3660-6</isbn>
+          <pub-id pub-id-type="doi">10.5772/intechopen.70925</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5221315">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>De Prins</surname>
+              <given-names>Jurate</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Serna</surname>
+              <given-names>Francisco</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Biodiversity discovery and taxonomic data management in uncertain times of Big Data.</article-title>
+          <source>EC Clinical and Experimental Anatomy</source>
+          <volume>2</volume>
+          <issue>1</issue>
+          <fpage>78</fpage>
+          <lpage>82</lpage>
+          <uri>https://www.ecronicon.com/eccea/pdf/ECCEA-01-00008.pdf</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5221326">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>De Prins</surname>
+              <given-names>Jurate</given-names>
+            </name>
+            <name name-style="western">
+              <surname>De Prins</surname>
+              <given-names>Willy</given-names>
+            </name>
+          </person-group>
+          <article-title>Global taxonomic database of Gracillariidae (Lepidoptera)</article-title>
+          <uri>www.gracillariidae.net</uri>
+          <date-in-citation content-type="access-date">2019-05-03T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5221336">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>De Prins</surname>
+              <given-names>Jurate</given-names>
+            </name>
+            <name name-style="western">
+              <surname>De Prins</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>Afromoths, an online database of Afrotropical moth species</article-title>
+          <uri>www.afromoths.,net</uri>
+          <date-in-citation content-type="access-date">2019-05-03T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5221222">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Commission</surname>
+              <given-names>European</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <source>Turning FAIR into reality. Final Report and Action Plan from the European Commission Expert Group on FAIR data </source>
+          <publisher-name>Luxembourg Publication Office of the European Union</publisher-name>
+          <publisher-loc>Luxembourg</publisher-loc>
+          <size units="page">78</size>
+          <uri>https://ec.europa.eu/info/sites/info/files/turning_fair_into_reality_0.pdf</uri>
+          <pub-id pub-id-type="doi">10.2777/1524</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

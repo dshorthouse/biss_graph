@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37290</article-id>
+      <article-id pub-id-type="publisher-id">37290</article-id>
+      <article-id pub-id-type="manuscript">11688</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Combined High-Throughput Imaging and Sequencing: Addressing the collections on demand requirement in SYNTHESYS+ project</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Arvanitidis</surname>
+            <given-names>Christos</given-names>
+          </name>
+          <email xlink:type="simple">arvanitidis@hcmr.gr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hollingsworth</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mergen</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Semal</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Keklikoglou</surname>
+            <given-names>Kleoniki</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6693-2033</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chatzinikolaou</surname>
+            <given-names>Eva</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Addnik</surname>
+            <given-names>Wouter</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3090-1761</uri>
+          <xref ref-type="aff" rid="A9">9</xref>
+          <xref ref-type="aff" rid="A10">10</xref>
+          <xref ref-type="aff" rid="A11">11</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Smith</surname>
+            <given-names>Vincent</given-names>
+          </name>
+          <xref ref-type="aff" rid="A12">12</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koureas</surname>
+            <given-names>Dimitrios</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4842-6487</uri>
+          <xref ref-type="aff" rid="A9">9</xref>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">LifeWatch ERIC, Seville, Spain</addr-line>
+        <institution>LifeWatch ERIC</institution>
+        <addr-line content-type="city">Seville</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Institute of Marine Biology, Biotechnology and Aquaculture, Hellenic Centre for Marine Research, Heraklion, Crete, Greece</addr-line>
+        <institution>Institute of Marine Biology, Biotechnology and Aquaculture, Hellenic Centre for Marine Research</institution>
+        <addr-line content-type="city">Heraklion, Crete</addr-line>
+        <country>Greece</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Hellenic Center for Marine Recearch (HCMR), Heraklion Crete, Greece</addr-line>
+        <institution>Hellenic Center for Marine Recearch (HCMR)</institution>
+        <addr-line content-type="city">Heraklion Crete</addr-line>
+        <country>Greece</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Hellenic Centre for Marine Research, Heraklion, Greece</addr-line>
+        <institution>Hellenic Centre for Marine Research</institution>
+        <addr-line content-type="city">Heraklion</addr-line>
+        <country>Greece</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Royal botanic Garden Edinburgh, Edinburgh, United Kingdom</addr-line>
+        <institution>Royal botanic Garden Edinburgh</institution>
+        <addr-line content-type="city">Edinburgh</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Royal Museum for Central Africa, Tervuren, Belgium</addr-line>
+        <institution>Royal Museum for Central Africa</institution>
+        <addr-line content-type="city">Tervuren</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">Royal Belgian Institute of Natural Sciences, Brussels, Belgium</addr-line>
+        <institution>Royal Belgian Institute of Natural Sciences</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">Distributed System of Scientific Collections - DiSSCo, Leiden, Netherlands</addr-line>
+        <institution>Distributed System of Scientific Collections - DiSSCo</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A11">
+        <label>11</label>
+        <addr-line content-type="verbatim">Species 2000 Secretariat, Leiden, Netherlands</addr-line>
+        <institution>Species 2000 Secretariat</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A12">
+        <label>12</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Christos Arvanitidis (<email xlink:type="simple">arvanitidis@hcmr.gr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37290</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0B0BC969C7EE5D3891CE4F6134A819D3">0B0BC969C7EE5D3891CE4F6134A819D3</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Christos Arvanitidis, Peter Hollingsworth, Patricia Mergen, Patrick Semal, Kleoniki Keklikoglou, Eva Chatzinikolaou, Wouter Addnik, Vincent Smith, Dimitrios Koureas</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Imagine you are a scientist, working on collections. You have your pet taxon and you need information which is distributed in a number of books and publications but also in the specimens deposited in Museums or Herbaria. Instead of paying visits to these establishments, around the world, you wish there was a means to transform all the information you need into a digitized form of the physical objects, you can reach from the screen of your laptop, tablet or cell phone. You dream you were able to watch, inspect and even dissect the type material you need online but also to compare it with others they way sequences are blasted against large databases, these days. You plan to make global research on this taxon and try to derive patterns from both the molecular and organismal level of the biological organization and to link the patterns resulting to the drivers of change for this taxon. This is the vision of the Virtual Museum of Natural History and one of the ways to achieve this vision is to address the “collections on demand” requirement.</p>
+        <p>One of the possible means to address this requirement is the digitization through the use of the micro-ct technology. The micro-CT virtual laboratory (vLab), developed by LifeWatchGreece research infrastructure (RI), makes it possible the online exploration and dissemination of micro-CT datasets, which are only rarely made available to the public due to their large size and a lack of dedicated online platforms for the interactive manipulation of 3D data.</p>
+        <p>This presentation shows the development of such a “collections on demand” function, implemented by the SYNTHESYS+ project (DiSSCo RI), which combines such high-throughput technologies, that is micro-ct and genomics, to address the scientific community’s requirements. We show that this approach to combine patterns deriving from the application of novel techniques, which represent different kinds of observations is possible and we propose certain case studies as examples. The innovation aspects of this function include:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>Expansion and development of cost models for Collections on Demand;</p></list-item><list-item><p>Development of standards and guidelines for exchange of collection-derived imaging data;</p></list-item><list-item><p>Construction of new data pipelines and standard workflows, enabling access to complex digital content such as 3D scans;</p></list-item><list-item><p>Development of novel molecular lab protocols, workflows and informatics pipelines, to enable large scale;</p></list-item><list-item><p>DNA sequencing of NH collections.</p></list-item></list>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>virtual research environments (VREs)</kwd>
+        <kwd>virtual laboratories (vLabs)</kwd>
+        <kwd>Research Infrastructures</kwd>
+        <kwd>DiSCCo</kwd>
+        <kwd>LifeWatch ERIC</kwd>
+        <kwd>SYNTHESYS+</kwd>
+        <kwd>high-throughput sequencing</kwd>
+        <kwd>high-throughput imaging</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Christos Arvanitidis</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>DiSCCo, SYNTHESYS+ LifeWatch ERIC.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>DiSCCo, SYNTHESYS+ LifeWatch ERIC.</p>
+    </sec>
+  </back>
+</article>

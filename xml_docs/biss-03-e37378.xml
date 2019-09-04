@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37378</article-id>
+      <article-id pub-id-type="publisher-id">37378</article-id>
+      <article-id pub-id-type="manuscript">11389</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI55 - Federated Infrastructures for Sustainable Biodiversity Data Management</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Freshwater Information Platform: An online network supporting freshwater biodiversity research and data publishing</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Schmidt-Kloiber</surname>
+            <given-names>Astrid</given-names>
+          </name>
+          <email xlink:type="simple">astrid.schmidt-kloiber@boku.ac.at</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8839-5913</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>De Wever</surname>
+            <given-names>Aaike</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bremerich</surname>
+            <given-names>Vanessa</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Strackbein</surname>
+            <given-names>Jörg</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hering</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jähnig</surname>
+            <given-names>Sonja</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Martens</surname>
+            <given-names>Koen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tockner</surname>
+            <given-names>Klement</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">BOKU, University of Natural Resources and Life Sciences, Vienna, Austria</addr-line>
+        <institution>BOKU, University of Natural Resources and Life Sciences</institution>
+        <addr-line content-type="city">Vienna</addr-line>
+        <country>Austria</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Research Institute for Nature and Forest (INBO), Brussels, Belgium</addr-line>
+        <institution>Research Institute for Nature and Forest (INBO)</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany</addr-line>
+        <institution>Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">University of Duisburg-Essen (UDE), Essen, Germany</addr-line>
+        <institution>University of Duisburg-Essen (UDE)</institution>
+        <addr-line content-type="city">Essen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">University of Duisburg-Essen, Essen, Germany</addr-line>
+        <institution>University of Duisburg-Essen</institution>
+        <addr-line content-type="city">Essen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Royal Belgian Institute of Natural Sciences (RBINS), Brussels, Belgium</addr-line>
+        <institution>Royal Belgian Institute of Natural Sciences (RBINS)</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Institute of Biology, Freie Universität Berlin, Berlin, Germany</addr-line>
+        <institution>Institute of Biology, Freie Universität Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Astrid Schmidt-Kloiber (<email xlink:type="simple">astrid.schmidt-kloiber@boku.ac.at</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37378</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/640EBE410FF85FE2B3EC112C4C2739C1">640EBE410FF85FE2B3EC112C4C2739C1</uri>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Astrid Schmidt-Kloiber, Aaike De Wever, Vanessa Bremerich, Jörg Strackbein, Daniel Hering, Sonja Jähnig, Koen Martens, Klement Tockner</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Species distribution data are crucial for understanding biodiversity dynamics and the underlying drivers. For freshwaters, which cover only a small proportion of the world's surface, but host a large variety of species, knowledge on species occurrences is extremely important as they are among the most endangered ecosystems globally. However, a huge body of data gathered by scientists and water managers is currently difficult to access: systematic data publishing practices have not been fully adopted yet and data embedded in scientific papers and research project websites are often challenging to extract. At the same time, data and knowledge generated through publically-funded research or monitoring programmes are considered a common good.</p>
+        <p>The <ext-link ext-link-type="uri" xlink:href="http://www.freshwaterplatform.eu">Freshwater Information Platform</ext-link> (FIP) aims at pooling freshwater related research information from multiple projects and initiatives to make it easily accessible for scientists, water managers, conservationists and the interested public. The FIP consists of several major components, three of which form its “data publication unit”: The Freshwater Metadatabase (1) is an online tool where data characterising and documenting actual datasets can be entered in a simple way. With one more mouseclick these metadata can then be published as open access articles in the connected Freshwater Metadata Journal. The second part of the unit is the Freshwater Biodiversity Data Portal (2), where we aim to mobilise and publish the connected freshwater biodiversity data (occurrence records) through <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org">GBIF</ext-link> (Global Biodiversity Information Facility). The use of collected datasets for large-scale analyses and models is demonstrated in the Global Freshwater Biodiversity Atlas (3) that publishes interactive online maps featuring research results on freshwater biodiversity, threats and conservation priorities.</p>
+        <p>Here, we focus on introducing these components as tools to streamline open access freshwater data publication, arguing it will improve the capacity to protect and manage freshwater biodiversity in the face of global change. We further present linkages to and cooperations with other key initiatives in the field, namely the "<ext-link ext-link-type="uri" xlink:href="https://allianceforfreshwaterlife.org">Alliance for Freshwater Life</ext-link>" as well as "<ext-link ext-link-type="uri" xlink:href="https://geobon.org/bons/thematic-bon/freshwater-bon/">FreshwaterBON</ext-link>".</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>inland waters</kwd>
+        <kwd>knowledge base</kwd>
+        <kwd>open access</kwd>
+        <kwd>(meta-)data publishing</kwd>
+        <kwd>tools</kwd>
+        <kwd>science support</kwd>
+        <kwd>policy support</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Astrid Schmidt-Kloiber</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

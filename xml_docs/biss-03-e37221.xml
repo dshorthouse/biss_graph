@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37221</article-id>
+      <article-id pub-id-type="publisher-id">37221</article-id>
+      <article-id pub-id-type="manuscript">11640</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI87 - Empowering the taxonomic community by linking information through names and taxonomy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Catalogue of Life: Assembling data into a global taxonomic checklist</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ower</surname>
+            <given-names>Geoffrey</given-names>
+          </name>
+          <email xlink:type="simple">gdower@illinois.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9770-2345</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Roskov</surname>
+            <given-names>Yuri</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Illinois Natural History Survey, University of Illinois at Urbana-Champaign, Champaign, IL, United States of America</addr-line>
+        <institution>Illinois Natural History Survey, University of Illinois at Urbana-Champaign</institution>
+        <addr-line content-type="city">Champaign, IL</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Geoffrey Ower (<email xlink:type="simple">gdower@illinois.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37221</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/11824457ED4D594E917AD61B6C526409">11824457ED4D594E917AD61B6C526409</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Geoffrey Ower, Yuri Roskov</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Producing a global taxonomic checklist of all species is essential for indexing biodiversity data, and for providing the basic knowledge needed to study, manage, and conserve biological diversity. The <ext-link ext-link-type="uri" xlink:href="http://www.catalogueoflife.org">Catalogue of Life</ext-link> (CoL) aims to provide a global taxonomic checklist of all species, and includes 1.9 million species names in the <ext-link ext-link-type="uri" xlink:href="http://www.catalogueoflife.org">2019 annual edition</ext-link>. The task of assembling data into CoL is complex and requires reformatting data, quality assurance testing, and collaborating with data providers to resolve detected taxonomic conflicts. <ext-link ext-link-type="uri" xlink:href="http://www.catalogueoflife.org/col/info/databases">Global Species Databases</ext-link> (GSDs) are submitted in a wide variety of data formats to CoL by hundreds of taxonomic experts and institutions. Submitted data are reformatted to a standard data submission format: <ext-link ext-link-type="uri" xlink:href="http://www.catalogueoflife.org/content/contributing-your-data">CoL Standard Dataset</ext-link> (ACEF), <ext-link ext-link-type="uri" xlink:href="http://dwc.tdwg.org">DarwinCore</ext-link>, or <ext-link ext-link-type="uri" xlink:href="http://github.com/sp2000/coldp">CoLDP</ext-link>. A series of standardized data integrity checks are run to detect and resolve frequently occurring data quality problems including character encoding corruption, non-Latin characters in scientific names, missing parents, duplicated and homonymic names within the GSD and among other GSDs, split taxonomic groups that have been assigned to multiple parent taxa, and other issues. The process and challenges of assembling data into the Catalogue of Life, and future directions of the project in migrating to <ext-link ext-link-type="uri" xlink:href="https://github.com/sp2000/colplus">CoL+</ext-link> infrastructure will be discussed.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Catalogue of Life</kwd>
+        <kwd>global taxonomic checklist</kwd>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>nomenclature</kwd>
+        <kwd>species richness</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Geoffrey Ower</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

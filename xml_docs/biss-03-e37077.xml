@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37077</article-id>
+      <article-id pub-id-type="publisher-id">37077</article-id>
+      <article-id pub-id-type="manuscript">11392</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP17 - Science Powered by Informatics – Connecting Policy Needs with Data Driven Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>From Expert to Data-Driven Biodiversity Knowledge: Assessing ecosystem irreplaceability with IUCN Red List data for freshwater fish </article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Miqueleiz</surname>
+            <given-names>Imanol</given-names>
+          </name>
+          <email xlink:type="simple">imiqueleiz@alumni.unav.es</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1827-3977</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ariño</surname>
+            <given-names>Arturo H.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4620-6445</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Miranda</surname>
+            <given-names>Rafael</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Navarra, Pamplona, Spain</addr-line>
+        <institution>University of Navarra</institution>
+        <addr-line content-type="city">Pamplona</addr-line>
+        <country>Spain</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Imanol Miqueleiz (<email xlink:type="simple">imiqueleiz@alumni.unav.es</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37077</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/37EB5D61989F51AA8267A24A4826FB9F">37EB5D61989F51AA8267A24A4826FB9F</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Imanol Miqueleiz, Arturo H. Ariño, Rafael Miranda</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Critical as they are for humans and nature, freshwater ecosystems are threatened—but the extent and depth of these threats are not well understood, especially if essential biodiversity data are lacking. Any policy aimed at protecting such ecosystems must first assess the threat factors and the potential harm, well before proposing conservation measures such as the creation and development of Protected Areas (PAs). These assessments must be done using a deep and sound knowledge of the actual and potential biodiversity variables. Freshwater ecosystems have been largely neglected in traditional PA design and management (<xref ref-type="bibr" rid="B5190858">Abell et al. 2007</xref>), be it for scarcity of biodiversity data, or for more perception-related reasons such as visibility and accessibility driving the allocation of conservation resources to more data-rich environments.</p>
+        <p>In an effort to contribute to shifting this state of affairs, we have developed an irreplaceability index to identify the most relevant places to achieve conservation aims for freshwater fish, based on the International Union for the Conservation of Nature (IUCN) Red List, which, in turn, should be founded on available biodiversity data upon which expert knowledge is based (<xref ref-type="bibr" rid="B5189881">Le Saout 2013</xref>). However, we found large assessment gaps in the IUCN Red List for freshwater fish. These gaps may result from the non-systematic acquisition of primary biodiversity data, which could eventually be alleviated by coordinated policies promoting ecosystem surveys tailored at increasing the availability and spread of such data, while identifying, targeting and prioritizing hotspots. Obtaining valid conclusions from low-assessment areas such as South America, which are simultaneously biodiversity and endangerment hotspots (<xref ref-type="bibr" rid="B5190916">Collen 2014</xref>), is particularly troublesome.</p>
+        <p>Building an irreplaceability index requires access to abundant, fine-scale biodiversity data. When combined with the assessment information available in the IUCN Red List, we can identify those areas where low assessment rates for highly irreplaceable rivers become keystones to protect freshwater biodiversity, and can therefore suggest actions for policy makers to take at both regional and local scales. In particular, we have thus identified those irreplaceable rivers that fall outside the current net of PAs. In a context of inadequate investment in biodiversity conservation (<xref ref-type="bibr" rid="B5200779">Juffe-Bignoli et al. 2016</xref>), our findings and the informatics-powered methods we propose, will hopefully help decision makers establish conservation priorities and allocate funds to preserve irreplaceable rivers and their fish fauna. Furthermore, the necessity of improving the IUCN Red List in low-assessed areas, requires synergies among IUCN, Global Biodiversity Information Facility (GBIF) and conservation scientists to achieve accurate and reliable assessments.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>assessment gaps</kwd>
+        <kwd>biodiversity hotspots</kwd>
+        <kwd>conservation priorities</kwd>
+        <kwd>freshwater biodiversity</kwd>
+        <kwd>protected areas</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Imanol Miqueleiz</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5190858">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Abell</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Allan</surname>
+              <given-names>J. D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lehner</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Unlocking the potential of protected areas for freshwaters</article-title>
+          <source>Biological Conservation</source>
+          <volume>134</volume>
+          <issue>1</issue>
+          <fpage>48</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2006.08.017</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5190916">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Collen</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Global patterns of freshwater species diversity, threat and endemism</article-title>
+          <source>Global Ecology and Biogeography</source>
+          <volume>23</volume>
+          <issue>1</issue>
+          <fpage>40</fpage>
+          <lpage>51</lpage>
+          <pub-id pub-id-type="doi">10.1111/geb.12096</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5200779">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Juffe-Bignoli</surname>
+              <given-names>Diego</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Harrison</surname>
+              <given-names>Ian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Butchart</surname>
+              <given-names>Stuart HM</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Flitcroft</surname>
+              <given-names>Rebecca</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hermoso</surname>
+              <given-names>Virgilio</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jonas</surname>
+              <given-names>Harry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lukasiewicz</surname>
+              <given-names>Anna</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thieme</surname>
+              <given-names>Michele</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Turak</surname>
+              <given-names>Eren</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bingham</surname>
+              <given-names>Heather</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dalton</surname>
+              <given-names>James</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Darwall</surname>
+              <given-names>William</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deguignet</surname>
+              <given-names>Marine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dudley</surname>
+              <given-names>Nigel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gardner</surname>
+              <given-names>Royal</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Higgins</surname>
+              <given-names>Jonathan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kumar</surname>
+              <given-names>Ritesh</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Linke</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Milton</surname>
+              <given-names>G Randy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pittock</surname>
+              <given-names>Jamie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Kevin G</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Soesbergen</surname>
+              <given-names>Arnout</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Achieving Aichi Biodiversity Target 11 to improve the performance of protected areas and conserve freshwater biodiversity</article-title>
+          <source>Aquatic Conservation: Marine and Freshwater Ecosystems</source>
+          <volume>26</volume>
+          <fpage>133</fpage>
+          <lpage>151</lpage>
+          <pub-id pub-id-type="doi">10.1002/aqc.2638</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5189881">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Le Saout</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <source>Conservation. Protected areas and effective biodiversity conservation</source>
+          <volume>342</volume>
+          <publisher-name>Science</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+          <uri>http://www.ncbi.nlm.nih.gov/pubmed/24233709%5Cnhttp</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

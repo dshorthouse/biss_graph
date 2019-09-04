@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36234</article-id>
+      <article-id pub-id-type="publisher-id">36234</article-id>
+      <article-id pub-id-type="manuscript">11624</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP35 - Operationalizing Essential Biodiversity Variables: data integration, production and dissemination</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Semantic Interoperability Solutions for the Essential Variables: Focus on biodiversity</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Buttigieg</surname>
+            <given-names>Pier Luigi</given-names>
+          </name>
+          <email xlink:type="simple">pbuttigi@mpi-bremen.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4366-3088</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Walls</surname>
+            <given-names>Ramona</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8815-0078</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Thessen</surname>
+            <given-names>Anne</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2908-3327</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Alfred-Wegener-Institut für Polar und Meeresforschung, Bremen, Germany</addr-line>
+        <institution>Alfred-Wegener-Institut für Polar und Meeresforschung</institution>
+        <addr-line content-type="city">Bremen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">CyVerse, Tucson, United States of America</addr-line>
+        <institution>CyVerse</institution>
+        <addr-line content-type="city">Tucson</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Oregon State University, Corvallis, United States of America</addr-line>
+        <institution>Oregon State University</institution>
+        <addr-line content-type="city">Corvallis</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">The Ronin Institute for Independent Scholarship, Monclair, NJ, United States of America</addr-line>
+        <institution>The Ronin Institute for Independent Scholarship</institution>
+        <addr-line content-type="city">Monclair, NJ</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">The Data Detektiv, Waltham, MA, United States of America</addr-line>
+        <institution>The Data Detektiv</institution>
+        <addr-line content-type="city">Waltham, MA</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Pier Luigi Buttigieg (<email xlink:type="simple">pbuttigi@mpi-bremen.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36234</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2C6835E35D8D5B66BCDD4AD80845F6A3">2C6835E35D8D5B66BCDD4AD80845F6A3</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Pier Luigi Buttigieg, Ramona Walls, Anne Thessen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Earth system is enduring multiple, interacting stressors causing immense and irreversible change to its biosphere. The unprecedented magnitude of human influence on the planet is a cause for much concern, but also an opportunity to mitigate undesirable impact by instituting socio-ecological management strategies and monitoring their effectiveness. To do so, local and global policy developers and decision makers must have access to clear and globally consistent information streams that serve as planetary diagnostics. This need is being addressed by several international, multi-agency networks which have developed sets of "Essential Variables" (EVs) to improve consistency in the observation of key phenomena within their domains of operation. For example, the implementation of the <ext-link ext-link-type="uri" xlink:href="https://gcos.wmo.int/en/essential-climate-variables">Essential Climate Variables (ECVs)</ext-link> led by the <ext-link ext-link-type="uri" xlink:href="https://gcos.wmo.int/">Global Climate Observing System (GCOS)</ext-link> has set an example being followed in the marine and biodiversity domains by, respectively, the <ext-link ext-link-type="uri" xlink:href="http://goosocean.org/">Global Ocean Observing System's (GOOS)</ext-link> <ext-link ext-link-type="uri" xlink:href="http://www.goosocean.org/index.php?option=com_content&amp;view=article&amp;id=14&amp;Itemid=114">Essential Ocean Variables (EOVs)</ext-link> and the <ext-link ext-link-type="uri" xlink:href="https://geobon.org">Group on Earth Observation Biodiversity Observation Network (GEO BON)</ext-link>'s <ext-link ext-link-type="uri" xlink:href="https://geobon.org/ebvs/what-are-ebvs/">Essential Biodiversity Variables (EBVs)</ext-link>. Each of these EV collections has a subset dedicated to biological and ecological phenomena. This is greatly encouraging for biodiversity science at large, but also runs the risk of parallel and conflicting developments occuring in the EV communities addressing thecross-cutting theme of biodiversity. As a consequence, there is an urgent need for these systems, and the communities behind them, to pursue tight conceptual and technical interoperability in aid of a coherent treatment of biodiversity in planetary-scale monitoring.</p>
+        <p>In this contribution, we will describe our current research and implementation of a semantic interoperability layer for the EVs, with a focus on biology and ecology. Applying the best practices and core infrastructure of the <ext-link ext-link-type="uri" xlink:href="http://obofoundry.org">Open Biological and Biomedical Ontology (OBO) Foundry and Library</ext-link>, we have leveraged both mature and emerging reference ontologies targeting the domains of <ext-link ext-link-type="uri" xlink:href="http://obofoundry.org/ontology/envo.html">ecosystems and environment</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://obofoundry.org/ontology/pco.html">population and communities</ext-link>, and <ext-link ext-link-type="uri" xlink:href="http://obofoundry.org/ontology/ecocore.html">high-level ecological phenomena.</ext-link> This interoperable collection of ontologies constitutes a foundation for highly expressive EV knowledge representation and management through robust, <ext-link ext-link-type="uri" xlink:href="https://www.nature.com/articles/sdata201618">FAIR-compliant</ext-link> technologies. Further, we are coordinating these efforts with <ext-link ext-link-type="uri" xlink:href="https://github.com/SDG-InterfaceOntology/sdgio">semantic technology adopted by UN agencies</ext-link>, representing global directives and indicators of the <ext-link ext-link-type="uri" xlink:href="https://sustainabledevelopment.un.org/">UN Sustainable Development Agenda for 2030</ext-link>. With open editorial models behind each of these ontologies, we aim to offer a scalable and inclusive system to bridge data and information products across the EVs through machine-accessible knowledge representation.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>ontology</kwd>
+        <kwd>essential variables</kwd>
+        <kwd>observatory</kwd>
+        <kwd>semantics</kwd>
+        <kwd>FAIR</kwd>
+        <kwd>interoperability</kwd>
+        <kwd>sustainable development</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Pier Luigi Buttigieg</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>PLB's contribution to this work is funded by the HGF Infrastructure Programme FRAM of the Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>None</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>PLB's contribution to this work is funded by the HGF Infrastructure Programme FRAM of the Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>None</p>
+    </sec>
+  </back>
+</article>

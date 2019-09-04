@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37067</article-id>
+      <article-id pub-id-type="publisher-id">37067</article-id>
+      <article-id pub-id-type="manuscript">11017</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodiversity Portal of the Northern Part of West Siberia, Russia</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Filippova</surname>
+            <given-names>Nina</given-names>
+          </name>
+          <email xlink:type="simple">filippova.courlee.nina@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9506-0991</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Filippov</surname>
+            <given-names>Ilya</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2871-2731</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ivanova</surname>
+            <given-names>Natalya</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4199-5924</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Yugra State University, Khanty-Mansiysk, Russia</addr-line>
+        <institution>Yugra State University</institution>
+        <addr-line content-type="city">Khanty-Mansiysk</addr-line>
+        <country>Russia</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Russian Academy of Sciences, Pushchino, Russia</addr-line>
+        <institution>Russian Academy of Sciences</institution>
+        <addr-line content-type="city">Pushchino</addr-line>
+        <country>Russia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nina Filippova (<email xlink:type="simple">filippova.courlee.nina@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37067</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DDD31DD52EBD521EA62F8A5D5A50957B">DDD31DD52EBD521EA62F8A5D5A50957B</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nina Filippova, Ilya Filippov, Natalya Ivanova</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Biodiversity-related studies in the northern part of West Siberia are relatively recent in line with intensive industrial development of the region in recent decades. The region possesses few biological collections within the universities and nature reserves. Still, the Department of Natural Resources pays considerable attention to the sustainable use of natural resources. On the global scale, the success of biodiversity informatics goals largely depends on the local initiatives and progress in data mobilization and sharing. Therefore, organization of regional biodiversity portals is important to promote data mobilization, education and citizen science on local scale.</p>
+        <p>Previous experience of biodiversity information systems in the region was low. The program on digitization of observations of Red Listed species was launched in 2010 under the support of the Department of Natural Resources of Yugra. The information system for Red Listed species registrations was developed through this project and currently includes about three thousand observations. Another example of digitization in Western Siberia was developed by the biological collection of Yugra State University. Its database is based on the database management system Specify and available online through its web portal (<ext-link ext-link-type="uri" xlink:href="http://bioportal.ugrasu.ru">http://bioportal.ugrasu.ru</ext-link>). Some collections of nature reserves have their catalogues in digital form. The need of biodiversity data mobilization is well understood and is discussed at regular workshops on biological collections management held in Khanty-Mansiysk.</p>
+        <p>Recently, the biologists curating several biological collections in the region started a project on a regional biodiversity portal development (<ext-link ext-link-type="uri" xlink:href="https://nwsbios.org">https://nwsbios.org</ext-link>). The portal has three major components:</p>
+        <p>
+          <list list-type="order"><list-item><p>the database of collections based on Specify software (<ext-link ext-link-type="uri" xlink:href="http://bioportal.ugrasu.ru">http://bioportal.ugrasu.ru</ext-link>),</p></list-item><list-item><p>the metadata of different sources of biodiversity information in the region,</p></list-item><list-item><p>an educational platform for learning biodiversity informatics, using data published via GBIF and DwC standards.</p></list-item></list>
+        </p>
+        <p>This initiative of biodiversity data mobilization in the region includes the organization of workshops, discussions and newsletters helping to reach potential data holders and coordinate work. Through this work four different organizations from Khanty-Mansi region have registered accounts in GBIF since 2019 and started uploading data to the GBIF portal. At present there are about 25,000 observations mobilized in GBIF from the Khanty-Mansi and Yamalo-Nenets regions.</p>
+        <p>The integrated massive publishing of data in the portal will provide new opportunities for biodiversity research and sustainable management of nature resources in the northern part of West Siberia.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>West Siberia</kwd>
+        <kwd>regional portal</kwd>
+        <kwd>Specify</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>The project is partially funded by the Yugra State University grant number 13-01-20/39 and by the INTERACT Virtual Access under EU-H2020 Grant Agreement No.730938.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Natalya Ivanova</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Yugra State University</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Yugra State University</p>
+    </sec>
+  </back>
+</article>

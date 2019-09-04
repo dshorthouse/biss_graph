@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35474</article-id>
+      <article-id pub-id-type="publisher-id">35474</article-id>
+      <article-id pub-id-type="manuscript">10956</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI49 - Living Atlases Community of Practice</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Sharing Species Pages in the Atlas of Living Costa Rica using Plinian Core</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Vargas</surname>
+            <given-names>Manuel</given-names>
+          </name>
+          <email xlink:type="simple">mvargas@inbio.ac.cr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Mora Cross</surname>
+            <given-names>María Auxiliadora</given-names>
+          </name>
+          <email xlink:type="simple">mmora@inbio.ac.cr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Cuadra</surname>
+            <given-names>José</given-names>
+          </name>
+          <email xlink:type="simple">josecuadra@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ulate Rodríguez</surname>
+            <given-names>William</given-names>
+          </name>
+          <email xlink:type="simple">william_ulate_r@yahoo.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2863-2491</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Biodiversity Informatics Research Center (CRBio), San José, Costa Rica</addr-line>
+        <institution>Biodiversity Informatics Research Center (CRBio)</institution>
+        <addr-line content-type="city">San José</addr-line>
+        <country>Costa Rica</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Manuel Vargas (<email xlink:type="simple">mvargas@inbio.ac.cr</email>), María Auxiliadora Mora Cross (<email xlink:type="simple">mmora@inbio.ac.cr</email>), José Cuadra (<email xlink:type="simple">josecuadra@gmail.com</email>), William Ulate Rodríguez (<email xlink:type="simple">william_ulate_r@yahoo.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35474</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A3E6350B1D10583EB4FB7737A356C790">A3E6350B1D10583EB4FB7737A356C790</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Manuel Vargas, María Auxiliadora Mora Cross, José Cuadra, William Ulate Rodríguez</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Atlas of Living Costa Rica (<ext-link ext-link-type="uri" xlink:href="http://www.crbio.cr/">www.crbio.cr</ext-link>) is a biodiversity data portal based on the Atlas of Living Australia (ALA) and managed by the Biodiversity Informatics Research Center (CRBio) and the National Biodiversity Institute of Costa Rica (INBio).  It currently shares nearly eight million occurrence records and more than 5000 species pages about Costa Rican vertebrates, arthropods, molluscs, nematodes, plants, and fungi. These pages contain information elements pertaining to, for instance, morphological descriptions, distribution, habitat, conservation status, management, nomenclature, and multimedia (<xref ref-type="bibr" rid="B5195953">Vargas et al. 2018</xref>).</p>
+        <p>In order to fully integrate species pages into the ALA architecture, CRBio is working in the adoption of the Biodiversity Information Explorer (BIE), an ALA module which manages taxonomic and species contents by integrating global resources like EOL or Wikipedia.  This adoption includes the required modifications to use the data model of the Plinian Core (<ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/PlinianCore">https://github.com/tdwg/PlinianCore</ext-link>), a TDWG draft standard registered as an IPT  extension, oriented to share species level information from local and regional sources too (<xref ref-type="bibr" rid="B5189231">Pando 2018</xref>). The advancement of Plinian Core has been lead by INBio, the Spanish Node of GBIF (GBIF Spain), the University of Granada (UG, Spain), the Alexander von Humboldt Institute (IAvH, Colombia), the National Commission for the Knowledge and Use of Biodiversity (Conabio, Mexico) and the University of Sao Paulo (USP, Brazil). This group reviewed the existing data standards to reuse as many elements as possible and avoid redundancy. Besides the aforementioned, Plinian Core is currently used by other institutions like the Chilean Ministry of Environment.</p>
+        <p>Plinian Core was designed to be easy to use, self-contained, able to support data integration from multiple databases, and having the ability to handle different levels of granularity.  These requirements are the result of actual needs from content creators that, through an iterative process, have yielded a more complete and flexible exchange standard to aggregate biological and non-biological species information, used by others like IBIN, the Indian Bioresource Information Network (<xref ref-type="bibr" rid="B5189129">Saran et al. 2018</xref>).   Plinian Core aims to be a component in producing multiple species catalogues developed under specific constraints to serve specific purposes, instead of focusing on a unified platform while facilitating consistent aggregation and re-utilization of information (<xref ref-type="bibr" rid="B5190406">GBIF.org 2015</xref>).  </p>
+        <p>We will present our implementation of the BIE module in the Atlas of Living Costa Rica, following the documented best practices when sharing species level information using Plinian Core.  Our demonstration will detail our lessons learned from merging the aforementioned 5000 species pages provided by INBio with several thousand of species pages assembled from the information provided by  the World Flora Online through the aggregation of different Flora resources, like Manual de Plantas de Costa Rica (<xref ref-type="bibr" rid="B5190849">Hammel et al. 2003</xref>) that provides 5,000 plants descriptions and 350 vernacular names (<ext-link ext-link-type="uri" xlink:href="http://www.worldfloraonline.org/resource?query=Manual+de+Plantas+de+Costa+Rica">http://www.worldfloraonline.org/resource?query=Manual+de+Plantas+de+Costa+Rica</ext-link>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Atlas of Living Australia</kwd>
+        <kwd>living atlases</kwd>
+        <kwd>species pages</kwd>
+        <kwd>Plinian Core</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>William Ulate</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5190406">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>GBIF.org</surname>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Plinian Core Mentoring: strengthening best practices for mobilizing species information</article-title>
+          <source>Retrieved on April</source>
+          <volume>5</volume>
+          <uri>https://www.gbif.org/project/82229/plinian-core-mentoring-strengthening-best-practices-for-mobilizing-species-information</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5190849">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hammel</surname>
+              <given-names>Barry Edward</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grayum</surname>
+              <given-names>Michael Howard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Herrera</surname>
+              <given-names>Cecilia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zamora Villalobos</surname>
+              <given-names>Nelson</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <source>Manual de plantas de Costa Rica</source>
+          <trans-title>Costa Rica plants manual</trans-title>
+          <publisher-name>Missouri Botanical Garden Press</publisher-name>
+          <publisher-loc>St. Louis, MO</publisher-loc>
+          <comment content-type="language">Spanish</comment>
+        </element-citation>
+      </ref>
+      <ref id="B5189231">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pando</surname>
+              <given-names>Francisco</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Comparison of species information TDWG standards from the point of view of the Plinian Core specification</article-title>
+          <source>Biodiversity Information Science and Standards</source>
+          <volume>2</volume>
+          <pub-id pub-id-type="doi">10.3897/biss.2.25869</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5189129">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Saran</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Singh</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ganeshaiah</surname>
+              <given-names>K. N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Padalia</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Oberoi</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>INTEROPERABLE MODEL FOR BIORESOURCE DISTRIBUTED DATABASES</article-title>
+          <source>ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</source>
+          <fpage>791</fpage>
+          <lpage>800</lpage>
+          <pub-id pub-id-type="doi">10.5194/isprs-archives-xlii-5-791-2018</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5195953">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Vargas</surname>
+              <given-names>Manuel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mora</surname>
+              <given-names>María</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ulate</surname>
+              <given-names>William</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cuadra</surname>
+              <given-names>José</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>The Living Atlases Community in Action: Sharing Species Pages through the Atlas of Living Costa Rica</article-title>
+          <source>Biodiversity Information Science and Standards</source>
+          <volume>2</volume>
+          <pub-id pub-id-type="doi">10.3897/biss.2.25990</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

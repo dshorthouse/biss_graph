@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36593</article-id>
+      <article-id pub-id-type="publisher-id">36593</article-id>
+      <article-id pub-id-type="manuscript">11195</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP70 - Access &amp; Benefit-Sharing, Digital Sequence Information and Biodiversity Data allaying for CBD goals</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Will the Discussion on Digital Sequence Information on Genetic Resources Contribute to the "Evolution" of CBD?</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kobayashi</surname>
+            <given-names>Kunihiko</given-names>
+          </name>
+          <email xlink:type="simple">kkobayashi@chikyu.ac.jp</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Research Institute for Humanity and Nature, Kyoto city, Japan</addr-line>
+        <institution>Research Institute for Humanity and Nature</institution>
+        <addr-line content-type="city">Kyoto city</addr-line>
+        <country>Japan</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Kunihiko Kobayashi (<email xlink:type="simple">kkobayashi@chikyu.ac.jp</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36593</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B161D5524D8F5AA78BD724CDA42184EE">B161D5524D8F5AA78BD724CDA42184EE</uri>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Kunihiko Kobayashi</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The discussion on digital sequence information (DSI) on genetic resources under the Convention on Biological Diversity (CBD) started from <ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/conferences/2016">13</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/conferences/2016"><sup>th</sup> Conference of the Party</ext-link> (COP) held in Mexico 2016. The controversial negotiations on DSI continues, and the CBD Parties agreed on the <ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/conferences/2018">14</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/conferences/2018"><sup>th</sup></ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/conferences/2018"> COP</ext-link> with <ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/doc/decisions/cop-14/cop-14-dec-20-en.pdf">decision 14/20</ext-link> to seek further view and submissions on DSI. The issues at the CBD-COP are, according to <xref ref-type="bibr" rid="B5172458">Kobayashi (2018)</xref>, the following:</p>
+        <p>
+          <list list-type="order"><list-item><p>terminology or definition of DSI;</p></list-item><list-item><p>the potential coverage of DSI under the CBD to ensure benefit sharing;</p></list-item><list-item><p>relationship between use of DSI and mutually agreed terms;</p></list-item><list-item><p>influence on the objectives of CBD;</p></list-item><list-item><p>traceability and;</p></list-item><list-item><p>relationship between utilization of DSI and public databases.</p></list-item></list>
+        </p>
+        <p>Among these issues, the first is pointed out by Australia as an issue leading to the amendment of the CBD. Also, the third is the issue regarding the rights and obligations of natural and legal persons. <xref ref-type="bibr" rid="B5172436">Halewood et al. (2018)</xref> proposed different views as a policy option, which are renegotiation of the legally binding instrument and adoption of a decision on mutually agreed terms in the current framework. <xref ref-type="bibr" rid="B5233544">Sollberger (2018)</xref> also pointed out that the most obvious solution could be to govern the use of sequence information via permission from national authority and contract between provider and user at the time of access to the original genetic resource.</p>
+        <p>On the other hand, the evolution of the international environment agreement is to embody the Convention and the Protocol through decisions or resolutions adopted by COP, in addition to the amendment of the Convention and the adoption of the Protocol. <xref ref-type="bibr" rid="B5172521">Tamura (1999)</xref> reviewed the role of COP under the international environment agreement as follows: adjusts interests among the Parties; implements the obligations under the agreement; and enables a consensus building framework for the development and implementation of the agreement. However, the decisions adopted by the COP are not legally binding, despite the lack of articles on this matter in the agreement, there are cases, for instance, that the decision of COP is to proceed with rule making and begin to be implemented in each Party (<xref ref-type="bibr" rid="B5172468">Recio 2018</xref>). Thus, this paper examines whether the issue on DSI in the CBD contributes to the evolution of the Convention or not through the discussion from COP13 to COP14, including the submission of the views from Party and stakeholders, an Ad Hoc Technical Expert Group (AHTEG) on DSI on genetic resources and decision-making.</p>
+        <p>As a tentative conclusion, the discussion on DSI could contribute to the evolution of the Convention. In confirming <ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/doc/decisions/cop-14/cop-14-dec-20-en.docx">decision IV/20 </ext-link>of CBD-COP, COP decided to continue discussions on definition and scope, furthermore it is noted that mutually agreed terms can cover the benefits arising from the use of DSI on accessed genetic resources. This decision does not go beyond the current framework, but there is a possibility to create opportunities for the evolution or growth of the Convention, such as the development of standard contract models. The logic of this decision is the same as the derivatives of genetic resources identified during the negotiation of the <ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/abs/">Nagoya Protocol</ext-link>.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>digital sequence information</kwd>
+        <kwd>genetic resource</kwd>
+        <kwd>Convention on Biological Diversity</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Kunihiko Kobayashi</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>There are no conflicts of interest to be disclosed in relation to this paper.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>There are no conflicts of interest to be disclosed in relation to this paper.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5172436">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Halewood</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chiurugwi</surname>
+              <given-names>Tinashe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hamilton</surname>
+              <given-names>Ruaraidh Sackville</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kurtz</surname>
+              <given-names>Brad</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marden</surname>
+              <given-names>Emily</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Welch</surname>
+              <given-names>Eric</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Michiels</surname>
+              <given-names>Frank</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mozafari</surname>
+              <given-names>Javad</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sabran</surname>
+              <given-names>Muhamad</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Patron</surname>
+              <given-names>Nicola</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kersey</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bastow</surname>
+              <given-names>Ruth</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dorius</surname>
+              <given-names>Shawn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dias</surname>
+              <given-names>Sonia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McCouch</surname>
+              <given-names>Susan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Powell</surname>
+              <given-names>Wayne</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Plant genetic resources for food and agriculture: opportunities and challenges emerging from the science and information technology revolution</article-title>
+          <source>New Phytologist</source>
+          <volume>217</volume>
+          <issue>4</issue>
+          <fpage>1407</fpage>
+          <lpage>1419</lpage>
+          <pub-id pub-id-type="doi">10.1111/nph.14993</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5172458">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kobayashi</surname>
+              <given-names>Kunihiko</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Analysis of the views on “Digital Sequence Information on Genetic Resource” and its legal perspective</article-title>
+          <source>Papers on Environmental Information Science Volume</source>
+          <volume>32</volume>
+          <fpage>303</fpage>
+          <lpage>308</lpage>
+          <comment content-type="language">Japanese</comment>
+          <pub-id pub-id-type="doi">10.11492/ceispapers.ceis32.0_303</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5172468">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Recio</surname>
+              <given-names>María Eugenia</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Transnational REDD+Rule Making: The Regulatory Landscape for REDD+ Implementation in Latin America</article-title>
+          <source>Transnational Environmental Law</source>
+          <volume>7</volume>
+          <issue>2</issue>
+          <fpage>277</fpage>
+          <lpage>299</lpage>
+          <comment content-type="language">English</comment>
+          <pub-id pub-id-type="doi">10.1017/S2047102518000122</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5233544">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sollberger</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <source>Digital sequence information and the Nagoya Protocol</source>
+          <publisher-name>Legal expert brief on behalf of the Swiss Federal Office for the Environment (FOEN), Australia</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B5172521">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Tamura</surname>
+              <given-names>Masami</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>国連気候変動枠組条約制度の発展と締約国会議決定 (initial translation; Evolution of the UNFCCC and the decision of the COP)</article-title>
+          <source>世界法年報(Yearbook of World Law)</source>
+          <volume>19</volume>
+          <fpage>23</fpage>
+          <lpage>46</lpage>
+          <comment content-type="language">Japanese</comment>
+          <pub-id pub-id-type="doi">10.11388/yearbookofworldlaw1986.2000.23</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

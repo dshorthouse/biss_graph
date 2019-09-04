@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37333</article-id>
+      <article-id pub-id-type="publisher-id">37333</article-id>
+      <article-id pub-id-type="manuscript">11124</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST15 - Molecular biodiversity evidence in time and space: data linkages and standards</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>BIOSCAN - Revealing Eukaryote Diversity, Dynamics, and Interactions</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hobern</surname>
+            <given-names>Donald</given-names>
+          </name>
+          <email xlink:type="simple">dhobern@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6492-4016</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hebert</surname>
+            <given-names>Paul D.N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">International Barcode of Life, Canberra, Australia</addr-line>
+        <institution>International Barcode of Life</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Centre for Biodiversity Genomics, University of Guelph, Guelph, Canada</addr-line>
+        <institution>Centre for Biodiversity Genomics, University of Guelph</institution>
+        <addr-line content-type="city">Guelph</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Donald Hobern (<email xlink:type="simple">dhobern@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37333</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DAA4A63294015528BA0C10E3133A2751">DAA4A63294015528BA0C10E3133A2751</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Donald Hobern, Paul D.N. Hebert</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Between 2010 and 2015, the International Barcode of Life (iBOL) consortium successfully completed the BARCODE 500K project, a $125 million effort that delivered DNA barcode coverage for 500,000 species. BIOSCAN is a seven-year program (2019-2025) that builds on this foundation, expanding coverage of the barcode reference library to two million species and operationalising metabarcoding for eukaryote communities globally. BIOSCAN will scan species assemblages from at least 2,500 ecosystems and will codify species interactions for at least 2,500 sites.</p>
+        <p>DNA barcoding is a well-established approach for rapid, cost-effective species diagnosis, with many applications in support of taxonomy, biosecurity, conservation, and monitoring. Uptake has been particularly significant in hyperdiverse invertebrate groups where morphological approaches to species identification are often limiting (because of the scale of diversity and the small number of expert taxonomists) or inapplicable (for example in associating individuals from different life stages). The barcode reference library maintained as <ext-link ext-link-type="uri" xlink:href="http://www.boldsystems.org">BOLD Systems</ext-link> by the <ext-link ext-link-type="uri" xlink:href="http://biodiversitygenomics.net">Centre for Biodiversity Genomics</ext-link> in Guelph, Ontario is a significant biodiversity informatics infrastructure for bridging genomics and classical taxonomy, collections research, and field surveys. Effort across multiple years in Canada has delivered a library of reference sequences for the COI mitochondrial barcode that covers most of the known insect fauna for the country, enabling a comprehensive assessment of Canadian arthropod diversity (<xref ref-type="bibr" rid="B5171982">Hebert et al. 2016</xref>, <xref ref-type="bibr" rid="B5170997">Langor and Sheffield 2019</xref>).</p>
+        <p>The <ext-link ext-link-type="uri" xlink:href="http://biodiversitygenomics.net/projects/gmp/">Global Malaise Trap Program</ext-link> is expanding lessons learned in Canada to support species inventories in new regions such as <ext-link ext-link-type="uri" xlink:href="http://biodiversitygenomics.net/projects/kmp/">Kruger National Park</ext-link> in South Africa. As DNA barcode libraries approach completeness for any site, analysis can employ metabarcoding to lower costs significantly for monitoring programs that track changes in species composition. Data from this program, and from barcode-based exploration in other regions, will greatly expand the fraction of biodiversity that can be monitored and compared over time and space. <ext-link ext-link-type="uri" xlink:href="https://gbif.org">GBIF</ext-link> has collected more than one billion species records, but around 60% of these are for birds, with another 25% for vascular plants. Metabarcoding offers the opportunity for a wider selection of taxa to be included in global data sets and in support of local conservation and planning.</p>
+        <p>The BIOSCAN program, launched by iBOL in 2019, seeks to operationalise DNA barcoding at the global scale for development of species inventories and preliminary exploration of undescribed diversity, for surveying community composition across the world's ecosystems, and codifying species interactions (the symbiome). BIOSCAN will exploit the latest advances in sequencing platforms to lower costs, increase precision, and accelerate processing of samples, to speed the uptake of DNA barcoding for protecting life on Earth. </p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Donald Hobern</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5171982">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hebert</surname>
+              <given-names>Paul D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ratnasingham</surname>
+              <given-names>Sujeevan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zakharov</surname>
+              <given-names>Evgeny V.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Telfer</surname>
+              <given-names>Angela C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Levesque-Beaudin</surname>
+              <given-names>Valerie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Milton</surname>
+              <given-names>Megan A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pedersen</surname>
+              <given-names>Stephanie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jannetta</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>deWaard</surname>
+              <given-names>Jeremy R.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Counting animal species with DNA barcodes: Canadian insects</article-title>
+          <source>Philosophical Transactions of the Royal Society</source>
+          <volume>371</volume>
+          <fpage>20150333</fpage>
+          <pub-id pub-id-type="doi">10.1098/rstb.2015.0333</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5170997">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Langor</surname>
+              <given-names>D. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sheffield</surname>
+              <given-names>C. S.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>The Biota of Canada: Terrestrial Arthropods. In: Langor DW, Sheffield CS (Eds) The biota of Canada – A biodiversity assessment. Part 1: The Terrestrial Arthropods</article-title>
+          <source>ZooKeys</source>
+          <volume>819</volume>
+          <fpage>1</fpage>
+          <lpage>4</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

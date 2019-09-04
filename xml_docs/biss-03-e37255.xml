@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37255</article-id>
+      <article-id pub-id-type="publisher-id">37255</article-id>
+      <article-id pub-id-type="manuscript">11268</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Using Unsupervised Artificial Neural Networks to Detect Sibling Species: A case in Myxomycetes</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Pando</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <email xlink:type="simple">pando@rjb.csic.es</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6321-9398</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Heredia</surname>
+            <given-names>Ignacio</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lloret</surname>
+            <given-names>Lara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Real Jardin Botanico -CSIC, Madrid, Spain</addr-line>
+        <institution>Real Jardin Botanico -CSIC</institution>
+        <addr-line content-type="city">Madrid</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Insituto de Fisica de Cantabria - CSIC/UC, Santander, Spain</addr-line>
+        <institution>Insituto de Fisica de Cantabria - CSIC/UC</institution>
+        <addr-line content-type="city">Santander</addr-line>
+        <country>Spain</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Francisco Pando (<email xlink:type="simple">pando@rjb.csic.es</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37255</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DFFF70400CFE598C8E059BF8B33CE84D">DFFF70400CFE598C8E059BF8B33CE84D</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Francisco Pando, Ignacio Heredia, Lara Lloret</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Species distribution modelling (SDM) --i.e. <styled-content style="font-size: 1em;">the prediction of  species potential geographic distributions based on correlations between known presence records and the environmental conditions at occurrence localities-- </styled-content> is one of the most freqently cited developments in recent years in the realm of biodiversity studies (<xref ref-type="bibr" rid="B5224256">Web of Science 2019</xref>). The reasons for the explosion in SDM studies reside in: a) the pressure to know species distributions (under both present and future climate change scenarios) with precision to satisfy scientific as well as societal objectives; b) the impossibility of knowing every occurrence of all but the most conspicuous and/or special interest species; c) the availability of primary occurrence and environmental data in unprecedented amounts, thanks to initiatives like the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org">GBIF</ext-link>); and d) the development of algorithms and software, along with the computing power, which allow inference of species distribution models from the available data.</p>
+        <p>The standard methods to produce such models are based on environmental feature vectors, and some well-established algorithms such as distance-based machine learning, regression or a combination of these (<xref ref-type="bibr" rid="B5224294">Tsoar et al. 2007</xref>).</p>
+        <p>In this presentation, we explore deep learning techniques (<xref ref-type="bibr" rid="B5224265">LeCun et al. 2015</xref>), particularly how those developed in recent years could contribute to the study of species distribution (see also <xref ref-type="bibr" rid="B5177212">Botella et al. 2018</xref>; <xref ref-type="bibr" rid="B5177245">Deneu et al. 2018</xref>). In this contribution we aim to identify sibling species on the basis of their ecological preferences. In this exercise, we prepare an image-based environmental representation space using an unsupervised classification approach, instead of a set of environmental feature vectors. For our case study, we chose a well-known cosmopolitan myxomycete (i.e., mycetozoan) species: <italic>Hemitrichia serpula</italic> (Scop.) Rostaf., whose ecological preferences --involving several biomes-- may suggest that it could comprise several sibling species.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>deep learning</kwd>
+        <kwd>species distribution</kwd>
+        <kwd>ecological niche modelling</kwd>
+        <kwd>sibling species</kwd>
+        <kwd>Myxomycetes</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Francisco Pando</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 777435</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 777435</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5177212">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Botella</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Joly</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bonnet</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Monestiez</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Munoz</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <chapter-title>A Deep Learning Approach to Species Distribution Modelling</chapter-title>
+          <person-group person-group-type="editor">
+            <name name-style="western">
+              <surname>Joly</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vrochidis</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Karatzas</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Karppinen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bonnet</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <source>Multimedia Tools and Applications for Environmental &amp; Biodiversity Informatics. Multimedia Systems and Applications</source>
+          <publisher-name>Springer</publisher-name>
+          <publisher-loc>Cham</publisher-loc>
+          <isbn>978-3-319-76445-0</isbn>
+          <pub-id pub-id-type="doi">10.1007/978-3-319-76445-0_10</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5177245">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Deneu</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Servajean</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Botella</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Joly</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Location-based species recommendation using co-occurrences and environment-GeoLifeCLEF 2018 challenge</article-title>
+          <source>Conference and Labs of the Evaluation Forum, CEUR Workshop Proceedings</source>
+          <conf-name>CLEF: Conference and Labs of the Evaluation Forum Working Notes of CLEF</conf-name>
+          <conf-date>Sep. 2018</conf-date>
+          <publisher-loc>Avignon, France</publisher-loc>
+          <size units="page">14</size>
+          <uri>https://hal.archives-ouvertes.fr/hal-01913241</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5224265">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>LeCun</surname>
+              <given-names>Yann</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bengio</surname>
+              <given-names>Yoshua</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hinton</surname>
+              <given-names>Geoffrey</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Deep learning</article-title>
+          <source>Nature</source>
+          <volume>521</volume>
+          <issue>7553</issue>
+          <fpage>436</fpage>
+          <lpage>444</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature14539</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5224294">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Tsoar</surname>
+              <given-names>Asaf</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Allouche</surname>
+              <given-names>Omri</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Steinitz</surname>
+              <given-names>Ofer</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rotem</surname>
+              <given-names>Dotan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kadmon</surname>
+              <given-names>Ronen</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>A comparative evaluation of presence-only methods for modelling species distribution</article-title>
+          <source>Diversity and Distributions</source>
+          <volume>13</volume>
+          <issue>4</issue>
+          <fpage>397</fpage>
+          <lpage>405</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1472-4642.2007.00346.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5224256">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Science</surname>
+              <given-names>Web of</given-names>
+            </name>
+          </person-group>
+          <article-title>TS=(niche model) OR TS=(distribution model) AND (WC=( ENVIRONMENTAL SCIENCES ) OR WC=(ENVIRONMENTAL SCIENCES OR ECOLOGY ) OR  WC=(ECOLOGY) OR WC=(ECOLOGY OR ENVIRONMENTAL SCIENCES OR BIODIVERSITY CONSERVATION OR AGRICULTURE MULTIDISCIPLINARY))</article-title>
+          <uri>https://tinyurl.com/SDM-explosion</uri>
+          <date-in-citation content-type="access-date">2019-04-30T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

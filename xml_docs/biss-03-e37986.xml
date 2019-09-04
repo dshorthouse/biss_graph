@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37986</article-id>
+      <article-id pub-id-type="publisher-id">37986</article-id>
+      <article-id pub-id-type="manuscript">11726</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>mBRAVE: The Multiplex Barcode Research And Visualization Environment</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ratnasingham</surname>
+            <given-names>Sujeevan</given-names>
+          </name>
+          <email xlink:type="simple">sratnasi@uoguelph.ca</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Guelph, Guelph, Canada</addr-line>
+        <institution>University of Guelph</institution>
+        <addr-line content-type="city">Guelph</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sujeevan Ratnasingham (<email xlink:type="simple">sratnasi@uoguelph.ca</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37986</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/10525BB2EC635C60999850F2E40702EB">10525BB2EC635C60999850F2E40702EB</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sujeevan Ratnasingham</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Widespread interest in the study of metabarcoding has resulted in data proliferation and the development of a multitude of powerful computational tools. Yet consistent and reproducible interpretation of the data remains challenging. The integration of different data types, software tools, and analytical parameters pose a barrier to scaling research. Further, though the majority of the necessary tools for performing these analyses are already implemented, there is limited support for high throughput analysis due to the requirement for heavy computational capacity. As a result of these complexities, many researchers lack the time, training, or infrastructure to work with larger datasets.  </p>
+        <p>mBRAVE, the Multiplex Barcode Research And Visualization Environment, is a cloud-based data storage and analytics platform with standardized pipelines and a sophisticated web interface for transforming raw high-throughput sequencing (HTS) data into biological insights. mBRAVE integrates common analytical methods and links to the <ext-link ext-link-type="uri" xlink:href="http://www.boldsystems.org/">Barcode of Life Data</ext-link><ext-link ext-link-type="uri" xlink:href="http://www.boldsystems.org/"> (BOLD) </ext-link><ext-link ext-link-type="uri" xlink:href="http://www.boldsystems.org/">System</ext-link> for reference datasets, presenting users with the ability to analyze large volumes of data, without requiring special technical training. mBRAVE's cloud architecture provides centralized and automated storage and compute capacity, thereby reducing the burden on individual researchers.</p>
+        <p>The mBRAVE platform seeks to alleviate the main informatic challenges faced by the metabarcoding research community: the storage and consistent interpretation of HTS data.  It is now available for researcher use at <ext-link ext-link-type="uri" xlink:href="http://www.mbrave.net/">www.mbrave.net</ext-link>.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>metabarcoding</kwd>
+        <kwd>operational taxonomic units (otus)</kwd>
+        <kwd>barcoding</kwd>
+        <kwd>bioinformatics</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">University of Guelph</named-content>
+            <named-content content-type="funder_identifier">100008986</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/100008986</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sujeevan Ratnasingham</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Food From Thought (<ext-link ext-link-type="uri" xlink:href="https://www.foodfromthought.ca/">https://www.foodfromthought.ca/</ext-link>)</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Center For Biodiversity Genomics, University of Guelph</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Food From Thought (<ext-link ext-link-type="uri" xlink:href="https://www.foodfromthought.ca/">https://www.foodfromthought.ca/</ext-link>)</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Center For Biodiversity Genomics, University of Guelph</p>
+    </sec>
+  </back>
+</article>

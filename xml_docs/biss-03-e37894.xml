@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37894</article-id>
+      <article-id pub-id-type="publisher-id">37894</article-id>
+      <article-id pub-id-type="manuscript">11492</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST60 - World Catalogue of Collections – describing and assessing collections for identifying relevant gaps</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Towards a Global Collection Description Standard</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Raes</surname>
+            <given-names>Niels</given-names>
+          </name>
+          <email xlink:type="simple">nlbif@naturalis.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4329-4892</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>van Egmond</surname>
+            <given-names>Emily</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Casino</surname>
+            <given-names>Ana B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Woodburn</surname>
+            <given-names>Matt</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6496-1423</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Paul</surname>
+            <given-names>Deborah L</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2639-7520</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">NLBIF, Leiden, Netherlands</addr-line>
+        <institution>NLBIF</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Free University, Amsterdam, Netherlands</addr-line>
+        <institution>Free University</institution>
+        <addr-line content-type="city">Amsterdam</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">CETAF c/o Royal Belgian Institute of Natural Sciences, Brussels, Belgium</addr-line>
+        <institution>CETAF c/o Royal Belgian Institute of Natural Sciences</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Florida State University, Tallahassee, United States of America</addr-line>
+        <institution>Florida State University</institution>
+        <addr-line content-type="city">Tallahassee</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Niels Raes (<email xlink:type="simple">nlbif@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37894</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2EC7B7E184CD5734AF0000E60ACE23C7">2EC7B7E184CD5734AF0000E60ACE23C7</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>With digitisation of natural history collections over the past decades, their traditional roles — for taxonomic studies and public education — have been greatly expanded into the fields of biodiversity assessments, climate change impact studies, trait analyses, sequencing, 3D object analyses etc. (<xref ref-type="bibr" rid="B5186591">Nelson and Ellis 2019</xref>; <xref ref-type="bibr" rid="B5186683">Watanabe 2019</xref>). Initial estimates of the global natural history collection range between 1.2 and 2.1 billion specimens (<xref ref-type="bibr" rid="B5186577">Ariño 2010</xref>), of which 169 million (8-14% - as of April 2019) are available at some level of digitisation through the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org"><underline>Global Biodiversity Information Facility</underline></ext-link> (GBIF). With iDigBio (<ext-link ext-link-type="uri" xlink:href="https://www.idigbio.org/"><underline>Integrated Digitized Biocollections</underline></ext-link>) established in the United States and with the European DiSSCo (<ext-link ext-link-type="uri" xlink:href="https://dissco.eu/"><underline>Distributed Systems of Scientific Collections</underline></ext-link>) accepted on the <ext-link ext-link-type="uri" xlink:href="http://roadmap2018.esfri.eu/projects-and-landmarks/browse-the-catalogue/dissco/"><underline>ESFRI</underline></ext-link> roadmap, it has become a priority to digitize natural history collections at an industrialized scale. Both iDigBio and DiSSCo aim at mobilising, unifying and delivering bio- and geo-diversity information at the scale, form and precision required by scientific communities, and thereby transform a fragmented landscape into a coherent and responsive research infrastructure. In order to prioritise digitisation based on scientific demand, and efficiency using industrial digitisation pipelines, it is required to arrive at a uniform and unambiguously accepted collection description standard that would allow comparing, grouping and analysing natural history collections at diverse levels.</p>
+        <p>Several initiatives attempt to unambiguously describe natural history collections using taxonomic and storage classification schemes. These initiatives include One World Collection, Global Registry of Scientific Collections (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/grscicoll">GRSciColl</ext-link>), <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/"><underline>TDWG</underline></ext-link> (Taxonomic Databases Working Group) Natural Collection Descriptions (<ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/standards/ncd/">NCD</ext-link>) and <ext-link ext-link-type="uri" xlink:href="https://cetaf.org/"><underline>CETAF</underline></ext-link> (Consortium of European Taxonomy Facilities) passports, among others. In a collaborative effort of DiSSCo, ICEDIG (<ext-link ext-link-type="uri" xlink:href="https://icedig.eu/"><underline>Innovation and consolidation for large scale digitisation of natural heritage</underline></ext-link>), iDigBio, TDWG and the Task Group Collection Digitisation Dashboards, the various schemes were compared in a cross-walk analysis to propose a preliminary natural collection description standard that is supported by the wider community. In the process, two main user groups of collection descriptions standards were identified; scientists and collection managers. The classification produced intends to meet requirements from them both, resulting in three classification schemes that exist in parallel to each other (<xref ref-type="bibr" rid="B5186667">van Egmond et al. 2019</xref>). For scientific purposes a ‘Taxonomic’ and ‘Stratigraphic’ classification were defined, and for management purposes a ‘Storage’ classification. The latter is derived from specimen preservation types (e.g. dried, liquid preserved) defining storage requirements and the physical location of specimens in collection holding facilities. The three parallel collection classifications can be cross-sectioned with a ‘Geographic’ classification to assign sub-collections to major terrestrial and marine regions, which allow scientists to identify particular taxonomic or stratigraphic (sub-)collections from major geographical or marine regions of interest.</p>
+        <p>Finally, to measure the level of digitisation of institutional collections and progress of digitisation through time, the number of digitised specimens for each geographically cross-sectioned (sub-)collection can be derived from institutional collection management systems (CMS). As digitisation has different levels of completeness a ‘Digitisation’ scheme has been adopted to quantify the level of digitisation of a collection from <xref ref-type="bibr" rid="B5226675">Saarenmaa et al. 2019</xref>, ranging from ‘not digitised’ to extensively digitised, recorded in a progressive scale of MIDS (Minimal Information for Digital Specimen).</p>
+        <p>The applicability of this preliminary classification will be discussed and visualized in a Collection Digitisation Dashboards (CDD) to demonstrate how the implementation of a collection description standard allows the identification of existing gaps in taxonomic and geographic coverage and levels of digitisation of natural history collections. This set of common classification schemes and dashboard design (<xref ref-type="bibr" rid="B5186667">van Egmond et al. 2019</xref>) will be contributed to the <ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/cd"><underline>TDWG Collection Description</underline></ext-link> interest group to ultimately arrive at the common goal of a 'World Collection Catalogue'.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>TDWG CD</kwd>
+        <kwd>TDWG</kwd>
+        <kwd>CETAF</kwd>
+        <kwd>DiSSCo</kwd>
+        <kwd>iDigBio</kwd>
+        <kwd>ICEDIG</kwd>
+        <kwd>collection standards</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Niels Raes</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5186577">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ariño</surname>
+              <given-names>Arturo H.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Approaches to estimating the universe of natural history collections data</article-title>
+          <source>Biodiversity Informatics</source>
+          <volume>7</volume>
+          <issue>2</issue>
+          <pub-id pub-id-type="doi">10.17161/bi.v7i2.3991</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5186591">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Nelson</surname>
+              <given-names>Gil</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ellis</surname>
+              <given-names>Shari</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>The history and impact of digitization and digital data mobilization on biodiversity research</article-title>
+          <source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+          <volume>374</volume>
+          <issue>1763</issue>
+          <pub-id pub-id-type="doi">10.1098/rstb.2017.0391</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5226675">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Saarenmaa</surname>
+              <given-names>Hannu</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dillen</surname>
+              <given-names>Matthias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Egloff</surname>
+              <given-names>Willi</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gagnier</surname>
+              <given-names>Pierre-Yves</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hardisty</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Raes</surname>
+              <given-names>Niels</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Report on implementation of open access policies in collection institutions. MILESTONE – MS35</article-title>
+          <source>Zenodo</source>
+          <pub-id pub-id-type="doi">10.5281/ZENODO.2632739</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5186667">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>van Egmond</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willemse</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Paul</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Woodburn</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Casino</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gödderz</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vermeersch</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bloothoofd</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wijers</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Raes</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Design of a Collection Digitisation Dashboard</article-title>
+          <source>Zenodo</source>
+          <pub-id pub-id-type="doi">10.5281/ZENODO.2621055</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5186683">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Watanabe</surname>
+              <given-names>Myrna E</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>The Evolution of Natural History Collections</article-title>
+          <source>BioScience</source>
+          <volume>69</volume>
+          <issue>3</issue>
+          <fpage>163</fpage>
+          <lpage>169</lpage>
+          <pub-id pub-id-type="doi">10.1093/biosci/biy163</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

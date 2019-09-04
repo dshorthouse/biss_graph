@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37184</article-id>
+      <article-id pub-id-type="publisher-id">37184</article-id>
+      <article-id pub-id-type="manuscript">11297</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI20 - Semantic Annotation of Collection Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>What's in this Collection Dataset? Semantic Annotation with GATE</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Löffler</surname>
+            <given-names>Felicitas</given-names>
+          </name>
+          <email xlink:type="simple">felicitas.loeffler@uni-jena.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6423-7427</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>König-Ries</surname>
+            <given-names>Birgitta</given-names>
+          </name>
+          <email xlink:type="simple">birgitta.koenig-ries@uni-jena.de</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Friedrich Schiller University Jena, Jena, Germany</addr-line>
+        <institution>Friedrich Schiller University Jena</institution>
+        <addr-line content-type="city">Jena</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Felicitas Löffler (<email xlink:type="simple">felicitas.loeffler@uni-jena.de</email>), Birgitta König-Ries (<email xlink:type="simple">birgitta.koenig-ries@uni-jena.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37184</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/FB2B38B543FD5A16840CBD6CF13DAF08">FB2B38B543FD5A16840CBD6CF13DAF08</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Felicitas Löffler, Birgitta König-Ries</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Semantic annotations of datasets are very useful to support quality assurance, discovery, interpretability, linking and integration of datasets. However, providing such annotations manually is often a time-consuming task . If the process is to be at least partially automated and still provide good semantic annotations, precise information extraction is needed. The recognition of entity names (e.g., person, organization, location) from textual resources is the first step before linking the identified term or phrase to other semantic resources such as concepts in ontologies. A multitude of tools and techniques have been developed for information extraction. One of the big players is the text mining framework GATE (<xref ref-type="bibr" rid="B5178601">Cunningham et al. 2013</xref>) that supports annotation rules, semantic techniques and machine learning approaches. We will run GATE's default ANNIE pipeline on collection datasets to automatically detect persons, locations and time. We will also present extensions to extract organisms (<xref ref-type="bibr" rid="B5180783">Naderi et al. 2011</xref>), environmental terms, data parameters and biological processes and how to link them to ontologies and LOD resources, e.g., DBPedia (<xref ref-type="bibr" rid="B5180812">Sateli and Witte 2015</xref>). We would like to discuss the results with the conference participants and welcome comments and feedbacks on the current solution. The audience is also welcome to provide their own datasets in preparation for this session.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>semantic annotation</kwd>
+        <kwd>collection data</kwd>
+        <kwd>GATE</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Felicitas Löffler</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5178601">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Cunningham</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tablan</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roberts</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bontcheva</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>Getting more out of biomedical documents with GATE's Full Lifecycle Open Source Text Analytics</article-title>
+          <source>PloS Computational Biology</source>
+          <volume>9</volume>
+          <issue>2</issue>
+          <fpage>e1002854</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pcbi.1002854</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5180783">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Naderi</surname>
+              <given-names>Nona</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kappler</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baker</surname>
+              <given-names>C. J. O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Witte</surname>
+              <given-names>René</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>OrganismTagger: detection, normalization and grounding of organism entities in biomedical documents</article-title>
+          <source>Bioinformatics</source>
+          <volume>27</volume>
+          <issue>9</issue>
+          <fpage>2721</fpage>
+          <lpage>2729</lpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/btr452</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5180812">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sateli</surname>
+              <given-names>Bahar</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Witte</surname>
+              <given-names>René</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Semantic representation of scientific literature: bringing claims, contributions and named entities onto the Linked Open Data cloud</article-title>
+          <source>PeerJ Computer Science</source>
+          <volume>1</volume>
+          <fpage>e371</fpage>
+          <pub-id pub-id-type="doi">10.7717/peerj-cs.37</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

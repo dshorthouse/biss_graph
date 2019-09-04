@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.34742</article-id>
+      <article-id pub-id-type="publisher-id">34742</article-id>
+      <article-id pub-id-type="manuscript">11084</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI10 - How does Wikimedia Solve the Problems of Biodiversity Informatics?</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Wikidata and the biodiversity knowledge graph</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Page</surname>
+            <given-names>Roderic</given-names>
+          </name>
+          <email xlink:type="simple">roderic.page@glasgow.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7101-9767</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Glasgow, Glasgow, United Kingdom</addr-line>
+        <institution>University of Glasgow</institution>
+        <addr-line content-type="city">Glasgow</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Roderic Page (<email xlink:type="simple">roderic.page@glasgow.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e34742</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/53F011C323E254F296C953CF3C98E44E">53F011C323E254F296C953CF3C98E44E</uri>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>03</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Roderic Page</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>This talk explores the role <ext-link ext-link-type="uri" xlink:href="https://www.wikidata.org">Wikidata</ext-link> (<xref ref-type="bibr" rid="B5166704">Vrandečić and Krötzsch 2014</xref>) might play in the task of assembling biodiversity information into a single, richly annotated and cross linked structure known as the biodiversity knowledge graph (<xref ref-type="bibr" rid="B5166694">Page 2016</xref>). Initially conceived as a language-independent data store of facts derived from the Wikipedia, Wikidata has morphed into a global knowledge graph, complete with a user friendly interface for data entry and a powerful implementation of the SPARQL query language. Wikidata already underpins projects such as Gene Wiki (<xref ref-type="bibr" rid="B5166724">Burgstaller-Muehlbacher et al. 2016</xref>) and <ext-link ext-link-type="uri" xlink:href="https://tools.wmflabs.org/scholia/">Scholia</ext-link> (<xref ref-type="bibr" rid="B5166714">Nielsen et al. 2017</xref>).  Much of the content of <ext-link ext-link-type="uri" xlink:href="https://species.wikimedia.org/wiki/Main_Page">Wikispecies</ext-link> is being automatically added to Wikidata, hence many of the entities relevant to biodiversity (such as taxa, taxonomic publications, and taxonomists) well represented in Wikidata, making it even more attractive.</p>
+        <p>Much of the data relevant to biodiversity is widely scattered in different locations, requiring considerable manual effort to collect and curate. Appeals to the taxonomic community to undertake these tasks have not always met with success. For example, the Global Registry of Biodiversity Repositories (<ext-link ext-link-type="uri" xlink:href="http://grbio.org">GrBio</ext-link>) was an attempt to create a global list of biodiversity repositories, such as natural history museums and herbaria. An appeal by <xref ref-type="bibr" rid="B5166741">Schindel et al. (2016)</xref> for the taxonomic community to curate this list largely fell on deaf ears, and at the time of writing the GrBio project is moribund. Given that many repositories are housed in institutions that are the subject of articles in Wikipedia, many of these repositories already have entries in Wikidata. Hence, rather than follow the route GrBio took of building a resource and then hoping a community will assemble around that resource, we could go to Wikidata where there is an existing community and build the resource there. An impressive example of the potential for this is <ext-link ext-link-type="uri" xlink:href="https://meta.wikimedia.org/wiki/WikiCite">WikiCite</ext-link>, which initially had the goal of including in Wikidata every article cited in any of the Wikipedias. Taxonomic articles are highly cited in Wikipedia (<xref ref-type="bibr" rid="B5166772">Nielsen 2007</xref>),  hence already fall within the remit of WikiCite. Hence Wikidata is a candidate for the “bibliography of life” (<xref ref-type="bibr" rid="B5166752">King et al. 2011</xref>), a database of all taxonomic literature. </p>
+        <p>Another important role Wikidata can play is to define the boundaries of a biodiversity knowledge graph. Entities such as journals, articles, people, museums, and herbaria are often already in Wikidata, hence we can delegate managing that content to the Wikidata community (bolstered by our own contributions), and focus instead on domain-specific entities such as DNA sequences, specimens, etc., or domain specific attributes of those entities if they are already in Wikidata. This means we can avoid the inevitable “mission creep” that bedevils any attempt to link together information from multiple disciplines.</p>
+        <p>These ideas are explored using examples based on content entirely within Wikidata (including entities such as publications, authorship, and natural history collections), as well as approaches that combine Wikidata with external knowledge graphs such as <ext-link ext-link-type="uri" xlink:href="https://ozymandias-demo.herokuapp.com">Ozymandias</ext-link> (<xref ref-type="bibr" rid="B5166762">Page 2018</xref>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity knowledge graph</kwd>
+        <kwd>linked data</kwd>
+        <kwd>wikidata</kwd>
+        <kwd>wikicite</kwd>
+        <kwd>bibliography of life</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="8"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Roderic Page</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5166724">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Burgstaller-Muehlbacher</surname>
+              <given-names>Sebastian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mitraka</surname>
+              <given-names>Elvira</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Turner</surname>
+              <given-names>Julia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Putman</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leong</surname>
+              <given-names>Justin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Naik</surname>
+              <given-names>Chinmay</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pavlidis</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schriml</surname>
+              <given-names>Lynn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Good</surname>
+              <given-names>Benjamin M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Su</surname>
+              <given-names>Andrew I</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Wikidata as a semantic framework for the Gene Wiki initiative</article-title>
+          <source>Database</source>
+          <volume>2016</volume>
+          <fpage>baw015</fpage>
+          <lpage>baw015</lpage>
+          <pub-id pub-id-type="doi">10.1093/database/baw015</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166752">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>King</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morse</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willis</surname>
+              <given-names>Alistair</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dil</surname>
+              <given-names>Anton</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>Towards the bibliography of life</article-title>
+          <source>ZooKeys</source>
+          <volume>150</volume>
+          <fpage>151</fpage>
+          <lpage>166</lpage>
+          <pub-id pub-id-type="doi">10.3897/zookeys.150.2167</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166772">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Nielsen</surname>
+              <given-names>Finn Aarup</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Scientific citations in Wikipedia</article-title>
+          <source>arXiv:0705.2106 [cs]</source>
+        </element-citation>
+      </ref>
+      <ref id="B5166714">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Nielsen</surname>
+              <given-names>Finn Årup</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mietchen</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willighagen</surname>
+              <given-names>Egon</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Scholia, Scientometrics and Wikidata</article-title>
+          <source>Lecture Notes in Computer Science</source>
+          <fpage>237</fpage>
+          <lpage>259</lpage>
+          <pub-id pub-id-type="doi">10.1007/978-3-319-70407-4_36</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166694">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Page</surname>
+              <given-names>R D M</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Towards a biodiversity knowledge graph</article-title>
+          <source>Research Ideas and Outcomes</source>
+          <volume>2</volume>
+          <fpage>e8767</fpage>
+          <lpage>e8767</lpage>
+          <pub-id pub-id-type="doi">10.3897/rio.2.e8767</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166762">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Page</surname>
+              <given-names>Roderic D. M.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Ozymandias: A biodiversity knowledge graph</article-title>
+          <source>bioRxiv</source>
+          <fpage>485854</fpage>
+          <lpage>485854</lpage>
+          <pub-id pub-id-type="doi">10.1101/485854</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166741">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Schindel</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Miller</surname>
+              <given-names>Scott</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Trizna</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Graham</surname>
+              <given-names>Eileen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crane</surname>
+              <given-names>Adele</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The Global Registry of Biodiversity Repositories: A Call for Community Curation</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>4</volume>
+          <fpage>e10293</fpage>
+          <lpage>e10293</lpage>
+          <pub-id pub-id-type="doi">10.3897/BDJ.4.e10293</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166704">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Vrandečić</surname>
+              <given-names>Denny</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Krötzsch</surname>
+              <given-names>Markus</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Wikidata</article-title>
+          <source>Communications of the ACM</source>
+          <volume>57</volume>
+          <issue>10</issue>
+          <fpage>78</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="doi">10.1145/2629489</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

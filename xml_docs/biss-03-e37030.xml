@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37030</article-id>
+      <article-id pub-id-type="publisher-id">37030</article-id>
+      <article-id pub-id-type="manuscript">11313</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Royal Botanic Gardens, Kew’s Seed Information Database (SID): A compilation of taxon-based biological seed characteristics or traits</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Liu</surname>
+            <given-names>Udayangani</given-names>
+          </name>
+          <email xlink:type="simple">u.liu@kew.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6192-1319</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cossu</surname>
+            <given-names>Tiziana Antonella</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dickie</surname>
+            <given-names>John B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens, Kew, Haywards Heath, United Kingdom</addr-line>
+        <institution>Royal Botanic Gardens, Kew</institution>
+        <addr-line content-type="city">Haywards Heath</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Udayangani Liu (<email xlink:type="simple">u.liu@kew.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37030</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2445F6423AEA5484A9636F15EF53031B">2445F6423AEA5484A9636F15EF53031B</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Udayangani Liu, Tiziana Antonella Cossu, John B. Dickie</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Seed Information Database (SID) is one of the Royal Botanic Gardens (RBG), Kew's strategic databases in the public domain (<ext-link ext-link-type="uri" xlink:href="http://data.kew.org/sid">http://data.kew.org/sid</ext-link>). SID is a compilation of taxon-based information on a range of biological seed characteristics or traits for about 52,564 seed plant taxa. Assembling and mobilizing such data involved challenges in establishing data standards for specific seed traits and taxonomy and integrating data sets from different sources. Data are derived from seed collections stored at the RBG Kew’s Millennium Seed Bank (MSB) and from other published and unpublished sources. Seed traits data available in SID includes (number of records in brackets): storage behaviour (24,926), seed weights (86,287) seed dispersal (5,377), germination (54, 453), oil content (4,526), protein content (3,603), morphology (599), morphology images (1,741), halophytes (1,546) and viability constants (72). Database can be searched for any, or all of these categories by clade, order, family, genus, or species. SID also offers various online tools useful for <italic>ex situ</italic> seed conservation and storage (e.g. seed viability equation to predict the proportion of seeds in a population that are viable after any period of storage in a wide range of environments). SID data has been used by a wider community (general public, researches, conservationists, policymakers, etc.) in a range of disciplines including biodiversity conservation, food security, climate change, agriculture, and seed industry across the globe for large-scale analysis, modelling, predicting, or describing plant seed traits.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Seed Information Database</kwd>
+        <kwd>SID</kwd>
+        <kwd>Seed Traits</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Udayangani Liu</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Royal Botanic Gardens, Kew</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to express our sincere thanks to Robert Turner and Kenwin Liu for their valuable contribution in developing Seed Information Database at MSB, and all MSB curators and collection professionals and members of MSB Partnership.</p>
+    </ack>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Royal Botanic Gardens, Kew</p>
+    </sec>
+  </back>
+</article>

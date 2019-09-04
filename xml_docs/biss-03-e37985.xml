@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37985</article-id>
+      <article-id pub-id-type="publisher-id">37985</article-id>
+      <article-id pub-id-type="manuscript">11290</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodiversity Map Project – an integrative approach to biodiversity data and related scientific sources</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Tykarski</surname>
+            <given-names>Piotr</given-names>
+          </name>
+          <email xlink:type="simple">ptyk@biol.uw.edu.pl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3259-8273</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Meronka</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Warsaw, Faculty of Biology, Dept. of Ecology, Biological and Chemical Research Centre, Warsaw, Poland</addr-line>
+        <institution>University of Warsaw, Faculty of Biology, Dept. of Ecology, Biological and Chemical Research Centre</institution>
+        <addr-line content-type="city">Warsaw</addr-line>
+        <country>Poland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Piotr Tykarski (<email xlink:type="simple">ptyk@biol.uw.edu.pl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37985</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4BA1978FB663578284493FC1A0C3AECD">4BA1978FB663578284493FC1A0C3AECD</uri>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Piotr Tykarski, Robert Meronka</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Biodiversity Map is a long-term project of the <ext-link ext-link-type="uri" xlink:href="http://www.ksib.pl">Polish Biodiversity Information Network (</ext-link><ext-link ext-link-type="uri" xlink:href="http://www.ksib.pl">KSIB)</ext-link> aimed at integration, presentation and management of comprehensive scientific data about species. The website (<ext-link ext-link-type="uri" xlink:href="http://www.biomap.pl">www.biomap.pl</ext-link>) was launched in 2012, following a period of extensive digitization work, covering bibliographic information, specimen collections, research notes and other sources of data. Initially, the project was focused on aggregating data about three insect orders: Coleoptera, Hemiptera and Lepidoptera, reported from Poland. Having achieved this goal, the geographic limits were removed and taxonomic scope is being gradually widened, currently including Araneae, Diptera, Hymenoptera, Odonata, Orthoptera and some other minor insect orders, intended to have a checklist of Polish fauna as a starting point. So far, it covers ca. 21,000 species concepts, including their taxonomic hierarchy and synonymy; and more than 1.1 million occurrence records with 19,000 bibliographic sources.</p>
+        <p>The key functionality of the toolset supports visualization and management of links between different types of data and related underlying sources of the information, like scientific collections, literature, taxonomy, and occurrence records. The database can be accessed with a number of views, called "perspectives" and also by spatial queries through the map server, as an additional interface. This enables users to discover connections between information entities, e.g. publications based on studies from areas adjacent to a chosen locality on a map, or collections containing species covered in a publication. This approach is not common in existing systems and we trust it supports a wide range of potential scientific uses.</p>
+        <p>The project database uses <ext-link ext-link-type="uri" xlink:href="https://www.postgresql.org">PostgreSQL</ext-link> with <ext-link ext-link-type="uri" xlink:href="https://postgis.net">PostGIS</ext-link> for spatial queries. Two web applications are used for data presentation: the main text-based <ext-link ext-link-type="uri" xlink:href="https://php.net">PHP</ext-link> browser (<ext-link ext-link-type="uri" xlink:href="http://baza.biomap.pl">baza.biomap.pl</ext-link>) and the dynamic map, relying on <ext-link ext-link-type="uri" xlink:href="https://jquery.com">JQuery</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://openlayers.org">OpenLayers</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://mapserver.org">MapServer</ext-link> (<ext-link ext-link-type="uri" xlink:href="http://gis.biomap.pl">gis.biomap.pl</ext-link>). The latter provides users with an additional spatial dimension of interaction with the database and direct links to the main application. Recently, a third tool was built, making it possible for users to add and edit occurrence records, taxa, publications and authors. The solution is based on PHP and JavaScript combination.</p>
+        <p>The data held within the system are planned to be connected to <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">Global Biodiversity Information Facility</ext-link> and thus opened for a broad international community. The main obstacle hindering this step is limited resources to improve and scale up the database and software, as well as efforts to mobilize and organize the data. We need to ascertain the optimal method for dealing with numerous datasets derived from publications, and resolve the dilemma of whether to keep them separated or to merge them. The publications as a source of the scientific information and occurrence records have also been one of the main drivers for building the project software as an independent solution. Existing generic software packages popular in the GBIF community do not provide a direct way to link occurrence records with scientific literature, which is essential for scientific communities, at least in Poland.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Biodiversity Map</kwd>
+        <kwd>bibliography</kwd>
+        <kwd>species occurrence</kwd>
+        <kwd>specimen collections</kwd>
+        <kwd>data integration</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Piotr Tykarski</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37180</article-id>
+      <article-id pub-id-type="publisher-id">37180</article-id>
+      <article-id pub-id-type="manuscript">11693</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP70 - Access &amp; Benefit-Sharing, Digital Sequence Information and Biodiversity Data allaying for CBD goals</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Tracing the Flow of Genetic Resources in our Collections – How the Nagoya challenge supports the integration of our collection data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Stevens</surname>
+            <given-names>Albert-Dieter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Droege</surname>
+            <given-names>Gabriele</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zippel</surname>
+            <given-names>Elke</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Häffner</surname>
+            <given-names>Eva</given-names>
+          </name>
+          <email xlink:type="simple">e.haeffner@bgbm.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Borsch</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Botanischer Garten und Botanisches Museum Berlin, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin, Botanischer Garten und Botanisches Museum Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Eva Häffner (<email xlink:type="simple">e.haeffner@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37180</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/517451BF2E1F563AAD081AD69C8DCCBB">517451BF2E1F563AAD081AD69C8DCCBB</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Albert-Dieter Stevens, Gabriele Droege, Elke Zippel, Eva Häffner, Thomas Borsch</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Transparency as well as complete and traceable documentation of specimens, samples and associated information are prerequisites to comply with laws and regulations in Provider and User Countries to ensure benefits of utilised genetic resources are shared. Besides legal compliance, these measures should also help to build trust among users, suppliers and collaborators. This concerns for example laws of providing countries that have established access laws under the Nagoya Protocol, such as Mexico's Ley General de la Vida Silvestre, or under the Convention of Biological Diversity (CBD), such as the Brazil Law No. 13,123, regulating access to the country's genetic heritage. On the other hand there are laws and regulations in user countries that ensure compliance with access laws of providing countries under the Nagoya protocol (e. g. Regulation (EU) <ext-link ext-link-type="uri" xlink:href="https://publications.europa.eu/en/publication-detail/-/publication/6b16d48a-dff0-11e3-8cd4-01aa75ed71a1/language-e">No 511/2014</ext-link> of the European Parliament and of the Council of 16. April 2014, which has to be implemented at national level in the EU member states).  As an institution holding genetic resources as living collections (including seeds), herbarium specimens and DNA and tissue samples as well as a wealth of associated data, the Botanic Garden and Botanical Museum Berlin (BGBM) aims at creating transparency on the processes associated with the handling of these materials and data, such as metadata or associated analytical research results (Fig. <xref ref-type="fig" rid="F5194057">1</xref>).</p>
+        <p>As a member of CETAF (Consortium of European Taxonomic Facilities), IPEN (International Plant Exchange Network), and GGBN (Global Genome Biodiversity Network) the workflows and documentation of biological collections at BGBM are in compliance with CETAF’s Code of Conduct on Access and Benefit Sharing (<ext-link ext-link-type="uri" xlink:href="https://www.cetaf.org/services/natural-science-collections-and-access-and-benefit-sharing">https://www.cetaf.org/services/natural-science-collections-and-access-and-benefit-sharing</ext-link>) for herbarium specimens including algae, IPEN´s Code of Conduct (<ext-link ext-link-type="uri" xlink:href="http://www.bgci.org/policy/ipen/">http://www.bgci.org/policy/ipen</ext-link>) for living plants and seeds, and GGBN’s (<ext-link ext-link-type="uri" xlink:href="https://library.ggbn.org/share/s/UM5JietQR9aevtYDymHbjw">https://library.ggbn.org/share/s/UM5JietQR9aevtYDymHbjw</ext-link>) code of conduct (CoC) for DNA and tissue samples.</p>
+        <p>A major challenge was to ensure the comprehensive, transparent, and traceable documentation of specimens and associated material and information along our internal workflows that have evolved with the development of a manifold of protocols. However, this challenge presented the opportunity to revise the existing protocols that cover the handling, collecting, and processing of the specimens, which had accumulated over the long history of our collections and our databases, into a consistent set of workflows (<xref ref-type="bibr" rid="B5194025">Stevens et al. 2019</xref>). A key component is the <bold>C</bold>ollection <bold>D</bold>ata <bold>F</bold>orm (CDF) which guarantees that all necessary documentation will be imported into our collection management systems, including potential restriction of destructive sampling or loaning. The latest version of the CDF as wells as other information about BGBM’s collection and data workflows can be found at <ext-link ext-link-type="uri" xlink:href="https://wiki.bgbm.org/collectionworkflows/">https://wiki.bgbm.org/collectionworkflows</ext-link>. This site has been created in late 2018 to be used by everyone to explore BGBM’s routines and examples.</p>
+        <p>All legal and formal documents, such as collecting permits, Prior Informed Consent (PIC), CITES documentation, phytosanitary documents, Material Transfer Agreement (MTA), long term agreements with partner institutions, project agreements etc., are digitized and managed using a digital asset management software (Alfresco, an open source document management system, <ext-link ext-link-type="uri" xlink:href="http://www.alfresco.com)">www.alfresco.com</ext-link>. The challenge is to link all this information unambiguously. To achieve this, all of BGBM’s collections (tissue and DNA-samples as well as living plants, seeds and diatom cultures) must have, whenever possible, a herbarium specimen that can be permanently stored and that allows a correct taxonomic identification of the material. These voucher specimens shall be digitized. Therefore, all data and all documentation can be traced back to identifiers referring to a herbarium specimen or living accession. The other collections (e. g. DNA and tissue samples) also get unique identifiers that are cross-referenced with each other.</p>
+        <p>By this process we ensure that genetic material is identified by collecting number (assigned by the collector), as well as accession number and barcodes (assigned by BGBM according to type of material such as plant tissue, DNA, sample, seed lot, plant accession number of living plants, environmental sample, culture strain or herbarium specimen), and, most importantly in this regard, the document number/identifier of the legal or formal documents issued by the national legal entity or signed by a partner institution (assigned by the documentation office at BGBM when digitized). All these identifiers or numbers must refer to the respective material and as such allow BGBM to trace back the material at all stages of processing. This is of vital importance when genetic material is exchanged with partners. If there are any restrictions or any requirements for the further processing, use or exchange of plant material this is documented and flagged in all database modules and accession numbers.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>genetic resources</kwd>
+        <kwd>collection</kwd>
+        <kwd>collection data</kwd>
+        <kwd>Access and Benefit Sharing (ABS)</kwd>
+        <kwd>workflow</kwd>
+        <kwd>documentation</kwd>
+        <kwd>identifier</kwd>
+        <kwd>Nagoya Protocol</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Eva Häffner</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5194025">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stevens</surname>
+              <given-names>A. D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Droege</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zippel</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Häffner</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Borsch</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Documentation of specimens at the Botanic Garden and Botanical Museum Berlin with regard to ABS</article-title>
+          <source>BGjournal</source>
+          <volume>16</volume>
+          <fpage>22</fpage>
+          <lpage>25</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5194057" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Overview of different types of incoming material into the BGBM and the units that handle the samples and specimens and the respective formal documentation i.e. legal documents.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37180-g001.jpg" position="float" id="oo_291907.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36153</article-id>
+      <article-id pub-id-type="publisher-id">36153</article-id>
+      <article-id pub-id-type="manuscript">11481</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS78 - Facilitating Capacity Building of Young Researchers</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Plant Letters: A citizen science project uncovering historical biodiversity data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dias da Silva</surname>
+            <given-names>Ana Margarida</given-names>
+          </name>
+          <email xlink:type="simple">anamargarida.silva@uc.pt</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1247-8346</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Girão da Cruz</surname>
+            <given-names>M. Teresa</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2625-2567</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cabral-Oliveira</surname>
+            <given-names>Joana</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Freitas</surname>
+            <given-names>Helena</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gouveia</surname>
+            <given-names>Antonio C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Science Museum of the University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>Science Museum of the University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Centre for Functional Ecology, Department of Life Sciences, University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>Centre for Functional Ecology, Department of Life Sciences, University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">UNESCO Chair in Biodiversity Safeguard for Sustainable Development, University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>UNESCO Chair in Biodiversity Safeguard for Sustainable Development, University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Botanic Garden of the University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>Botanic Garden of the University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Ana Margarida Dias da Silva (<email xlink:type="simple">anamargarida.silva@uc.pt</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36153</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/02B1BB7216A2573BAE06EAA0F1C58097">02B1BB7216A2573BAE06EAA0F1C58097</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Ana Margarida Dias da Silva, M. Teresa Girão da Cruz, Joana Cabral-Oliveira, Helena Freitas, Antonio C. Gouveia</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The XIX<sup>th</sup> century saw an enormous accumulation of biological specimens coming to Europe from all over the world, which are now part of museums, herbaria and other natural history collections.</p>
+        <p>For many centuries, the exchange of letters was the privileged means of circulating information and knowledge. At the University of Coimbra (UC), the Life Sciences Department safeguards almost 5000 letters and other documentation addressed to directors, gardeners and other collaborators of the Botanic Garden. These records of Portuguese botanical science and expeditions of plant discovery, collection and identification are held in thousands of handwritten letters, species lists and assorted notebooks, in more than five different languages.</p>
+        <p>Historical repositories such as this archive, but also the biological and museum collections and objects that it documents, imply added responsibilities to the University of Coimbra, as the information contained within the documentation, pertains not only to a country (in this case Portugal), but also to its developing historical roles and actions. As a colonial power for many centuries, the records of Portuguese scientific activity and occupation strategies of overseas territories, in Africa, South America, Asia and the Pacific, are also documented, and its valuable data (e.g., historical biological records) is of crucial importance to these now independent countries. Received correspondence is a great resource for understanding the process of knowledge creation and circulation in the plant sciences, including botany and agriculture, as well as the scientific colonial practices and their implication for the amassing of biological collections at the UC.</p>
+        <p>In order to uncover historical biodiversity data within this archival material, we have implemented <italic>Plant Letters </italic>(<underline><ext-link ext-link-type="uri" xlink:href="https://www.zooniverse.org/projects/catedraunesco/plant-letters">https://www.zooniverse.org/projects/catedraunesco/plant-letters</ext-link></underline>)<bold>, </bold>a citizen science transcription project that seeks to uncover the stories within these historical archives, the tales of travelers and scientists, on the quest of recording of the world’s diversity, mostly in the Portuguese ex-colonies in sub-Saharan Africa. Using the collaborative platform Zooniverse (<underline><ext-link ext-link-type="uri" xlink:href="https://www.zooniverse.org/">https://www.zooniverse.org</ext-link>)</underline>, users are requested to engage with the archive and transcribe mostly handwritten letters in several languages, giving dimension to our continuous efforts of promoting open and widespread access to information. The project invites everyone to transcribe handwritten or typed letters received by the Botanic Garden between about 1870 and 1928, from more than 1100 correspondents from around the world.</p>
+        <p>The main purpose of this project is to track plant species, locations and scientists in the correspondence received in the 19<sup>th</sup> and 20<sup>th</sup> centuries at the Botanic Garden of the University of Coimbra. To do so, <italic>Plant Letters</italic> seeks in users, both experts or simply curious, a source of participation in the construction of knowledge, making use of collective intelligence, in a lively exchange of information, experiences and knowledge.</p>
+        <p>In transcribing the letters, we want to retrieve information that can include:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>inquiries and doubts about plant classification and taxonomy;</p></list-item><list-item><p>historical plant species locations, distribution records and abundance;</p></list-item><list-item><p>biological material circulation (plant and seed exchanges);</p></list-item><list-item><p>track the path of herbarium and museum specimens in our collections;</p></list-item><list-item><p>unravel networks of botanical knowledge.</p></list-item></list>
+        </p>
+        <p>Transcribing the information contained in these documents will allow us to: track plant specimens as they travelled from their native countries to the scientists who named them; to determine historical plant locations in parts of sub-Saharan Africa; to better understand the scientific processes of plant discovery, taxonomy and botany; and to collect information that gives context to biological specimens in museum objects and other natural history collections. All of these data, valuable to the present and future conservation of tropical flora, will be made available, bearing in mind the open science principles.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>historical biological records</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>herbarium</kwd>
+        <kwd>historical archives</kwd>
+        <kwd>Botany Archive of the University of Coimbra (Portugal)</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Ana Margarida Dias da Silva</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 - SS78 - Facilitating Capacity Building of Young Researchers</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Ana Margarida Dias da Silva was funded by Fundação para a Ciência e a Tecnologia, fellowship SFRH/BD/132115/2017. M. Teresa Girão Da Cruz was funded by Fundação para a Ciência e a Tecnologia and the Portuguese Research Infrastructure of Scientific Collections (PRISC), POCI-01-0145FEDER-022168. The Centre for Functional Ecology was funded by Fundação para a Ciência e Tecnologia, UID/BIA/04004/2019.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Ana Margarida Dias da Silva was funded by Fundação para a Ciência e a Tecnologia, fellowship SFRH/BD/132115/2017. M. Teresa Girão Da Cruz was funded by Fundação para a Ciência e a Tecnologia and the Portuguese Research Infrastructure of Scientific Collections (PRISC), POCI-01-0145FEDER-022168. The Centre for Functional Ecology was funded by Fundação para a Ciência e Tecnologia, UID/BIA/04004/2019.</p>
+    </sec>
+  </back>
+</article>

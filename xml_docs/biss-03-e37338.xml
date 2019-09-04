@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37338</article-id>
+      <article-id pub-id-type="publisher-id">37338</article-id>
+      <article-id pub-id-type="manuscript">11869</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST15 - Molecular biodiversity evidence in time and space: data linkages and standards</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mainstreaming Molecular Biodiversity: A call for a unified and interoperable framework</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Buttigieg</surname>
+            <given-names>Pier Luigi</given-names>
+          </name>
+          <email xlink:type="simple">pbuttigi@mpi-bremen.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4366-3088</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Lanfear</surname>
+            <given-names>Jerry</given-names>
+          </name>
+          <email xlink:type="simple">jerry.lanfear@elixir-europe.org</email>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Glöckner</surname>
+            <given-names>Frank Oliver</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8528-9023</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Macklin</surname>
+            <given-names>James A</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9508-1349</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung, Bremerhaven, Germany</addr-line>
+        <institution>Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung</institution>
+        <addr-line content-type="city">Bremerhaven</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Alfred-Wegener-Institut für Polar und Meeresforschung, Bremen, Germany</addr-line>
+        <institution>Alfred-Wegener-Institut für Polar und Meeresforschung</institution>
+        <addr-line content-type="city">Bremen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">ELIXIR Europe, Cambridgeshire, United Kingdom</addr-line>
+        <institution>ELIXIR Europe</institution>
+        <addr-line content-type="city">Cambridgeshire</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Agriculture and Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture and Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Pier Luigi Buttigieg (<email xlink:type="simple">pbuttigi@mpi-bremen.de</email>), Jerry Lanfear (<email xlink:type="simple">jerry.lanfear@elixir-europe.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37338</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/96410D43E6B152AE98341890D603DD45">96410D43E6B152AE98341890D603DD45</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Over the past 20 years, immense progress has been made in enhancing the effectiveness, affordability, and deployability of molecular methods for biodiversity assessment and monitoring. From the micro- to macroscopic scale, methods such as amplicon sequencing of phylogenetic marker genes, metagenomics, and metatranscriptomics have greatly impacted biology and ecology, and are steadily being integrated into national and international biodiversity policy. Over the next decade, technologies such as miniaturised and autonomous DNA sequencing platforms will amplify this momentum, ushering in an unprecedented volume of deeply minable biodiversity information. While production-grade resources exist to standardise, archive, and exchange raw molecular data (e.g. the resources of the <ext-link ext-link-type="uri" xlink:href="http://www.insdc.org/">International Nucleotide Sequence Database Collaboration (INSDC)</ext-link> for DNA and RNA sequences), there are still no equivalent frameworks for biodiversity information derived from molecular methods. Research infrastructures in both the biodiversity and molecular biology domains must fill this gap with great urgency to channel molecular advances into efforts to understand and sustain Earth's imperilled biosphere. </p>
+        <p>This session seeks to accelerate the implementation of global standards to link molecular biodiversity data to taxonomy-based systems. Only with these in place can we realise a robust, distributed, yet fully interoperating, network of infrastructures, projects, and researchers addressing molecular biodiversity. This introductory series of flash talks will present the rationale and goals of the session, alongside a joint vision from representatives of several convening stakeholders. A contribution from <ext-link ext-link-type="uri" xlink:href="https://elixir-europe.org">ELIXIR</ext-link>, an intergovernmental organisation of distributed infrastructures for biological data, will demonstrate the high readiness of biological data resources such as the <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/ena">European Nucleotide Archive (ENA)</ext-link> to mobilise molecular data along new standards. An intervention from the <ext-link ext-link-type="uri" xlink:href="https://www.arb-silva.de/">SILVA rRNA database project</ext-link> - itself an ELIXIR Core Data Resource - will note the actionability of interfacing molecular-based phylogenies with Linnaean systems hosted by partners such as the <ext-link ext-link-type="uri" xlink:href="http://gbif.org/">Global Biodiversity Information Facility (GBIF)</ext-link>. Two more contributions will emphasise the essential role (and thus critical need) of molecular biodiversity standards in bridging research and operations. The first will focus on the nation-scale <ext-link ext-link-type="uri" xlink:href="http://grdi-irdg.collaboration.gc.ca/eng/projects/priority.html">Metagenomics-Based Ecosystem Biomonitoring (EcoBiomics) project</ext-link> in Canada, which is using 'omic approaches to better assess, monitor, and remediate microbial and invertebrate biodiversity in soil and aquatic ecosystems, thus sustaining ecosystem resilience and service provision upon which society and economies depend.  The second will underscore the need for international and stable standards to advance the long-term mission of the <ext-link ext-link-type="uri" xlink:href="https://glomicon.org">Global Omics Observatory Network (GLOMICON)</ext-link>, and its contribution to the <ext-link ext-link-type="uri" xlink:href="http://www.goosocean.org/">Global Ocean Observing System</ext-link>'s <ext-link ext-link-type="uri" xlink:href="http://www.goosocean.org/eov">Essential Ocean Variables</ext-link> (GOOS EOVs) under the Intergovernmental Oceanographic Commission of the United Nations Educational, Scientific, and Cultural Organization (IOC-UNESCO). Collectively, these contributions will make the case for a concerted effort to expedite the principled creation of operational information standards in molecular biodiversity. We invite all stakeholders to join us in implementing these standards in the coming years.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>omics</kwd>
+        <kwd>genomics</kwd>
+        <kwd>taxonomic marker genes</kwd>
+        <kwd>infrastructure</kwd>
+        <kwd>molecular</kwd>
+        <kwd>microbes</kwd>
+        <kwd>eDNA</kwd>
+        <kwd>biodiviersity</kwd>
+        <kwd>infrastructure</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jerry Lanfear, Pier Luigi Buttigieg, James Macklin, Frank Oliver Glöckner</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>None</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>None</p>
+    </sec>
+  </back>
+</article>

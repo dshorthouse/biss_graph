@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38273</article-id>
+      <article-id pub-id-type="publisher-id">38273</article-id>
+      <article-id pub-id-type="manuscript">11190</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Ending Software Boom and Bust: Lessons learnt from Scratchpads and proposals for building sustainable virtual research environments for the biodiversity research community</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Scott</surname>
+            <given-names>Ben</given-names>
+          </name>
+          <email xlink:type="simple">b.scott@nhm.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5590-7174</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kiddle</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vincent</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4012-0571</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Smith</surname>
+            <given-names>Vincent Stuart</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5297-7452</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">The Natural History Museum, London, United Kingdom</addr-line>
+        <institution>The Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Ben Scott (<email xlink:type="simple">b.scott@nhm.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38273</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/EA8B79AE0995591290FC9B1D8038E4CD">EA8B79AE0995591290FC9B1D8038E4CD</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Ben Scott, Paul Kiddle, Sarah Vincent, Vincent Stuart Smith</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Scratchpads launched in 2007 and became an extremely popular resource adopted for a variety of communities. Primarily, Scratchpads are used to manage and publish biodiversity data, but many sites were organised around projects, societies and regions. Demand for Scratchpads peeked at requests for more than 80 new sites over a 3 month period in 2014. Today we have over 1000 Scratchpad sites.</p>
+        <p>This has not been a pain-free journey. In 2015 the grants funding Scratchpad support and development came to an end, and whilst the Natural History Museum, London, provided some institutional support, this was alongside several competing initiatives. For a period of nearly two years, the Scratchpads had no dedicated developers. The Scratchpads suffered from this neglect, bugs remained unfixed and the platform became increasingly unstable. This situation has now been rectified, in 2017 the Informatics Group expanded, enabling us to provide a dedicated resource to the Scratchpads again.</p>
+        <p>This has been a challenging but valuable learning experience - and one that many Virtual Research Environments (VREs) in our community have, or will, experience. Current funding models encourage a boom and bust development cycle, described by <xref ref-type="bibr" rid="B5189358">Hine (2008)</xref> as the "dance of the initiatives," as projects constantly need to re-invent themselves in order to receive new external funding. We need to move beyond this, to start working collectively to develop a common roadmap for these systems, so we can begin to mutually benefit from each others development activities. Building on lessons learnt from the Scratchpads, we highlight a draft set of principles that may provide a framework for such a collaboration. While it is unrealistic to expect existing projects at different stages of maturity, and supporting very different use cases, to re-write their codebase in order to facilitate collaboration, we propose a microservices framework that would allow these related systems to converge on the delivery of a common set of services, provided by many current VRE's. This convergence, coupled with the development of a common and mutually agreed roadmap for these systems, has the potential to build a more sustainable future for VRE user and developer communities, as these systems evolve to support new use cases and improve existing functionality.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>virtual research environment</kwd>
+        <kwd>Scratchpads</kwd>
+        <kwd>microservices</kwd>
+        <kwd>open science</kwd>
+        <kwd>standards</kwd>
+        <kwd>infrastructure</kwd>
+        <kwd>open data</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Ben Scott</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Scratchpads are presently supported by the Informatics Team at the Natural History Museum, London. Aspects of this work was part funded from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 689909.</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p><ext-link ext-link-type="uri" xlink:href="http://www.nhm.ac.uk/">Natural History Museum</ext-link>, London.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Scratchpads are presently supported by the Informatics Team at the Natural History Museum, London. Aspects of this work was part funded from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 689909.</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p><ext-link ext-link-type="uri" xlink:href="http://www.nhm.ac.uk/">Natural History Museum</ext-link>, London.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5189358">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hine</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <source>Systematics as cyberscience: Computers, Change, and Continuity in Science.</source>
+          <publisher-name>The MIT Press</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <size units="page">308</size>
+          <isbn>9780262083713</isbn>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

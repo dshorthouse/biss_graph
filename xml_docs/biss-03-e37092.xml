@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37092</article-id>
+      <article-id pub-id-type="publisher-id">37092</article-id>
+      <article-id pub-id-type="manuscript">11363</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Digitisation at Three UK Herbaria Contributes Towards Food Security and Sustainable Timber Use</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Green</surname>
+            <given-names>Laura</given-names>
+          </name>
+          <email xlink:type="simple">l.green@kew.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0774-9498</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Weech</surname>
+            <given-names>Marie-Hélène</given-names>
+          </name>
+          <email xlink:type="simple">m.weech@kew.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Drinkwater</surname>
+            <given-names>Robyn</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1820-9422</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wajer</surname>
+            <given-names>Jacek</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens Kew, Richmond, United Kingdom</addr-line>
+        <institution>Royal Botanic Gardens Kew</institution>
+        <addr-line content-type="city">Richmond</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Royal Botanic Garden Edinburgh, Edinburgh, United Kingdom</addr-line>
+        <institution>Royal Botanic Garden Edinburgh</institution>
+        <addr-line content-type="city">Edinburgh</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Laura Green (<email xlink:type="simple">l.green@kew.org</email>), Marie-Hélène Weech (<email xlink:type="simple">m.weech@kew.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37092</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/30D902045E29551E837E1B9231C866A0">30D902045E29551E837E1B9231C866A0</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Laura Green, Marie-Hélène Weech, Robyn Drinkwater, Jacek Wajer</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The digitisation of herbarium collections has shown to provide a growing resource in conservation science. Mobilising the data on portals such as GBIF allows researchers to access key taxonomic, habitat and geographical data that would otherwise be unavailable unless institutions are physically visited. These data are used notably in conservation assessments, distribution studies and publication of new species (<xref ref-type="bibr" rid="B5212388">Canteiro et al. 2019</xref>).</p>
+        <p>The herbarium specimens held in <ext-link ext-link-type="uri" xlink:href="https://www.kew.org/">Royal Botanic Gardens Kew</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.nhm.ac.uk/">Natural History Museum, London</ext-link>, and the <ext-link ext-link-type="uri" xlink:href="https://www.rbge.org.uk/">Royal Botanic Garden Edinburgh</ext-link> are an unparalleled resource, estimated to hold representatives of around 85% of known plant species. By working collectively for the first time on a non-type material digitisation project, the three institutions collaborated to generate data for the subtribe Phaseolinae and rosewoods totalling 37,000 legume specimens.</p>
+        <p>This pilot project was made possible through <ext-link ext-link-type="uri" xlink:href="https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs">Department for Environment Food &amp; Rural Affairs</ext-link> (DEFRA)-allocated, <ext-link ext-link-type="uri" xlink:href="https://www.gov.uk/government/collections/official-development-assistance-oda--2">Official Development Assistance</ext-link> (ODA) funding. This aid money is distributed by the UK government in its “global efforts to defeat poverty, tackle instability and create prosperity in developing countries”. This project focused on two case-studies:</p>
+        <p><bold>Study i.</bold> Supporting development of dry beans as a sustainable and resilient crop. Beans from the subtribe Phaseolinae, including cowpeas, lablab and wild beans, are extremely tolerant of poor-quality soils and drought. As a consequence they are particularly suitable for the low-input agricultural production systems. An estimated 14.5 million hectares of land is used for planting of cowpea each year with around 80% of that in Development Assistance Committee countries in sub Saharan Africa.</p>
+        <p><bold>Study ii.</bold> Aiding conservation and sustainable use of rosewoods and padauk (<italic>Dalbergia</italic> L.f. and <italic>Pterocarpus </italic>Jacq.). <italic>Dalbergia </italic>is distributed throughout tropical Asia, Africa and the Americas with many species being regionally endemic. Species also vary in habit from shrubs and trees to robust lianas. <italic>Pterocarpus</italic> is also pantropically distributed in a wide variety of habitats. However, suitable habitat across the natural range of these genera is now limited for many species due to a range of threats, namely deforestation, forest conversion for agriculture/human development, and logging.</p>
+        <p>The timber from many species of <italic>Dalbergia</italic> and <italic>Pterocarpus</italic> has long been prized for its high-quality wood used for construction, fine furniture, cabinet work, marquetry and inlay, ethnic carvings, pianos, guitars and other musical instruments. All <italic>Dalbergia</italic> and most of the timber species of <italic>Pterocarpus</italic> are now listed on <ext-link ext-link-type="uri" xlink:href="https://www.cites.org/">the Convention on International Trade in Endangered Species of Wild Fauna and Flora</ext-link> (CITES)  Appendix II and the Brazilian <italic>D. nigra</italic> is listed on Appendix I. There is a huge illegal trade in these genera and serial depletion across the globe is a real and substantial risk to their survival (<xref ref-type="bibr" rid="B5181996">Winfield et al. 2016</xref>).</p>
+        <p>This project used novel high-throughput methodologies and acted as a pilot study for future collaborative mass digitisation efforts. Specimens were taken from the collections, barcoded and minimal data fields captured, before high resolution images were created and the specimens returned. A subset of these was further subjected to full or partial label transcription via the use of the Atlas of Living Australia's <ext-link ext-link-type="uri" xlink:href="https://volunteer.ala.org.au/">DigiVol</ext-link> crowdsourcing platform or via in-house data capture.</p>
+        <p>The resulting datasets will be made available via GBIF and partner sites and will be used to perform gap analyses on the collections across the institutions. We will examine the benefits of combined institutional data for these groups, assess how many species are represented in total and the geographic coverage of these collections. Use of the data will be measured by the number of downloads from GBIF and observing in-house use cases. Two research projects have just begun within Kew, using the data gathered for <italic>Pterocarpus </italic>and <italic>Lablab </italic>Adans., georeferencing for which is already underway and will contribute to conservation assessments and other measurable outputs. A data paper is planned which will also assist with tracking future use of the data set and help demonstrate the impact of the digitisation.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>digitisation</kwd>
+        <kwd>herbaria</kwd>
+        <kwd>data</kwd>
+        <kwd>collections</kwd>
+        <kwd>Pterocarpus</kwd>
+        <kwd>Dalbergia</kwd>
+        <kwd>Phaseolinae</kwd>
+        <kwd>species</kwd>
+        <kwd>specimens</kwd>
+        <kwd>rosewoods</kwd>
+        <kwd>beans</kwd>
+        <kwd>timber</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Laura Green, Marie-Hélène Weech</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5212388">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Canteiro</surname>
+              <given-names>Cátia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barcelos</surname>
+              <given-names>Laísa</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Filardi</surname>
+              <given-names>Fabiana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Forzza</surname>
+              <given-names>Rafaela</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Green</surname>
+              <given-names>Laura</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lanna</surname>
+              <given-names>João</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leitman</surname>
+              <given-names>Paula</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Milliken</surname>
+              <given-names>William</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pires Morim</surname>
+              <given-names>Marli</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Patmore</surname>
+              <given-names>Kristina</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Phillips</surname>
+              <given-names>Sarah</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Walker</surname>
+              <given-names>Barnaby</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weech</surname>
+              <given-names>Marie-Hélène</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nic Lughadha</surname>
+              <given-names>Eimear</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title> Enhancement of Conservation Knowledge Through Increased Access to Botanical Information</article-title>
+          <source>Conservation Biology</source>
+          <pub-id pub-id-type="doi">10.1111/cobi.13291</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5181996">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Winfield</surname>
+              <given-names>Karen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scott</surname>
+              <given-names>Michelle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grayson</surname>
+              <given-names>Cassandra</given-names>
+            </name>
+          </person-group>
+          <article-title>Global Status of Dalbergia and Pterocarpus Rosewood Producing Species in Trade</article-title>
+          <uri>https://www.illegal-logging.info/sites/files/chlogging/161101%20-%20Cop17%20Inf%20Doc%20-%20Dalbergia%20and%20Pterocarpus%20Final%20V3.pdf</uri>
+          <date-in-citation content-type="access-date">2019-04-04T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

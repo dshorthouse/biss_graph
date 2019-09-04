@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35866</article-id>
+      <article-id pub-id-type="publisher-id">35866</article-id>
+      <article-id pub-id-type="manuscript">11193</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST08 - More than Names : Identifying and Crediting People in Biodiversity Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Integrating Collector and Author Roles Across Specimen and Publication Datasets</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Nicolson</surname>
+            <given-names>Nicky</given-names>
+          </name>
+          <email xlink:type="simple">nicky.nicolson@brunel.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3700-4884</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Paton</surname>
+            <given-names>Alan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Phillips</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tucker</surname>
+            <given-names>Allan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens, Kew, Richmond, United Kingdom</addr-line>
+        <institution>Royal Botanic Gardens, Kew</institution>
+        <addr-line content-type="city">Richmond</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Department of Computer Science, Brunel University, London, United Kingdom</addr-line>
+        <institution>Department of Computer Science, Brunel University</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nicky Nicolson (<email xlink:type="simple"> nicky.nicolson@brunel.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35866</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/47CE7181023150B6B49E6A29308DA991">47CE7181023150B6B49E6A29308DA991</uri>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nicky Nicolson, Alan Paton, Sarah Phillips, Allan Tucker</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>This work builds on the outputs of a collector data-mining exercise applied to GBIF mobilised herbarium specimen metadata, which uses unsupervised learning (clustering) to identify collectors from minimal metadata associated with field collected specimens (the DarwinCore terms <italic>recordedBy</italic>, <italic>eventDate</italic> and <italic>recordNumber</italic>). Here, we outline methods to integrate these data-mined collector entities (large scale dataset, aggregated from multiple sources, created programatically) with a dataset of author entities from the International Plant Names Index (smaller scale, single source dataset, created via editorial management). The integration process asserts a generic "scientist" entity with activities in different stages of the species description process: collecting and name publication. We present techniques to investigate specialisations including content - taxa of study - and activity stages: examining if individuals focus on collecting and/or name publication. Finally, we discuss generalisations of this initially herbarium-focussed data mining and record linkage process to enable applications in a wider context, particularly in zoological datasets.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nicky Nicolson</p>
+      </sec>
+    </notes>
+  </front>
+</article>

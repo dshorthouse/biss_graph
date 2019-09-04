@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38435</article-id>
+      <article-id pub-id-type="publisher-id">38435</article-id>
+      <article-id pub-id-type="manuscript">11466</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST92 - Advancing the Quality of Diverse Citizen Science Data from Observations to Atlasing Projects</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Information Content of Biodiversity Datasets is Affected by Patterns of Citizen Science Participation both Between and Within Projects</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Pocock</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <email xlink:type="simple">michael.pocock@ceh.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4375-0445</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>August</surname>
+            <given-names>Tom</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1116-3385</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fox</surname>
+            <given-names>Richard</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Logie</surname>
+            <given-names>Mark</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Centre for Ecology &amp; Hydrology, Wallingford, United Kingdom</addr-line>
+        <institution>Centre for Ecology &amp; Hydrology</institution>
+        <addr-line content-type="city">Wallingford</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Butterfly Conservation UK, London, United Kingdom</addr-line>
+        <institution>Butterfly Conservation UK</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Michael Pocock (<email xlink:type="simple">michael.pocock@ceh.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38435</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/63CD987D6FE5516093244E03CAA2914F">63CD987D6FE5516093244E03CAA2914F</uri>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Michael Pocock, Tom August, Richard Fox, Mark Logie</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Citizen science is a powerful way to undertake monitoring of biodiversity, both for detecting rare events (e.g. invasive species, animal and plant health issues or presence of rare species) and assessing trends. However, in order to use citizen science effectively we need to understand better the patterns of people’s participation in projects considering</p>
+        <p>
+          <list list-type="order"><list-item><p>variation in participation between citizen science approaches and</p></list-item><list-item><p>individual variation in participation within a project.</p></list-item></list>
+        </p>
+        <p>Here, we particularly focus on the information content of the data collected through citizen science (although we recognise that citizen science has many other benefits, in addition to data collection).</p>
+        <p>Firstly, we assessed participation in five projects for biodiversity monitoring in the UK, from mass participation to monitoring by volunteer experts, representing up to two thousand people per activity per year. We quantified the patterns of participation (in terms of retention of participants, spatial patterns of participation, and unevenness of contributions per participant - as in the 90:10 rule). We found that the data from mass participation projects were more strongly spatially correlated with human population density and retention of individuals was lower compared to projects targeted on those with existing interest in the subject.</p>
+        <p>Secondly, we quantified the recording behaviour of recorders in a butterfly citizen science project. We developed this with four thousand users of a smartphone app designed for recording sightings of butterflies in the UK. The majority of these users were active for less than 10 days, a feature common to many citizen science projects. The users who engaged for longer produced most of the records for the project. We characterised their recording behaviour using 11 metrics that describe the variation in temporal and spatial recording behaviour as well as the data they recorded. Results showed that citizen scientists in this project fall on a continuum along 4 main axes describing their behaviour. We then used a 20-year butterfly dataset to assess the contribution of different types of recorders to the overall estimate of biodiversity trends and their precision. Overall, variation in participation, both between projects and between individuals within projects, contributes to variation in the information content (and hence the usefulness) of citizen science datasets. We show how different approaches can provide data to meet different needs for data users and how this understanding can be used to improve analyses of these data, allowing us to better design citizen science activities in the future.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>citizen science</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>information content</kwd>
+        <kwd>participants</kwd>
+        <kwd>motivation</kwd>
+        <kwd>behaviour</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Michael Pocock</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

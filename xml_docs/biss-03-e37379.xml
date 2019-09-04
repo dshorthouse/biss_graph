@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37379</article-id>
+      <article-id pub-id-type="publisher-id">37379</article-id>
+      <article-id pub-id-type="manuscript">11639</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>freshwaterecology.info – An Online Database for European Freshwater Organisms, their Biological Traits and Ecological Preferences</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Schmidt-Kloiber</surname>
+            <given-names>Astrid</given-names>
+          </name>
+          <email xlink:type="simple">astrid.schmidt-kloiber@boku.ac.at</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8839-5913</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hering</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">BOKU, University of Natural Resources and Life Sciences, Vienna, Austria</addr-line>
+        <institution>BOKU, University of Natural Resources and Life Sciences</institution>
+        <addr-line content-type="city">Vienna</addr-line>
+        <country>Austria</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Duisburg-Essen, Essen, Germany</addr-line>
+        <institution>University of Duisburg-Essen</institution>
+        <addr-line content-type="city">Essen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Astrid Schmidt-Kloiber (<email xlink:type="simple">astrid.schmidt-kloiber@boku.ac.at</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37379</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/29829FF132D15EE8AC266EA047678ACA">29829FF132D15EE8AC266EA047678ACA</uri>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Astrid Schmidt-Kloiber, Daniel Hering</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Species’ biological traits and ecological preferences are important components to better understand distribution patterns, to help assessing and evaluating the status of freshwater ecosystems and to support biodiversity conservation. In Europe, the <ext-link ext-link-type="uri" xlink:href="http://ec.europa.eu/environment/water/water-framework/index_en.html">Water Framework Directive</ext-link> has been the main driver for the development of ecological assessment systems in recent years, which often use biological traits and ecological preferences of species as source for bioindication. Comprehensive databases compiling such species traits have a longer tradition in the terrestrial realm, but for freshwater organisms, such a database was missing until the establishment of <ext-link ext-link-type="uri" xlink:href="https://www.freshwaterecology.info">freshwaterecology.info</ext-link> (<xref ref-type="bibr" rid="B5191344">Schmidt-Kloiber and Hering 2015</xref>).</p>
+        <p>The freshwaterecology.info online tool integrates various data sources into a comprehensive database of large-scale distribution patterns, biological traits and ecological preferences of freshwater species, including phytoplankton, diatoms, macrophytes, macro-invertebrates and fishes. The database hosts more than 21,000 European freshwater species/species-groups  and information about their specific ecology, and it has more than 1,700 registered users. Based on the availability of funding, the database is constantly being expanded and amended, through experts' contributions, evaluation of recent publications or data analyses.</p>
+        <p>Here we present the database development, its main components as well as some usage examples.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>fish</kwd>
+        <kwd>macro-invertebrates</kwd>
+        <kwd>macrophytes</kwd>
+        <kwd>diatoms</kwd>
+        <kwd>phytoplankton</kwd>
+        <kwd>indicators</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Astrid Schmidt-Kloiber</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5191344">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Schmidt-Kloiber</surname>
+              <given-names>Astrid</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hering</surname>
+              <given-names>Daniel</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>www.freshwaterecology.info – An online tool that unifies, standardises and codifies more than 20,000 European freshwater organisms and their ecological preferences</article-title>
+          <source>Ecological Indicators</source>
+          <volume>53</volume>
+          <fpage>271</fpage>
+          <lpage>282</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ecolind.2015.02.007</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

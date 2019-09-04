@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37375</article-id>
+      <article-id pub-id-type="publisher-id">37375</article-id>
+      <article-id pub-id-type="manuscript">11435</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Are Software Standards possible for Biodiversity, and What Would They Mean to the Fractured Landscape of Biodiversity Virtual Research Environments?</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Yoder</surname>
+            <given-names>Matthew</given-names>
+          </name>
+          <email xlink:type="simple">diapriid@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5640-5491</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Illinois, Champaign, United States of America</addr-line>
+        <institution>University of Illinois</institution>
+        <addr-line content-type="city">Champaign</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Matthew Yoder (<email xlink:type="simple">diapriid@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37375</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/AAAFCD4D4EDE564E877D69140B18D3D2">AAAFCD4D4EDE564E877D69140B18D3D2</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Matthew Yoder</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>On a global scale, a rich biodiversity informatics infrastructure exists at many different levels, from standards, to software libraries, to national and global data-warehouses. All this infrastructure, however, only truly serves science if someone is using it. A perfectly written standard is a waste of time and energy if it is never applied, and a multi-million dollar software package is a perhaps a poor investment if it only interfaces with a handful of minds. The development of virtual research environments (VRE) are particularly challenging and prone to pitfalls, as at their heart, they are integrative across diverse data-types, and as such require large investments of time and effort to build and maintain.</p>
+        <p>When the community "solves" one aspect of a VRE, this solution is codified as a standard. To date, within the biodiversity informatics community, these standards almost exclusively address data format and, and to a lesser extent meaning. This makes sense, as a common language is a necessary foundation. However, decades into standards development, we have struggled to get VREs into the hands of researchers. I argue that (among other things) this suggests that the biodiversity informatics community might benefit from a shift of emphasis, from research on data standards to research on software-design standards.</p>
+        <p>I explore these issues from the perspective of a particular class of VRE, digital workbenches for taxonomists. I pick examples from existing and now legacy VREs to highlight the hard work that needs to be done to overcome their pitfalls. I demonstrate that the most impactful work on VREs has come from the ground up, as communities of researchers form around a nucleus of a biologist's software. This may have profound consequences for the opposite type of initiatives, i.e. those that plan from the top down, such as the <ext-link ext-link-type="uri" xlink:href="https://www.dissco.eu/">Distributed System for Scientific Collections, </ext-link><ext-link ext-link-type="uri" xlink:href="https://www.dissco.eu/">DiSSCo</ext-link>.</p>
+        <p>Finally, we highlight what one initiative, <ext-link ext-link-type="uri" xlink:href="http://taxonworks.org">TaxonWorks</ext-link>, is doing in this field. As an ambitious project, with long-term funding, it has much to gain, and perhaps ultimately offer, if the questions on this topic are answered to the benefit of all.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>VRE</kwd>
+        <kwd>software</kwd>
+        <kwd>open-source</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>taxonomist</kwd>
+        <kwd>standards</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Matthew Yoder</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

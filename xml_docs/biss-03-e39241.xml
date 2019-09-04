@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.39241</article-id>
+      <article-id pub-id-type="publisher-id">39241</article-id>
+      <article-id pub-id-type="manuscript">11509</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Smart Insect Cameras</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hogeweg</surname>
+            <given-names>Laurens</given-names>
+          </name>
+          <email xlink:type="simple">laurens.hogeweg@naturalis.nl</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zeegers</surname>
+            <given-names>Theo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Katramados</surname>
+            <given-names>Ioannis</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jongejans</surname>
+            <given-names>Eelke</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">COSMONiO Imaging BV, Groningen, Netherlands</addr-line>
+        <institution>COSMONiO Imaging BV</institution>
+        <addr-line content-type="city">Groningen</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">EIS Kenniscentrum Insecten, Leiden, Netherlands</addr-line>
+        <institution>EIS Kenniscentrum Insecten</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Radboud University, Nijmegen, Netherlands</addr-line>
+        <institution>Radboud University</institution>
+        <addr-line content-type="city">Nijmegen</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Laurens Hogeweg (<email xlink:type="simple">laurens.hogeweg@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e39241</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0EBC938A329D516CBC05DBBC5B8BD0A6">0EBC938A329D516CBC05DBBC5B8BD0A6</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>08</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Laurens Hogeweg, Theo Zeegers, Ioannis Katramados, Eelke Jongejans</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Recent studies have shown a worrying decline in the quantity and diversity of insects at a number of locations in Europe (<xref ref-type="bibr" rid="B5188157">Hallmann et al. 2017</xref>) and elsewhere (<xref ref-type="bibr" rid="B5188175">Lister and Garcia 2018</xref>). Although the downward trend that these studies show is clear, they are limited to certain insect groups and geographical locations. Most available studies (see overview in <xref ref-type="bibr" rid="B5188185">Sánchez-Bayo and Wyckhuys 2019</xref>) were performed in nature reserves, leaving rural and urban areas largely understudied. Most studies are based on the long-term collaborative efforts of entomologists and volunteers performing labor-intensive repeat measurements, inherently limiting the number of locations that can be monitored.</p>
+        <p>We propose a monitoring network for insects in the Netherlands, consisting of a large number of <italic>smart</italic> insect cameras spread across nature, rural, and urban areas. The aim of the network is to provide a labor-extensive continuous monitoring of different insect groups. In addition, we aimed to develop the cameras at a relatively cheap price point so that cameras can be installed at a large number of locations and encourage participation by citizen science enthusiasts. The cameras are made smart with image processing, consisting of image enhancement, insect detection and species identification being performed, using deep learning based algorithms. The cameras take pictures of a screen, measuring ca. 30×40 cm, every 10 seconds, capturing insects that have landed on the screen (Fig. <xref ref-type="fig" rid="F5206559">1</xref>). Several screen setups were evaluated. Vertical screens were used to attract flying insects. Different screen colors and lighting at night, to attract night flying insects such as moths, were used. In addition two horizontal screen orientations were used (1) to emulate pan traps to attract several pollinator species (bees and hoverflies) and (2) to capture ground-based insects and arthropods such as beetles and spiders.</p>
+        <p>Time sequences of images were analyzed semi-automatically, in the following way. First, single insects are outlined and cropped using boxes at every captured image. Then the cropped single insects in every image were preliminarily identified, using a previously developed deep-learning-based automatic species identification software, Nature Identification API (<ext-link ext-link-type="uri" xlink:href="https://identify.biodiversityanalysis.nl/"><underline>https://identify.biodiversityanalysis.nl</underline></ext-link>). In the next step, single insects were linked between consecutive images using a tracking algorithm that uses screen position and the preliminary identifications. This step yields for every individual insect a linked series of outlines and preliminary identifications. The preliminary identifications for individual insects can differ between multiple captured images and were therefore combined into one identification using a fusing algorithm. The result of the algorithm is a series of tracks of individual insects with species identifications, which can be subsequently translated into an estimate of the counts of insects per species or species complexes.</p>
+        <p>Here we show the first set of results acquired during the spring and summer of 2019. We will discuss practical experiences with setting up cameras in the field, including the effectiveness of the different set-ups. We will also show the effectiveness of using automatic species identification in the type of images that were acquired (see attached figure) and discuss to what extent individual species can be identified reliably. Finally, we will discuss the ecological information that can be extracted from the smart insect cameras.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>machine learning</kwd>
+        <kwd>camera traps</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>insects</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Laurens Hogeweg</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5188157">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hallmann</surname>
+              <given-names>Caspar A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sorg</surname>
+              <given-names>Martin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jongejans</surname>
+              <given-names>Eelke</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Siepel</surname>
+              <given-names>Henk</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hofland</surname>
+              <given-names>Nick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schwan</surname>
+              <given-names>Heinz</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stenmans</surname>
+              <given-names>Werner</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sumser</surname>
+              <given-names>Hubert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hörren</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goulson</surname>
+              <given-names>Dave</given-names>
+            </name>
+            <name name-style="western">
+              <surname>de Kroon</surname>
+              <given-names>Hans</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>More than 75 percent decline over 27 years in total flying insect biomass in protected areas.</article-title>
+          <source>PLOS One</source>
+          <volume>12</volume>
+          <issue>10</issue>
+          <fpage>e0185809</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0185809</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5188175">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Lister</surname>
+              <given-names>Bradford C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Garcia</surname>
+              <given-names>Andres</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Climate-driven declines in arthropod abundance restructure a rainforest food web</article-title>
+          <source>Proceedings of the National Academy of Sciences</source>
+          <volume>115</volume>
+          <issue>44</issue>
+          <fpage>E10397</fpage>
+          <lpage>E10406</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1722477115</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5188185">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sánchez-Bayo</surname>
+              <given-names>Francisco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wyckhuys</surname>
+              <given-names>K. A. G.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Worldwide decline of the entomofauna: A review of its drivers</article-title>
+          <source>Biological Conservation</source>
+          <volume>232</volume>
+          <fpage>8</fpage>
+          <lpage>27</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2019.01.020</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5206559" position="float" orientation="portrait">
+      <object-id content-type="arpha">205F7F9840AD5B1A8D8E3F37CFD3BF16</object-id>
+      <label>Figure 1.</label>
+      <caption>
+        <p>Example of image from smart insect camera.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e39241-g001.jpg" position="float" id="oo_296614.jpg" orientation="portrait" xlink:type="simple">
+        <uri content-type="original_file">https://binary.pensoft.net/fig/296614</uri>
+      </graphic>
+    </fig>
+  </floats-group>
+</article>

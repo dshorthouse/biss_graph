@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37080</article-id>
+      <article-id pub-id-type="publisher-id">37080</article-id>
+      <article-id pub-id-type="manuscript">11092</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Zenodo, an Archive and Publishing Repository: A tale of two herbarium specimen pilot projects</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dillen</surname>
+            <given-names>Mathias</given-names>
+          </name>
+          <email xlink:type="simple">mathias.dillen@plantentuinmeise.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3973-1252</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Groom</surname>
+            <given-names>Quentin</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0596-5376</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Agosti</surname>
+            <given-names>Donat</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9286-1200</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nielsen</surname>
+            <given-names>Lars Holm</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">www.plazi.org, Bern, Switzerland</addr-line>
+        <institution>www.plazi.org</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">CERN, Meyrin, Switzerland</addr-line>
+        <institution>CERN</institution>
+        <addr-line content-type="city">Meyrin</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mathias Dillen (<email xlink:type="simple">mathias.dillen@plantentuinmeise.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37080</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5C6B37CBC88452279FCB1D0F5BD5F862">5C6B37CBC88452279FCB1D0F5BD5F862</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mathias Dillen, Quentin Groom, Donat Agosti, Lars Holm Nielsen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Zenodo (<ext-link ext-link-type="uri" xlink:href="https://zenodo.org">https://zenodo.org</ext-link>) is an open-access repository operated by CERN (European Organization for Nuclear Research), which provides researchers with an easy and stable platform to archive and publish their data and other output, such as software tools, manuals and project reports. In the context of the <ext-link ext-link-type="uri" xlink:href="https://www.icedig.eu/">ICEDIG</ext-link> (Innovation and Consolidation for Large scale Digitisation of Natural Heritage) project, Zenodo was investigated for its usability as a platform where digitized images of collection specimens could be archived and published. In a production digitization pipeline, we foresee the automated archiving of daily image production. If Zenodo could be used for this purpose, such a process would also immediately mean that data and images are published FAIR-ly (Findable, Accessible, Interoperable and Reusable) within hours of their creation.</p>
+        <p>To evaluate performance of the system, we first used a test dataset of 1800 herbarium specimen images, which was uploaded using Zenodo's API (Application Programming Interface) (<xref ref-type="bibr" rid="B5175804">Dillen et al. 2019</xref>). This dataset includes lossless TIFF images, label-segmented overlays and <ext-link ext-link-type="uri" xlink:href="https://json-ld.org/">JSON-LD </ext-link>(JavaScript Object Notation for Linked Data) metadata using <ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/">DwC</ext-link> (Darwin Core) terminology, constituting over 208 gigabytes of data. In addition, for all individual digital specimens the data about the specimen (in DwC) as well as metadata about its deposition on Zenodo (in Zenodo's internal data model) were available in multiple machine-readable formats. All data in DwC were provided as linked data with their DwC identifiers (e.g. <ext-link ext-link-type="uri" xlink:href="http://rs.tdwg.org/dwc/terms/basisOfRecord">http://rs.tdwg.org/dwc/terms/basisOfRecord</ext-link>). All individual specimens received minted DOIs (Digital Object Identifiers). A second upload of 280,000 herbarium JPEG images from a single institution (ca. 1 terabyte of data) with limited metadata (but using the same approach) was launched as well.</p>
+        <p>In this presentation, the workflow for proper usage of the API will be described as well as some performance metrics, flexibilities and functionalities of the platform. Some issues and potential developments to tackle them will be discussed. Currently, the rate of ingestion into Zenodo seems only fast enough for small scale digitization pipelines. However, a modest improvement in transfer rate would make this a realistic proposition for large volume usage.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>linked data</kwd>
+        <kwd>long-term preservation</kwd>
+        <kwd>workflow</kwd>
+        <kwd>Darwin Core</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>777483 - ICEDIG</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mathias Dillen</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Horizon 2020 Framework Programme of the European Union</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>ICEDIG – “Innovation and consolidation for large scale digitisation of natural heritage” H2020-INFRADEV-2016-2017 – Grant Agreement No. 777483</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Horizon 2020 Framework Programme of the European Union</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>ICEDIG – “Innovation and consolidation for large scale digitisation of natural heritage” H2020-INFRADEV-2016-2017 – Grant Agreement No. 777483</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5175804">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Dillen</surname>
+              <given-names>Mathias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chagnoux</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hardisty</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Haston</surname>
+              <given-names>Elspeth</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Livermore</surname>
+              <given-names>Laurence</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Runnel</surname>
+              <given-names>Veljo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schulman</surname>
+              <given-names>Leif</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willemse</surname>
+              <given-names>Luc</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wu</surname>
+              <given-names>Zhengzhe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Phillips</surname>
+              <given-names>Sarah</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>A benchmark dataset of herbarium specimen images with label data</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>7</volume>
+          <fpage>e31817</fpage>
+          <pub-id pub-id-type="doi">10.3897/bdj.7.e31817</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

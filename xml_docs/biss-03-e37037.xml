@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37037</article-id>
+      <article-id pub-id-type="publisher-id">37037</article-id>
+      <article-id pub-id-type="manuscript">11599</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mangal: An open infrastructure for ecological interactions</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Vissault</surname>
+            <given-names>Steve</given-names>
+          </name>
+          <email xlink:type="simple">s.vissault@yahoo.fr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0866-4376</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gravel</surname>
+            <given-names>Dominique</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Poisot</surname>
+            <given-names>Timothée</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0735-5184</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Université de Sherbrooke, Sherbrooke, Canada</addr-line>
+        <institution>Université de Sherbrooke</institution>
+        <addr-line content-type="city">Sherbrooke</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Université de Montréal, Montréal, Canada</addr-line>
+        <institution>Université de Montréal</institution>
+        <addr-line content-type="city">Montréal</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Steve Vissault (<email xlink:type="simple">s.vissault@yahoo.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37037</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/7AB07079790D5969A98C49555174862F">7AB07079790D5969A98C49555174862F</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Steve Vissault, Dominique Gravel, Timothée Poisot</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Interactions among species is at the heart of ecology. Despite their importance, studying ecological interactions remains difficult due to the lack of standard information and the disparity of formats in which ecological interactions are stored (<xref ref-type="bibr" rid="B5192748">Poisot et al. 2015</xref>). Historically, ecologists have used matrices to store interactions, which tend to easily decontextualize interactions from fieldwork when metadata is missing. To overcome these limitations, we designed <ext-link ext-link-type="uri" xlink:href="http://mangal.io/">Mangal</ext-link> - a global ecological interactions database - which serialize ecological interaction matrices into nodes (e.g. taxon, individuals or population) and edges. This database offers the opportunity to store information on traits, environment and homogenized taxonomy through unique taxonomic identifiers such as Encyclopedia of Life (EOL), Catalogue of Life (COL), Global Biodiversity Information Facility (GBIF) and Integrated Taxonomic Information System (ITIS). Here, we present the new release of Mangal including more than 120,000 interactions, 1,300 networks from 172 scientific publications distributed across the globe. We explore the content, illustrate case studies and present templates in order to contribute to this open infrastructure. For this purpose, we developed and maintained two packages/clients from popular scientific languages: R and Julia to facilitate data access, curation and network deposits on the database (<ext-link ext-link-type="uri" xlink:href="https://github.com/mangal-wg">Source code</ext-link>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>ecological networks</kwd>
+        <kwd>web services</kwd>
+        <kwd>open platform</kwd>
+        <kwd>Julia</kwd>
+        <kwd>R</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Natural Sciences and Engineering Research Council of Canada</named-content>
+            <named-content content-type="funder_identifier">501100000038</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100000038</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Steve Vissault</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>FONCER - BIOS<sup><styled-content style="font-size:10px">2</styled-content></sup><styled-content style="font-size:10px"> Training program</styled-content></p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>FONCER - BIOS<sup><styled-content style="font-size:10px">2</styled-content></sup><styled-content style="font-size:10px"> Training program</styled-content></p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5192748">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Poisot</surname>
+              <given-names>Timothée</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baiser</surname>
+              <given-names>Benjamin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dunne</surname>
+              <given-names>Jennifer A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kéfi</surname>
+              <given-names>Sonia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Massol</surname>
+              <given-names>François</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mouquet</surname>
+              <given-names>Nicolas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Romanuk</surname>
+              <given-names>Tamara N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stouffer</surname>
+              <given-names>Daniel B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wood</surname>
+              <given-names>Spencer A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gravel</surname>
+              <given-names>Dominique</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>mangal - making ecological network analysis simple</article-title>
+          <source>Ecography</source>
+          <volume>39</volume>
+          <issue>4</issue>
+          <fpage>384</fpage>
+          <lpage>390</lpage>
+          <pub-id pub-id-type="doi">10.1111/ecog.00976</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

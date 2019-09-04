@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35206</article-id>
+      <article-id pub-id-type="publisher-id">35206</article-id>
+      <article-id pub-id-type="manuscript">11437</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI10 - How does Wikimedia Solve the Problems of Biodiversity Informatics?</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Wikidata as a linked-data hub for Biodiversity data </article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Waagmeester</surname>
+            <given-names>Andra</given-names>
+          </name>
+          <email xlink:type="simple">andra@micelio.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9773-4008</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schriml</surname>
+            <given-names>Lynn</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Su</surname>
+            <given-names>Andrew</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Micelio, Ekeren (Antwerpen), Belgium</addr-line>
+        <institution>Micelio</institution>
+        <addr-line content-type="city">Ekeren (Antwerpen)</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Department of Epidemiology and Public Health, University of Maryland School of Medicine, Baltimore, MD, United States of America</addr-line>
+        <institution>Department of Epidemiology and Public Health, University of Maryland School of Medicine</institution>
+        <addr-line content-type="city">Baltimore, MD</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Scripps Research Institute, La Jolla, United States of America</addr-line>
+        <institution>Scripps Research Institute</institution>
+        <addr-line content-type="city">La Jolla</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Andra Waagmeester (<email xlink:type="simple">andra@micelio.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35206</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D4CB65843321511A9F81FCDF19EE509D">D4CB65843321511A9F81FCDF19EE509D</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Andra Waagmeester, Lynn Schriml, Andrew Su</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Wikidata (<ext-link ext-link-type="uri" xlink:href="http://www.wikidata.org">http://www.wikidata.org</ext-link>) is the linked database of the Wikimedia Foundation. Like its sister project Wikipedia it is open to humans and machines. Initially primarily intended as a central repository of structured data for the approximately 200 language versions of Wikipedia, Wikidata currently also serves many other use cases. It is an open, Semantic Web-compatible database that anyone can edit.</p>
+        <p>Here, we present the Gene Wiki initiative. In 2008, this project started by creating Wikipedia articles for all human genes (<xref ref-type="bibr" rid="B5184411">Huss et al. 2008</xref>). These articles were enriched with structured information on these genes as tables (called infoboxes). With the onset of Wikidata in 2012, the project diverted its attention from the infoboxes and since we have been enriching Wikidata with structured knowledge from public scientific resources on gene, proteins, diseases and compounds (<xref ref-type="bibr" rid="B5184425">Burgstaller-Muehlbacher et al. 2016</xref>).</p>
+        <p>This structured information is added to Wikidata, while active links to the primary source are maintained. Adding a new resource to Wikidata is a community-driven process that starts with modelling the subjects of the resource under scrutiny. This involves seeking commonalities with similar concepts in Wikidata and, if none are found, new are created. This process mostly happens in a collaboratively-edited document (i.e. GDocs), where different graphical networks are drawn to reflect the data being modelled and its embedding in Wikidata. Once consensus has been reached, the model typically exists in a human-readable document. To allow future validations of these models on existing data, it is converted in a machine-readable Shape Expression (ShEx) (<xref ref-type="bibr" rid="B5184454">Anonymous 2019</xref>, <xref ref-type="bibr" rid="B5186889">Waagmeester et al. 2017</xref>). Shape Expressions schema language can be consumed and produced by humans and machines and is useful in model development, legacy review or as formal documentation.</p>
+        <p>Once a semantic data model (as Shape Expression) is found, i.e. community consensus is reached, a bot is developed to convert the knowledge from the primary source, into the Wikidata model. While Wikidata is linked data (part of the semantic web), many life science resources are not. On the contrary, many distinct file formats or API output formats are used to present life-science knowledge. To convert between these different formats, bots need to be developed that are able to parse the different resources and serialize into wikidata. We have developed a software library in the Python programming language, which we use to build these bots. Once created, these bots run regularly to keep Wikidata up-to-date with knowledge on genes, proteins, diseases and drugs.</p>
+        <p>Having scientific knowledge represented in Wikidata comes with benefits. First, having research data on Wikidata increases its sustainability. When research projects end, their findings now remain on an independently funded infrastructure. Having someone else dealing with an infrastructure for a data commons also relieves the research community of having to do it themselves, leading to more time to focus on doing research</p>
+        <p>As a generic public data commons, Wikidata allows public scrutiny and rapid integration with other domains. Inconsistencies or disagreement between resources become more visible, due to the unified data models and interfaces.</p>
+        <p>The latter we leverage as a feature in our bots. One of our core resources is, for example, the Disease Ontology (<xref ref-type="bibr" rid="B5186733">Schriml et al. 2018</xref>). This ontology on human diseases is continuously updated by its curation team. 2 times per month, updates are then synchronised with Wikidata. If inconsistencies and disagreement with other resources surface, they are logged and shared with the curation team of the Disease Ontology. Hence, we have created a bi-directional update cycle, improving both the Disease Ontology and Wikidata.</p>
+        <p>Although our bots focus on molecular biology, our approaches are generic in onset that we are confident a similar approach can work in biodiversity informatics.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>wikidata</kwd>
+        <kwd>wikipedia</kwd>
+        <kwd>molecular biology</kwd>
+        <kwd>crowd-sourcing</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Andra Waagmeester</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>National Institutes of General Medical Sciences R01GM089820</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>National Institutes of General Medical Sciences R01GM089820</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5184454">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <anonymous/>
+          </person-group>
+          <article-title>SHEX - Shape Expressions: Validation, traversal and transformation of RDF graphs.</article-title>
+          <uri>http://shex.io</uri>
+          <date-in-citation content-type="access-date">2019-12-04T00:00:00+02:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5184425">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Burgstaller-Muehlbacher</surname>
+              <given-names>Sebastian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mitraka</surname>
+              <given-names>Elvira</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Turner</surname>
+              <given-names>Julia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Putman</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leong</surname>
+              <given-names>Justin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Naik</surname>
+              <given-names>Chinmay</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pavlidis</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schriml</surname>
+              <given-names>Lynn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Good</surname>
+              <given-names>Benjamin M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Su</surname>
+              <given-names>Andrew I</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Wikidata as a semantic framework for the Gene Wiki initiative.</article-title>
+          <source>Database : the journal of biological databases and curation</source>
+          <volume>2016</volume>
+          <pub-id pub-id-type="doi">10.1093/database/baw015</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5184411">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Huss</surname>
+              <given-names>Jon W</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Orozco</surname>
+              <given-names>Camilo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goodale</surname>
+              <given-names>James</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wu</surname>
+              <given-names>Chunlei</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Batalov</surname>
+              <given-names>Serge</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vickers</surname>
+              <given-names>Tim J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Valafar</surname>
+              <given-names>Faramarz</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Su</surname>
+              <given-names>Andrew I</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>A gene Wiki for community annotation of gene function.</article-title>
+          <source>PLoS biology</source>
+          <volume>6</volume>
+          <issue>7</issue>
+          <fpage>e175</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pbio.0060175</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5186733">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Schriml</surname>
+              <given-names>Lynn M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mitraka</surname>
+              <given-names>Elvira</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Munro</surname>
+              <given-names>James</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tauber</surname>
+              <given-names>Becky</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schor</surname>
+              <given-names>Mike</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nickle</surname>
+              <given-names>Lance</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Felix</surname>
+              <given-names>Victor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jeng</surname>
+              <given-names>Linda</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bearer</surname>
+              <given-names>Cynthia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lichenstein</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bisordi</surname>
+              <given-names>Katharine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Campion</surname>
+              <given-names>Nicole</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hyman</surname>
+              <given-names>Brooke</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kurland</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Oates</surname>
+              <given-names>Connor Patrick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kibbey</surname>
+              <given-names>Siobhan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sreekumar</surname>
+              <given-names>Poorna</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Le</surname>
+              <given-names>Chris</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Giglio</surname>
+              <given-names>Michelle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Greene</surname>
+              <given-names>Carol</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Human Disease Ontology 2018 update: classification, content and workflow expansion</article-title>
+          <source>Nucleic Acids Research</source>
+          <volume>47</volume>
+          <pub-id pub-id-type="doi">10.1093/nar/gky1032</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5186889">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Prud'Hommeaux</surname>
+              <given-names>Eric</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mitraka</surname>
+              <given-names>Elvira</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stupp</surname>
+              <given-names>Gregory</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Queralt-Rosinach</surname>
+              <given-names>Núria</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Burgstaller-Muehlbacher</surname>
+              <given-names>Sebastian</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <source>Using Shape Expressions (ShEx) to model, validate and curate Wikidata. figshare</source>
+          <publisher-name>Poster</publisher-name>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

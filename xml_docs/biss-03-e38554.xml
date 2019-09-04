@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38554</article-id>
+      <article-id pub-id-type="publisher-id">38554</article-id>
+      <article-id pub-id-type="manuscript">11663</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Facing e-Biodiversity Challenges Together: GBIO framework-based synergies between DiSSCo and LifeWatch ERIC</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>González-Aranda</surname>
+            <given-names>Juan Miguel</given-names>
+          </name>
+          <email xlink:type="simple">cto@lifewatch.eu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koureas</surname>
+            <given-names>Dimitrios</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4842-6487</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Addink</surname>
+            <given-names>Wouter</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3090-1761</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hirsch</surname>
+            <given-names>Tim</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Arvanitidis</surname>
+            <given-names>Christos</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Albanés</surname>
+            <given-names>Antonio José Sáenz</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schalk</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">LifeWatch ERIC, Seville, Spain</addr-line>
+        <institution>LifeWatch ERIC</institution>
+        <addr-line content-type="city">Seville</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Distributed System of Scientific Collections - DiSSCo, Leiden, Netherlands</addr-line>
+        <institution>Distributed System of Scientific Collections - DiSSCo</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Species 2000 Secretariat, Leiden, Netherlands</addr-line>
+        <institution>Species 2000 Secretariat</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">GBIF, Copenhagen, Denmark</addr-line>
+        <institution>GBIF</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Naturalis, Leiden, Netherlands</addr-line>
+        <institution>Naturalis</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Juan Miguel González-Aranda (<email xlink:type="simple">cto@lifewatch.eu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38554</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/1AB45506162A5D5BA2DC0443A9B99176">1AB45506162A5D5BA2DC0443A9B99176</uri>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Juan Miguel González-Aranda, Dimitrios Koureas, Wouter Addink, Tim Hirsch, Christos Arvanitidis, Antonio José Sáenz Albanés, Peter Schalk</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The collaboration between <ext-link ext-link-type="uri" xlink:href="https://www.lifewatch.eu/">LifeWatch ERIC</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">DiSSCo</ext-link> (Distributed System of Scientific Collections), both pan-European research infrastructures focusing on biodiversity, can be achieved in a number of ways. The direct initiation of this collaboration can be carried out through their joint support to <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">GBIF</ext-link> (Global Biodiversity Information Facility). This approach will facilitate meeting GBIF’s overall objective stated as: “Connecting data and expertise: a new alliance for biodiversity knowledge” (<xref ref-type="bibr" rid="B5296200">Hobern and Miller 2019</xref>).</p>
+        <p>LifeWatch ERIC supports GBIF in a collaborative way by integrating and providing e-Services according to Global Biodiversity Informatics Outlook (GBIO) Framework objectives (Fig. <xref ref-type="fig" rid="F5192258">1</xref>), particularly suitable for the Understanding focus area. This concentrates on building modeled representations of biodiversity patterns and properties, based on any possible evidence, using the following components:</p>
+        <p>
+          <list list-type="order"><list-item><p>Multiscale species modelling;</p></list-item><list-item><p>Trends and predictions;</p></list-item><list-item><p>Modelling biological systems;</p></list-item><list-item><p>Visualization and dissemination;</p></list-item><list-item><p>Prioritizing new data capture.</p></list-item></list>
+        </p>
+        <p>In this regard, and during the 2nd Global Biodiversity Information Conference, LifeWatch ERIC actively participated in one of the four parallel working groups reviewing different components from the GBIO framework. Each component was selected to capture information on a broad range of different challenges and opportunities. At the same event, DiSSCo mainly focused on the Data layer, as the main provider of data and other types of collections resources in Europe.</p>
+        <p>The Evidence layer is the fertile interface to develop sound synergies for collaboration by both research infrastructures in order to support GBIF through the development of 3 concrete activities:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>Participation in the co-design, development and deployment of a multi-purpose Virtual Research Environment (VRE) to support DiSSCo, specifically by integrating the collections e-Services and by engaging the various communities of practice;</p></list-item><list-item><p>Participation in the co-design and co-implementation of relevant e-Services in LifeBlock (LifeWatch ERIC blockchain-based technology platform);</p></list-item><list-item><p>The active participation of DiSSCo for integrating collections data: DiSSCo is one of the main resources needed for the integration of <ext-link ext-link-type="uri" xlink:href="http://www.globis-b.eu/">GLOBIS-B</ext-link> <bold>GLOB</bold>al <bold>I</bold>nfrastructures for <bold>S</bold>upporting <bold>B</bold>iodiversity work on Essential Biodiversity Variables (EBVs) (<xref ref-type="bibr" rid="B5296210">Kissling et al. 2018</xref>). Thus, EBVs together with species traits will be integrated into LifeBlock platform in order to feed Ecosystem Services needed to further support Biodiversity Ecosystem Services VRE provided by LifeWatch ERIC distributed e-Infrastructure.</p></list-item></list>
+        </p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Juan Miguel González-Aranda</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5296245">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hobern</surname>
+              <given-names>Donald</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Apostolico</surname>
+              <given-names>Alberto</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Arnaud</surname>
+              <given-names>Elizabeth</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bello</surname>
+              <given-names>Juan Carlos</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Canhos</surname>
+              <given-names>Dora</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dubois</surname>
+              <given-names>Gregoire</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Field</surname>
+              <given-names>Dawn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Alonso García</surname>
+              <given-names>Enrique</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hardisty</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Harrison</surname>
+              <given-names>Jerry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heidorn</surname>
+              <given-names>Bryan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Krishtalka</surname>
+              <given-names>Leonard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mata</surname>
+              <given-names>Erick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Page</surname>
+              <given-names>Roderic</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Parr</surname>
+              <given-names>Cynthia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>Jeff</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willoughby</surname>
+              <given-names>Selwyn</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>Global Biodiversity Informatics Outlook: Delivering biodiversity knowledge in the information age</article-title>
+          <source>Global Biodiversity Information Facility</source>
+          <pub-id pub-id-type="doi">10.15468/6JXA-YB44</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5296200">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hobern</surname>
+              <given-names>Donald</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Miller</surname>
+              <given-names>Joseph</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>An alliance for biodiversity knowledge: Rethinking international collaboration in biodiversity informatics</article-title>
+          <source>Biodiversity Information Science and Standards</source>
+          <volume>3</volume>
+          <pub-id pub-id-type="doi">10.3897/biss.3.37324</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5296210">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kissling</surname>
+              <given-names>W. Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Walls</surname>
+              <given-names>Ramona</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bowser</surname>
+              <given-names>Anne</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jones</surname>
+              <given-names>Matthew O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kattge</surname>
+              <given-names>Jens</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>Donat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Amengual</surname>
+              <given-names>Josep</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Basset</surname>
+              <given-names>Alberto</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Bodegom</surname>
+              <given-names>Peter M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cornelissen</surname>
+              <given-names>Johannes H. C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Denny</surname>
+              <given-names>Ellen G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deudero</surname>
+              <given-names>Salud</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Egloff</surname>
+              <given-names>Willi</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Elmendorf</surname>
+              <given-names>Sarah C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Alonso García</surname>
+              <given-names>Enrique</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jones</surname>
+              <given-names>Katherine D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jones</surname>
+              <given-names>Owen R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lavorel</surname>
+              <given-names>Sandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lear</surname>
+              <given-names>Dan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Navarro</surname>
+              <given-names>Laetitia M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pawar</surname>
+              <given-names>Samraat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pirzl</surname>
+              <given-names>Rebecca</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rüger</surname>
+              <given-names>Nadja</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sal</surname>
+              <given-names>Sofia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Salguero-Gómez</surname>
+              <given-names>Roberto</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schigel</surname>
+              <given-names>Dmitry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schulz</surname>
+              <given-names>Katja-Sabine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Skidmore</surname>
+              <given-names>Andrew</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert P.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Towards global data products of Essential Biodiversity Variables on species traits</article-title>
+          <source>Nature Ecology &amp; Evolution</source>
+          <volume>2</volume>
+          <issue>10</issue>
+          <fpage>1531</fpage>
+          <lpage>1540</lpage>
+          <pub-id pub-id-type="doi">10.1038/s41559-018-0667-3</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5192258" position="float" orientation="portrait">
+      <object-id content-type="arpha">D6AA6C4ED36F577CBBEAC4024F7F38CD</object-id>
+      <label>Figure 1.</label>
+      <caption>
+        <p>GBIO Framework (<xref ref-type="bibr" rid="B5296245">Hobern et al. 2012</xref>) identifying 20 components as essential elements of biodiversity informatics and organized as four layers of focus: Culture, Data, Evidence and Understanding.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e38554-g001.png" position="float" id="oo_291898.png" orientation="portrait" xlink:type="simple">
+        <uri content-type="original_file">https://binary.pensoft.net/fig/291898</uri>
+      </graphic>
+    </fig>
+  </floats-group>
+</article>

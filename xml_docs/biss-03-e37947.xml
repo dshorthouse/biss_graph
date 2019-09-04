@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37947</article-id>
+      <article-id pub-id-type="publisher-id">37947</article-id>
+      <article-id pub-id-type="manuscript">11666</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI75 - Linking specimens and physical samples through standardised identifiers and metadata: the last mile</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Web Applications for Interoperability of Biodiversity Data in France</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Corny</surname>
+            <given-names>Julien</given-names>
+          </name>
+          <email xlink:type="simple">julien_corny@natural-solutions.eu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Voundy</surname>
+            <given-names>El-Makki</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Monchicourt</surname>
+            <given-names>Camille</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sahl</surname>
+            <given-names>Amandine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rovellotti</surname>
+            <given-names>Olivier</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural Solutions, Marseille, France</addr-line>
+        <institution>Natural Solutions</institution>
+        <addr-line content-type="city">Marseille</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Parc national des Ecrins, Gap, France</addr-line>
+        <institution>Parc national des Ecrins</institution>
+        <addr-line content-type="city">Gap</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Parc national des Cévennes, Florac, France</addr-line>
+        <institution>Parc national des Cévennes</institution>
+        <addr-line content-type="city">Florac</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Julien Corny (<email xlink:type="simple">julien_corny@natural-solutions.eu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37947</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/04E0B971532150F08B8E83C4DF83B269">04E0B971532150F08B8E83C4DF83B269</uri>
+      <history>
+        <date date-type="received">
+          <day>04</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Julien Corny, El-Makki Voundy, Camille Monchicourt, Amandine Sahl, Olivier Rovellotti</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In the context of the French law for the reconquest of biodiversity (<xref ref-type="bibr" rid="B5230009">Legifrance 2016</xref>), public and private stakeholders must share environmental impact assessment data as open data to the French National Inventory of the Natural Heritage (<xref ref-type="bibr" rid="B5230201">Muséum national d'Histoire naturelle 2019</xref>). In order to achieve this, the Information System for Nature and Landscape (SINP) provided standards and guidelines for protocols, taxonomy, and metadata in order to comply with the FAIR (Findability, Accessibility, Interoperability, Reusability; <xref ref-type="bibr" rid="B5230096">Wilkinson et al. 2016</xref>) concept of data management. However, private institutions, who must run environmental impact assessments, can be confused by the number of technical details and the high level of data literacy needed to comply with these standards. Here, we will present several tools (<xref ref-type="bibr" rid="B5230210">GeoNature 2019</xref>, <xref ref-type="bibr" rid="B5230237">Natural Solutions 2019</xref>) that we are currently developing to facilitate the raw biodiversity data conversion and export using SINP standards (<xref ref-type="bibr" rid="B5230164">Jomier et al. 2018</xref>). Although SINP and Darwin Core (<xref ref-type="bibr" rid="B5230413">Wieczorek et al. 2012</xref>) standards share common concepts and properties, SINP standards focus on data reusability in the framework of French environmental programs, resulting in the creation of specific mandatory attributes (<xref ref-type="bibr" rid="B5230260">Chataigner et al. 2014</xref>). Our tools perform extract, transform and load (ETL) operations as well as RDF (Resource Description Framework) exports using ad-hoc ontology adapted to the specificities of the SINP standard. Finally, we observed that despite the success of the process (after one year, nearly one thousand datasets are available on the SINP web platform), several issues still need to be addressed, including data quality issues, which could hamper data reuse by stakeholders.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>open-data</kwd>
+        <kwd>web</kwd>
+        <kwd>standard</kwd>
+        <kwd>ETL</kwd>
+        <kwd>data management</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="8"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Julien Corny</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5230260">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Chataigner</surname>
+              <given-names>J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robert</surname>
+              <given-names>S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Poncet</surname>
+              <given-names>L</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vest</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Règles sémantiques d’échange de données entre le SINP et le GBIF. Principes généraux et mappings</article-title>
+          <uri>https://inpn.mnhn.fr/docs/standard/sinp_echangesinpdwc_2014.pdf</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5230210">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>GeoNature</surname>
+            </name>
+          </person-group>
+          <article-title>GeoNature, un outil open source développé par les parcs nationaux français</article-title>
+          <uri>https://geonature.fr/</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5230164">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Jomier</surname>
+              <given-names>R</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Poncet</surname>
+              <given-names>L</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robert</surname>
+              <given-names>S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Milon</surname>
+              <given-names>T</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Archambeau</surname>
+              <given-names>A-S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pamerlon</surname>
+              <given-names>S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourgoin</surname>
+              <given-names>T</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Monicault</surname>
+              <given-names>L De</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barneix</surname>
+              <given-names>M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fromage</surname>
+              <given-names>P</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Carpy</surname>
+              <given-names>B</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Callou</surname>
+              <given-names>C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Candelier</surname>
+              <given-names>S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Huguet</surname>
+              <given-names>A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Meunier</surname>
+              <given-names>D</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wódka-Gosse</surname>
+              <given-names>A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grossiord</surname>
+              <given-names>F</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guichard</surname>
+              <given-names>B</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Landrieu</surname>
+              <given-names>G</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lafage</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <source>Standard de données SINP Occurrences de taxons</source>
+          <volume>2.0</volume>
+          <publisher-name>UMS 2006 "Patrimoine naturel"</publisher-name>
+          <publisher-loc>Paris</publisher-loc>
+          <size units="page">100</size>
+        </element-citation>
+      </ref>
+      <ref id="B5230009">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Legifrance</surname>
+            </name>
+          </person-group>
+          <article-title>LOI n° 2016-1087 du 8 août 2016 pour la reconquête de la biodiversité, de la nature et des paysages</article-title>
+          <uri>https://www.legifrance.gouv.fr/eli/loi/2016/8/8/2016-1087/jo/texte</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5230201">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>naturelle</surname>
+              <given-names>Muséum national d'Histoire</given-names>
+            </name>
+          </person-group>
+          <article-title>Presentation of the National Inventory of the Natural Heritage</article-title>
+          <uri>https://inpn.mnhn.fr/accueil/presentation-inpn</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5230237">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Solutions</surname>
+              <given-names>Natural</given-names>
+            </name>
+          </person-group>
+          <article-title>Solution numérique pour gérer les données de terrain</article-title>
+          <uri>https://www.natural-solutions.eu/ecoreleve</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5230413">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bloom</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blum</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Döring</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Giovanni</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robertson</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vieglais</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>Darwin Core: An Evolving Community-Developed Biodiversity Data Standard</article-title>
+          <source>PLoS ONE</source>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>29715</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0029715</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5230096">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>Mark D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumontier</surname>
+              <given-names>Michel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aalbersberg</surname>
+              <given-names>IJsbrand Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Appleton</surname>
+              <given-names>Gabrielle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Axton</surname>
+              <given-names>Myles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baak</surname>
+              <given-names>Arie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blomberg</surname>
+              <given-names>Niklas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boiten</surname>
+              <given-names>Jan-Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>da Silva Santos</surname>
+              <given-names>Luiz Bonino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourne</surname>
+              <given-names>Philip E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouwman</surname>
+              <given-names>Jildau</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brookes</surname>
+              <given-names>Anthony J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crosas</surname>
+              <given-names>Mercè</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dillo</surname>
+              <given-names>Ingrid</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumon</surname>
+              <given-names>Olivier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Edmunds</surname>
+              <given-names>Scott</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Evelo</surname>
+              <given-names>Chris T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Finkers</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gonzalez-Beltran</surname>
+              <given-names>Alejandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Alasdair J. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groth</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goble</surname>
+              <given-names>Carole</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grethe</surname>
+              <given-names>Jeffrey S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heringa</surname>
+              <given-names>Jaap</given-names>
+            </name>
+            <name name-style="western">
+              <surname>’t Hoen</surname>
+              <given-names>Peter A. C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hooft</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuhn</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Ruben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Joost</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lusher</surname>
+              <given-names>Scott J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martone</surname>
+              <given-names>Maryann E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Albert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Abel L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Persson</surname>
+              <given-names>Bengt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocca-Serra</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roos</surname>
+              <given-names>Marco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Schaik</surname>
+              <given-names>Rene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sansone</surname>
+              <given-names>Susanna-Assunta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schultes</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sengstag</surname>
+              <given-names>Thierry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Slater</surname>
+              <given-names>Ted</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strawn</surname>
+              <given-names>George</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swertz</surname>
+              <given-names>Morris A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thompson</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Lei</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Mulligen</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Velterop</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wittenburg</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolstencroft</surname>
+              <given-names>Katherine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zhao</surname>
+              <given-names>Jun</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Barend</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <pub-id pub-id-type="doi">10.1038/sdata.2016.18</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

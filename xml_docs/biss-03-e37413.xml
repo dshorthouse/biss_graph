@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37413</article-id>
+      <article-id pub-id-type="publisher-id">37413</article-id>
+      <article-id pub-id-type="manuscript">11280</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST69 - Machine Observations Interest Group: A first dive into Darwin Core for exchanging biologging data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Standardizing Biologging Data for LifeWatch: Camera Traps, Acoustic Telemetry and GPS Tracking</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Desmet</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <email xlink:type="simple">peter.desmet.work@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8442-8025</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Van Hoey</surname>
+            <given-names>Stijn</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Reyserhove</surname>
+            <given-names>Lien</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Brosens</surname>
+            <given-names>Dimitri</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0846-9116</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Oldoni</surname>
+            <given-names>Damiano</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Milotic</surname>
+            <given-names>Tanja</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Research Institute for Nature and Forest (INBO), Brussels, Belgium</addr-line>
+        <institution>Research Institute for Nature and Forest (INBO)</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Belgian Biodiversity Platform, Brussels, Belgium</addr-line>
+        <institution>Belgian Biodiversity Platform</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Peter Desmet (<email xlink:type="simple">peter.desmet.work@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37413</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A34ACD54E3325A5D9854242861AE5346">A34ACD54E3325A5D9854242861AE5346</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Peter Desmet, Stijn Van Hoey, Lien Reyserhove, Dimitri Brosens, Damiano Oldoni, Tanja Milotic</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Research Institute for Nature and Forest (INBO) is co-managing three biologging networks as part of a terrestrial and freshwater observatory for LifeWatch Belgium. The networks are a <ext-link ext-link-type="uri" xlink:href="http://lifewatch.be/en/gps-tracking-network-large-birds">GPS tracking network for large birds</ext-link>, an <ext-link ext-link-type="uri" xlink:href="http://lifewatch.be/en/fish-acoustic-receiver-network">acoustic receiver network for fish</ext-link>, and a <ext-link ext-link-type="uri" xlink:href="http://lifewatch.be/en/camera-trap-research-infrastructure-catrein">camera trap network for mammals</ext-link>. As part of our mission at the <ext-link ext-link-type="uri" xlink:href="https://twitter.com/oscibio">Open science lab for biodiversity</ext-link>, we are publishing the machine observations these networks generate as standardized, open data. One of the challenges however, is finding the appropriate standards and platforms to do so.</p>
+        <p>In this talk, we will present the three networks, the type of biologging data they collect and how we (plan to) standardize these to specific community standards and to Darwin Core (<xref ref-type="bibr" rid="B5179646">Wieczorek et al. 2012</xref>). Data from the bird tracking network have been published in 2014 as one of the first biologging datasets on the Global Biodiversity Information Facility (GBIF) (<xref ref-type="bibr" rid="B5179675">Stienen et al. 2014</xref>). We are now planning to upload the data to Movebank instead and contribute to a generic mapping between the Movebank format and Darwin Core. Data from the acoustic receiver network are being mapped using the <ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/dwc-for-biologging/wiki">Darwin Core guidelines</ext-link> proposed by the Machine Observations Interest Group of Biodiversity Information Standards (TDWG). Images generated by the camera trap network are managed in the annotation system <ext-link ext-link-type="uri" xlink:href="https://www.agouti.eu/">Agouti</ext-link>, for which we plan to export the data in the Camera Trap Metadata Language (<xref ref-type="bibr" rid="B5179660">Forrester et al. 2016</xref>). We also aim to write a software package to deposit camera trap images and data on <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/">Zenodo</ext-link> and map the observation data to Darwin Core.</p>
+        <p>We hope that our work will contribute to discussions and guidelines on how to best map biologging data to Darwin Core, which is one of the aims of the Machine Observations Interest Group of Biodiversity Information Standards (TDWG).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>LifeWatch</kwd>
+        <kwd>sensors</kwd>
+        <kwd>biologging</kwd>
+        <kwd>camera traps</kwd>
+        <kwd>acoustic telemetry</kwd>
+        <kwd>GPS tracking</kwd>
+        <kwd>Darwin Core</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Fonds Wetenschappelijk Onderzoek</named-content>
+            <named-content content-type="funder_identifier">501100003130</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100003130</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Peter Desmet</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work makes use of data and/or infrastructure provided by VLIZ and INBO and funded by Research Foundation - Flanders (FWO) as part of the Belgian contribution to LifeWatch.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5179660">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Forrester</surname>
+              <given-names>Tavis</given-names>
+            </name>
+            <name name-style="western">
+              <surname>O'Brien</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fegraus</surname>
+              <given-names>Eric</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jansen</surname>
+              <given-names>Patrick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Palmer</surname>
+              <given-names>Jonathan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kays</surname>
+              <given-names>Roland</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ahumada</surname>
+              <given-names>Jorge</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stern</surname>
+              <given-names>Beth</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McShea</surname>
+              <given-names>William</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>An Open Standard for Camera Trap Data</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>4</volume>
+          <pub-id pub-id-type="doi">10.3897/bdj.4.e10197</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5179675">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stienen</surname>
+              <given-names>Eric W. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Desmet</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aelterman</surname>
+              <given-names>Bart</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Courtens</surname>
+              <given-names>Wouter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Feys</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vanermen</surname>
+              <given-names>Nicolas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Verstraete</surname>
+              <given-names>Hilbran</given-names>
+            </name>
+            <name name-style="western">
+              <surname>de walle</surname>
+              <given-names>Marc Van</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deneudt</surname>
+              <given-names>Klaas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hernandez</surname>
+              <given-names>Francisco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Houthoofdt</surname>
+              <given-names>Robin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vanhoorne</surname>
+              <given-names>Bart</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouten</surname>
+              <given-names>Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Buijs</surname>
+              <given-names>Roland-Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kavelaars</surname>
+              <given-names>Marwa M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>Wendt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Herman</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Matheve</surname>
+              <given-names>Hans</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sotillo</surname>
+              <given-names>Alejandro</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lens</surname>
+              <given-names>Luc</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Bird tracking - GPS tracking of Lesser Black-backed Gulls and Herring Gulls breeding at the southern North Sea coast</article-title>
+          <source>Research Institute for Nature and Forest (INBO)</source>
+          <pub-id pub-id-type="doi">10.15468/02omly</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5179646">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>John</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bloom</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blum</surname>
+              <given-names>Stan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Döring</surname>
+              <given-names>Markus</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Giovanni</surname>
+              <given-names>Renato</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robertson</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vieglais</surname>
+              <given-names>David</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>Darwin Core: An Evolving Community-Developed Biodiversity Data Standard</article-title>
+          <source>PLoS ONE</source>
+          <volume>7</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0029715</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

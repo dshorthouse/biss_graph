@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37897</article-id>
+      <article-id pub-id-type="publisher-id">37897</article-id>
+      <article-id pub-id-type="manuscript">11315</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP39 - Increasing Opportunities to Align Data Initiatives for Bio/Geo Collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Reducing Dependence on Digital Biodiversity Data Silos Through Global Alignment and Collaboration</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Nelson</surname>
+            <given-names>Gil</given-names>
+          </name>
+          <email xlink:type="simple">gnelson@floridamuseum.ufl.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7851-4445</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Karim</surname>
+            <given-names>Talia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gillespie</surname>
+            <given-names>Rosemary</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fortes</surname>
+            <given-names>Jose</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jones</surname>
+            <given-names>Douglas S</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, University of Florida, Gainesville, FL, United States of America</addr-line>
+        <institution>Florida Museum of Natural History, University of Florida</institution>
+        <addr-line content-type="city">Gainesville, FL</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Colorado, Boulder, Boulder, CO, United States of America</addr-line>
+        <institution>University of Colorado, Boulder</institution>
+        <addr-line content-type="city">Boulder, CO</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of California Berkeley, Berkeley, United States of America</addr-line>
+        <institution>University of California Berkeley</institution>
+        <addr-line content-type="city">Berkeley</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">University of Florida, Gainesville, FL, United States of America</addr-line>
+        <institution>University of Florida</institution>
+        <addr-line content-type="city">Gainesville, FL</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Gil Nelson (<email xlink:type="simple">gnelson@floridamuseum.ufl.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37897</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/380E5108831B54068CAF26C3F923AD89">380E5108831B54068CAF26C3F923AD89</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Over the last decade, the Integrated Digitized Biocollections (<ext-link ext-link-type="uri" xlink:href="https://www.idigbio.org/">iDigBio</ext-link>) organization and the Advancing the Digitization of Biodiversity Collections (ADBC) grant program, both funded by the US National Science Foundation (NSF), have made large strides in the aggregation of pre-existing siloed digital collections data as well as the new digitization of previously dark collections data across the United States. The impact of iDigBio leadership in community engagement (e.g., through discipline-specific workshops and webinars) and data mobilization (e.g., aggregation assistance, portal development) is widespread and with impact across all collection types and sizes. Moreover, the funding model for the ADBC program, which required the development of digitization-based Thematic Collection Networks (TCNs), facilitated engagement and community building across collections, which previously often worked independently from one another or with a smaller group of institutions and/or collaborators. The attempt to create ever-growing biodiversity data aggregators to improve global research access to digital biodiversity data has made huge progress over the past decade and has resulted in increased availability of biodiversity data from fewer, larger data stores. It has also motivated unselfish collaboration between major aggregators in search of strategies for merging these data silos into a consolidated global data product. We describe an ongoing collaboration between the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">GBIF</ext-link>), The Atlas of Living Australia (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">ALA</ext-link>), Integrated Digitized Biocollections (iDigBio), and the Distributed System of Scientific Collections (<ext-link ext-link-type="uri" xlink:href="https://www.dissco.eu/">DiSSCo</ext-link>) to establish a global framework for integrating technologies, processes, standards, Application Programming Interfaces (APIs), ingestion, data, and data services, with the goal of building a well-documented linked system that relies on the various areas of expertise of the initial partners but with definitive pathways for incorporating new and existing entities as they desire or are developed.</p>
+        <p>We use the case of paleontological data as an exemplar of the potential impact of this collaboration. The iDigBio Paleontology Digitization Working Group, which was originally created by iDigBio as part of their community engagement program, has continued to be an active and engaged community of data providers and end-users, organizing numerous workshops and webinars. Currently, working group members, in collaboration with iDigBio staff and developers, are examining issues specific to paleontologic data aggregation that were identified by data providers; they are also working on a series of best-practices guidelines for sharing paleontologic data that will ideally help to reduce the number of mistakes made by downstream data aggregation manipulations. The focus of the working group is, and has been, largely community driven and supported by iDigBio through the provision of virtual meeting space for participants and by hosting the group's wiki-page of resources. Additionally, iDigBio has been proactive in working with other digitization initiatives in the paleontologic community (e.g., <ext-link ext-link-type="uri" xlink:href="https://paleobiodb.org/#/">Paleobiology Database</ext-link>) on projects such as <ext-link ext-link-type="uri" xlink:href="https://epandda.org/">ePANDDA</ext-link> (enhancing Paleontological and Neontological Data Discovery API), which seeks to link existing digital resources through API development.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>global alignment</kwd>
+        <kwd>global aggregation</kwd>
+        <kwd>iDigBio</kwd>
+        <kwd>global data product</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>US National Science Foundation</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Gil Nelson</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>iDigBio is funded by grants from the National Science Foundation's Advancing Digitization of Biodiversity Collections Program [DBI-1115210 (2011-2018) and DBI-1547229 (2016-2021)]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>iDigBio is funded by grants from the National Science Foundation's Advancing Digitization of Biodiversity Collections Program [DBI-1115210 (2011-2018) and DBI-1547229 (2016-2021)]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>iDigBio Phase 2</p>
+    </sec>
+  </back>
+</article>

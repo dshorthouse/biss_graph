@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37053</article-id>
+      <article-id pub-id-type="publisher-id">37053</article-id>
+      <article-id pub-id-type="manuscript">11696</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI75 - Linking specimens and physical samples through standardised identifiers and metadata: the last mile</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Darwin Core for Agricultural Biodiversity: A metadata extension proposal</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Soares</surname>
+            <given-names>Filipi Miranda</given-names>
+          </name>
+          <email xlink:type="simple">filipims@ufmg.br</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0674-7960</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Maculan</surname>
+            <given-names>Benildes CMS</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4303-9071</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Drucker</surname>
+            <given-names>Debora</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Information Science School, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil</addr-line>
+        <institution>Information Science School, Universidade Federal de Minas Gerais</institution>
+        <addr-line content-type="city">Belo Horizonte</addr-line>
+        <country>Brazil</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Empresa Brasileira de Pesquisa Agropecuária, Campinas, Brazil</addr-line>
+        <institution>Empresa Brasileira de Pesquisa Agropecuária</institution>
+        <addr-line content-type="city">Campinas</addr-line>
+        <country>Brazil</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Filipi Miranda Soares (<email xlink:type="simple">filipims@ufmg.br</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37053</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5A24472C571759698106FF23EDF4657E">5A24472C571759698106FF23EDF4657E</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Filipi Miranda Soares, Benildes CMS Maculan, Debora Drucker</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Agricultural Biodiversity has been defined by the Convention on Biological Diversity as the set of elements of biodiversity that are relevant to agriculture and food production. These elements are arranged into an agro-ecosystem that compasses "the variability among living organisms from all sources including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part: this includes diversity within species, between species and of ecosystems" (<xref ref-type="bibr" rid="B5214066">UNEP 1992</xref>). As with any other field in Biology, Agricultural Biodiversity work produces data. In order to publish data in a way it can be efficiently retrieved on web, one must describe it with proper metadata. A metadata element set is a group of statements made about something. These statements have three elements, named subject (thing represented), predicate (space filled up with data) and object (data itself). This representation is called triples. For example, the title is a metadata element. A <italic>book</italic> is the subject; <italic>title</italic> is the predicate; and <italic>The Chronicles of Narnia</italic> is the object. Some metadata standards have been developed to describe biodiversity data, as ABCD Data Schema, Darwin Core (DwC) and Ecological Metadata Language (EML). The DwC is said to be the most used metadata standard to publish data about species occurrence worldwide (<xref ref-type="bibr" rid="B5215937">Global Biodiversity Information Facility 2019</xref>). "Darwin Core is a standard maintained by the Darwin Core maintenance group. It includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing identifiers, labels, and definitions. Darwin Core is primarily based on taxa, their occurrence in nature as documented by observations, specimens, samples, and related information" (<xref ref-type="bibr" rid="B5214003">Biodiversity Information Standards (TDWG) 2014</xref>). Within this thematic context, a master research project is in progress at the Federal University of Minas Gerais in partnership with the <ext-link ext-link-type="uri" xlink:href="https://www.embrapa.br/en/international">Brazilian Agricultural Research Corporation (EMBRAPA)</ext-link>. It aims to apply the DwC on Brazil’s Agricultural Biodiversity data. A pragmatic analysis of DwC and <ext-link ext-link-type="uri" xlink:href="https://tools.gbif.org/dwca-validator/extensions.do">DwC Extensions</ext-link> demonstrated that important concepts and relations from Agricultural Biodiversity are not represented in DwC elements. For example, DwC does not have significant metadata to describe biological interactions, to convey important information about relations between organisms in an ecological perspective. Pollination is one of the biological interactions relevant to Agricultural Biodiversity, for which we need enhanced metadata. Given these problems, the principles of metadata construction of DwC will be followed in order to develop a metadata extension able to represent data about Agricultural Biodiversity. These principles are the <ext-link ext-link-type="uri" xlink:href="http://dublincore.org/specifications/dublin-core/abstract-model/">Dublin Core Abstract Model</ext-link>, which present propositions for creating the triples (subject-predicate-object). The standard format of DwC Extensions (see <ext-link ext-link-type="uri" xlink:href="https://tools.gbif.org/dwca-validator/extensions.do">Darwin Core Archive Validator</ext-link>) will be followed to shape the metadata extension. At the end of the research, we expect to present a model of DwC metadata record to publish data about Agricultural Biodiversity in Brazil, including metadata already existent in Simple DwC and the new metadata of Brazil’s Agricultural Biodiversity Metadata Extension. The resulting extension will be useful to represent Agricultural Diversity worldwide.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>metadata</kwd>
+        <kwd>Darwin Core</kwd>
+        <kwd>agricultural biodiversity</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Filipi Miranda Soares</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5214003">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>(TDWG)</surname>
+              <given-names>Biodiversity Information Standards</given-names>
+            </name>
+          </person-group>
+          <article-title>Darwin Core maintenance group. Zenodo.</article-title>
+          <pub-id pub-id-type="doi">10.5281/zenodo.592792</pub-id>
+          <date-in-citation content-type="access-date">2019-04-26T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5215937">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Facility</surname>
+              <given-names>Global Biodiversity Information</given-names>
+            </name>
+          </person-group>
+          <article-title>What is Darwin Core, and why does it matter?</article-title>
+          <uri>https://www.gbif.org/darwin-core</uri>
+          <date-in-citation content-type="access-date">2019-04-24T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5214066">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>UNEP</surname>
+            </name>
+          </person-group>
+          <article-title>Convention on Biological Diversity. Article 2. Use of Terms. Rio de Janeiro</article-title>
+          <uri>https://www.cbd.int/kb/record/article/6872?RecordType=article&amp;Subject=CBD</uri>
+          <date-in-citation content-type="access-date">2019-04-26T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

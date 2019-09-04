@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37373</article-id>
+      <article-id pub-id-type="publisher-id">37373</article-id>
+      <article-id pub-id-type="manuscript">11906</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS73 - Biodiversity Informatics: Perspectives from the Global South</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodiversity Informatics in Brazil: A personal perspective</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Saraiva</surname>
+            <given-names>Antonio Mauro</given-names>
+          </name>
+          <email xlink:type="simple">saraiva@usp.br</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2283-1123</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Albertini</surname>
+            <given-names>Bruno de Carvalho</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3738-6448</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Universidade de São Paulo, São Paulo, Brazil</addr-line>
+        <institution>Universidade de São Paulo</institution>
+        <addr-line content-type="city">São Paulo</addr-line>
+        <country>Brazil</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Antonio Mauro Saraiva (<email xlink:type="simple">saraiva@usp.br</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37373</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/473E60FC591859838C43FB0F7098BA80">473E60FC591859838C43FB0F7098BA80</uri>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Antonio Mauro Saraiva, Bruno de Carvalho Albertini</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Biodiversity informatics (BI) plays an important role in helping us know, protect and use biodiversity sustainably. It encompasses activities from data digitization, standardization, sharing and aggregation, to supporting decision and policy making. In a country like Brazil, with a large continental geographic area containing ca. 15% of the planet’s biodiversity, the challenge is even greater: stakeholders are widely distributed over a large country and the amount of data is huge.</p>
+        <p>Brazil has been a part of the international BI community, including Biodiversity Information Standards (<ext-link ext-link-type="uri" xlink:href="https://tdwg.org">TDWG</ext-link>), for around two decades. Initially represented solely by the Centro de Referência em Informação Ambiental (<ext-link ext-link-type="uri" xlink:href="http://www.cria.org.br">CRIA</ext-link>), gradually other groups from universities, museums and institutions joined the arena.</p>
+        <p>Despite the broader group of stakeholders now involved, the local community is not strong enough. From a human resources point of view, the country has very good universities that train competent professionals both in information technology (IT) and in biology or related fields. Concerning the IT professionals, not surprisingly, other industries and job opportunities are usually more attractive and few people even know about BI. This is probably not unique to Brazil. Biological sciences professionals, for their part, usually have little literacy in computing and are equally unaware of BI as a field.</p>
+        <p>On the institutional level, museums, universities and other biological data owners often lack IT support for biological data management, including digitization, and systems development/maintenance. This may reflect the lack of appreciation of the importance of data and of BI as a foundation for good biodiversity science and management.</p>
+        <p>The same happens when it comes to funding. Biological collections are not adequately funded and lack more than a few episodic programs to support collection and museum maintenance and digitization. This lack of infrastructural funding highlights the tragedies of the fires at the Butantan Museum in 2010 (80,000 snakes, 180,000 spiders) and the Museu Nacional in 2018, (20 million biological specimens and objects of the Brazilian and world history and art were lost). The exception is the São Paulo Research Foundation (<ext-link ext-link-type="uri" xlink:href="http://www.fapesp.br/en/">FAPESP</ext-link>), which has been supporting projects since 1999 on biodiversity and BI via its successful <ext-link ext-link-type="uri" xlink:href="http://www.fapesp.br/en/4662">Biota-FAPESP</ext-link> program, the first to tie biodiversity projects to data digitization and sharing in Brazil.  The lack of institutional engagement and support, and funding affects the sustainability of many initiatives and puts at risk the long term data availability.</p>
+        <p>Due to political reasons, Brazil only joined the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="https://gbif.org">GBIF</ext-link>) in 2012 as an associate (non-contributing financially and non-voting) member with a commitment to become a voting member within five years. Until recently, the Brazilian Biodiversity Information System (<ext-link ext-link-type="uri" xlink:href="http://www.sibbr.gov.br/">SiBBr</ext-link>), Brazil’s GBIF node, was also hindered by politics from having a solid, stable national governance and funding to help “consolidate a solid national infrastructure on biodiversity data”, and to unite the growing Brazilian BI community around it.</p>
+        <p>In the international scenario, while political, cultural and funding reasons may have hindered more equitable collaborations (e.g., tools development and sharing) with countries in the Global South, competing Global North-centric projects have prevailed. Although most remaining biodiversity is in the Global South, where local engagement is crucial, in many cases southern partners still often only act as data providers. Collaborative work is required with genuine co-creation, empowering all parties. Initiatives like the <ext-link ext-link-type="uri" xlink:href="https://living-atlases.gbif.org/">Living Atlases community</ext-link> must be recognized and welcomed as a positive shift.</p>
+        <p>Despite all of these challenges, it can be surprising how much Brazilian biodiversity science has achieved throughout the years, and it gives us hope that in the future, if some of these issues are addressed, a lot more can be done. Education and training, continued funding and institutional support, governance, and international collaboration are essential.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>Brazil</kwd>
+        <kwd>challenges</kwd>
+        <kwd>opportunities</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Brazilian National Scientific Council, CNPq, for the grant to AMS #311531/2014-8.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Antonio Mauro Saraiva</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

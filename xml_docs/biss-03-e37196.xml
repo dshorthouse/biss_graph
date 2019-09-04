@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37196</article-id>
+      <article-id pub-id-type="publisher-id">37196</article-id>
+      <article-id pub-id-type="manuscript">11560</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Spanish Scientific Network for LifeWatch-ERIC, e-Science Infrastructure for Biodiversity and Ecosystem Research</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Izquieta-Rojano</surname>
+            <given-names>Sheila</given-names>
+          </name>
+          <email xlink:type="simple">sheila.izquieta@lifewatch.es</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3771-5889</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Silgado</surname>
+            <given-names>Antonio Torralba</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Carvajal</surname>
+            <given-names>Ramón González</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Marco de Lucas</surname>
+            <given-names>Jesús</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>de la Rosa</surname>
+            <given-names>Jesús</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Reol</surname>
+            <given-names>Esteban Manrique</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Santamaría Ulecia</surname>
+            <given-names>Jesús Miguel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zamora</surname>
+            <given-names>Regino</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Sevilla - Lifewatch Spain, Sevilla, Spain</addr-line>
+        <institution>University of Sevilla - Lifewatch Spain</institution>
+        <addr-line content-type="city">Sevilla</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">IFCA CSIC - Lifewatch Spain, Santander, Spain</addr-line>
+        <institution>IFCA CSIC - Lifewatch Spain</institution>
+        <addr-line content-type="city">Santander</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Huelva - Lifewatch Spain, Huelva, Spain</addr-line>
+        <institution>University of Huelva - Lifewatch Spain</institution>
+        <addr-line content-type="city">Huelva</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">CSIC - Lifewatch Spain, Madrid, Spain</addr-line>
+        <institution>CSIC - Lifewatch Spain</institution>
+        <addr-line content-type="city">Madrid</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">University of Navarra - Lifewatch Spain, Pamplona, Spain</addr-line>
+        <institution>University of Navarra - Lifewatch Spain</institution>
+        <addr-line content-type="city">Pamplona</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">University of Granada - Lifewatch Spain, Granada, Spain</addr-line>
+        <institution>University of Granada - Lifewatch Spain</institution>
+        <addr-line content-type="city">Granada</addr-line>
+        <country>Spain</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sheila Izquieta-Rojano (<email xlink:type="simple">sheila.izquieta@lifewatch.es</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37196</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/24D2EE40552759EF9981A1628977D66E">24D2EE40552759EF9981A1628977D66E</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sheila Izquieta-Rojano, Antonio Torralba Silgado, Ramón González Carvajal, Jesús Marco de Lucas, Jesús de la Rosa, Esteban Manrique Reol, Jesús Miguel Santamaría Ulecia, Regino Zamora</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The main aim of the development of a Spanish Network of Excellence on Biodiversity is to strengthen the Spanish Scientific Network Community participating in LifeWatch, the E-Science European Infrastructure for Biodiversity and Ecosystem Research ERIC (<ext-link ext-link-type="uri" xlink:href="https://www.lifewatch.eu/">https://www.lifewatch.eu</ext-link>). Through this e-infrastructure several resources and services are provided to the scientific community working on this field (catalogues of virtual labs (VREs), data and services) (<ext-link ext-link-type="uri" xlink:href="https://www.lifewatch.eu/web/guest/catalogue-of-virtual-labs">https://www.lifewatch.eu/web/guest/catalogue-of-virtual-labs</ext-link>). The LifeWatch ERIC Statutes foresee the creation of National Nodes, which in Spain has been translated into the creation of the Joint Research Unit LifeWatch Spain (JRU - LW.ES) in 2014. This brings together several organizations and institutions carrying out research, development and innovation (RDI) activities in this field. Among others, to date the JRU - LW.ES counts on the participation of Public Research Organizations (Center for Energy, Environmental and Technological Research (CIEMAT), The Spanish National Research Council (CSIC), Spanish Institute of Oceanography (IEO), National Institute of Aerospace Technology (INTA)); International Excellence Campus &amp; Universities (ANDALUCIA TECH Universities of Seville and Málaga, Universities of Cantabria, Navarra, Extremadura, Granada, Huelva, Alcalá de Henares (Madrid), Pablo de Olavide); Ministry of Agriculture, Fishing, Food and Environment (Spanish Inventory for Natural and Biodiversity Heritage, Fundación Biodiversidad, Directorate-General for Water-River Basin Authorities, Green Infrastructure); Technology and Innovation Parks-Institutions (Andalusica Technological Park (PTA), Cartuja93, Technological Institute Galicia (ITG)); Regional and Local Authorities (Junta Andalucía), and Port Authorities (Cartagena, Huelva, Seville). These organizations have expressed their interest in integrating into a network of excellence to promote biodiversity research, addressing major environmental challenges, and supporting knowledge-based strategic solutions for environmental preservation. This scientific network, associated with the e-infrastructure LifeWatch ERIC, aims to bring together the critical mass of resources and experience in the field of biodiversity present within Spain, taking advantage of the information and communication technology (ICT) tools and facilities that offer the necessary infrastructure, operating in synergy with national research plans. In essence, the creation of this network aims to consolidate a focus of excellence in Spain in the field of biodiversity, promoting the implementation of joint European projects and contributing to the objectives set in the LifeWatch ERIC.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>e-infrastructures</kwd>
+        <kwd>Virtual Research Environments (VREs)</kwd>
+        <kwd>Lifewatch ERIC</kwd>
+        <kwd>Spanish Scientific Network of Excellence</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>ecology</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sheila Izquieta-Rojano</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

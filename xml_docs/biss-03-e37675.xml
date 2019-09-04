@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37675</article-id>
+      <article-id pub-id-type="publisher-id">37675</article-id>
+      <article-id pub-id-type="manuscript">11472</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Beaty Biodiversity Museum Collection and Observation Databases: Towards a single search interface</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Rowswell</surname>
+            <given-names>David</given-names>
+          </name>
+          <email xlink:type="simple">davi144@mail.ubc.ca</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jennings (Lipsen)</surname>
+            <given-names>Linda</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bailly</surname>
+            <given-names>Nicolas</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4994-0653</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Beaty Biodiversity Museum, Vancouver, Canada</addr-line>
+        <institution>Beaty Biodiversity Museum</institution>
+        <addr-line content-type="city">Vancouver</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of British Columbia, Vancouver, Canada</addr-line>
+        <institution>University of British Columbia</institution>
+        <addr-line content-type="city">Vancouver</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: David Rowswell (<email xlink:type="simple">davi144@mail.ubc.ca</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37675</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/49AD9BEC385853DA94637613D6377C61">49AD9BEC385853DA94637613D6377C61</uri>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>David Rowswell, Linda Jennings (Lipsen), Nicolas Bailly</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The <ext-link ext-link-type="uri" xlink:href="http://beatymuseum.ubc.ca/">Beaty Biodiversity Museum</ext-link> (BBM), at the University of British Columbia, houses over two million biological research specimens, with nearly 40% of the specimen records digitized into databases, unlocking a wealth of information for research and teaching (Table <xref ref-type="table" rid="T5192905">1</xref>). However, these collection databases were neither available nor unified for users. Even museum and collections staff could not digitally access each other’s collections. With a total of 6 collections (in different colors in Fig. <xref ref-type="fig" rid="F5193006">1</xref>) in 13 separate databases in differing stages of development, across several varying interfaces and systems, our goal was to unify the collection databases through the development of a single search interface (Fig. <xref ref-type="fig" rid="F5193006">1</xref>).</p>
+        <p>This was a large collections project with multiple stages of development. Integration of the data was made possible through the efforts of multiple groups to standardize the fields of each database so they conformed to the <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/standards/dwc/">Darwin Core standard </ext-link>(<xref ref-type="bibr" rid="B5218757">Group 2009</xref>). This mapping of fields allows each of the databases to be displayed and shared in a consistent format. It also simplified the integration of data for popular data aggregators (<ext-link ext-link-type="uri" xlink:href="https://www.canadensys.net/">Canadensys</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://vertnet.org/">VertNet</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.fishnet2.net/">FishNet2</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://www.pnwherbaria.org/">Consortium of Pacific Northwest Herbaria</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://ibis.geog.ubc.ca/biodiversity/eflora/">Electronic Atlas of the Plants of British Columbia</ext-link>, and <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">Global Biodiversity Information Facility</ext-link>). When this first step was achieved, many features such as standarized georeferencing, simplified reporting and unified search interfaces could be implemented to aid all users, e.g., curators, museum staff, researchers, and the public. Through this new interface, it is possible to browse the near entirety of every digitized record within the museum with an in-house solution provided by the Beaty Biodiversity Museum.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Beaty Biodiversity Museum</kwd>
+        <kwd>University of British Columbia</kwd>
+        <kwd>Darwin Core</kwd>
+        <kwd>unified search interface</kwd>
+        <kwd>collection research</kwd>
+        <kwd>databases</kwd>
+        <kwd>record search</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="1"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nicolas Bailly</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5218757">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Group</surname>
+              <given-names>Darwin Core Task</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Darwin Core (Kampmeier G, review manager)</article-title>
+          <publisher-name>Biodiversity Information Standards (TDWG)</publisher-name>
+          <date-in-citation content-type="released">2009-10-09T00:00:00+03:00</date-in-citation>
+          <uri>http://www.tdwg.org/standards/450</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5193006" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Home page of the interface where one can navigate to any of the searchable collections. (Still in beta, Stable URL is not available yet but it is currently here: <ext-link ext-link-type="uri" xlink:href="https://herbweb.botany.ubc.ca/testSite/">https://herbweb.botany.ubc.ca/testSite/</ext-link>).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37675-g001.jpg" position="float" id="oo_298842.JPG" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <table-wrap id="T5192905" position="float" orientation="portrait">
+      <label>Table 1.</label>
+      <caption>
+        <p>Current Searchable Record Count per Database</p>
+      </caption>
+      <table rules="all" border="1" cellpadding="0" cellspacing="0" style="width: 480px;">
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">
+              <bold>Databases</bold>
+            </td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">
+              <bold>Records</bold>
+            </td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Vascular</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">181,735</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Algae</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">75,259</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Fungi</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">32,822</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Bryophytes</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">215,967</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Lichen</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">56,689</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Avian</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">22,117</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Herpetology</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">1,895</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Mammal</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">20,314</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Entomology</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">68,959</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Fish</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">34,815</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Dry Marine Invertebrate</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">7,064</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Wet Marine Invertebrate</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">3,052</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 392px;">Fossil</td>
+            <td rowspan="1" colspan="1" style="vertical-align: top; width: 352px;">5,515</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>

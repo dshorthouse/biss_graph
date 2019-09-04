@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37044</article-id>
+      <article-id pub-id-type="publisher-id">37044</article-id>
+      <article-id pub-id-type="manuscript">11129</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>What 5 Years of Digitisation Teaches Us About What Comes Next</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hardy</surname>
+            <given-names>Helen</given-names>
+          </name>
+          <email xlink:type="simple">h.hardy@nhm.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9206-8357</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Smith</surname>
+            <given-names>Vincent Stuart</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Livermore</surname>
+            <given-names>Laurence</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7341-1842</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Allan</surname>
+            <given-names>Elizabeth Louise L</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5148-002X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dupont</surname>
+            <given-names>Steen</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6766-2840</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Woodburn</surname>
+            <given-names>Matt</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6496-1423</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vincent</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4012-0571</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">The Natural History Museum, London, United Kingdom</addr-line>
+        <institution>The Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Connecticut, Storrs, United States of America</addr-line>
+        <institution>University of Connecticut</institution>
+        <addr-line content-type="city">Storrs</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Helen Hardy (<email xlink:type="simple">h.hardy@nhm.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37044</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5633B9845E42513C9762974822F6FE31">5633B9845E42513C9762974822F6FE31</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Helen Hardy, Vincent Stuart Smith, Laurence Livermore, Elizabeth Louise L Allan, Steen Dupont, Matt Woodburn, Sarah Vincent</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Natural History Museum, London (NHM) has now carried out more than five years of digitisation under its Digital Collections Programme (DCP), working with peers from around the world as well as with industrial partners. Data from this and similar programmes are a key input to shared infrastructures and knowledge, for informing research and decision-making for a sustainable future. In keeping with the Biodiversity Next aims of sharing experiences, promoting innovation and inspiring the next leap forward, this presentation will share key lessons learned, including what has gone well and what we will change going into the next phase.</p>
+        <p>To tackle the challenge of 80 million items, prioritisation is always at the forefront of NHM’s approach. Scientific and public value, as well as feasibility, have remained at the core, but we will share how and why our prioritisation methods have evolved over time, managing multiple sources of project ideas to develop a balanced portfolio of mass digitisation, pilot studies and bespoke projects for key specimens that do not lend themselves to a mass approach.</p>
+        <p>The DCP is not just a set of digitisation projects or workflows – it has always been intended as a business transformation programme, catalysing much wider organisational and cultural changes. In key areas, including data standards and the Museum’s data portal, DCP has led the way and changes have matured into ‘business as usual’. The Programme and portal teams have been a focus for a much wider span of digitising and databasing activity, involving curators and others, and lead or input to a growing technology portfolio, e.g. influencing collections management systems and data storage. We will discuss our ‘culture is as culture does’ approach to change management.</p>
+        <p>From an early stage, DCP has sought to work with industrial and commercial partners, benefiting from their expertise and resources. We have also worked continuously to raise additional funds by ‘selling’ the Programme. This comes with considerable challenges, including selecting the right ‘window’ on digitisation for each potential partner or funder; managing internal resource demands e.g. to give tours and respond to partner needs; and finding the right partners for different projects. When it works, however, this can give access to new resources and approaches, pushing digitisation forward.</p>
+        <p>To make the case for continued investment in the Programme, including the digitiser team, NHM has worked to develop a data-driven approach, consistently measuring the time and cost of digitisation workflows, as well as continuously improving the wider case around the impact of digital collections data, drawing on sources such as citations collated by GBIF. Sometimes that data, and assessment of lessons learned, has led us to stop or change our approach, for example to crowdsourcing transcription. A key challenge going forward remains how to estimate economic value from collections, their data, and the research that uses them, to give us the strongest possible case for the next stages of global efforts to digitise natural history collections.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>collections</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>digitization</kwd>
+        <kwd>data</kwd>
+        <kwd>digital collections</kwd>
+        <kwd>programme management</kwd>
+        <kwd>project management</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Helen Hardy</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

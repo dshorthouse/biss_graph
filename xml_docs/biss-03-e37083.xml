@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37083</article-id>
+      <article-id pub-id-type="publisher-id">37083</article-id>
+      <article-id pub-id-type="manuscript">11176</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Multi-context Knowledge Base using Calculated Descriptors from Xper3: the Archaeocyaths Knowledge Base example</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kerner</surname>
+            <given-names>Adeline</given-names>
+          </name>
+          <email xlink:type="simple">kerner@mnhn.fr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0101-8662</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vignes Lebbe</surname>
+            <given-names>Régine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">UMR 7207 – Centre de Recherches en Paléontologie - Paris CNRS – Sorbonne Université - MNHN, Paris, France</addr-line>
+        <institution>UMR 7207 – Centre de Recherches en Paléontologie - Paris CNRS – Sorbonne Université - MNHN</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Sorbonne Université, MNHN, CNRS, EPHE, Université des Antilles, Institut Systématique Évolution Biodiversité, ISYEB, Paris, France</addr-line>
+        <institution>Sorbonne Université, MNHN, CNRS, EPHE, Université des Antilles, Institut Systématique Évolution Biodiversité, ISYEB</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Adeline Kerner (<email xlink:type="simple">kerner@mnhn.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37083</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5B8CDC200F59555C8BC539F981358E30">5B8CDC200F59555C8BC539F981358E30</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Adeline Kerner, Régine Vignes Lebbe</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Natural sciences need to make assertions about characteristics of taxa. Traits and qualities or descriptors and states become increasingly crucial as a resource for identification adapted to both scientists and the public. Specialists, non-specialists, and the general public need different strategies for accessing the information. Creating a knowledge base is time-consuming and adapting this base to several needs seems to increase the required time substantially. Specialists think that an identification tool requires a complete overhaul when they want to change the target audience or the language... so they do not wish to get involved. How to minimize creation and update time? How to aggregate data only once in order to create a single knowledge base with different access levels?</p>
+        <p>Strategies for integrating different patterns of descriptors in a single knowledge base are useful to modulate descriptions without loss of information and with the certainty that everything is up to date in each context. This multi-context knowledge base, derived from a single trait dataset, can generate descriptions adapted to different contexts and users. To address this issue, we propose to use calculated descriptors in order to have on the same knowledge base, different versions of descriptors that are updated automatically when the reference trait is modified. Calculated descriptors are a distinctive feature of Xper3. These descriptors are automatically computed from other descriptors by using logical operators (boolean operators).</p>
+        <p>Xper3 (<ext-link ext-link-type="uri" xlink:href="http://www.xper3.com/">http://www.xper3.com</ext-link>) is a web platform that manages descriptive data and provides interactive identification keys. Xper3 and its previous version, Xper2, have been used already for various taxonomic groups. We will focus on fossils in order to reveal how calculated descriptors in Xper3 knowledge bases can solve the multi-context problem. The main source of content is the archaeocyaths knowledge base (<ext-link ext-link-type="uri" xlink:href="http://archaeocyatha.infosyslab.fr">http://archaeocyatha.infosyslab.fr</ext-link>).</p>
+        <p>Archaeocyaths are the first animals to build reefs during the Cambrian. They are calcified sponges without spicules. The archaeocyaths knowledge base is an efficient resource for scientific studies and a useful tool for non-specialists, especially with the support of calculated descriptors. Correspondence between archaeocyath and sponge morphologies is not ready yet, but everything will be included into PORO (The Porifera Ontology, <ext-link ext-link-type="uri" xlink:href="http://purl.obolibrary.org/obo/poro/releases/2014-03-06/">http://purl.obolibrary.org/obo/poro/releases/2014-03-06/</ext-link>) in the short term (an anatomy ontology about sponges).</p>
+        <p>In this knowledge base, calculated descriptors are used to:</p>
+        <p>
+          <list list-type="order"><list-item><p>create a consistent multilingual interactive identification key (French and English are available and Russian is in draft),</p></list-item><list-item><p>generate descriptors adapted to different level of expertise and</p></list-item><list-item><p>reword morphological descriptors (adapted for identification) into homologous characters (adapted for phylogeny).</p></list-item></list>
+        </p>
+        <p>Xper2 and Xper3 are compatible with TDWG’s Structured Descriptive Data (SDD) format. Calculated descriptors do not exist in SDD format and so they are exported from Xper3 as categorical descriptors, therefore losing the origin of values. Calculated descriptors are powerful and we are interested in discussing these with SDD and Xper3 users in order to improve the user interface and develop new tools for the analysis of such descriptors.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>knowledge base</kwd>
+        <kwd>calculated descriptors</kwd>
+        <kwd>Xper3</kwd>
+        <kwd>Archaeocyatha</kwd>
+        <kwd>palaeontology</kwd>
+        <kwd>identification</kwd>
+        <kwd>logical operators</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Adeline Kerner</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

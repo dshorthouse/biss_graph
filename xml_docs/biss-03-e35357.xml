@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35357</article-id>
+      <article-id pub-id-type="publisher-id">35357</article-id>
+      <article-id pub-id-type="manuscript">11060</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI68 - The World Flora Online – Creating a Research Infrastructure of global integrated data for all plants</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Global Caryophyllales Initiative: Towards an updated taxonomic backbone and a dynamic monograph of a major plant group</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>von Mering</surname>
+            <given-names>Sabine</given-names>
+          </name>
+          <email xlink:type="simple">s.vonmering@bgbm.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2982-7792</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Akhani</surname>
+            <given-names>Hossein</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Arias</surname>
+            <given-names>Salvador</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Berendsohn</surname>
+            <given-names>Walter G.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9945-7606</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Borsch</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Castañeda-Noa</surname>
+            <given-names>Idelfonso</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>de Vos</surname>
+            <given-names>Jurriaan M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dillenberger</surname>
+            <given-names>Markus S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Eggli</surname>
+            <given-names>Urs</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fleischmann</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Flores-Olvera</surname>
+            <given-names>Maria Hilda</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hernández-Ledesma</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A11">11</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kadereit</surname>
+            <given-names>Gudrun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A12">12</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Klak</surname>
+            <given-names>Cornelia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A13">13</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Korotkova</surname>
+            <given-names>Nadja</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Malekmohammadi</surname>
+            <given-names>Maryam</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Moore</surname>
+            <given-names>Abigail J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A14">14</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nyffeler</surname>
+            <given-names>Reto</given-names>
+          </name>
+          <xref ref-type="aff" rid="A15">15</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ocampo</surname>
+            <given-names>Gilberto</given-names>
+          </name>
+          <xref ref-type="aff" rid="A16">16</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ortiz Díaz</surname>
+            <given-names>Juan Javier</given-names>
+          </name>
+          <xref ref-type="aff" rid="A17">17</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Oxelman</surname>
+            <given-names>Bengt</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6104-4264</uri>
+          <xref ref-type="aff" rid="A18">18</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rabeler</surname>
+            <given-names>Richard K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A19">19</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schlumpberger</surname>
+            <given-names>Boris O.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A20">20</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schuster</surname>
+            <given-names>Tanja M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A21">21</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Timaná</surname>
+            <given-names>Martín E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A22">22</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Uotila</surname>
+            <given-names>Pertti</given-names>
+          </name>
+          <xref ref-type="aff" rid="A23">23</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zuloaga</surname>
+            <given-names>Fernando O.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A24">24</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Botanic Garden and Botanical Museum, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin, Botanic Garden and Botanical Museum</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Halophytes and C4 Plants Research Laboratory, Department of Plant Sciences, School of Biology, College of Science, University of Tehran, Tehran, Iran</addr-line>
+        <institution>Halophytes and C4 Plants Research Laboratory, Department of Plant Sciences, School of Biology, College of Science, University of Tehran</institution>
+        <addr-line content-type="city">Tehran</addr-line>
+        <country>Iran</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Instituto de Biología, Universidad Nacional Autónoma de México (UNAM), Mexico City, Mexico</addr-line>
+        <institution>Instituto de Biología, Universidad Nacional Autónoma de México (UNAM)</institution>
+        <addr-line content-type="city">Mexico City</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Freie Universitaet Berlin, Berlin, Germany</addr-line>
+        <institution>Freie Universitaet Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Institute of Biology, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin, Institute of Biology</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Jardín Botánico de Villa Clara, Universidad Central “Marta Abreu” de Las Villas, Santa Clara, Cuba</addr-line>
+        <institution>Jardín Botánico de Villa Clara, Universidad Central “Marta Abreu” de Las Villas</institution>
+        <addr-line content-type="city">Santa Clara</addr-line>
+        <country>Cuba</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Department of Environmental Sciences - Botany, University of Basel, Basel, Switzerland</addr-line>
+        <institution>Department of Environmental Sciences - Botany, University of Basel</institution>
+        <addr-line content-type="city">Basel</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">Institut für Organismische und Molekulare Evolutionsbiologie, Johannes Gutenberg-Universität Mainz, Mainz, Germany</addr-line>
+        <institution>Institut für Organismische und Molekulare Evolutionsbiologie, Johannes Gutenberg-Universität Mainz</institution>
+        <addr-line content-type="city">Mainz</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim">Sukkulenten-Sammlung Zürich / Grün Stadt Zürich, Zurich, Switzerland</addr-line>
+        <institution>Sukkulenten-Sammlung Zürich / Grün Stadt Zürich</institution>
+        <addr-line content-type="city">Zurich</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">Botanische Staatssammlung München, Munich, Germany</addr-line>
+        <institution>Botanische Staatssammlung München</institution>
+        <addr-line content-type="city">Munich</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A11">
+        <label>11</label>
+        <addr-line content-type="verbatim">Instituto de Ecología, Pátzcuaro, Michoacán, Mexico</addr-line>
+        <institution>Instituto de Ecología</institution>
+        <addr-line content-type="city">Pátzcuaro, Michoacán</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <aff id="A12">
+        <label>12</label>
+        <addr-line content-type="verbatim">Institut für Molekulare Physiologie, AG Biodiversität und Evolution der Pflanzen, Johannes Gutenberg-Universität Mainz, Mainz, Germany</addr-line>
+        <institution>Institut für Molekulare Physiologie, AG Biodiversität und Evolution der Pflanzen, Johannes Gutenberg-Universität Mainz</institution>
+        <addr-line content-type="city">Mainz</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A13">
+        <label>13</label>
+        <addr-line content-type="verbatim">Bolus Herbarium, Department of Biological Sciences, University of Cape Town, Rondebosch, South Africa</addr-line>
+        <institution>Bolus Herbarium, Department of Biological Sciences, University of Cape Town</institution>
+        <addr-line content-type="city">Rondebosch</addr-line>
+        <country>South Africa</country>
+      </aff>
+      <aff id="A14">
+        <label>14</label>
+        <addr-line content-type="verbatim">Department of Microbiology and Plant Biology and Oklahoma Biological Survey, University of Oklahoma, Norman, OK, United States of America</addr-line>
+        <institution>Department of Microbiology and Plant Biology and Oklahoma Biological Survey, University of Oklahoma</institution>
+        <addr-line content-type="city">Norman, OK</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A15">
+        <label>15</label>
+        <addr-line content-type="verbatim">Institute of Systematic and Evolutionary Botany, University of Zurich, Zurich, Switzerland</addr-line>
+        <institution>Institute of Systematic and Evolutionary Botany, University of Zurich</institution>
+        <addr-line content-type="city">Zurich</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A16">
+        <label>16</label>
+        <addr-line content-type="verbatim">Departamento de Biología, Universidad Autónoma de Aguascalientes, Aguascalientes, Mexico</addr-line>
+        <institution>Departamento de Biología, Universidad Autónoma de Aguascalientes</institution>
+        <addr-line content-type="city">Aguascalientes</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <aff id="A17">
+        <label>17</label>
+        <addr-line content-type="verbatim">Departamento de Botánica, Universidad Autónoma de Yucatán, Mérida, Mexico</addr-line>
+        <institution>Departamento de Botánica, Universidad Autónoma de Yucatán</institution>
+        <addr-line content-type="city">Mérida</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <aff id="A18">
+        <label>18</label>
+        <addr-line content-type="verbatim">Department of Biological and Environmental Sciences, University of Gothenburg, Göteborg, Sweden</addr-line>
+        <institution>Department of Biological and Environmental Sciences, University of Gothenburg</institution>
+        <addr-line content-type="city">Göteborg</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <aff id="A19">
+        <label>19</label>
+        <addr-line content-type="verbatim">University of Michigan Herbarium-EEB, Ann Arbor, MI, United States of America</addr-line>
+        <institution>University of Michigan Herbarium-EEB</institution>
+        <addr-line content-type="city">Ann Arbor, MI</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A20">
+        <label>20</label>
+        <addr-line content-type="verbatim">Herrenhäuser Gärten, Hannover, Germany</addr-line>
+        <institution>Herrenhäuser Gärten</institution>
+        <addr-line content-type="city">Hannover</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A21">
+        <label>21</label>
+        <addr-line content-type="verbatim">Systematic Botany and Mycology, Ludwig-Maximilians-Universität München, Munich, Germany</addr-line>
+        <institution>Systematic Botany and Mycology, Ludwig-Maximilians-Universität München</institution>
+        <addr-line content-type="city">Munich</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A22">
+        <label>22</label>
+        <addr-line content-type="verbatim">Departamento de Humanidades, Sección Geografía, and Centro de Investigación en Geografía Aplicada (CIGA), Pontificia Universidad Católica del Perú, Lima, Peru</addr-line>
+        <institution>Departamento de Humanidades, Sección Geografía, and Centro de Investigación en Geografía Aplicada (CIGA), Pontificia Universidad Católica del Perú</institution>
+        <addr-line content-type="city">Lima</addr-line>
+        <country>Peru</country>
+      </aff>
+      <aff id="A23">
+        <label>23</label>
+        <addr-line content-type="verbatim">Botanical Museum, Finnish Museum of Natural History, University of Helsinki, Helsinki, Finland</addr-line>
+        <institution>Botanical Museum, Finnish Museum of Natural History, University of Helsinki</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A24">
+        <label>24</label>
+        <addr-line content-type="verbatim">Instituto de Botánica Darwinion, San Isidro, Buenos Aires, Argentina</addr-line>
+        <institution>Instituto de Botánica Darwinion</institution>
+        <addr-line content-type="city">San Isidro, Buenos Aires</addr-line>
+        <country>Argentina</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sabine von Mering (<email xlink:type="simple">s.vonmering@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35357</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DFC99B83BED2532F8BEF1CA9EC9C9229">DFC99B83BED2532F8BEF1CA9EC9C9229</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sabine von Mering, Hossein Akhani, Salvador Arias, Walter G. Berendsohn, Thomas Borsch, Idelfonso Castañeda-Noa, Jurriaan M. de Vos, Markus S. Dillenberger, Urs Eggli, Andreas Fleischmann, Maria Hilda Flores-Olvera, Patricia Hernández-Ledesma, Gudrun Kadereit, Cornelia Klak, Nadja Korotkova, Maryam Malekmohammadi, Abigail J. Moore, Reto Nyffeler, Gilberto Ocampo, Juan Javier Ortiz Díaz, Bengt Oxelman, Richard K. Rabeler, Boris O. Schlumpberger, Tanja M. Schuster, Martín E. Timaná, Pertti Uotila, Fernando O. Zuloaga</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The ongoing paradigm shift in taxonomy from individual contributions to a truly collaborative and forward-looking endeavour results in a number of challenges related to distributed data management. Examination of physical specimens remains a key task, but searching for specimen data, literature, and name information is now mostly done online. In the past, these research steps involved many physical visits to collections and libraries. Although these infrastructures were and are still freely accessible and supportive for research carried out by individuals, the amount of characters, specimens, and the complexity of current analytical approaches limit what can be achieved by individual workers. Monographing is challenged because:</p>
+        <p>
+          <list list-type="order"><list-item><p>larger genera remain unstudied and become fragmented in regional treatments;</p></list-item><list-item><p>long-term availability of detailed (unpublished) primary research data is often not addressed;</p></list-item><list-item><p>cross-disciplinary interoperability and open data principles are needed; and</p></list-item><list-item><p>highly specialised techniques used in phylogenetic and genomic analyses require teamwork by specialists.</p></list-item></list>
+        </p>
+        <p>The process towards generating truly community-based integrative dynamic taxonomic treatments is ongoing. In botany, specialist communities and networks have formed for certain plant groups, for example in the families Solanaceae, Brassicaceae, Fabaceae, Poaceae, Melastomataceae-Miconieae, Asteraceae-Cichorieae, and in the order Caryophyllales. Their common aim is to create sustainable information systems according to the FAIR principles, making the information Findable, Accessible, Interoperable and Reusable. At the same time, the information system is meant to support and document ongoing taxonomic research as an iterative process with tracking of changes, and backlinks to original data sources. This represents a big step forward with respect to the efficiency of the entire field of taxonomy.</p>
+        <p>The Global Caryophyllales Initiative aims at creating a global synthesis of species diversity in this group (<xref ref-type="bibr" rid="B5187426">Borsch et al. 2015</xref>) encompassing about 12,500 species in more than 30 families or about 6% of flowering plants (Fig. <xref ref-type="fig" rid="F5190498">1</xref>). Caryophyllales include ecologically diverse, economically important, invasive, and threatened species. The Caryophyllales Network was initiated in 2011 and unites specialists from across the world (to date, 150 scientists from 37 countries). The network is recognized by the World Flora Online (WFO) Council as its Taxonomic Expert Network for Caryophyllales.</p>
+        <p>Advances by the network are presented in the open-access Caryophyllales Portal (<ext-link ext-link-type="uri" xlink:href="http://caryophyllales.org/">http://caryophyllales.org/</ext-link>), aiming to provide up-to-date phylogenetic and taxonomic information. The systematic treatment is powered by the EDIT Platform for Cybertaxonomy (<ext-link ext-link-type="uri" xlink:href="https://cybertaxonomy.eu/">https://cybertaxonomy.eu/</ext-link>), with the generic checklist (<ext-link ext-link-type="uri" xlink:href="http://caryophyllales.org/Checklist">http://caryophyllales.org/Checklist</ext-link>) and some family treatments already publicly available (e.g. Cactaceae). The checklist is regularly updated in consultation with family editors. A species-level taxonomic backbone incorporating all names and pertinent nomenclatural acts and evaluations is being compiled. A compilation of the Nepenthaceae (<xref ref-type="bibr" rid="B5187583">Berendsohn et al. 2018</xref>) served as a case study for the accommodation of descriptive and other factual data, and for demonstrating the feasibility of the workflow contributing to the WFO initiative. The taxonomic treatment of <italic>Iresine</italic> (<xref ref-type="bibr" rid="B5187469">Borsch et al. 2018</xref>) is another example. These studies are fundamental in establishing a general workflow for collaborative online monographs.</p>
+        <p>Several challenges remain, <italic>inter alia</italic> the genomics perspective in biodiversity informatics, proper attribution and unique identification of taxonomic concepts, review and impact assessment of individual contributions, possibilities to simultaneously display contrasting taxonomical concepts and classifications, and engaging both the wider taxonomic community and the public.</p>
+        <p>The ongoing implementation shows that a dynamic online monograph requires rethinking of editorial workflows. Based on experiences with the Caryophyllales network, the taxonomic and biodiversity informatics communities are ready to meet this challenge.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sabine von Mering</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5187583">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Borsch</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kohlbecker</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Korotkova</surname>
+              <given-names>Nadja</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Luther</surname>
+              <given-names>Katja</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Plitzner</surname>
+              <given-names>Patrick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>von Mering</surname>
+              <given-names>Sabine</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Using the EDIT Platform for Cybertaxonomy to prepare and publish a treatment for the Caryophyllales Network: an online synthesis of the Nepenthaceae</article-title>
+          <source>Willdenowia</source>
+          <volume>48</volume>
+          <issue>3</issue>
+          <fpage>335</fpage>
+          <lpage>344</lpage>
+          <pub-id pub-id-type="doi">10.3372/wi.48.48301</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187426">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Borsch</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hernández-Ledesma</surname>
+              <given-names>Patricia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Flores-Olvera</surname>
+              <given-names>Hilda</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ochoterena</surname>
+              <given-names>Helga</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zuloaga</surname>
+              <given-names>Fernando O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>von Mering</surname>
+              <given-names>Sabine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kilian</surname>
+              <given-names>Norbert</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>An integrative and dynamic approach for monographing species-rich plant groups – Building the global synthesis of the angiosperm order Caryophyllales</article-title>
+          <source>Perspectives in Plant Ecology, Evolution and Systematics</source>
+          <volume>17</volume>
+          <issue>4</issue>
+          <fpage>284</fpage>
+          <lpage>300</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ppees.2015.05.003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187469">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Borsch</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Flores-Olvera</surname>
+              <given-names>Hilda</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zumaya</surname>
+              <given-names>Silvia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>Kai</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Pollen characters and DNA sequence data converge on a monophyletic genus <italic>Iresine</italic> (Amaranthaceae, Caryophyllales) and help to elucidate its species diversity</article-title>
+          <source>Taxon</source>
+          <volume>67</volume>
+          <issue>5</issue>
+          <fpage>944</fpage>
+          <lpage>976</lpage>
+          <pub-id pub-id-type="doi">10.12705/675.7</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5190498" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Caryophyllales diversity: Examples shown are <italic>Pereskia sacharosa</italic> Griseb. (Cactaceae), <italic>Portulaca mexicana</italic> P.Wilson (Portulacaceae), <italic>Agrostemma githago</italic> L. (Caryophyllaceae), <italic>Limonium mucronatum</italic> (L.f.) Chaz. (Plumbaginaceae), <italic>Drosera aliciae </italic>Raym.-Hamet. (Droseraceae), and <italic>Antigonon leptopus</italic> Hook. &amp; Arn. (Polygonaceae). Photographs: B. Schlumpberger (A), G. Ocampo (B), N. Korotkova (C-E), I. Castañeda-Noa (F).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e35357-g001.png" position="float" id="oo_291799.PNG" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

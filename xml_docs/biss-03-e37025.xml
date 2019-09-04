@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37025</article-id>
+      <article-id pub-id-type="publisher-id">37025</article-id>
+      <article-id pub-id-type="manuscript">11112</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mapping the Impact of Digitisation for Poorly Documented Countries: Mozambique as a case study</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Neves</surname>
+            <given-names>Isabel Queirós</given-names>
+          </name>
+          <email xlink:type="simple">i.queirosneves@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1545-1512</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mathias</surname>
+            <given-names>Maria da Luz</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bastos-Silveira</surname>
+            <given-names>Cristiane</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8249-9383</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Departamento de Biologia Animal, Faculdade de Ciências da Universidade de Lisboa (FCUL), Lisboa, Portugal</addr-line>
+        <institution>Departamento de Biologia Animal, Faculdade de Ciências da Universidade de Lisboa (FCUL)</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Museu Nacional de História Natural e da Ciência, Universidade de Lisboa, Lisboa, Portugal</addr-line>
+        <institution>Museu Nacional de História Natural e da Ciência, Universidade de Lisboa</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Centre for Environmental and Marine Studies (CESAM), FCUL, Lisboa, Portugal</addr-line>
+        <institution>Centre for Environmental and Marine Studies (CESAM), FCUL</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Natural History and Systematics Research Group - cE3c, FCUL, Lisboa, Portugal</addr-line>
+        <institution>Natural History and Systematics Research Group - cE3c, FCUL</institution>
+        <addr-line content-type="city">Lisboa</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Isabel Queirós Neves (<email xlink:type="simple">i.queirosneves@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37025</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/C876617B53D85F1D8F89EBA2F6DFFD9A">C876617B53D85F1D8F89EBA2F6DFFD9A</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Isabel Queirós Neves, Maria da Luz Mathias, Cristiane Bastos-Silveira</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Despite the rise of the global availability of biodiversity data by digitisation, essential regions of the world remain poorly documented (<xref ref-type="bibr" rid="B5188538">Peterson et al. 2015</xref>). Research-neglected regions that lack quality information, are mainly the species-rich and developing nations (<xref ref-type="bibr" rid="B5188370">Gaikwad and Chavan 2006</xref>). Mozambique is an African country without a wide-ranging knowledge regarding its fauna’s diversity and distribution (<xref ref-type="bibr" rid="B5188567">Neves et al. 2018</xref>). Undeniably, this country's knowledge gaps constitute a significant impediment for the improvement of effective conservation measures. Primary species occurrence data across dispersed data sources can be a cost-effective resource for boosting knowledge about a country’s biodiversity.</p>
+        <p>Aiming to aggregate a comprehensive dataset of Mozambique’s terrestrial mammals, we compiled primary species occurrence data from dispersed data sources. The produced dataset not only gathered digitalised accessible knowledge (DAK) from the Global Biodiversity Information Facility (GBIF) and natural history collections, but also retrieved and digitalised species occurrence data enclosed in grey and scientific literature.</p>
+        <p>Particularly for poorly documented countries, filling data gaps are crucial for new and broad insights for biodiversity research and preservation. Thus, quantification of the effects of data digitisation and mobilisation goes beyond the specific goals of organisations, institutions or data-sharing resources. The impact of data digitisation should be disseminated, not only by the number of publications and times data are accessed (<xref ref-type="bibr" rid="B5188471">Nelson and Ellis 2018</xref>), but also by the actual achievements in regions covered by DAK. To highlight the impact of further data digitisation in a poorly documented country, we examine the effective gain of further digitisation and data cleaning on the terrestrial mammals from Mozambique. We demonstrate the increase in the overall knowledge, not merely in terms of number of species, number of records, and country’s coverage, but from the production of outputs with potential value for data-driven conservation research and planning.</p>
+        <p>More than 17000 records were compiled. The digitisation of data in literature as well as data cleaning and quality improvements resulted in a substantial increase in the amount of DAK, which acknowledges Mozambique’s high species diversity (Fig. <xref ref-type="fig" rid="F5191465">1</xref>). The digitisation and data mobilisation hereby described allowed for the update of the country’s terrestrial mammals checklist (<xref ref-type="bibr" rid="B5188567">Neves et al. 2018</xref>). The final dataset also expands the knowledge of the most poorly documented provinces, allowing generation of a data-driven proposal of priority areas to survey (in review). Also, an assessment of Mozambique’s conservation network effectiveness for mammal protection was performed, and additional relevant areas were suggested (in prep.).</p>
+        <p>The dataset compiled is an important "stepping stone" towards an enhanced knowledge of Mozambique’s fauna. Biodiversity conservation and management in developing countries rich in natural resources, which often must deal with a lack of internal capacity for applied research and conservation actions, are challenges. Considering that digitisation and mobilisation of biodiversity data are resourceful processes for improving knowledge, collaborative work between institutions of those countries and international data-provider communities could, in the short term, successfully improve the information baseline to support decision-making in future conservation and management actions.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>species-occurrence data</kwd>
+        <kwd>Africa</kwd>
+        <kwd>mammals</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>knowledge gap</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Isabel Queirós Neves</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5188370">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Gaikwad</surname>
+              <given-names>Jitendra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chavan</surname>
+              <given-names>Vishwas</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Open access and biodiversity conservation: challenges and potentials for the developing world</article-title>
+          <source>Data Science Journal</source>
+          <volume>5</volume>
+          <fpage>1</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.2481/dsj.5.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5188471">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Nelson</surname>
+              <given-names>Gil</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ellis</surname>
+              <given-names>Shari</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>The history and impact of digitization and digital data mobilization on biodiversity research</article-title>
+          <source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+          <volume>374</volume>
+          <issue>1763</issue>
+          <pub-id pub-id-type="doi">10.1098/rstb.2017.0391</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5188567">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Neves</surname>
+              <given-names>Isabel Q.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Da Luz Mathias</surname>
+              <given-names>Maria</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bastos-Silveira</surname>
+              <given-names>Cristiane</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>The terrestrial mammals of Mozambique: integrating dispersed biodiversity data</article-title>
+          <source>Bothalia</source>
+          <volume>48</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.4102/abc.v48i1.2330</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5188538">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Peterson</surname>
+              <given-names>A Townsend</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Soberón</surname>
+              <given-names>Jorge</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Krishtalka</surname>
+              <given-names>Leonard</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>A global perspective on decadal challenges and priorities in biodiversity informatics</article-title>
+          <source>BMC Ecology</source>
+          <volume>15</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.1186/s12898-015-0046-8</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5191465" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Mapping the knowledge gain while compiling primary species occurrence data regarding terrestrial mammals reported for Mozambique. Spatial visualisation of A) ready-to-use digitally accessible data from online resources and natural history collections; B) digital data available after quality updates, namely after georeferencing and taxonomic verification; and C) data available after digitisation of grey and scientific literature.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37025-g001.png" position="float" id="oo_291884.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

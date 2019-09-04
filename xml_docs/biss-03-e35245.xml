@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35245</article-id>
+      <article-id pub-id-type="publisher-id">35245</article-id>
+      <article-id pub-id-type="manuscript">11649</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI68 - The World Flora Online – Creating a Research Infrastructure of global integrated data for all plants</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Lessons Learned from Managing Millions of Records to Create the World Flora Online</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ulate</surname>
+            <given-names>William</given-names>
+          </name>
+          <email xlink:type="simple">william.ulate@mobot.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2863-2491</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Missouri Botanical Garden, St. Louis, MO, United States of America</addr-line>
+        <institution>Missouri Botanical Garden</institution>
+        <addr-line content-type="city">St. Louis, MO</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: William Ulate (<email xlink:type="simple">william.ulate@mobot.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35245</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/6E0A4990492552759DAD86ED55E161DA">6E0A4990492552759DAD86ED55E161DA</uri>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>William Ulate</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In 2013, the World Flora Online (WFO) Consortium Council decided to use version 1.1 of the The Plant List (TPL) to initially populate the WFO taxonomic backbone. TPL is a collaboration between the Royal Botanic Gardens, Kew, Missouri Botanical Garden and other stakeholders to create a comprehensive list of Vascular plant (flowering plants, conifers, ferns and their allies) and of Bryophytes (mosses and liverworts). By combining multiple checklist held by these institutions, TPL 1.1 contained 1,064,035 scientific plant names of species rank, 350,699 of which were accepted species names. TPL provides the <bold>Accepted</bold> Latin names linked to <bold>Synonyms</bold> by which that species has been known. It also includes <bold>Unresolved</bold> names for which the contributing data sources did not contain sufficient evidence to decide whether they were <bold>Accepted</bold> or <bold>Synonyms</bold>.</p>
+        <p>Fortunately, TPL keeps track of the provenance of names and links back to the International Plant Names Index (IPNI) repository. This provenance trace has proven crucial when giving proper credit, as well as implementing a reliable curating process in WFO that supports the incorporation of potential new content, updates and further improvements contributed by the source. We will see some examples in WFO where duplication of names is originated from combining different providers and different sources, but also cases where duplication was caused within the same provider and even within a single source.</p>
+        <p>The WFO Council also decided to adopt the software used by eMonocot.org to display and harvest the information of plants. This decision made it possible to take advantage of the efforts previously done by the Monocots group in using already defined standards and existing tools to create and validate the input files harvested. Unfortunately, no technical documentation nor support was available for the eMonocot software and adapting the software code was not an option then. Therefore, a process of reverse engineering was implemented to determine what input was expected, which harvested values were actually stored in the database and what impact, if any, they could have on the Portal function. For example, the eMonocot software always harvests content under a particular hierarchy where an authority, in this case corresponding to a family taxon, holds ownership of the taxa underneath. We will explain how this may become an issue when incorporating new endemic taxa.</p>
+        <p>To ensure a convenient quality control, processes of validation and data curation were implemented. WFO assigns a unique ID to each name in its taxonomic backbone. The guarantee of uniqueness and permanence of such IDs is essential to support a process of cumulative improvement. To obtain this ID, a tool that matches Names was developed, allowing providers to contribute revisions to the taxonomy and descriptive content associated to a taxon. The origin of changes needs to be considered when tracing and correcting errors, implementing modifications or rolling back them later.</p>
+        <p>A report about the result of requested changes in the taxonomy needs to be approved by the provider before any actual change is implemented in the taxonomic backbone. Programmatically, any process that performs quality assessment or makes data modifications must be implemented as parameterized algorithms to allow replication of the process whenever new or updated data is available from the source. Single-use scripts are quick but not very scalable.</p>
+        <p>Finally, having defined a schema to use when providing content doesn’t necessarily imply that the values provided in each field are correct. Even with standardized values, the semantics associated could cause unforeseen behavior in the process implemented by the software. When possible, an additional step was required to convert harvested data from different localized vocabularies for standardized fields. Examples in Portuguese and Turkish will be given.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Quality Control</kwd>
+        <kwd>Plants</kwd>
+        <kwd>Flora</kwd>
+        <kwd>WFO</kwd>
+        <kwd>World Flora Online</kwd>
+        <kwd>TPL</kwd>
+        <kwd>The Plant List</kwd>
+        <kwd>Taxonomic Backbone</kwd>
+        <kwd>Taxonomic Aggregators</kwd>
+        <kwd>Portal</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>William Ulate</p>
+      </sec>
+    </notes>
+  </front>
+</article>

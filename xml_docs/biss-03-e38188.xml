@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38188</article-id>
+      <article-id pub-id-type="publisher-id">38188</article-id>
+      <article-id pub-id-type="manuscript">11549</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PP - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Regional Policy Paper on the Biodiversity Information Management and Reporting in Southeast Europe</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Velagić-Hajrudinović</surname>
+            <given-names>Azra</given-names>
+          </name>
+          <email xlink:type="simple">azra.velagic-hajrudinovic@giz.de</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Project Manager of the Regional Network for Biodiversity Information Management and Reporting (BIMR), Sarajevo, Bosnia and Herzegovina</addr-line>
+        <institution>Project Manager of the Regional Network for Biodiversity Information Management and Reporting (BIMR)</institution>
+        <addr-line content-type="city">Sarajevo</addr-line>
+        <country>Bosnia and Herzegovina</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Azra Velagić-Hajrudinović (<email xlink:type="simple">azra.velagic-hajrudinovic@giz.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38188</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4B42BA4B52765ADFAF53FF7056955F91">4B42BA4B52765ADFAF53FF7056955F91</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Azra Velagić-Hajrudinović</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In the region of Southeast Europe (SEE) the obligation to establish and maintain information systems for nature conservation is scarcely mentioned in national legislation and is not adequately covered in legislative documents. Therefore, there is a great need for a more detailed regional policy paper that consists of a set of measures and a template of regulation. A set of measures was proposed and agreed upon among Biodiversity Information Management and Reporting (BIMR)* Regional Platform members and prepared in a way to be feasible, clear, resourceful and adjusted to the national circumstances, thus easier to implement. The regulation tackles all information system aspects in order to improve reporting processes towards the Convention on Biological Diversity (CBD, <ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/mechanisms">https://www.cbd.int/mechanisms</ext-link>) and other relevant conventions (e.g., exchange and provisioning of the data, access and usage rights, technical and functional requirements/standards, compliance with relevant international standards and European Union (EU) directives such as EU INSPIRE Directive (Infrastructure for spatial information in Europe, <ext-link ext-link-type="uri" xlink:href="https://inspire.ec.europa.eu/">https://inspire.ec.europa.eu</ext-link>), Birds (<ext-link ext-link-type="uri" xlink:href="http://ec.europa.eu/environment/nature/legislation/birdsdirective/index_en.htm">http://ec.europa.eu/environment/nature/legislation/birdsdirective/index_en.htm</ext-link>) and Habitats Directive (<ext-link ext-link-type="uri" xlink:href="http://ec.europa.eu/environment/nature/legislation/habitatsdirective/index_en.htm">http://ec.europa.eu/environment/nature/legislation/habitatsdirective/index_en.htm</ext-link>). Capacities and skills of BIMR Regional Platform partner institutions are utilized while other available policy and strategic documents are used for emphasizing BIMR priorities in BIMR policy paper. Stakeholders have an opportunity to express national data gaps and needs through a questionnaire where BIMR priorities are selected at the regional level and presented in a proposed set of measures and regulation. Consultative meetings of the BIMR Regional Platform are used for drafting and preparing the document in a form to be ready for endorsement. The BIMR policy paper will be delivered to the Biodiversity Taskforce (BD TF <ext-link ext-link-type="uri" xlink:href="https://www.rcc.int/docs/443/biodiversity-task-force-of-south-east-europe--technical-and-advisory-body-of-the-regional-working-group-on-environment">https://www.rcc.int/docs/443/biodiversity-task-force-of-south-east-europe--technical-and-advisory-body-of-the-regional-working-group-on-environment</ext-link>), an intergovernmental technical and advisory body of the Regional Working Group on Environment (RWGE), which coordinates regional activities, facilitates the implementation of the SEE 2020 Strategy (<ext-link ext-link-type="uri" xlink:href="https://www.rcc.int/pages/86/south-east-europe-2020-strategy">https://www.rcc.int/pages/86/south-east-europe-2020-strategy</ext-link>) and creates a framework for more efficient implementation of biodiversity policies in the framework of accession to the EU. As a final outcome, the BD TF will report on the BIMR policy paper to the RWGE for further endorsement.</p>
+        <p>Main result: Cooperation between economies is strengthened and their willingness to implement EU standards and fulfill international obligations is fostered by improving the capacities and skills of partner institutions for an active regional exchange, including learning/knowledge transfer and practices. This regional paper enables amplification of BIMR issues in the national legislation by improving the decision-making processes of stakeholders in their own institutions and reporting progress towards international biodiversity agreements.</p>
+        <p>BIMR Regional Platform is a consultative technical group which represents focal points from the Ministries of Environment, Environmental Protection Agencies and Institutes for Nature Conservation from SEE and Croatia. It facilitates consultant work at the national/regional level, communicates and disseminates information on BIMR activities in respective institutions and other biodiversity relevant sectors and initiatives, verifies and presents BIMR deliverables and mobilizes institutional, scientific and technical networks in support of BIMR activities.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>data management</kwd>
+        <kwd>reporting</kwd>
+        <kwd>policy paper</kwd>
+        <kwd>regional cooperation</kwd>
+        <kwd>South-East Europe</kwd>
+        <kwd>international biodiversity agreements</kwd>
+        <kwd>decision making processes</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Financed by the German Federal Ministry for Economic Cooperation and Development (BMZ) Implemented by the Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH (GIZ) Project title: Open Regional Fund for South-East Europe – Implementation of Biodiversity Agreements (ORF BDU)</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Azra Velagić-Hajrudinović</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next Conference 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

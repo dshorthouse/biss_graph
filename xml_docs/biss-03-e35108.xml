@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35108</article-id>
+      <article-id pub-id-type="publisher-id">35108</article-id>
+      <article-id pub-id-type="manuscript">11120</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP91 - Developing a Data-Literate Workforce in Biodiversity Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Scaling Up Data Literacy and Computing Skills Training in Biodiversity Science, Lessons Learned from The Carpentries</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Michonneau</surname>
+            <given-names>François</given-names>
+          </name>
+          <email xlink:type="simple">francois.michonneau@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9092-966X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Paul</surname>
+            <given-names>Deborah</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">The Carpentries, Oakland, CA, United States of America</addr-line>
+        <institution>The Carpentries</institution>
+        <addr-line content-type="city">Oakland, CA</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, Gainesville, FL, United States of America</addr-line>
+        <institution>Florida Museum of Natural History</institution>
+        <addr-line content-type="city">Gainesville, FL</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">The Carpentries, , United States of America</addr-line>
+        <institution>The Carpentries</institution>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, Gainesville, United States of America</addr-line>
+        <institution>Florida Museum of Natural History</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Florida State University, Tallahassee, FL, United States of America</addr-line>
+        <institution>Florida State University</institution>
+        <addr-line content-type="city">Tallahassee, FL</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Florida State University, Tallahassee, United States of America</addr-line>
+        <institution>Florida State University</institution>
+        <addr-line content-type="city">Tallahassee</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: François Michonneau (<email xlink:type="simple">francois.michonneau@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35108</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B21B6702B89E50F9848A16FE6E68A7F3">B21B6702B89E50F9848A16FE6E68A7F3</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>François Michonneau, Deborah Paul</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The expanding availability of access to data about museum specimens, species occurrences, trait data, genetics, and landscapes is revolutionizing biodiversity research. But mobilizing, evaluating, and synthesizing these data to address research questions requires domain-specific computing skills and knowledge.</p>
+        <p><ext-link ext-link-type="uri" xlink:href="https://carpentries.org/"><underline>The Carpentries</underline></ext-link> is a global non-profit organization teaching researchers computational and data science skills for data management and analysis in all domains of research. The Carpentries' <ext-link ext-link-type="uri" xlink:href="http://carpentries.github.io/instructor-training/">teaching practices</ext-link> are based on evidence from the science of learning. Current domain-specific lessons include life, physical, and social sciences. Hands-on exercises build on the existing knowledge of learners, quickly enabling them to apply skills learned to their research. The Carpentries' train-the-trainer model, its globally established community of ~2,000 <ext-link ext-link-type="uri" xlink:href="https://carpentries.org/instructors">instructors</ext-link> and its network of <ext-link ext-link-type="uri" xlink:href="https://carpentries.org/regionalcoordinators/">regional coordinators</ext-link> have allowed the organization to scale up rapidly, and over 40,000 learners have participated in Carpentries workshops since 2012.</p>
+        <p>The Carpentries <ext-link ext-link-type="uri" xlink:href="https://carpentries.org/assessment/">assessment program</ext-link> evaluates the impact of attending a workshop on the participants' perception of their skills and confidence. After attending a Carpentries workshop, participants feel more confident in their ability to program and to overcome issues with their analysis. The Carpentries' mentoring program ensures that newly certified instructors receive support and guidance to successfully engage in leading and teaching workshops. Pairing new and experienced instructors, in combination with the development of local communities of instructors, have contributed to the success of The Carpentries workshops.</p>
+        <p>The Carpentries collaboratively seeks to develop new curricula to address the training needs of the biodiversity data community. Establishing training partnerships between The Carpentries and the various organizations involved in building biodiversity data science skills capacity would increase reach and efficacy. We seek to foster institutional and organizational collaborations that can support the establishment and growth of the infrastructure needed to provide the computational and data literacy skills needed to empower our stakeholders. These include those creating and mobilizing data (e.g., collectors, ecologists, conservationists, curators, collection/data managers), for all scientists, policy-makers, educators, and students who want to use biodiversity data.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>training</kwd>
+        <kwd>curriculum</kwd>
+        <kwd>community</kwd>
+        <kwd>biodiversity data</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>François Michonneau</p>
+      </sec>
+    </notes>
+  </front>
+</article>

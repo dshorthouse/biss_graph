@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37223</article-id>
+      <article-id pub-id-type="publisher-id">37223</article-id>
+      <article-id pub-id-type="manuscript">11768</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Semantic Field Book Annotator</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Stork</surname>
+            <given-names>Lise</given-names>
+          </name>
+          <email xlink:type="simple">l.stork@liacs.leidenuniv.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2146-4803</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Weber</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9106-9438</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wolstencroft</surname>
+            <given-names>Katherine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Leiden Institute of Advanced Computer Science, Leiden, Netherlands</addr-line>
+        <institution>Leiden Institute of Advanced Computer Science</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Twente, Enschede, Netherlands</addr-line>
+        <institution>University of Twente</institution>
+        <addr-line content-type="city">Enschede</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Lise Stork (<email xlink:type="simple">l.stork@liacs.leidenuniv.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37223</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DE2EC78CD5855AC49F8BBE37522A8CA8">DE2EC78CD5855AC49F8BBE37522A8CA8</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Lise Stork, Andreas Weber, Katherine Wolstencroft</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Biodiversity research expeditions to the globe’s most biodiverse areas have been conducted for several hundred years. Natural history museums contain a wealth of historical materials from such expeditions, but they are stored in a fragmented way. As a consequence links between the various resources, e.g., specimens, illustrations and field notes, are often lost and are not easily re-established.</p>
+        <p>Natural history museums have started to use persistent identifiers for physical collection objects, such as specimens, as well as associated information resources, such as web pages and multimedia. As a result, these resources can more easily be linked, using Linked Open Data (<ext-link ext-link-type="uri" xlink:href="http://linkeddata.org/">LOD</ext-link>), to information sources on the web. Specimens can be linked to taxonomic backbones of data providers, e.g., the Encyclopedia Of Life (<ext-link ext-link-type="uri" xlink:href="https://eol.org/">EOL</ext-link>), the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">GBIF</ext-link>), or publications with Digital Object Identifiers (<ext-link ext-link-type="uri" xlink:href="https://www.doi.org/">DOI</ext-link>).</p>
+        <p>For the <italic>content</italic> of biodiversity expedition archives, (e.g. field notes), no such formalisations exist. However, linking the specimens to specific handwritten notes taken in the field can increase their scientific value. Specimens are generally accompanied by a label containing the location of the site where the specimen was collected, the collector’s name and the classification. Field notes often augment the basic metadata found with specimens with important details concerning, for instance, an organism’s habitat and morphology. Therefore, inter-collection interoperability of multimodal resources is just as important as intra-collection interoperability of unimodal resources.</p>
+        <p>The linking of field notes and illustrations to specimens entails a number of challenges: historical handwritten content is generally difficult to read and interpret, especially due to changing taxonomic systems, nomenclature and collection practices. It is vital that:</p>
+        <p>
+          <list list-type="order"><list-item><p>the content is structured in a similar way as the specimens, so that links can more easily be re-established either manually or in an automated way;</p></list-item><list-item><p>for consolidation, the content is enriched with outgoing links to semantic resources, such as <ext-link ext-link-type="uri" xlink:href="https://www.geonames.org">Geonames</ext-link>  or Virtual International Authority File (<ext-link ext-link-type="uri" xlink:href="https://viaf.org">VIAF</ext-link>); and</p></list-item><list-item><p>this process is a transparent one: how links are established, why and by whom, should be stored to encourage scholarly discussions and to promote the attribution of efforts.</p></list-item></list>
+        </p>
+        <p>In order to address some of these issues, we have built a tool, the Semantic Field Book Annotator (<ext-link ext-link-type="uri" xlink:href="https://github.com/lisestork/SFB-Annotator">SFB-A</ext-link>), that allows for the direct annotation of digitised (scanned) pages of field books and illustrations with Linked Open Data (LOD). The tool guides the user through the annotation process, so that semantic links are automatically generated in a formalised way. These annotations and links are subsequently stored in an RDF triplestore.</p>
+        <p>As the use of the <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/standards/dwc/">Darwin Core standard</ext-link> is considered best practice among collection managers for the digitisation of their specimens, our tool is equipped with an ontology based on Darwin Core terms, the <ext-link ext-link-type="uri" xlink:href="http://makingsense.liacs.nl/rdf/nhc-content/2018-04-04.html">NHC-Ontology</ext-link>, which extends the Darwin Semantic Web (DSW) ontology. The tool can annotate any image, be it an image of a specimen with a textual label, an illustration with a textual label or a handwritten species description. Interoperability of annotations between the various resources within a collection is therefore ensured. Terms in the ontology are structured using <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/OWL/">OWL</ext-link> web ontology language. This allows for more complex tasks such as OWL reasoning and semantic queries, and facilitates the creation of a richer knowledge base that is more amenable to research.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>semantic annotation</kwd>
+        <kwd>field books</kwd>
+        <kwd>ontologies</kwd>
+        <kwd>linked data</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>This work is supported by the Netherlands Organisation for Scientific Research (NWO), grant 652.001.001, and Brill publishers.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Lise Stork</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

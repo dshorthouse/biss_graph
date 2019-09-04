@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36424</article-id>
+      <article-id pub-id-type="publisher-id">36424</article-id>
+      <article-id pub-id-type="manuscript">11567</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Phylogenetics Study of <italic>Salvia </italic>L. spp. Collections from the Botanical Garden of Medicinal Plants of Wroclaw Medical University</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Pencakowski</surname>
+            <given-names>Bartosz</given-names>
+          </name>
+          <email xlink:type="simple">bartosz.pencakowski@umed.wroc.pl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6166-0454</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bielecka</surname>
+            <given-names>Monika</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Stafiniak</surname>
+            <given-names>Marta</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jakubowski</surname>
+            <given-names>Klemens</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Matkowski</surname>
+            <given-names>Adam</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Department of Pharmaceutical Biotechnology, Wrocław Medical University, Wroclaw, Poland</addr-line>
+        <institution>Department of Pharmaceutical Biotechnology, Wrocław Medical University</institution>
+        <addr-line content-type="city">Wroclaw</addr-line>
+        <country>Poland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Botanical Garden of Medicinal Plants, Wroclaw Medical University, Wroclaw, Poland</addr-line>
+        <institution>Botanical Garden of Medicinal Plants, Wroclaw Medical University</institution>
+        <addr-line content-type="city">Wroclaw</addr-line>
+        <country>Poland</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Department of Biology and Pharmaceutical Botany, Wroclaw Medical University, Wroclaw, Poland</addr-line>
+        <institution>Department of Biology and Pharmaceutical Botany, Wroclaw Medical University</institution>
+        <addr-line content-type="city">Wroclaw</addr-line>
+        <country>Poland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Bartosz Pencakowski (<email xlink:type="simple">bartosz.pencakowski@umed.wroc.pl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36424</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/75EE6C1C8B4956B5812408C508BF50F5">75EE6C1C8B4956B5812408C508BF50F5</uri>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Bartosz Pencakowski, Monika Bielecka, Marta Stafiniak, Klemens Jakubowski, Adam Matkowski</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Systematics of genus <italic>Salvia</italic> L. is still a field of discussion in taxonomic society. To this day, the position of certain genera from <italic>Lamiaceae</italic> Martinov. family are considered as autonomic genera or incorporated in the genus <italic>Salvia</italic> L. as a subgenera (i.e., <italic>Perovskia </italic>Kar., <italic>Rosmarinus</italic> L.). Moreover, some species are distinguished only by low-level differences in morphological traits and their geographic occurrence (<xref ref-type="bibr" rid="B5189709">Drew et al. 2017</xref>).</p>
+        <p>In this research, we focused on a molecular analysis of morphologically similar <italic>Salvia</italic> L. species with special attention paid to <italic>Salvia glutinosa</italic> L. and <italic>Salvia nubicola </italic>Wall. ex Sweet. All samples were collected from the Botanical Garden of Medicinal Plants of Wroclaw Medical University (<ext-link ext-link-type="uri" xlink:href="http://www.obrl.umed.wroc.pl/index.html">http://www.obrl.umed.wroc.pl/index.html</ext-link>) and the Herbarium of Natural History Museum, Wroclaw University (<ext-link ext-link-type="uri" xlink:href="http://www.muzeum-przyrodnicze.uni.wroc.pl/index.php">http://www.muzeum-przyrodnicze.uni.wroc.pl/index.php</ext-link>).</p>
+        <p>Several DNA barcodes, including <italic>mat</italic>K, <italic>rbc</italic>La, ITS2 genes, and <italic>psb</italic>A<italic>-trn</italic>H intergenic spacer, were used in maximal likelihood and Bayesian inference analyses. All sequences were amplified with Q5 High Fidelity DNA Polymerase (<ext-link ext-link-type="uri" xlink:href="https://www.neb.com/">https://www.neb.com/</ext-link>) and universal primers. Amplicons were then sequenced by Sanger sequencing and analysed using the BLAST algorithm (<xref ref-type="bibr" rid="B5189658">Altschul et al. 1990</xref>). Subsequently, sequences were aligned using MAFFT v 7.409 (<xref ref-type="bibr" rid="B5189722">Katoh et al. 2005</xref>) software; poorly aligned sites were objectively eliminated with Gblocks v.0.91b (<xref ref-type="bibr" rid="B5189773">Talavera and Castresana 2007</xref>). ITS2 regions were extracted with ITSx (<xref ref-type="bibr" rid="B5189669">Bengtsson-Palme et al. 2013</xref>) software implemented on PlutoF web workbench (<xref ref-type="bibr" rid="B5189647">Abarenkov et al. 2010</xref>) to obtain ITS2 sequences without 5.8S and 26S fragments on both ends. Substitution models were identified utilizing jModelTest 2 software (<xref ref-type="bibr" rid="B5189732">Posada 2008</xref>) and basing on Bayesian information criterion (BIC) appropriate models were applied for further calculations. For maximum likelihood analyses and Bayesian inference, we implemented RAxML ver. 8.2.10 (<xref ref-type="bibr" rid="B5189753">Stamatakis et al. 2008</xref>) and MrBayes ver. 3.2.2 (<xref ref-type="bibr" rid="B5189742">Ronquist et al. 2012</xref>) respectively.</p>
+        <p>For the reconstruction of evolutionary relationship between study species, different DNA barcode combinations were applied (e.g., <italic>mat</italic>K+ITS2+<italic>psb</italic>A<italic>-trn</italic>H and <italic>rbc</italic>La+<italic>mat</italic>K+<italic> psb</italic>A<italic>-trn</italic>H). Consensus trees were compared and analysed using TreeGraph ver. 2.14 (<xref ref-type="bibr" rid="B5189763">Stöver and Müller 2010</xref>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>DNA barcoding</kwd>
+        <kwd>
+          <italic>Salvia</italic>
+        </kwd>
+        <kwd>phylogenetics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="10"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Bartosz Pencakowski</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5189647">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Abarenkov</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tedersoo</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nilsson</surname>
+              <given-names>R. H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vellak</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Saar</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>PlutoF - a web based workbench for ecological and taxonomic research, with an online Implementation for fungal ITS sequences</article-title>
+          <source>Evolutionary Bioinformatics</source>
+          <volume>6</volume>
+          <fpage>189</fpage>
+          <lpage>196</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B5189658">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Altschul</surname>
+              <given-names>S. F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gish</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Miller</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Myers</surname>
+              <given-names>E. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lipman</surname>
+              <given-names>D. J.</given-names>
+            </name>
+          </person-group>
+          <year>1990</year>
+          <article-title>Basic local alignment search tool</article-title>
+          <source>Journal of Molecular Biology</source>
+          <volume>215</volume>
+          <fpage>403</fpage>
+          <lpage>410</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0022-2836(05)80360-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5189669">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bengtsson-Palme</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ryberg</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hartmann</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Branco</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wang</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>Improved software detection and extraction of ITS1 and ITS2 from ribosomal ITS sequences of fungi and other eukaryotes for analysis of environmental sequencing data</article-title>
+          <source>Methods in Ecology and Evolution</source>
+          <volume>4</volume>
+          <fpage>914</fpage>
+          <lpage>919</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B5189709">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Drew</surname>
+              <given-names>BryanT.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>González-Gallegos</surname>
+              <given-names>Jesús Guadalupe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Xiang</surname>
+              <given-names>Chun-Lei</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kriebel</surname>
+              <given-names>Ricardo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Drummond</surname>
+              <given-names>ChloeP.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Walker</surname>
+              <given-names>JayB.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sytsma</surname>
+              <given-names>KennethJ.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Salvia united: The greatest good for the greatest number</article-title>
+          <source>Taxon</source>
+          <volume>66</volume>
+          <issue>1</issue>
+          <fpage>133</fpage>
+          <lpage>145</lpage>
+          <pub-id pub-id-type="doi">10.12705/661.7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5189722">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Katoh</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuma</surname>
+              <given-names>K. -I.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Toh</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Miyata</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>MAFFT version 5: improvement in accuracy of multiple sequence alignment</article-title>
+          <source>Nucleic Acids Research</source>
+          <volume>33</volume>
+          <fpage>511</fpage>
+          <lpage>518</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gki198</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5189732">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Posada</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>jModelTest: Phylogenetic Model Averaging</article-title>
+          <source>Molecular Biology and Evolution</source>
+          <volume>25</volume>
+          <fpage>1253</fpage>
+          <lpage>1256</lpage>
+          <pub-id pub-id-type="doi">10.1093/molbev/msn083</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5189742">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ronquist</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Teslenko</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Van Der Mark</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ayres</surname>
+              <given-names>D. L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Darling</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>MrBayes 3.2: Efficient Bayesian Phylogenetic Inference and Model Choice Across a Large Model Space</article-title>
+          <source>Systematic Biology</source>
+          <volume>61</volume>
+          <fpage>539</fpage>
+          <lpage>542</lpage>
+          <pub-id pub-id-type="doi">10.1093/sysbio/sys029</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5189753">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stamatakis</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hoover</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rougemont</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>A rapid bootstrap algorithm for the RAxML web servers</article-title>
+          <source>Systematic Biology</source>
+          <volume>57</volume>
+          <fpage>758</fpage>
+          <lpage>771</lpage>
+          <pub-id pub-id-type="doi">10.1080/10635150802429642</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5189763">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stöver</surname>
+              <given-names>B. C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Müller</surname>
+              <given-names>K. F.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>TreeGraph 2: Combining and visualizing evidence from different phylogenetic analyses</article-title>
+          <source>BMC Bioinformatics</source>
+          <volume>11</volume>
+          <fpage>7</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2105-11-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5189773">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Talavera</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Castresana</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>Improvement of phylogenies after removing divergent and ambiguously aligned blocks from protein sequence alignments</article-title>
+          <source>Systematic Biology</source>
+          <volume>56</volume>
+          <fpage>564</fpage>
+          <lpage>577</lpage>
+          <pub-id pub-id-type="doi">10.1080/10635150701472164</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

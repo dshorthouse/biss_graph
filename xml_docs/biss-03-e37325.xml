@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37325</article-id>
+      <article-id pub-id-type="publisher-id">37325</article-id>
+      <article-id pub-id-type="manuscript">11225</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI87 - Empowering the taxonomic community by linking information through names and taxonomy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Supporting 21st Century Taxonomy and Society Through Collaborative Cataloguing of the World's Species</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hobern</surname>
+            <given-names>Donald</given-names>
+          </name>
+          <email xlink:type="simple">dhobern@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6492-4016</uri>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Banki</surname>
+            <given-names>Olaf</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Döring</surname>
+            <given-names>Markus</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Remsen</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis, Leiden, Netherlands</addr-line>
+        <institution>Naturalis</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">GBIF, Copenhagen, Denmark</addr-line>
+        <institution>GBIF</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Marine Biological Laboratory, Woods Hole, United States of America</addr-line>
+        <institution>Marine Biological Laboratory</institution>
+        <addr-line content-type="city">Woods Hole</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Donald Hobern (<email xlink:type="simple">dhobern@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37325</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/C168E5681F505F1B9E0828898925F6A5">C168E5681F505F1B9E0828898925F6A5</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Donald Hobern, Olaf Banki, Markus Döring, David Remsen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Biological sciences have for more than 250 years depended on the nomenclatural system established by Carl Linnaeus to assign names to the world's species. These names can be considered to be a pre-digital effort to associate species, as key biological concepts, with globally unique identifiers. All sciences and all other human endeavours that relate to biological organisms have depended on this system to enable international communication and connect essential knowledge for taxonomy, conservation, agriculture, pest and disease management, trade and many other fields.</p>
+        <p>Unfortunately, the scale and complexity both of life on earth and of the continued efforts by taxonomists to describe the millions of species on earth have prevented subsequent Linnaeus' followers from attempting to deliver a comprehensive catalogue of named species. Instead, many millions of names have been published throughout a vast and disconnected multilingual literature. Experts studying particular groups of organisms are likely to be familiar with the history of naming for their species of interest, but the dream of a fully interconnected naming system has remained elusive.</p>
+        <p>In the last 25 years, major efforts have sought to address this need by assisting experts in collating the scattered information on scientific names and organising it in a consistent way. Most significantly, <ext-link ext-link-type="uri" xlink:href="https://sp2000.org/">Species 2000</ext-link>, working in partnership with the <ext-link ext-link-type="uri" xlink:href="https://www.itis.gov/">Integrated Taxonomic Information System</ext-link> (ITIS), has led development of the <ext-link ext-link-type="uri" xlink:href="http://www.catalogueoflife.org/">Catalogue of Life</ext-link> (CoL). CoL is the most comprehensive and authoritative global index of species currently available. It consists of a single integrated species checklist and taxonomic hierarchy. The Catalogue holds essential information on the names, relationships and distributions of over 1.8 million species. This figure continues to rise as information is compiled from diverse sources around the world. However, CoL is still far from complete, with several important megadiverse groups mostly lacking. Additionally, some segments of the Catalogue require major work to resolve synonymy or to incorporate recent names. As a result, there is still no complete checklist of the world's species.</p>
+        <p>Recognising the important role and efforts of many others that are aligned with this vision, including the existing nomenclatural databases (IPNI, Index Fungorum, ZooBank, etc.), other significant international checklist initiatives (especially WoRMS and World Flora Online) and many regional and national checklist databases (some with official status within national regulations), it is clear that a more collaborative model is needed to accelerate completion of this global catalogue. The benefits from achieving this will be significant, reducing wasted efforts in repeated databasing of the same core information on names and species, maximising the benefits from contributions of taxonomists and others to improve coverage and completeness, offering confidence to researchers and to data infrastructures in interpretation of all scientific names, facilitating community discussion and assessment of divergent perspectives on species classification, and providing a framework for documentation and communication of information on biogrography, species traits and interactions, conservation status, etc. In particular, the global information resource and national versions should be complementary and all products should benefit equally from new additions and corrections. Likewise relevant experts should be empowered to contribute freely to maintaining and improving this critical biodiversity data infrastructure. </p>
+        <p>Achieving these goals will require innovative tools and community models that enable the international taxonomic community to contribute their expertise efficiently and ensure that information entered is never lost, only improved. This session is to refine this vision and contribute to planning for a comprehensive collaborative taxonomic catalogue.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Donald Hobern</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

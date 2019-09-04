@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37310</article-id>
+      <article-id pub-id-type="publisher-id">37310</article-id>
+      <article-id pub-id-type="manuscript">11634</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COP - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Investment in the Long-Tail of Biodiversity Data: From local research to global knowledge</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Galicia</surname>
+            <given-names>David</given-names>
+          </name>
+          <email xlink:type="simple">dgalicia@unav.es</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2585-9888</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Amezcua</surname>
+            <given-names>Ana</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Baquero</surname>
+            <given-names>Enrique</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2145-8606</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cancellario</surname>
+            <given-names>Tommaso</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chaves</surname>
+            <given-names>Angel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>De Biurrun</surname>
+            <given-names>Gabriel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Escribano</surname>
+            <given-names>Nora</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7863-4463</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fernández-Eslava</surname>
+            <given-names>Blanca</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>González-Alonso</surname>
+            <given-names>Mónica</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hernández-Soto</surname>
+            <given-names>Rubén</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ibáñez</surname>
+            <given-names>Ricardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Imas</surname>
+            <given-names>María</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Miqueleiz</surname>
+            <given-names>Imanol</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1827-3977</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Miranda</surname>
+            <given-names>Rafael</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4798-314X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rodeles</surname>
+            <given-names>Amaia A</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Valerio</surname>
+            <given-names>Mercedes</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ariño</surname>
+            <given-names>Arturo H.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4620-6445</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Navarra, Pamplona, Spain</addr-line>
+        <institution>University of Navarra</institution>
+        <addr-line content-type="city">Pamplona</addr-line>
+        <country>Spain</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: David Galicia (<email xlink:type="simple">dgalicia@unav.es</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37310</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/8E60AD025E3E5B0AA41FFC13AEE76367">8E60AD025E3E5B0AA41FFC13AEE76367</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>David Galicia, Ana Amezcua, Enrique Baquero, Tommaso Cancellario, Angel Chaves, Gabriel De Biurrun, Nora Escribano, Blanca Fernández-Eslava, Mónica González-Alonso, Rubén Hernández-Soto, Ricardo Ibáñez, María Imas, Imanol Miqueleiz, Rafael Miranda, Amaia A Rodeles, Mercedes Valerio, Arturo H. Ariño</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In business, the “long-tail economy” refers to a market strategy where the gravity center shifts from a few high-demand products to many, varied products focused on small niches. Commercialization of individually low-demand products can be profitable as long as their production cost is low and, all taken together, they aggregate into a big chunk of the market. Similarly, in the “business” of biodiversity data acquisition, we can find several mainstream products that produce zillions of bits of information every year and account for most of the budget allocated to increase our primary data-based knowledge about Earth’s biological diversity. These products play a crucial role in biodiversity research. However, along with these large global projects, there is a constellation of small-scale institutions that work locally, but whose contribution to our understanding of natural processes should not be dismissed. These information datasets can be collectively referred to as the “long-tail biodiversity data”.</p>
+        <p>Here we present the case of the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/publisher/2f390a80-56f3-11da-880b-b8a03c50a862">Museum of Sciences University of Navarra</ext-link>, which harbors the research activity of the Museum of Zoology (MZNA) and herbarium (PAMP) of the University of Navarra in Spain. For the last 40 years, its members have been involved in hundreds of research projects, from local to international level—but quantitatively, the vast majority of its biodiversity records come from Navarra, a smallish (10,000 sq. km) administrative region in the north of Spain. Despite its modest area, the available information about the region in the Museum database approaches one million records of thousands of species, including dozens of type series.</p>
+        <p>Fifteen years ago, a series of national research grants enabled boosting digitization and public access to the database records through the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">GBIF</ext-link>). Although those grants were never renewed, the Museum continued its digitizing and standardizing program on vouchered collections, as well as sampling additional raw biodiversity data through long term ecological sites using the Museum’s resources, which annually provide thousands of new records at the local level. Currently, the Museum has already published through GBIF’s IPT (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/ipt">Integrated Publishing Toolkit</ext-link>) 30 datasets, containing more than half-million records of about 5700 taxa. Its records have contributed to more than 60 peer-reviewed publications over the last five years.</p>
+        <p>Institutions that basically harvest biodiversity data at a local scale usually show a high degree of specialization, gathering researchers with strong (albeit often narrow) expertise in the taxonomy and ecology of nearby ecosystems. They are thus an extremely valuable tool when dealing with processes resulting in diversity changes that can be identified rather precisely, especially when their work can be traced back many decades. Making all this fine-scale information accessible and actionable requires, in most of the cases, a rather modest investment in staff training on data management (e.g., standards, database interoperability) or museum curation procedures, and on informatics infrastructure. As in the case of business, it is not a matter of choosing between producing blockbusters or independent cinema--but of leveraging available resources and maximizing output.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>long-tail biodiversity</kwd>
+        <kwd>resource allocation</kwd>
+        <kwd>investment</kwd>
+        <kwd>local biodiversity</kwd>
+        <kwd>staff training</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>David Galicia</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35723</article-id>
+      <article-id pub-id-type="publisher-id">35723</article-id>
+      <article-id pub-id-type="manuscript">11023</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST08 - More than Names : Identifying and Crediting People in Biodiversity Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Improving Impact Metrics of Open and Free Biodiversity Data through Linked Metadata and Academic Outreach</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Noesgaard</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <email xlink:type="simple">dnoesgaard@gbif.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0407-1805</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">GBIF Secretariat, Copenhagen, Denmark</addr-line>
+        <institution>GBIF Secretariat</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Daniel Noesgaard (<email xlink:type="simple">dnoesgaard@gbif.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35723</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/07E5C72A17A55C3B80395B7A7BE073BF">07E5C72A17A55C3B80395B7A7BE073BF</uri>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Daniel Noesgaard</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The work required to collect, clean and publish biodiversity datasets is significant, and those who do it deserve recognition for their efforts. Researchers publish studies using open biodiversity data available from GBIF—the Global Biodiversity Information Facility—at a rate of about two papers a day. These studies cover areas such as macroecology, evolution, climate change, and invasive alien species, relying on data sharing by hundreds of publishing institutions and the curatorial work of thousands of individual contributors. With more than 90 per cent of these datasets licensed under Creative Commons Attribution licenses (CC BY and CC BY-NC), data users are required to credit the dataset providers. For GBIF, it is crucial to link these scientific uses to the underlying data as one means of demonstrating the value and impact of open science, while seeking to ensure attribution of individual, organizational and national contributions to the global pool of open data about biodiversity.</p>
+        <p>Every single authenticated download of occurrence records from GBIF.org is issued a unique Digital Object Identifier (DOI). These DOIs each resolve to a landing page that contains details of</p>
+        <p>
+          <list list-type="bullet"><list-item><p>the search parameters used to generate the download</p></list-item><list-item><p>a quantitative map of the underlying datasets that contributed to the download</p></list-item><list-item><p>a simple citation to be included in works that rely on the data</p></list-item></list>
+        </p>
+        <p>When used properly by authors and deposited correctly by journals in the article metadata, the DOI citation establishes a direct link between a scientific paper and the underlying data. Crossref—the main DOI Registration Agency for academic literature— exposes such links in Event Data, which can be consumed programmatically to report direct use of individual datasets. GBIF also records these links, permanently preserving the download archives while exposing a citation count on download landing pages that is also summarized on the landing pages of each contributing datasets and publishers. The citation counts can be expanded to produce lists of all papers unambiguously linked to use of specific datasets.</p>
+        <p>In 2018, just 15 per cent of papers based on GBIF-mediated data used DOIs to cite or acknowledge the datasets used in the studies. To promote crediting of data publishers and digital recognition of data sharing, the GBIF Secretariat has been reaching out systematically to authors and publishers since April 2018 whenever a paper fails to include a proper data citation. While publishing lags may hinder immediate effects, preliminary findings suggest that uptake is improving—as the number of papers with DOI data citations during the first part of 2019 is up more than 60 per cent compared to 2018.</p>
+        <p>Focusing on the value of linking scientific publications and data, this presentation will explore the potential for establishing automatic linkage through DOI metadata while demonstrating efforts to improve metrics of data use and attribution of data providers through outreach campaigns to authors and journal publishers.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data citation</kwd>
+        <kwd>attribution</kwd>
+        <kwd>credit</kwd>
+        <kwd>GBIF</kwd>
+        <kwd>biodiversity data article metadata</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Daniel Noesgaard</p>
+      </sec>
+    </notes>
+  </front>
+</article>

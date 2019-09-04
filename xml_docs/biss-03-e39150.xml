@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.39150</article-id>
+      <article-id pub-id-type="publisher-id">39150</article-id>
+      <article-id pub-id-type="manuscript">11464</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COI- Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Notebook: Customizable web forms for recording observations</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Raitio</surname>
+            <given-names>Olli</given-names>
+          </name>
+          <email xlink:type="simple">olli.raitio@helsinki.fi</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Juslén</surname>
+            <given-names>Aino</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sirkiä</surname>
+            <given-names>Päivi</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lehikoinen</surname>
+            <given-names>Aleksi</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tähtinen</surname>
+            <given-names>Marko</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Piirainen</surname>
+            <given-names>Esko</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Riihikoski</surname>
+            <given-names>Ville-Matti</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Biodiversity Informatics Unit, Finnish Museum of Natural History, Helsinki, Finland</addr-line>
+        <institution>Biodiversity Informatics Unit, Finnish Museum of Natural History</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Zoology Unit, Finnish Museum of Natural History, Helsinki, Finland</addr-line>
+        <institution>Zoology Unit, Finnish Museum of Natural History</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Former member of Biodiversity Informatics Unit, Finnish Museum of Natural History, Espoo, Finland</addr-line>
+        <institution>Former member of Biodiversity Informatics Unit, Finnish Museum of Natural History</institution>
+        <addr-line content-type="city">Espoo</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Olli Raitio (<email xlink:type="simple">olli.raitio@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e39150</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5671C28EE2CB5EE98EB561E20912BBC9">5671C28EE2CB5EE98EB561E20912BBC9</uri>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>08</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Olli Raitio, Aino Juslén, Päivi Sirkiä, Aleksi Lehikoinen, Marko Tähtinen, Esko Piirainen, Ville-Matti Riihikoski</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>’<ext-link ext-link-type="uri" xlink:href="https://laji.fi/en/vihko">Notebook</ext-link>’ is one of the primary data management systems of the <ext-link ext-link-type="uri" xlink:href="https://laji.fi/en">Finnish Biodiversity Information Facility</ext-link> (FinBIF). It is a web solution for recording opportunistic as well as sampling-event-based species observations. It is being used for systematic monitoring schemes, various citizen science projects, and platforms for species enthusiasts. Notebook's main software component is <ext-link ext-link-type="uri" xlink:href="https://bitbucket.org/luomus/laji-form.js">LajiForm</ext-link>, which is the engine that renders a given <ext-link ext-link-type="uri" xlink:href="https://json-schema.org/">JSON Schema</ext-link> into a web form. LajiForm is a separate, reusable module that is fully independent from other FinBIF systems. Notebook as a whole, includes other features embedded in FinBIF, such as linking users' geographical data to observation documents, spreadsheet document importing and form templates. We will demonstrate how the Notebook system works as a whole and also focus on LajiForm's technical aspects (Fig. <xref ref-type="fig" rid="F5185482">1</xref>).</p>
+        <p>All Notebook forms use FinBIF's ontological schema in JSON Schema format. Rendering user-friendly web forms based on a single schema is a difficult task, because the web form should be asking meaningful questions, instead of just rendering the schema fields according to the form description. We want to present questions in an interactive style. For instance, after drawing a geographical location on a map for a potential flying squirrel nesting tree, we would ask "did you see droppings at the nest?", and answering "yes" would update the document to include a flying squirrel taxon identification with fields "breeding" and "record basis" filled in but not rendered to the form. A simpler form engine without a user interface (UI) customization layer would just render the "taxon", "breeding" and "record basis" fields and the user would have no understanding why there are so many fields to answer and how they relate to their work or study. Some forms are complex, e.g., for experienced biology enthusiasts who need a form that is advanced, customizable, and compact. Some forms are simple, e.g., for elementary school children.</p>
+        <p>To tackle these challenges, LajiForm uses a separate schema for UI that allows everything from simple customization like:</p>
+        <p>
+          <list list-type="order"><list-item><p>defining widgets for fields (e.g., date widgets, taxon autocomplete widget, map widget),</p></list-item><list-item><p>changing field order or</p></list-item><list-item><p>customizing field labels; to more complex customization like</p></list-item><list-item><p>transforming the schema object structure,</p></list-item><list-item><p>defining conditions when certain fields are shown or</p></list-item><list-item><p>if updating a field should have an effect on other fields.</p></list-item></list>
+        </p>
+        <p>All the functionality is split into a loosely coupled collection of components, which can be either used as standalone components or composed together in order to achieve more advanced customization. The programming philosophy has drawn inspiration from functional programming, which has been helpful in writing isolated, composable functionality.</p>
+        <p>LajiForm is written with the JavaScript framework React. LajiForm is built on top of <ext-link ext-link-type="uri" xlink:href="https://react-jsonschema-form.readthedocs.io/en/latest/">react-jsonschema-form </ext-link>(RJSF), which is an open source JSON schema web form library provided by Mozilla. RJSF handles only simple customization, but it is very flexible in design and allows us to build extensions with features that are more powerful. Some features and design proposals were submitted to Mozilla – FinBIF is the largest code contributor to RJSF outside of Mozilla, with a dozen pull requests merged.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>observation recording</kwd>
+        <kwd>web forms</kwd>
+        <kwd>JSON Schema</kwd>
+        <kwd>web development</kwd>
+        <kwd>JavaScript</kwd>
+        <kwd>React</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Olli Raitio</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <floats-group>
+    <fig id="F5185482" position="float" orientation="portrait">
+      <object-id content-type="arpha">EBB5FC23739954A6808BA0499A9124BC</object-id>
+      <label>Figure 1.</label>
+      <caption>
+        <p>Examples of forms rendered by LajiForm. 1: Bird line transect study form. 2: Mushroom atlas citizen science project form. 3: A simple form for a project for elementary school children.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e39150-g001.png" position="float" id="oo_291558.png" orientation="portrait" xlink:type="simple">
+        <uri content-type="original_file">https://binary.pensoft.net/fig/291558</uri>
+      </graphic>
+    </fig>
+  </floats-group>
+</article>

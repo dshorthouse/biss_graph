@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37491</article-id>
+      <article-id pub-id-type="publisher-id">37491</article-id>
+      <article-id pub-id-type="manuscript">11418</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST74 - Standards Alignments across Disciplines in Natural Sciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Integrating ABCD and DarwinCore: Toward a better foundation for biodiversity information standards</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Blum</surname>
+            <given-names>Stanley</given-names>
+          </name>
+          <email xlink:type="simple">stanblum@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4419-6960</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Barker</surname>
+            <given-names>Katharine</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4788-0223</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Baskauf</surname>
+            <given-names>Steven J</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4365-3135</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Berendsohn</surname>
+            <given-names>Walter G.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9945-7606</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Buttigieg</surname>
+            <given-names>Pier Luigi</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4366-3088</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Döring</surname>
+            <given-names>Markus</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Droege</surname>
+            <given-names>Gabriele</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fichtmueller</surname>
+            <given-names>David</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0829-5849</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Glöckler</surname>
+            <given-names>Falko</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7127-2738</uri>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Güntsch</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4325-4030</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Guralnick</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+          <xref ref-type="aff" rid="A9">9</xref>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hoffmann</surname>
+            <given-names>Jana</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6214-661X</uri>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Klazenga</surname>
+            <given-names>Niels</given-names>
+          </name>
+          <xref ref-type="aff" rid="A11">11</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Macklin</surname>
+            <given-names>James</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9508-1349</uri>
+          <xref ref-type="aff" rid="A12">12</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Morris</surname>
+            <given-names>Paul J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A13">13</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Paul</surname>
+            <given-names>Deborah L</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2639-7520</uri>
+          <xref ref-type="aff" rid="A14">14</xref>
+          <xref ref-type="aff" rid="A14">14</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Petersen</surname>
+            <given-names>Mareike</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8666-1931</uri>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Robertson</surname>
+            <given-names>Tim</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6215-3617</uri>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sachs</surname>
+            <given-names>Joel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A12">12</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Shorthouse</surname>
+            <given-names>David Peter</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7618-5230</uri>
+          <xref ref-type="aff" rid="A12">12</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Walls</surname>
+            <given-names>Ramona</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8815-0078</uri>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wieczorek</surname>
+            <given-names>John</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1144-0290</uri>
+          <xref ref-type="aff" rid="A15">15</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zermoglio</surname>
+            <given-names>Paula F F</given-names>
+          </name>
+          <xref ref-type="aff" rid="A16">16</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Biodiversity Information Standards (TDWG), San Francisco, United States of America</addr-line>
+        <institution>Biodiversity Information Standards (TDWG)</institution>
+        <addr-line content-type="city">San Francisco</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">National Museum of Natural History, Smithsonian Institution, Washington, D.C., United States of America</addr-line>
+        <institution>National Museum of Natural History, Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington, D.C.</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Vanderbilt University Libraries, Nashville, Tennessee, United States of America</addr-line>
+        <institution>Vanderbilt University Libraries</institution>
+        <addr-line content-type="city">Nashville, Tennessee</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Botanic Garden and Botanical Museum, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin, Botanic Garden and Botanical Museum</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Alfred-Wegener-Institut für Polar und Meeresforschung, Bremen, Germany</addr-line>
+        <institution>Alfred-Wegener-Institut für Polar und Meeresforschung</institution>
+        <addr-line content-type="city">Bremen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany</addr-line>
+        <institution>Museum für Naturkunde Berlin, Leibniz Institute for Evolution and Biodiversity Science</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">Vertnet, Florida, United States of America</addr-line>
+        <institution>Vertnet</institution>
+        <addr-line content-type="city">Florida</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim">University of Colorado, Boulder; University of Colorado Museum of Natural History, Boulder, United States of America</addr-line>
+        <institution>University of Colorado, Boulder; University of Colorado Museum of Natural History</institution>
+        <addr-line content-type="city">Boulder</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">Univ. of Florida, Gainesville, United States of America</addr-line>
+        <institution>Univ. of Florida</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A11">
+        <label>11</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens Victoria, Melbourne, Australia</addr-line>
+        <institution>Royal Botanic Gardens Victoria</institution>
+        <addr-line content-type="city">Melbourne</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A12">
+        <label>12</label>
+        <addr-line content-type="verbatim">Agriculture and Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture and Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A13">
+        <label>13</label>
+        <addr-line content-type="verbatim">Museum of Comparative Zoology, Harvard University, Cambridge, MA, United States of America</addr-line>
+        <institution>Museum of Comparative Zoology, Harvard University</institution>
+        <addr-line content-type="city">Cambridge, MA</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A14">
+        <label>14</label>
+        <addr-line content-type="verbatim">Florida State University, Tallahassee, United States of America</addr-line>
+        <institution>Florida State University</institution>
+        <addr-line content-type="city">Tallahassee</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A15">
+        <label>15</label>
+        <addr-line content-type="verbatim">Museum of Vertebrate Zoology, University of California, Berkeley, United States of America</addr-line>
+        <institution>Museum of Vertebrate Zoology, University of California</institution>
+        <addr-line content-type="city">Berkeley</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A16">
+        <label>16</label>
+        <addr-line content-type="verbatim">Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA-CONICET), University of Buenos Aires, Buenos Aires, Argentina</addr-line>
+        <institution>Instituto de Ecología, Genética y Evolución de Buenos Aires (IEGEBA-CONICET), University of Buenos Aires</institution>
+        <addr-line content-type="city">Buenos Aires</addr-line>
+        <country>Argentina</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Stanley Blum (<email xlink:type="simple">stanblum@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37491</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/35181AE65F0158B696064CB3930F746D">35181AE65F0158B696064CB3930F746D</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>For the last 15 years, Biodiversity Information Standards (<ext-link ext-link-type="uri" xlink:href="https://tdwg.org">TDWG</ext-link>) has recognized two competing standards for organism occurrence data, <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/standards/115">ABCD</ext-link> (Access to Biological Collections Data; <xref ref-type="bibr" rid="B5219911">Holetschek et al. 2012</xref>) and <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/standards/450">DarwinCore</ext-link> (<xref ref-type="bibr" rid="B5219709">Wieczorek et al. 2012</xref>). These two representations emerged from contrasting strategies for mobilizing information about organism occurrences (also commonly called species occurrence data).  ABCD was capable of representing details of more kinds of information, but was necessarily more complicated. DarwinCore, on the other hand, was simpler but more limited in its ability to represent data of different kinds and formats. TDWG endorsed both standards because the different projects and communities that generated them remained dedicated to their different strategies and tool sets, and the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="https://gbif.org">GBIF</ext-link>) developed the ability to integrate data published in either standard.</p>
+        <p>Since their inceptions, DarwinCore and ABCD have become more similar. DarwinCore has gotten more complicated through the addition of terms and has begun to assign terms to classes. ABCD is now expressed in <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/RDF/">RDF</ext-link> (Resource Description Framework), potentially enabling re-use of terms with alternative structures among classes. At the same time, methodologies for conceptual modeling and representing complex scientific data have continued to evolve. In particular, a suite of modeling and data representation methods related to <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/standards/semanticweb/data">linked data</ext-link> and the <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/standards/semanticweb/">semantic web</ext-link>, i.e., RDF, <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/TR/2009/REC-skos-reference-20090818/">SKOS</ext-link> (Simple Knowledge Organization System), and <ext-link ext-link-type="uri" xlink:href="https://www.w3.org/OWL/">OWL</ext-link> (web Ontology Language), promise to make it easier for us to reconcile shared concepts among different representations or schemas.</p>
+        <p>A mapping between ABCD 2.1 and DarwinCore has existed since before 2005.*<xref ref-type="fn" rid="FN5229489">1</xref> ABCD 3.0 and DarwinCore are both now represented in RDF. In addition, the <ext-link ext-link-type="uri" xlink:href="https://bioportal.bioontology.org/ontologies/BCO">BioCollections Ontology</ext-link> (BCO) covers many of the shared concepts and is derived from the <ext-link ext-link-type="uri" xlink:href="https://bioportal.bioontology.org/ontologies/BFO">Basic Formal Ontology</ext-link> (BFO), an upper level ontology that has oriented many other biomedical ontologies. Reconciling ABCD and DarwinCore through alignment with BCO (in the <ext-link ext-link-type="uri" xlink:href="http://www.obofoundry.org/">OBO Foundry</ext-link>; <xref ref-type="bibr" rid="B5219987">Smith et al. 2007</xref>) would better connect TDWG standards to other domains in biology.  We appreciate that many working scientists and data managers perceive ontologies as overly complicated. To mitigate the steep learning curve associated with ontologies, we expect to create simpler application profiles or schemas to guide and serve narrower communities of practice within the wider biodiversity domain. We also plan to integrate the current work of the Taxonomic Names and Concepts Interest Group and thereby eliminate the redundancy between DarwinCore and <ext-link ext-link-type="uri" xlink:href="http://www.tdwg.org/standards/117">Taxonomic Concepts Transfer Schema</ext-link> (TCS; <xref ref-type="bibr" rid="B5219977">Kennedy et al. 2006</xref>).</p>
+        <p>At the time of this writing, we have only agreements from the authors (i.e., conveners of relevant TDWG Interest Groups and other key stakeholders) to collaborate in pursuit of these common goals. In this presentation we will give a more detailed description of our objectives and products, the methods we are using to achieve them, and our progress to date.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>metadata</kwd>
+        <kwd>data model</kwd>
+        <kwd>schema ingtegration</kwd>
+        <kwd>ontology</kwd>
+        <kwd>RDF</kwd>
+        <kwd>OWL</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>taxonomic concepts</kwd>
+        <kwd>semantic web</kwd>
+        <kwd>linked data</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Stanley Blum</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5219911">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Holetschek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dröge</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>W. G.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>The ABCD of primary biodiversity data access</article-title>
+          <source>Plant Biosystems</source>
+          <volume>146</volume>
+          <issue>4</issue>
+          <fpage>771</fpage>
+          <lpage>779</lpage>
+          <pub-id pub-id-type="doi">10.1080/11263504.2012.740085</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5219977">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kennedy</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hyam</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kukla</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>T. Paterson</surname>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Standard Data Model Representation for Taxonomic Information</article-title>
+          <source>OMICS: A Journal of Integrative Biology. Volume</source>
+          <volume>10</volume>
+          <issue>2</issue>
+          <pub-id pub-id-type="doi">10.1089/omi.2006.10.220</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5219987">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Barry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ashburner</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rosse</surname>
+              <given-names>Cornelius</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bard</surname>
+              <given-names>Jonathan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bug</surname>
+              <given-names>William</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ceusters</surname>
+              <given-names>Werner</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goldberg</surname>
+              <given-names>Louis J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Eilbeck</surname>
+              <given-names>Karen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ireland</surname>
+              <given-names>Amelia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mungall</surname>
+              <given-names>Christopher J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leontis</surname>
+              <given-names>Neocles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocca-Serra</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ruttenberg</surname>
+              <given-names>Alan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sansone</surname>
+              <given-names>Susanna-Assunta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scheuermann</surname>
+              <given-names>Richard H</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Shah</surname>
+              <given-names>Nigam</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Whetzel</surname>
+              <given-names>Patricia L</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lewis</surname>
+              <given-names>Suzanna</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>The OBO Foundry: coordinated evolution of ontologies to support biomedical data integration</article-title>
+          <source>Nature Biotechnology</source>
+          <volume>25</volume>
+          <issue>11</issue>
+          <fpage>1251</fpage>
+          <lpage>1255</lpage>
+          <pub-id pub-id-type="doi">10.1038/nbt1346</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5219709">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bloom</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blum</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Döring</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Giovanni</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>Darwin Core: An Evolving Community-Developed Biodiversity Data Standard. PLoS</article-title>
+          <source>ONE</source>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>29715</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0029715</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="FN5229489">
+        <label>*1</label>
+        <p>See the BioCASE provider software version history. The ABCD to Darwin Core mapping is referenced in version 2.1.0, which preceded 2.2.0 and was issued 2005-07-18. <ext-link ext-link-type="uri" xlink:href="https://wiki.bgbm.org/bps/index.php/VersionHistory">https://wiki.bgbm.org/bps/index.php/VersionHistory</ext-link>. Retrieved 2019-05-09. </p>
+      </fn>
+    </fn-group>
+  </back>
+</article>

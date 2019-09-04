@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37563</article-id>
+      <article-id pub-id-type="publisher-id">37563</article-id>
+      <article-id pub-id-type="manuscript">11151</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Infrastructure for Long-term Preservation and OCR Analysis of Herbarium Images</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Cazenave</surname>
+            <given-names>Nicolas</given-names>
+          </name>
+          <email xlink:type="simple">cazenave@cines.fr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">CINES, Montpellier, France</addr-line>
+        <institution>CINES</institution>
+        <addr-line content-type="city">Montpellier</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nicolas Cazenave (<email xlink:type="simple">cazenave@cines.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37563</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/78A26E85F52F5E1DB24884271C5C8781">78A26E85F52F5E1DB24884271C5C8781</uri>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nicolas Cazenave</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Herbaria hold large numbers of specimens: approximately 22 million herbarium specimens exist as botanical reference objects in Germany, 20 million in France and about 500 million worldwide. High resolution digital images of these specimens take up substantial bandwidth and disk space. New methods of extracting information from the specimen labels have been developed using OCR (Optical character recognition) techniques, but the exploitation of this technology for biological specimens is particularly complex due to the presence of biological material in the image with the text, the non-standard vocabularies, alongside the variation and age of the fonts. Much of the information is handwritten and natural handwriting pattern recognition is a less mature technology than OCR. Today, our system (eTDR-European Trusted digital Repository) provides the OCR technology (using Tesseract software) adapted to the requirements of herbarium specimen images and requires minimal installation in each institution. This is what we propose to make available to botanists with our <ext-link ext-link-type="uri" xlink:href="http://opendata.cines.fr">portal</ext-link>.</p>
+        <p>The goal for a museum is to be able to submit a large number of scanned images easily to a long-term archiving system in order to automatically obtain OCR texts and retrieve them by a full text search on an open data portal.</p>
+        <p>Most of the images are provided for reuse through <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/deed.fr">CC-BY licenses</ext-link>. In each case, the rights of reuse associated with the data are specified in associated metadata.</p>
+        <p>This pilot was an opportunity to test the long-term storage service eTDR provided by <ext-link ext-link-type="uri" xlink:href="https://www.cines.fr/en/">CINES</ext-link>. The services (B2SAFE, B2Handle) developed by <ext-link ext-link-type="uri" xlink:href="https://eudat.eu/services">EUDAT</ext-link><ext-link ext-link-type="uri" xlink:href="https://eudat.eu/services"/>were used to facilitate the transfer of data to the storage repository and to provide indexing services for access to that repository.</p>
+        <p>This workflow that has been tested for the european project <ext-link ext-link-type="uri" xlink:href="https://icedig.eu/">ICEDIG</ext-link><ext-link ext-link-type="uri" xlink:href="https://icedig.eu/"/>is presented as a poster: See the document (Suppl. material <xref ref-type="supplementary-material" rid="S5175311">1</xref>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity data</kwd>
+        <kwd>herbarium</kwd>
+        <kwd>digitization</kwd>
+        <kwd>optical character recognition</kwd>
+        <kwd>data reuse</kwd>
+        <kwd>biodiversity infrastructure</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nicolas Cazenave</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>CINES (National Computing Center for Higher Education) is a French public institution, located in Montpellier, France and supervised by the French Ministry for Higher Education and Research.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>CINES (National Computing Center for Higher Education) is a French public institution, located in Montpellier, France and supervised by the French Ministry for Higher Education and Research.</p>
+    </sec>
+  </back>
+  <floats-group>
+    <supplementary-material id="S5175311" orientation="portrait" position="float" xlink:type="simple">
+      <label>Supplementary material 1</label>
+      <caption>
+        <p>Infrastructure for long-term preservation and OCR analysis of herbarium images</p>
+      </caption>
+      <p>Data type: Poster</p>
+      <p>File: oo_279059.pdf</p>
+      <media xlink:href="biss-03-e37563-s001.pdf" mimetype="Adobe Acrobat Document" mime-subtype="pdf" position="float" orientation="portrait" xlink:type="simple"/>
+      <attrib specific-use="authors">Nicolas Cazenave</attrib>
+    </supplementary-material>
+  </floats-group>
+</article>

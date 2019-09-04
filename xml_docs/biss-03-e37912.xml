@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37912</article-id>
+      <article-id pub-id-type="publisher-id">37912</article-id>
+      <article-id pub-id-type="manuscript">11646</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP39 - Increasing Opportunities to Align Data Initiatives for Bio/Geo Collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Birds of the World: A global reference for avian life histories and a case study of incompatible taxonomies</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Gerbracht</surname>
+            <given-names>Jeff</given-names>
+          </name>
+          <email xlink:type="simple">jag73@cornell.edu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Cornell Lab of Ornithology, Ithaca, NY, United States of America</addr-line>
+        <institution>Cornell Lab of Ornithology</institution>
+        <addr-line content-type="city">Ithaca, NY</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jeff Gerbracht (<email xlink:type="simple">jag73@cornell.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37912</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/DC2D84DC72E656BBBE386E629594D6FF">DC2D84DC72E656BBBE386E629594D6FF</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jeff Gerbracht</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Life history accounts and taxonomic monographs are a series of publications covering a higher taxonomic group where each account is a compilation of existing knowledge detailing many aspects of a species life history. These life history accounts are extensively used by researchers, ornithologists and conservationists as a main source for the current state of knowledge of a species. Birds, being one of the more easily seen and studied taxa, have a number of specialized life history accounts where data from a wide variety of disciplines are combined into a single easily accessible resource.</p>
+        <p>The Cornell Lab of Ornithology (CLO) currently manages two of these series focused on different regions of the world, Birds of North America (BNA) and Neotropical Birds (NB). Lynx Edicions has published the Handbook of Birds of the World (HBW), an extensive set of avian monographs covering every species of bird in the world. A recently announced collaboration between CLO and Lynx Edicions provides us with the opportunity to bring together the extreme detail of the life history accounts from Birds of North America with the global coverage of HBW to produce a global, in-depth treatment of every species of bird in the world.</p>
+        <p>The integration of life history information from these existing projects with different underlying taxonomies presents a variety of real-world examples of the challenges to be overcome to bring these life history accounts into alignment and provide the scientific and lay communities with taxonomically accurate and up to date information.</p>
+        <p>The Handbook of Birds of the World currently follows the HBW and BirdLife Taxonomic Checklist v3 (with 11,126 species recognized) while Birds of North America and Neotropical Birds both follow the eBird/Clements checklist of birds of the world: v2018 (with 10,585 species recognized). Of the roughly 11,000 species of birds, nearly 9,500 are direct matches between HBW/BirdLife and Clements at the species or species to subspecies levels. The remaining concept mismatches fall into several basic categories including lump and split differences as well as differences in which subspecies are included or excluded.</p>
+        <p>In this talk we will discuss the challenges we have faced with managing and merging life history accounts where the underlying taxonomies are fundamentally different. With a requirement to ensure that life history accounts remain accurate when the underlying concepts of the original sources differ, we employ a variety of processes, some very labor intensive and some requiring in-depth taxonomic knowledge to produce consolidated species accounts. Existing resources are integral to these type of integrations and in addition to the taxonomies themselves, cross-taxonomy mapping databases such as Avibase are key. Working through this process of consolidating life history accounts highlights the basic need for taxonomic management and publication toolsets built on underlying taxonomic and life history standards. Cross institutional collaboration to produce these toolsets will be key to their development and successful adoption across the biodiversity and taxonomic communities. I will also discuss and propose a set of taxonomic management tools based on taxonomic concepts, some which already exist and are used by bird taxonomists to annually update the Clements Checklist and some which need to be implemented before we can accurately manage and consolidate biodiversity information and the evolving taxonomies on which those data are based.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>taxonomy</kwd>
+        <kwd>taxonomic concepts</kwd>
+        <kwd>life history</kwd>
+        <kwd>monograph</kwd>
+        <kwd>toolset</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jeff Gerbracht</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

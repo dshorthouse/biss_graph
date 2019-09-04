@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35177</article-id>
+      <article-id pub-id-type="publisher-id">35177</article-id>
+      <article-id pub-id-type="manuscript">11433</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI68 - The World Flora Online – Creating a Research Infrastructure of global integrated data for all plants</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The World Flora Online – Research Infrastructure for Plant Conservation</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Miller</surname>
+            <given-names>Chuck</given-names>
+          </name>
+          <email xlink:type="simple">chuck.miller@mobot.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7847-9299</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Missouri Botanical Garden, Saint Louis, MO, United States of America</addr-line>
+        <institution>Missouri Botanical Garden</institution>
+        <addr-line content-type="city">Saint Louis, MO</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Chuck Miller (<email xlink:type="simple">chuck.miller@mobot.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35177</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/BB0EAE2399905AA3BB7D43D251DEF8AF">BB0EAE2399905AA3BB7D43D251DEF8AF</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Chuck Miller</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The World Flora Online (WFO) project was initiated in 2012 in response to Target 1 of the Congress on Biological Diversity's Global Strategy for Plant Conservation (GSPC) – "To create an online flora of all known plants by 2020". Target 1 is intended to enable and support the additional 15 targets of the GSPC because plant conservation requires a stable foundation of taxonomic and descriptive information. A WFO Consortium has been formed of 42 international partners and growing. The World Flora Online Public Portal (<ext-link ext-link-type="uri" xlink:href="http://www.worldfloraonline.org">www.worldfloraonline.org</ext-link>) was launched at the International Botanical Congress in Shenzhen, China in July, 2017. The baseline Public Portal was initially populated with a taxonomic backbone of plant names and taxonomic data gathered from The Plant List, later augmented by newer taxonomic sources like Solanaceae Source. All names in the backbone are assigned globally unique WFOIDs that facilitate ingestion and update of both taxonomic and descriptive data. The next phase of the World Flora Online involves more enhancement of the taxonomic backbone by new plant Taxonomic Expert Networks (TENs) and acceleration of ingestion of descriptive data from digital floras and monographs, as well as threat status data from other sources like International Union for Conservation of Nature (IUCN). Descriptive data can include text descriptions, images, geographic distributions, identification keys, phylogenetic trees, as well as atomized trait data like threat status, lifeform or habitat. Initial digital descriptive datasets have been incorporated from Flora of Brazil, Flora of South Africa, Flora of China, Flora of North Africa, Flora of Australia, and many others. Hard work continues to match the names associated with the newly submitted descriptions to the names in the WFO taxonomic backbone and then ingest the descriptive data elements into the WFO database. Numerous data tools have been added to the WFO infrastructure to accomplish the data cleaning, standardization and transformation required before descriptive data can be integrated. This presentation will review the history of WFO, the design of the WFO infrastructure and plans for its use, and future directions.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>plants</kwd>
+        <kwd>botany</kwd>
+        <kwd>World Flora Online</kwd>
+        <kwd>WFO</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>flora</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Chuck Miller</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity Next, Leiden, Netherlands</p>
+      </sec>
+    </notes>
+  </front>
+</article>

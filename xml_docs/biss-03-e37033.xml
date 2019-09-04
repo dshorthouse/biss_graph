@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37033</article-id>
+      <article-id pub-id-type="publisher-id">37033</article-id>
+      <article-id pub-id-type="manuscript">10932</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST74 - Standards Alignments across Disciplines in Natural Sciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>‘openDS’ – A New Standard for Digital Specimens and Other Natural Science Digital Object Types</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hardisty</surname>
+            <given-names>Alex R</given-names>
+          </name>
+          <email xlink:type="simple">hardistyar@cardiff.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0767-4310</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ma</surname>
+            <given-names>Keping</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nelson</surname>
+            <given-names>Gil</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7851-4445</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fortes</surname>
+            <given-names>Jose</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Cardiff University, Cardiff, United Kingdom</addr-line>
+        <institution>Cardiff University</institution>
+        <addr-line content-type="city">Cardiff</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Institute of Botany, CAS, Beijing, China</addr-line>
+        <institution>Institute of Botany, CAS</institution>
+        <addr-line content-type="city">Beijing</addr-line>
+        <country>China</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Florida State University, Tallahassee, Florida, United States of America</addr-line>
+        <institution>Florida State University</institution>
+        <addr-line content-type="city">Tallahassee, Florida</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">University of Florida, Gainesville, United States of America</addr-line>
+        <institution>University of Florida</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Alex R Hardisty (<email xlink:type="simple">hardistyar@cardiff.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37033</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5F1737CBC8E45BD5BE07008F50607FC3">5F1737CBC8E45BD5BE07008F50607FC3</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Alex R Hardisty, Keping Ma, Gil Nelson, Jose Fortes</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>With projected lifespans of many decades, infrastructure initiatives such as Europe’s Distributed System of Scientiﬁc Collections (<ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">DiSSCo</ext-link>), USA’s Integrated Digitized Biocollections (<ext-link ext-link-type="uri" xlink:href="https://www.idigbio.org/">iDigBio</ext-link>), National Specimen Information Infrastructure (<ext-link ext-link-type="uri" xlink:href="http://www.nsii.org.cn/2017/home-en.php">NSII</ext-link>) of China and Australia’s digitisation of national research collections (<ext-link ext-link-type="uri" xlink:href="https://www.csiro.au/en/Showcase/NRCA">NRCA Digital</ext-link>) aim at transforming today’s slow, ineﬃcient and limited practices of working with natural science collections. The need to borrow specimens (plants, animals, fossils or rocks) or physically visit collections, and absence of linkages to other relevant information represent signiﬁcant impediments to answering today’s scientiﬁc and societal questions.</p>
+        <p>A logical extension of the Internet, Digital Object Architecture (<xref ref-type="bibr" rid="B5175299">Kahn and Wilensky 2006</xref>) oﬀers a way of grouping, managing and processing fragments of information relating to a natural science specimen. A ‘digital specimen’ acts as a surrogate in cyberspace for a speciﬁc physical specimen, identifying its actual location and authoritatively saying something about its collection event (who, when, where) and taxonomy, as well as providing links to high-resolution images. A digital specimen exposes supplementary information about related literature, traits, tissue samples and DNA sequences, chemical analyses, environmental information, etc. stored elsewhere than in the natural science collection itself.</p>
+        <p>By presenting digital specimens as a new layer between data infrastructure of natural science collections and user applications for processing and interacting with information about specimens and collections, it’s possible to seamlessly organise global access spanning multiple collection-holding institutions and sources. Virtual collections of digital specimens with unique identiﬁers oﬀer possibilities for wider, more ﬂexible, and ‘FAIR’ (Findable, Accessible, Interoperable, Reusable) access for varied research and policy uses: recognising curatorial work, annotating with latest taxonomic treatments, understanding variations, working with DNA sequences or chemical analyses, supporting regulatory processes for health, food, security, sustainability and environmental change, inventions/products critical to the bio-economy, and educational uses. Adopting a digital specimen approach is expected to lead to faster insights for lower cost on many fronts.</p>
+        <p>We propose that realising this vision requires a new TDWG standard. OpenDS is a speciﬁcation of digital specimen and other object types essential to mass digitisation of natural science collections and their digital use. For ﬁve principal digital object types corresponding to major categories of collections and specimens’ information, OpenDS deﬁnes structure and content, and behaviours that can act upon them:</p>
+        <p>
+          <list list-type="order"><list-item><p>Digital specimen: Representing a digitised physical specimen, contains information about a single specimen with links to related supplementary information;</p></list-item><list-item><p>Storage container: Representing groups of specimens stored within a single container, such as insect tray, drawer or sample jar;</p></list-item><list-item><p>Collection: Information about characteristics of a collection;</p></list-item><list-item><p>Organisation: Information about the legal-entity owning the specimen and collection to which it belongs; and,</p></list-item><list-item><p>Interpretation: Assertion(s) made on or about the specimen such as determination of species and comments.</p></list-item></list>
+        </p>
+        <p>Secondary classes gather presentation/preservation characteristics (e.g., herbarium sheets, pinned insects, specimens in glass jars, etc.), the general classiﬁcation of a specimen (i.e., plant, animal, fossil, rock, etc.) and history of actions on the object (provenance).</p>
+        <p>Equivalencing concepts in <ext-link ext-link-type="uri" xlink:href="https://abcd.tdwg.org/">ABCD 3.0</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.geocase.eu/efg">EFG extension for geo-sciences</ext-link>, OpenDS is also an ontology extending OBO Foundry’s Biological Collection Ontology (<ext-link ext-link-type="uri" xlink:href="http://www.obofoundry.org/ontology/bco.html">BCO</ext-link>) (<xref ref-type="bibr" rid="B5175370">Walls et al. 2014</xref>) from bco:MaterialSample, which has preferred label dwc:specimen from <ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org/">Darwin Core</ext-link>, thus linking it also with that standard.</p>
+        <p>OpenDS object content can be serialized to speciﬁc formats/representations (e.g. JSON) for diﬀerent exchange and processing purposes.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>openDS</kwd>
+        <kwd>digital specimen</kwd>
+        <kwd>digital object</kwd>
+        <kwd>architecture</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>natural science</kwd>
+        <kwd>geoscience</kwd>
+        <kwd>specimens</kwd>
+        <kwd>informatics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Alex R Hardisty</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Horizon 2020 Framework Programme of the European Union, H2020-INFRADEV-2016-2017 Grant Agreement No. 777483</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Horizon 2020 Framework Programme of the European Union, H2020-INFRADEV-2016-2017 Grant Agreement No. 777483</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>ICEDIG - Innovation and Consolidation for Large-Scale Digitisation of Natural Heritage</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5175299">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kahn</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wilensky</surname>
+              <given-names>Robert</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>A framework for distributed digital object services</article-title>
+          <source>Int J Digit Libr</source>
+          <volume>6</volume>
+          <issue>2</issue>
+          <fpage>115</fpage>
+          <lpage>123</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00799-005-0128-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5175370">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Walls</surname>
+              <given-names>Ramona L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deck</surname>
+              <given-names>John</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baskauf</surname>
+              <given-names>Steve</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Beaman</surname>
+              <given-names>Reed</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blum</surname>
+              <given-names>Stanley</given-names>
+            </name>
+            <name name-style="western">
+              <surname>...</surname>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Semantics in Support of Biodiversity Knowledge Discovery: An introduction to the Biological Collections Ontology and Related Ontologies</article-title>
+          <source>PLoS ONE</source>
+          <volume>9</volume>
+          <issue>3</issue>
+          <fpage>e89606</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0089606</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

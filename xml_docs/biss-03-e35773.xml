@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35773</article-id>
+      <article-id pub-id-type="publisher-id">35773</article-id>
+      <article-id pub-id-type="manuscript">11073</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS19 - Exploring biodiversity knowledge by ontologies</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>OpenBiodiv-O Ontology: Bridging the Gap Between Biodiversity Data and Biodiversity Publishing</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dimitrova</surname>
+            <given-names>Mariya</given-names>
+          </name>
+          <email xlink:type="simple">m.dimitrova@pensoft.net</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8083-6048</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Senderov</surname>
+            <given-names>Viktor</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3340-5963</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Simov</surname>
+            <given-names>Kiril</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Georgiev</surname>
+            <given-names>Teodor</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8558-6845</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Penev</surname>
+            <given-names>Lyubomir</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2186-5033</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Pensoft Publishers, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Bulgarian Academy of Sciences, Sofia, Bulgaria</addr-line>
+        <institution>Bulgarian Academy of Sciences</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Pensoft, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Pensoft Publishers &amp; Bulgarian Academy of Sciences, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers &amp; Bulgarian Academy of Sciences</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mariya Dimitrova (<email xlink:type="simple">m.dimitrova@pensoft.net</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35773</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/ACFB8FEFDE2B532792D3858DAEAA7CC6">ACFB8FEFDE2B532792D3858DAEAA7CC6</uri>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mariya Dimitrova, Viktor Senderov, Kiril Simov, Teodor Georgiev, Lyubomir Penev</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Communication of research findings is the last and arguably the most influential step of the scientific process. This is especially true for biodiversity science, in which new species descriptions and introduction of new taxonomic names happens through publication, as governed by the International Codes. Despite the strict rules for naming new taxa and revising existing taxonomic nomenclatures within scholarly literature, there is no system for keeping track of these changes and information often remains locked within the text of thousands of scattered journal articles. This talk presents OpenBiodiv-O, the first ontology which conceptually models the biodiversity publishing domain and through its application in the semantic graph database <ext-link ext-link-type="uri" xlink:href="http://openbiodiv.net">OpenBiodiv</ext-link> contributes to knowledge management of this domain. </p>
+        <p>In combination with already existing ontologies for biodiversity and publishing (e.g. DarwinCore-based ontologies, SPAR ontologies), resource types introduced by OpenBiodiv-O help to create a link between these two domains. The ontology models the general structure of a research article, including sections specific to taxonomic articles, such as the treatment section, as well as other conceptual entities from taxonomy, like scientific names and taxonomic concepts. Thus, OpenBiodiv-O links scientific names to the corresponding article section in which they are mentioned via the class Taxonomic Name Usage and helps to discover hidden relationships between names. In addition, OpenBiodiv-O models the article metadata, such as the author names, affiliations and unique identifiers. The <italic>orcid</italic> class from the recently introduced Datacite ontology within OpenBiodiv-O models the ORCID of authors and will enable the future disambiguation of authors and linking with other platforms using ORCID. </p>
+        <p>OpenBiodiv-O has been applied to the biodiversity knowledge graph OpenBiodiv, which is based on a Linked Open Dataset, created from Pensoft's journal articles and Plazi's treatments. Publishing of semantically enhanced scholarly literature as XML enables the conversion of semi-structured narrative into connected Resource Description Framework (RDF) statements. The ontology serves as a skeleton for the transformation of more than 729 million statements into a Linked Open Dataset. Reusing of existing ontologies within OpenBiodiv-O helps to establish a link between OpenBiodiv-O and other ontologies and facilitates federated querying between OpenBiodiv and other knowledge graphs. The application of OpenBiodiv-O towards a working solution for the biodiversity publishing domain demonstrates the potential of ontology modelling for data organisation and management.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Biodiversity publishing</kwd>
+        <kwd>ontology</kwd>
+        <kwd>taxonomic names</kwd>
+        <kwd>Linked Open Data</kwd>
+        <kwd>semantic database</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mariya Dimitrova</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Presented at the Biodiversity Next, 20-25 October 2019, Leiden, the Netherlands.</p>
+      </sec>
+    </notes>
+  </front>
+</article>

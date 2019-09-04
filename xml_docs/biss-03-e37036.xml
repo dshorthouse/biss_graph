@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37036</article-id>
+      <article-id pub-id-type="publisher-id">37036</article-id>
+      <article-id pub-id-type="manuscript">11178</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST15 - Molecular biodiversity evidence in time and space: data linkages and standards</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Going Molecular: Sequence-based spatiotemporal biodiversity evidence in GBIF</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Schigel</surname>
+            <given-names>Dmitry S.</given-names>
+          </name>
+          <email xlink:type="simple">dschigel@gbif.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2919-1168</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jeppesen</surname>
+            <given-names>Thomas S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Finn</surname>
+            <given-names>Robert D.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cochrane</surname>
+            <given-names>Guy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kõljalg</surname>
+            <given-names>Urmas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Quast</surname>
+            <given-names>Christian</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6409-2352</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lanfear</surname>
+            <given-names>Jerry</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Orrell</surname>
+            <given-names>Thomas M.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1038-3028</uri>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hobern</surname>
+            <given-names>Donald</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6492-4016</uri>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Miller</surname>
+            <given-names>Joseph T.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5788-9010</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility (GBIF), Secretariat, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility (GBIF), Secretariat</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">European Bioinformatics Institute (EMBL-EBI), Hinxton, United Kingdom</addr-line>
+        <institution>European Bioinformatics Institute (EMBL-EBI)</institution>
+        <addr-line content-type="city">Hinxton</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Tartu, Tartu, Estonia</addr-line>
+        <institution>University of Tartu</institution>
+        <addr-line content-type="city">Tartu</addr-line>
+        <country>Estonia</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Max Planck Institute for Marine Microbiology, Bremen, Germany</addr-line>
+        <institution>Max Planck Institute for Marine Microbiology</institution>
+        <addr-line content-type="city">Bremen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">ELIXIR Europe, Cambridgeshire, United Kingdom</addr-line>
+        <institution>ELIXIR Europe</institution>
+        <addr-line content-type="city">Cambridgeshire</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America</addr-line>
+        <institution>National Museum of Natural History, Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington, DC</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Dmitry S. Schigel (<email xlink:type="simple">dschigel@gbif.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37036</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A84A65FEB7785EDEA073B12B271B9F31">A84A65FEB7785EDEA073B12B271B9F31</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Global Biodiversity Information Facility (GBIF) was established by governments in 2001, largely through the initiative and leadership of the natural history collections community, following the 1999 recommendation by a working group under the Megascience Forum (predecessor of the Global Science Forum) of the Organization for Economic Cooperation and Development (OECD). Over 20 years, GBIF has helped develop standards and convened a global community of data-publishing institutions, aggregrating over one billion specimen occurrence records freely and openly available for use in research and policy making. These GBIF mediated data range from vouchered museum specimens to observation records generated by humans and machines. New data are being generated from integrated remote sensing, ecological sampling, and molecular sequencing that have strong geospatial components but lack traditional vouchers. GBIF is working with partners to develop best practices of bringing this data into the GBIF architecture.</p>
+        <p>Following discussions during the second Global Biodiversity Information Conference in 2018, GBIF and the <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/">European Bioinformatics Institute</ext-link> (EMBL-EBI), supported by <ext-link ext-link-type="uri" xlink:href="https://www.elixir-europe.org/">ELIXIR</ext-link>, have extended collaboration to share species occurrence records known only from their genetic material. When these data providers contribute data coordinates along with the sequences to the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/publisher/ada9d123-ddb4-467d-8891-806ea8d94230"> European Nucleotide Archive</ext-link> (ENA), the records will appear on GBIF maps and in spatial searches. This collaboration enables significant new molecular data streams to become discoverable through GBIF.org: by mid-March 2019, over 7.8m individual occurrence records via the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/publisher/ada9d123-ddb4-467d-8891-806ea8d94230">ENA</ext-link>, and over 13.2m records as standardized Darwin Core sampling-event datasets via <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/publisher/ab733144-7043-4e88-bd4f-fca7bf858880"> MGnify</ext-link>, a resource that provides taxonomic and functional annotations on sequences derived from environmental sequencing projects. Sequence-based occurrence records published by ENA and MGnify boost representation of microbial diversity which was underrepresented at GBIF. The ELIXIR-ENA-MGnify-GBIF partnership is working on further refinement of the dynamic data linkages, frequency of updates and other improvements. The API-based tool that connects GBIF data infrastructures is open to new data contributors and for indexes of molecular occurrences. Indexing of these data streams is dependent on the presence of a name (any rank) with the sequence.</p>
+        <p>Under the current Codes of nomenclature, animals, fungi, plants, and algae cannot be described based on exclusively sequence data. Yet, a significant volume of biodiversity data has only been represented by DNA sequences. Barcoding and sequence clustering procedures vary among taxa and research communities, but clusters can be related to a taxon with a Latin name. Many DNA similarity clusters do not contain a sequence from a formally described taxon; however these sequence clusters provide provisional molecular names for nomenclatural communication. In the best cases, curated libraries of reference sequences, their metadata, clusters, alignments, and links to individuals and physical material become <italic>de facto</italic> naming conventions for certain taxonomic groups, and co-exist with Latin names.</p>
+        <p>Integration of molecular names into the taxonomic backbone of GBIF started with Fungi and <ext-link ext-link-type="uri" xlink:href="http://unite.ut.ee"> UNITE</ext-link>, a data management and identification environment for fungal ITS barcodes with 87,000+ fungal species hypotheses demarcating 800,000+ sequence specimens as of March 2019. Checklist publication of <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/61a5f178-b5fb-4484-b6d8-9b129739e59d">all names in UNITE</ext-link> through GBIF.org including Linnaean names and stable, DOI-trackable molecular sequence based ‘species hypotheses’, enables indexing of fungal metabarcoding data worldwide, such as <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15468/nesbvx"> BIOWIDE</ext-link>. As names are currently essential to indexing the world’s occurrence data, GBIF will develop similar linkages with names in <ext-link ext-link-type="uri" xlink:href="http://www.boldsystems.org/"> the Barcode of Life data system (BOLD</ext-link>) and in <ext-link ext-link-type="uri" xlink:href="https://www.arb-silva.de/">SILVA</ext-link> - a resource for high-quality ribosomal RNA sequence data and taxonomy, and welcomes other reference systems to this development. Expanding the molecular data streams (Fig. <xref ref-type="fig" rid="F5171495">1</xref>) allows GBIF to address spatial, temporal and taxonomic gaps and biases, and to support large-scale data-intensive research openly and worldwide.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Dmitry S. Schigel</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <floats-group>
+    <fig id="F5171495" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Molecular data streams in Global Biodiversity Information Facility (GBIF) in 2019. Filled boxes represent existing data links with GBIF, empty boxes - agreed data streams, dashed - data streams under consideration.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37036-g001.jpg" position="float" id="oo_278236.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

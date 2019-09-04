@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38433</article-id>
+      <article-id pub-id-type="publisher-id">38433</article-id>
+      <article-id pub-id-type="manuscript">11554</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP79 - Agrobiodiversity in the era of open government, FAIR data, and public access policy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Using Fuzzy Cognitive Mapping to Collate Expert Knowledge: Diverse impacts of renewable energy on biodiversity and the UN Sustainable Development Goals</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Grace</surname>
+            <given-names>Miriam</given-names>
+          </name>
+          <email xlink:type="simple">miriam.grace@uea.ac.uk</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Meletiou</surname>
+            <given-names>Alexis</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pham-Truffert</surname>
+            <given-names>Myriam</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Darbi</surname>
+            <given-names>Marianne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Locher-Krause</surname>
+            <given-names>Karla Estela</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rueff</surname>
+            <given-names>Henri</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of East Anglia, Norwich, United Kingdom</addr-line>
+        <institution>University of East Anglia</institution>
+        <addr-line content-type="city">Norwich</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Helmholtz Centre for Environmental Research - UFZ, Leipzig, Germany</addr-line>
+        <institution>Helmholtz Centre for Environmental Research - UFZ</institution>
+        <addr-line content-type="city">Leipzig</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Bern, Bern, Switzerland</addr-line>
+        <institution>University of Bern</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Miriam Grace (<email xlink:type="simple">miriam.grace@uea.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38433</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/65DAA8B72A8C563481E9107DA70AD570">65DAA8B72A8C563481E9107DA70AD570</uri>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Miriam Grace, Alexis Meletiou, Myriam Pham-Truffert, Marianne Darbi, Karla Estela Locher-Krause, Henri Rueff</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The European Union (EU) is committed to tackling the issue of climate change, which poses serious risks to the global environment and human well-being. Supporting renewable energy is a key policy direction for the EU to lower its contributions to climate change. However, renewable energy technologies have diverse effects on the environment and on society. These effects can be considered a complex system of interacting elements and are challenging to assess. Conceptual models are a way of synthesizing this information to obtain an overview of the system and essential insights. We present the results of an activity to assess the impacts of EU renewable energy policies on overseas biodiversity and the United Nations (UN) Sustainable Development Goals (SDGs). This was carried out as part of the <ext-link ext-link-type="uri" xlink:href="http://www.eklipse-mechanism.eu/">EKLIPSE</ext-link> (EKLIPSE (Establishing a European Knowledge and Learning Mechanism to Improve the Policy-Science-Society Interface on Biodiversity and Ecosystem Services) mechanism to synthesise environmental knowledge in response to specific requests by decision-makers at the European level. We carried out a participatory process to collate expert knowledge into a conceptual model using a Fuzzy Cognitive Mapping Approach (<xref ref-type="bibr" rid="B5213922">Özesmi and Özesmi 2004</xref>), with the Mental Modeler software for mapping (<xref ref-type="bibr" rid="B5213891">Gray et al. 2013</xref>). The participants were guided to connect significant EU policies associated with renewable energy, the technologies they support, and known impacts of these technologies on biodiversity and the SDGs, drawing on a preliminary review of the literature. The individual models obtained were integrated into a single model (see Suppl. material <xref ref-type="supplementary-material" rid="S5188697">1</xref> for images). This was then subject to network analysis, which reveals the collective effects of different renewable energy technologies (RETs) on the wider socioecological system. Our findings highlight that RETs have complex and at times disparate effects on biodiversity and the SDGs, acting through a variety of mediating processes. They benefit the SDGs on balance, particularly climate-related SDGs. Mitigation of biodiversity impacts remains a concern, and processes such as habitat change were found to be influential here. Our results suggest that policymakers must focus on implementing appropriate environmental impact assessments, guided by these mediating processes. This would minimize any negative environmental impacts of RETs, while maximizing the benefits.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>renewable energy</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>UN Sustainable Development Goals</kwd>
+        <kwd>sustainable development</kwd>
+        <kwd>fuzzy cognitive mapping</kwd>
+        <kwd>participatory processes</kwd>
+        <kwd>conceptual modelling</kwd>
+        <kwd>network analysis</kwd>
+        <kwd>European Union</kwd>
+        <kwd>policy</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Miriam Grace</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5213891">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Steven A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Stefan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cox</surname>
+              <given-names>Linda J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Henly-Shepard</surname>
+              <given-names>Sarah</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>Mental Modeler: A fuzzy-logic cognitive mapping modeling tool for adaptive environmental management</article-title>
+          <source>46<sup>th</sup> Hawaii International Conference on System Sciences</source>
+          <pub-id pub-id-type="doi">10.1109/hicss.2013.399</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5213922">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Özesmi</surname>
+              <given-names>Uygar</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Özesmi</surname>
+              <given-names>Stacy L.</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Ecological models based on people’s knowledge: A multi-step fuzzy cognitive mapping approach</article-title>
+          <source>Ecological Modelling</source>
+          <volume>176</volume>
+          <fpage>43</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2003.10.027</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <supplementary-material id="S5188697" orientation="portrait" position="float" xlink:type="simple">
+      <object-id content-type="arpha">95FE571B5368563BB7DEB533CEE02099</object-id>
+      <object-id content-type="doi">10.3897/biss.3.38433.suppl1</object-id>
+      <label>Supplementary material 1</label>
+      <caption>
+        <p>Supporting images of the integrated conceptual model, collating expert understanding of the effects of renewable energy policies and technologies on biodiversity and the UN Sustainable Development Goals.</p>
+      </caption>
+      <p>Data type: Supporting images</p>
+      <p>Brief description: This file contains images of the integrated conceptual model of expert understanding of the effects of renewable energy policies and technologies on biodiversity and the UN Sustainable Development Goals.</p>
+      <p>File: oo_291708.docx</p>
+      <media xlink:href="biss-03-e38433-s001.docx" mimetype="Microsoft Word Document" mime-subtype="docx" position="float" orientation="portrait" xlink:type="simple">
+        <uri content-type="original_file">https://binary.pensoft.net/file/291708</uri>
+      </media>
+      <attrib specific-use="authors">Miriam Grace et al.</attrib>
+    </supplementary-material>
+  </floats-group>
+</article>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37381</article-id>
+      <article-id pub-id-type="publisher-id">37381</article-id>
+      <article-id pub-id-type="manuscript">11203</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS77 - Digital biodiversity data as a frontier for new research avenues</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodiversity Data Integration: The significance of data resolution and domain</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>König</surname>
+            <given-names>Christian</given-names>
+          </name>
+          <email xlink:type="simple">chr.koenig@outlook.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0585-5983</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Weigelt</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schrader</surname>
+            <given-names>Julian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Taylor</surname>
+            <given-names>Amanda</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kattge</surname>
+            <given-names>Jens</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1022-8469</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kreft</surname>
+            <given-names>Holger</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Geographical Institute, Humboldt University of Berlin, Berlin, Germany</addr-line>
+        <institution>Geographical Institute, Humboldt University of Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Biodiversity, Macroecology &amp; Biogeography, University of Goettingen, Goettingen, Germany</addr-line>
+        <institution>Biodiversity, Macroecology &amp; Biogeography, University of Goettingen</institution>
+        <addr-line content-type="city">Goettingen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Research Group Functional Biogeography, Max Planck Institute for Biogeochemistry, Jena, Germany</addr-line>
+        <institution>Research Group Functional Biogeography, Max Planck Institute for Biogeochemistry</institution>
+        <addr-line content-type="city">Jena</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany</addr-line>
+        <institution>German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig</institution>
+        <addr-line content-type="city">Leipzig</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Centre of Biodiversity and Sustainable Land Use (CBL), University of Goettingen, Goettingen, Germany</addr-line>
+        <institution>Centre of Biodiversity and Sustainable Land Use (CBL), University of Goettingen</institution>
+        <addr-line content-type="city">Goettingen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Christian König (<email xlink:type="simple">chr.koenig@outlook.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37381</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/92154D197B5A5289B5C0F17068151217">92154D197B5A5289B5C0F17068151217</uri>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Christian König, Patrick Weigelt, Julian Schrader, Amanda Taylor, Jens Kattge, Holger Kreft</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Recent years have seen an explosion in the availability of biodiversity data describing the distribution, function, and evolutionary history of life on earth. Integrating these heterogeneous data remains a challenge due to large variations in observational scales, collection purposes, and terminologies. Here, we conceptualize widely used biodiversity data types according to their domain (what aspect of biodiversity is described?) and informational resolution (how specific is the description?)(Fig. <xref ref-type="fig" rid="F5173364">1</xref>). Applying this framework to major data providers in biodiversity research reveals a strong focus on the disaggregated end of the data spectrum, e.g. point occurrence data or trait measurements, whereas aggregated data types, e.g. floras or taxonomic monographs, remain largely under-utilized. We discuss the implications of this imbalance for the scope and representativeness of current macroecological research and lay out how an explicit consideration of domain and resolution can inform data collection, mobilization, imputation, and integration.</p>
+        <p>We use two case studies to substantiate our points. In the first case study, we show how coarse-grained regional plant checklists can be used to predict global growth form spectra at high spatial resolutions. Our predictions are highly consistent with fine-grained empirical data based on point occurrence records and vegetation plots. While such dis-aggregated data produce reliable results only for a limited set of well-covered regions, aggregated data types can provide critical information for the extrapolation of biodiversity patterns into less well-sampled regions. In the second case study, we revisit the latitudinal gradient in seed mass, which has been reported to exhibit a 320-fold decrease between 0 and 60 degrees latitude as well as a sharp, 7-fold drop at the edge of the tropics. Re-assessing this relationship using an independent dataset revealed a much more moderate, 11-fold decrease of seed mass towards the poles with little evidence for any abrupt changes. We show that the original results, which were based on relatively sparse, disaggregated data, are confounded by substantial biases in the representation of biomes and growth forms. This, we argue, amplified the magnitude and distorted the shape of the latitudinal gradient in seed mass.</p>
+        <p>In summary, this talk aims to provide both theoretical and practical arguments for a more integrated biodiversity data landscape, which utilizes the strengths and weaknesses of multiple data types across multiple domains and resolutions in order to produce more robust, comprehensive and informative macroecological inferences.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data integration</kwd>
+        <kwd>functional biogeography</kwd>
+        <kwd>data resolution</kwd>
+        <kwd>representative</kwd>
+        <kwd>precision</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Christian König</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <floats-group>
+    <fig id="F5173364" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Selected biodiversity data types, arranged according to their primary domain (here, species distributions versus functional traits) and informational resolution (disaggregated versus aggregated).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37381-g001.png" position="float" id="oo_278640.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

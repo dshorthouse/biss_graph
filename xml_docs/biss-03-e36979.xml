@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36979</article-id>
+      <article-id pub-id-type="publisher-id">36979</article-id>
+      <article-id pub-id-type="manuscript">11065</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS48 Strengthening the biodiversity informatics community of practice through capacity enhancement</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Reaching an Established but Growing Network: Use-case from Canadensys</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sinou</surname>
+            <given-names>Carole</given-names>
+          </name>
+          <email xlink:type="simple">carole.sinou@umontreal.ca</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6718-6669</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bruneau</surname>
+            <given-names>Anne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Paul</surname>
+            <given-names>Deborah L</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kennedy</surname>
+            <given-names>Mary</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Institut de Recherche en Biologie Végétale, University of Montréal, Montréal, Canada</addr-line>
+        <institution>Institut de Recherche en Biologie Végétale, University of Montréal</institution>
+        <addr-line content-type="city">Montréal</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Canadensys, Montréal, Canada</addr-line>
+        <institution>Canadensys</institution>
+        <addr-line content-type="city">Montréal</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Florida State University, Tallahassee, United States of America</addr-line>
+        <institution>Florida State University</institution>
+        <addr-line content-type="city">Tallahassee</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">OBIS Canada, Dartmouth, Canada</addr-line>
+        <institution>OBIS Canada</institution>
+        <addr-line content-type="city">Dartmouth</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Carole Sinou (<email xlink:type="simple">carole.sinou@umontreal.ca</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36979</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/684450FD91085BD58FB21FE0AD479937">684450FD91085BD58FB21FE0AD479937</uri>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Carole Sinou, Anne Bruneau, Deborah L Paul, Mary Kennedy</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p><ext-link ext-link-type="uri" xlink:href="https://www.canadensys.net/">Canadensys</ext-link> is an associate GBIF node in Canada, officially established as a node in 2014, but publishing data on GBIF since 2011. Since then, Canadensys has grown from nine institutions to a network of nearly 25 institutions that publish biodiversity data and we have migrated from an in-house explorer, to a <ext-link ext-link-type="uri" xlink:href="https://living-atlases.gbif.org/">Living Atlases</ext-link> (LA) framework. Canadensys publishes data curated or collected by Canadian universities, museums, as well as municipalities and non govermental organizations (NGOs).</p>
+        <p>Establishing a new network can be challenging, but several resources and programs exist to help node managers and node participants initiate the publication process.</p>
+        <p>Keeping an established network alive while continuing to grow and to develop new methods and technologies is also an important challenge, especially in a context where institutions are geographically separated across large distances, and where funds are scarce or mostly oriented towards highly innovative projects.</p>
+        <p>With the aim to reach both established and new participants across Canada and from adjacent regions in the USA, and in order to help them to familiarize themselves with the new framework based on LA, we organized three <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/project/5PI7koI7h6UKuASqU6CeUo/workshops-on-usage-of-the-atlas-of-living-australia-ala-and-gbiforg-data-portals">workshops</ext-link> on data publication and data usage. Partially funded through a GBIF CESP project, this series of workshops was developed in partnership with international, regional and national partners such as <ext-link ext-link-type="uri" xlink:href="https://www.idigbio.org/">iDigBio</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.coinatlantic.ca/index.php/partners/obis-canada">OBIS Canada</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://www.gbif.es/">GBIF Spain</ext-link>. The workshops helped new participants prepare and publish data, and allowed established publishers to enrich and update their resources on Canadensys and GBIF. The project also highlighted some of the challenges our network is facing, such as funding, infrastructure, human resources, and communication. Feedback from participants shows that the workshops were successfull in terms of capacity enhancement, giving knowledge and tools to data manager in order to prepare and publish standardize data, as well as to transfer that knowledge in their respective institutions. All materials and documentation developed during this project will be made available on Canadensys, allowing everyone interested to follow the curriculum. Sharing our experience will be useful for other nodes wanting to introduce the LA framework to their users and to enhance capacities in the network.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Canadensys</kwd>
+        <kwd>ALA</kwd>
+        <kwd>GBIF</kwd>
+        <kwd>CESP</kwd>
+        <kwd>Living Atlases</kwd>
+        <kwd>network</kwd>
+        <kwd>workshop</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Carole Sinou</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>This work is funded by the GBIF Capacity Enhancement Support Program CESP, and the University of Montréal. CESP program aims to facilitate transfer of knowledge and regional to international collaborations.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>This work is funded by the GBIF Capacity Enhancement Support Program CESP, and the University of Montréal. CESP program aims to facilitate transfer of knowledge and regional to international collaborations.</p>
+    </sec>
+  </back>
+</article>

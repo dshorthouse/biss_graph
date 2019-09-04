@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37612</article-id>
+      <article-id pub-id-type="publisher-id">37612</article-id>
+      <article-id pub-id-type="manuscript">11103</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Towards an Ecological Trait-data Standard Vocabulary</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Schneider</surname>
+            <given-names>Florian D.</given-names>
+          </name>
+          <email xlink:type="simple">florian.dirk.schneider@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1494-5684</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fichtmüller</surname>
+            <given-names>David</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0829-5849</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gossner</surname>
+            <given-names>Martin M.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1516-6364</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Güntsch</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4325-4030</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jochum</surname>
+            <given-names>Malte</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8728-1145</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koenig-Ries</surname>
+            <given-names>Birgitta</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Le Provost</surname>
+            <given-names>Gaëtane</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Manning</surname>
+            <given-names>Pete</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ostrowski</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Penone</surname>
+            <given-names>Caterina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Simons</surname>
+            <given-names>Nadja K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Unaffiliated, Darmstadt, Germany</addr-line>
+        <institution>Unaffiliated</institution>
+        <addr-line content-type="city">Darmstadt</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin, Berlin, Germany</addr-line>
+        <institution>Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Forest Entomology, Swiss Federal Research Institute WSL, Birmensdorf, Switzerland</addr-line>
+        <institution>Forest Entomology, Swiss Federal Research Institute WSL</institution>
+        <addr-line content-type="city">Birmensdorf</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">German Centre for Integrative Biodiversity Research (iDiv) Halle‐Jena‐Leipzig, Leipzig, Germany</addr-line>
+        <institution>German Centre for Integrative Biodiversity Research (iDiv) Halle‐Jena‐Leipzig</institution>
+        <addr-line content-type="city">Leipzig</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Department of Mathematics and Computer Science, Friedrich-Schiller-Universität Jena, Jena, Germany</addr-line>
+        <institution>Department of Mathematics and Computer Science, Friedrich-Schiller-Universität Jena</institution>
+        <addr-line content-type="city">Jena</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Senckenberg Biodiversity and Climate Research Centre (BiK-F), Frankfurt, Germany</addr-line>
+        <institution>Senckenberg Biodiversity and Climate Research Centre (BiK-F)</institution>
+        <addr-line content-type="city">Frankfurt</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">Institute of Plant Sciences, University of Bern, Bern, Switzerland</addr-line>
+        <institution>Institute of Plant Sciences, University of Bern</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim"> Department of Biology, Technische Universität Darmstadt, Darmstadt, Germany</addr-line>
+        <institution> Department of Biology, Technische Universität Darmstadt</institution>
+        <addr-line content-type="city">Darmstadt</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">Department of Ecology and Ecosystem Management, Technische Universität München, Freising, Germany</addr-line>
+        <institution>Department of Ecology and Ecosystem Management, Technische Universität München</institution>
+        <addr-line content-type="city">Freising</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Florian D. Schneider (<email xlink:type="simple">florian.dirk.schneider@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37612</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A46BFCE836A45805B9422F681D1EA30F">A46BFCE836A45805B9422F681D1EA30F</uri>
+      <history>
+        <date date-type="received">
+          <day>22</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Florian D. Schneider, David Fichtmüller, Martin M. Gossner, Anton Güntsch, Malte Jochum, Birgitta Koenig-Ries, Gaëtane Le Provost, Pete Manning, Andreas Ostrowski, Caterina Penone, Nadja K. Simons</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Trait-based research spans from evolutionary studies of individual-level properties to global patterns of biodiversity and ecosystem functioning. An increasing number of trait data is available for many different organism groups, published as open access data on a variety of file hosting services. Thus, standardization between datasets is generally lacking due to heterogeneous data formats and types. The compilation of these published data into centralised databases remains a difficult and time-consuming task.</p>
+        <p>We reviewed existing trait databases and online services, as well as initiatives for trait data standardization. Together with data providers and users participating in a large long-term observation project on multiple taxa and research questions (the Biodiversity Exploratories, <ext-link ext-link-type="uri" xlink:href="http://www.biodiversity-exploratories.de">www.biodiversity-exploratories.de</ext-link>), we identified a need for a minimal trait-data terminology that is flexible enough to include traits from all types of organisms but simple enough to be adopted by different research communities.</p>
+        <p>In order to facilitate reproducibility of analyses, the reuse of data and the combination of datasets from multiple sources, we propose a standardized vocabulary for trait data, the Ecological Trait-data Standard Vocabulary (ETS, hosted on GFBio Terminology Service, <ext-link ext-link-type="uri" xlink:href="https://terminologies.gfbio.org/terms/ets/pages/">https://terminologies.gfbio.org/terms/ets/pages</ext-link>), which builds upon and is compatible with existing ontologies. By relying on unambiguous identifiers, the proposed minimal vocabulary for trait data captures the different degrees of resolution and measurement detail for multiple use cases of trait-based research. It further encourages the use of global Uniform Resource Identifiers (URI) for taxa and trait definitions, methods and units, thereby readying the data publication for the semantic web. An accompanying R-package (<ext-link ext-link-type="uri" xlink:href="https://ecologicaltraitdata.github.io/traitdataform/">traitdataform</ext-link>) facilitates the upload of data to hosting services but also simplifies the access to published trait data.</p>
+        <p>While originating from a current need in ecological research, in the next step, the described products are being developed for a seamless fit with broader initiatives on biodiversity data standardisation to foster a better linkage of ecological trait data and global e-infrastructures for biological data. The ETS is maintained and discussion on terms are managed via Github (<ext-link ext-link-type="uri" xlink:href="https://github.com/EcologicalTraitData/ETS">https://github.com/EcologicalTraitData/ETS</ext-link>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>trait data</kwd>
+        <kwd>data standard</kwd>
+        <kwd>Open Traits</kwd>
+        <kwd>terminology</kwd>
+        <kwd>semantic web</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Florian D. Schneider</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

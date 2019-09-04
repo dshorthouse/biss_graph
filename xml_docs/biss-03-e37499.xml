@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37499</article-id>
+      <article-id pub-id-type="publisher-id">37499</article-id>
+      <article-id pub-id-type="manuscript">10976</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST15 - Molecular biodiversity evidence in time and space: data linkages and standards</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Microbial Antarctic Resource System: Integrating discoverability and preservation of environmentally-annotated microbial 'omics data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sweetlove</surname>
+            <given-names>Maxime</given-names>
+          </name>
+          <email xlink:type="simple">msweetlove@naturalsciences.be</email>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gan</surname>
+            <given-names>Yi Ming</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Murray</surname>
+            <given-names>Alison</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Van de Putte</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1336-5554</uri>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Belgian Institute of Natural Sciences, Brussels, Belgium</addr-line>
+        <institution>Royal Belgian Institute of Natural Sciences</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">DRI, RenoReno, United States of America</addr-line>
+        <institution>DRI</institution>
+        <addr-line content-type="city">RenoReno</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Maxime Sweetlove (<email xlink:type="simple">msweetlove@naturalsciences.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37499</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/2683AB6BB70651DBAEB7C3E5C6CC90E5">2683AB6BB70651DBAEB7C3E5C6CC90E5</uri>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Maxime Sweetlove, Yi Ming Gan, Alison Murray, Anton Van de Putte</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Microbial organisms - including Archaea, Bacteria and unicellular Eukaryota - collectively dominate the Earth in terms of bio- and functional diversity. Their study, often constrained by technology, has strongly benefited from the recent advancements in high-throughput DNA sequencing techniques. The vast amounts of microbial data generated in the wake of these developments, however, remains severely underrepresented on open access biodiversity data repositories (e.g. the Global Biodiversity Information Facility; GBIF). Moreover, when sequencing data has been made publicly available, is often poorly annotated with metadata and environmental variables, making it difficult to find or query. Therefore, the <ext-link ext-link-type="uri" xlink:href="http://mars.biodiversity.aq">microbial Antarctic Resource System</ext-link> (mARS) aims to fill this lacuna by documenting and geo-referencing microbial datasets and linking the sequence data in the International Nucleotide Sequence Database Collaboration (INSDC) repositories with the associated environmental measurements on mARS, which is aimed to be interoperable with both INSDC and GBIF. This way, mARS helps to preserve environmental data and the metadata that is crucial for the correct processing and interpretation of sequence data, while it also connects researchers via its webportal to the existing wealth of molecular information, and allows these datasets to be more effectively accessed. Given the general complexity of microbial ecological datasets, mARS needs to operate between different data archiving standards, such as MIxS (see <ext-link ext-link-type="uri" xlink:href="https://press3.mcs.anl.gov/gensc/mixs/">https://press3.mcs.anl.gov/gensc/mixs/</ext-link>), which is oriented towards DNA sequence data, and the biodiversity-based <ext-link ext-link-type="uri" xlink:href="https://dwc.tdwg.org">DarwinCore standard.</ext-link></p>
+        <p>Currently, mARS tries to address the challenges of integrating microbial data with these existing systems as well as connecting with the communities behind them, by documenting the datasets on GBIF's extensions or investigate the feasibility of routinely processing raw sequence data into occurrence datasets using the open computing facilities offered by the <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/metagenomics/">European Molecular Biology Laboratory's (EMBL) MGnify resource</ext-link>.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data archiving</kwd>
+        <kwd>Antarctica</kwd>
+        <kwd>microorganisms</kwd>
+        <kwd>Bacteria</kwd>
+        <kwd>Archaea</kwd>
+        <kwd>Eukaryota</kwd>
+        <kwd>MIxS</kwd>
+        <kwd>DarwinCore</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Maxime Sweetlove</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Royal Belgian Institute of Natural Sciences</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Royal Belgian Institute of Natural Sciences</p>
+    </sec>
+  </back>
+</article>

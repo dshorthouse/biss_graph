@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37215</article-id>
+      <article-id pub-id-type="publisher-id">37215</article-id>
+      <article-id pub-id-type="manuscript">11577</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST74 - Standards Alignments across Disciplines in Natural Sciences</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Taming the Wild West of Molecular Tools Application in Aquatic Research and Biomonitoring</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Weigand</surname>
+            <given-names>Alexander M.</given-names>
+          </name>
+          <email xlink:type="simple">alexander.weigand@mnhn.lu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bouchez</surname>
+            <given-names>Agnès</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Boets</surname>
+            <given-names>Pieter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bruce</surname>
+            <given-names>Kat</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ciampor</surname>
+            <given-names>Fedor</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6269-3592</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ekrem</surname>
+            <given-names>Torbjørn</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3469-9211</uri>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fontaneto</surname>
+            <given-names>Diego</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Franc</surname>
+            <given-names>Alain</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hering</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kahlert</surname>
+            <given-names>Maria</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9643-4281</uri>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Keskin</surname>
+            <given-names>Emre</given-names>
+          </name>
+          <xref ref-type="aff" rid="A11">11</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mergen</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A12">12</xref>
+          <xref ref-type="aff" rid="A13">13</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pawlowski</surname>
+            <given-names>Jan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A14">14</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kueckmann</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Leese</surname>
+            <given-names>Florian</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5465-913X</uri>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Musée National d'Histoire Naturelle, Luxembourg, Luxembourg</addr-line>
+        <institution>Musée National d'Histoire Naturelle</institution>
+        <addr-line content-type="city">Luxembourg</addr-line>
+        <country>Luxembourg</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">INRA, Thonon, France</addr-line>
+        <institution>INRA</institution>
+        <addr-line content-type="city">Thonon</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Provincial Centre of Environmental Research, Ghent, Belgium</addr-line>
+        <institution>Provincial Centre of Environmental Research</institution>
+        <addr-line content-type="city">Ghent</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Nature Metrics Ltd, Egham, United Kingdom</addr-line>
+        <institution>Nature Metrics Ltd</institution>
+        <addr-line content-type="city">Egham</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Slovak Academy of Sciences, Bratislava, Slovakia</addr-line>
+        <institution>Slovak Academy of Sciences</institution>
+        <addr-line content-type="city">Bratislava</addr-line>
+        <country>Slovakia</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">NTNU University Museum, Trondheim, Norway</addr-line>
+        <institution>NTNU University Museum</institution>
+        <addr-line content-type="city">Trondheim</addr-line>
+        <country>Norway</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Institute of Ecosystem Study, Verbania Pallanza, Italy</addr-line>
+        <institution>Institute of Ecosystem Study</institution>
+        <addr-line content-type="city">Verbania Pallanza</addr-line>
+        <country>Italy</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">BIOGECO, INRA, Université Bordeaux, Cestas, France</addr-line>
+        <institution>BIOGECO, INRA, Université Bordeaux</institution>
+        <addr-line content-type="city">Cestas</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim">University of Duisburg-Essen, Essen, Germany</addr-line>
+        <institution>University of Duisburg-Essen</institution>
+        <addr-line content-type="city">Essen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">Swedish University of Agricultural Sciences, Uppsala, Sweden</addr-line>
+        <institution>Swedish University of Agricultural Sciences</institution>
+        <addr-line content-type="city">Uppsala</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <aff id="A11">
+        <label>11</label>
+        <addr-line content-type="verbatim">Evolutionary Genetics Laboratory (eGL), Ankara University, Ankara, Turkey</addr-line>
+        <institution>Evolutionary Genetics Laboratory (eGL), Ankara University</institution>
+        <addr-line content-type="city">Ankara</addr-line>
+        <country>Turkey</country>
+      </aff>
+      <aff id="A12">
+        <label>12</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A13">
+        <label>13</label>
+        <addr-line content-type="verbatim">Royal Museum for Central Africa, Tervuren, Belgium</addr-line>
+        <institution>Royal Museum for Central Africa</institution>
+        <addr-line content-type="city">Tervuren</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A14">
+        <label>14</label>
+        <addr-line content-type="verbatim">University of Geneva, Geneve, Switzerland</addr-line>
+        <institution>University of Geneva</institution>
+        <addr-line content-type="city">Geneve</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Alexander M. Weigand (<email xlink:type="simple">alexander.weigand@mnhn.lu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37215</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/01E48EE055115C7DA6045D3E66702215">01E48EE055115C7DA6045D3E66702215</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Alexander M. Weigand, Agnès Bouchez, Pieter Boets, Kat Bruce, Fedor Ciampor, Torbjørn Ekrem, Diego Fontaneto, Alain Franc, Daniel Hering, Maria Kahlert, Emre Keskin, Patricia Mergen, Jan Pawlowski, Sarah Kueckmann, Florian Leese</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Modern high-throughput sequencing technologies are becoming a game changer in many fields of aquatic research and biomonitoring. To unfold their full potential, however, the independent development of approaches has to be streamlined. This discussion must be fuelled by stakeholders and practitioners and, scientific results collaboratively filtered to identify the most promising avenues. Furthermore, aspects such as time, budget, skills and the application context have to be considered, finally communicating good practice strategies to target audiences. </p>
+        <p>Since 2016, the EU COST Action DNAqua-Net is taming the wild west of molecular tools application in aquatic research and biomonitoring. After nucleating available knowledge by the formation of a highly international and transdisciplinary network of scientists, stakeholders, practitioners and enterprises, fields of high methodological diversity were identified. Relevant aspects are currently ground truthed, thereby reducing the plethora of pipelines, parameters and protocols to a subset of good practices or standardisations. To effectively bridge the science-application interface, the very same network is exploited for the dissemination of results (<xref ref-type="bibr" rid="B5233907">Leese et al. 2018</xref>).</p>
+        <p>The internal working group structure of DNAqua-Net is used to provide an overview of existing methodological fields of diversity in DNA-based aquatic biomonitoring:</p>
+        <p><bold>WG1 -</bold> <bold>DNA Barcode References: </bold>Different marker systems are targeted for the same organism group. Even in case the same molecular marker is investigated, different primer pairs are frequently applied for DNA metabarcoding. Both aspects challenge the further development of high-quality and complete DNA barcode reference libraries (<xref ref-type="bibr" rid="B5233945">Weigand et al. 2019</xref>).</p>
+        <p><bold>WG2 -</bold> <bold>Biotic Indices &amp; Metrics</bold>: Index systems are developed from molecular data in various ways: from the estimation of species' biomass (as a proxy for abundance) from sequence reads, to the correlation of presence/absence data of molecular operational taxonomic units (MOTUs) with environmental parameters (<xref ref-type="bibr" rid="B5233992">Pawlowski et al. 2018</xref>).</p>
+        <p><bold>WG3 -</bold> <bold>Field &amp; Lab Protocols</bold>: Using environmental DNA (eDNA) metabarcoding as an example, diverse sampling techniques based on varying water volumes, different filter systems and collection devices as well as a multitude of laboratory protocols for PCR, replication and sequencing are considered.</p>
+        <p><bold>WG4 -</bold> <bold>Data Analysis &amp; Storage</bold>: During the process of MOTU identification, varying threshold values and conceptually different pipelines are used, potentially impacting the final list of MOTUs or species retrieved. Furthermore, routine storage concepts for big biodiversity data are only in development and some sample types (e.g. eDNA) have no sophisticated metadata descriptions.</p>
+        <p><bold>WG5 -</bold> <bold>Implementation Strategy &amp; Legal Issues: </bold>The working group picks up collaboratively filtered good practice strategies and generates room for discussions at the science-policy interface (<xref ref-type="bibr" rid="B5233884">Hering et al. 2018</xref>). The CEN working group WG28 "DNA methods" has been initiated and the development of standardisations is fostered.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>methods standardisation</kwd>
+        <kwd>DNA-based aquatic biomonitoring</kwd>
+        <kwd>EU COST Action CA15219</kwd>
+        <kwd>Marine Stategy Framework Directive</kwd>
+        <kwd>Water Framework Directive</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Alexander M. Weigand</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This presentation is based upon work from COST Action DNAqua-Net (CA15219), supported by the COST (European Cooperation in Science and Technology) programme. We thank all DNAqua-Net members for their input.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5233884">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hering</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Borja</surname>
+              <given-names>Angel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jones</surname>
+              <given-names>J. Iwan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pont</surname>
+              <given-names>Didier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boets</surname>
+              <given-names>Pieter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouchez</surname>
+              <given-names>Agnes</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bruce</surname>
+              <given-names>Kat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Drakare</surname>
+              <given-names>Stina</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hänfling</surname>
+              <given-names>Bernd</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kahlert</surname>
+              <given-names>Maria</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leese</surname>
+              <given-names>Florian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Meissner</surname>
+              <given-names>Kristian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mergen</surname>
+              <given-names>Patricia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Reyjol</surname>
+              <given-names>Yorick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Segurado</surname>
+              <given-names>Pedro</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vogler</surname>
+              <given-names>Alfried</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kelly</surname>
+              <given-names>Martyn</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Implementation options for DNA-based identification into ecological status assessment under the European Water Framework Directive</article-title>
+          <source>Water Research</source>
+          <volume>138</volume>
+          <fpage>192</fpage>
+          <lpage>205</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.watres.2018.03.003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5233907">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Leese</surname>
+              <given-names>Florian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouchez</surname>
+              <given-names>Agnès</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Abarenkov</surname>
+              <given-names>Kessy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Altermatt</surname>
+              <given-names>Florian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Borja</surname>
+              <given-names>Ángel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bruce</surname>
+              <given-names>Kat</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ekrem</surname>
+              <given-names>Torbjørn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Čiampor</surname>
+              <given-names>Fedor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Čiamporová-Zaťovičová</surname>
+              <given-names>Zuzana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Costa</surname>
+              <given-names>Filipe O.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Duarte</surname>
+              <given-names>Sofia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Elbrecht</surname>
+              <given-names>Vasco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fontaneto</surname>
+              <given-names>Diego</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franc</surname>
+              <given-names>Alain</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Geiger</surname>
+              <given-names>Matthias F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hering</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kahlert</surname>
+              <given-names>Maria</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kalamujić Stroil</surname>
+              <given-names>Belma</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kelly</surname>
+              <given-names>Martyn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Keskin</surname>
+              <given-names>Emre</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Liska</surname>
+              <given-names>Igor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mergen</surname>
+              <given-names>Patricia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Meissner</surname>
+              <given-names>Kristian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pawlowski</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Reyjol</surname>
+              <given-names>Yorick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rotter</surname>
+              <given-names>Ana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Steinke</surname>
+              <given-names>Dirk</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Wal</surname>
+              <given-names>Bas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vitecek</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zimmermann</surname>
+              <given-names>Jonas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weigand</surname>
+              <given-names>Alexander M.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Why We Need Sustainable Networks Bridging Countries, Disciplines, Cultures and Generations for Aquatic Biomonitoring 2.0: A Perspective Derived From the  DNAqua-Net  COST Action</article-title>
+          <source>Advances in Ecological Research, Next Generation Biomonitoring: Part 1</source>
+          <volume>58</volume>
+          <fpage>63</fpage>
+          <lpage>99</lpage>
+          <pub-id pub-id-type="doi">10.1016/bs.aecr.2018.01.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5233992">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pawlowski</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kelly-Quinn</surname>
+              <given-names>Mary</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Altermatt</surname>
+              <given-names>Florian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Apothéloz-Perret-Gentil</surname>
+              <given-names>Laure</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Beja</surname>
+              <given-names>Pedro</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boggero</surname>
+              <given-names>Angela</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Borja</surname>
+              <given-names>Angel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouchez</surname>
+              <given-names>Agnès</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cordier</surname>
+              <given-names>Tristan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Domaizon</surname>
+              <given-names>Isabelle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Feio</surname>
+              <given-names>Maria Joao</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Filipe</surname>
+              <given-names>Ana Filipa</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fornaroli</surname>
+              <given-names>Riccardo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Graf</surname>
+              <given-names>Wolfram</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Herder</surname>
+              <given-names>Jelger</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Hoorn</surname>
+              <given-names>Berry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Iwan Jones</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sagova-Mareckova</surname>
+              <given-names>Marketa</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Moritz</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barquín</surname>
+              <given-names>Jose</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Piggott</surname>
+              <given-names>Jeremy J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pinna</surname>
+              <given-names>Maurizio</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rimet</surname>
+              <given-names>Frederic</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rinkevich</surname>
+              <given-names>Buki</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sousa-Santos</surname>
+              <given-names>Carla</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Specchia</surname>
+              <given-names>Valeria</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Trobajo</surname>
+              <given-names>Rosa</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vasselon</surname>
+              <given-names>Valentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vitecek</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zimmerman</surname>
+              <given-names>Jonas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weigand</surname>
+              <given-names>Alexander</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leese</surname>
+              <given-names>Florian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kahlert</surname>
+              <given-names>Maria</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>The future of biotic indices in the ecogenomic era: Integrating (e)DNA metabarcoding in biological assessment of aquatic ecosystems</article-title>
+          <source>Science of The Total Environment</source>
+          <volume>637/638</volume>
+          <fpage>1295</fpage>
+          <lpage>1310</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.scitotenv.2018.05.002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5233945">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Weigand</surname>
+              <given-names>Hannah</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Beermann</surname>
+              <given-names>Arne J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Čiampor</surname>
+              <given-names>Fedor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Costa</surname>
+              <given-names>Filipe O</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Csabai</surname>
+              <given-names>Zoltán</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Duarte</surname>
+              <given-names>Sofia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Geiger</surname>
+              <given-names>Matthias F</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grabowski</surname>
+              <given-names>Michał</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rimet</surname>
+              <given-names>Frédéric</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rulik</surname>
+              <given-names>Björn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strand</surname>
+              <given-names>Malin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Szucsich</surname>
+              <given-names>Nikolaus</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weigand</surname>
+              <given-names>Alexander M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willassen</surname>
+              <given-names>Endre</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wyler</surname>
+              <given-names>Sofia A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouchez</surname>
+              <given-names>Agnès</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Borja</surname>
+              <given-names>Angel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Čiamporová-Zaťovičová</surname>
+              <given-names>Zuzana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ferreira</surname>
+              <given-names>Sónia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dijkstra</surname>
+              <given-names>Klaas-Douwe B</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Eisendle</surname>
+              <given-names>Ursula</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Freyhof</surname>
+              <given-names>Jörg</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gadawski</surname>
+              <given-names>Piotr</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Graf</surname>
+              <given-names>Wolfram</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Haegerbaeumer</surname>
+              <given-names>Arne</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Hoorn</surname>
+              <given-names>Berry B</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Japoshvili</surname>
+              <given-names>Bella</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Keresztes</surname>
+              <given-names>Lujza</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Keskin</surname>
+              <given-names>Emre</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leese</surname>
+              <given-names>Florian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Macher</surname>
+              <given-names>Jan N</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mamos</surname>
+              <given-names>Tomasz</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Paz</surname>
+              <given-names>Guy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pešić</surname>
+              <given-names>Vladimir</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pfannkuchen</surname>
+              <given-names>Daniela Maric</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pfannkuchen</surname>
+              <given-names>Martin Andreas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>Benjamin W</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rinkevich</surname>
+              <given-names>Buki</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Teixeira</surname>
+              <given-names>Marcos A L</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Várbíró</surname>
+              <given-names>Gábor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ekrem</surname>
+              <given-names>Torbjørn</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>DNA barcode reference libraries for the monitoring of aquatic biota in Europe: Gap-analysis and recommendations for future work.</article-title>
+          <source>Science Of The Total environment</source>
+          <volume>678</volume>
+          <fpage>499</fpage>
+          <lpage>524</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.scitotenv.2019.04.247</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

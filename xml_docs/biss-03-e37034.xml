@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37034</article-id>
+      <article-id pub-id-type="publisher-id">37034</article-id>
+      <article-id pub-id-type="manuscript">10933</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI75 - Linking specimens and physical samples through standardised identifiers and metadata: the last mile</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>‘The Last Mile’: The registry behind the identifier</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hardisty</surname>
+            <given-names>Alex R</given-names>
+          </name>
+          <email xlink:type="simple">hardistyar@cardiff.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0767-4310</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lannom</surname>
+            <given-names>Larry</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koureas</surname>
+            <given-names>Dimitris</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4842-6487</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Addink</surname>
+            <given-names>Wouter</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3090-1761</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Weiland</surname>
+            <given-names>Claus</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0351-6523</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Cardiff University, Cardiff, United Kingdom</addr-line>
+        <institution>Cardiff University</institution>
+        <addr-line content-type="city">Cardiff</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">CNRI, Reston, VA., United States of America</addr-line>
+        <institution>CNRI</institution>
+        <addr-line content-type="city">Reston, VA.</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Distributed System of Scientific Collections - DiSSCo, Leiden, Netherlands</addr-line>
+        <institution>Distributed System of Scientific Collections - DiSSCo</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Biodiversity and Climate Research Centre, Senckenberg Gesellschaft für Naturforschung, Frankfurt, Germany</addr-line>
+        <institution>Biodiversity and Climate Research Centre, Senckenberg Gesellschaft für Naturforschung</institution>
+        <addr-line content-type="city">Frankfurt</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Alex R Hardisty (<email xlink:type="simple">hardistyar@cardiff.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37034</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/764893808AAB5168AC450EA1BAB81E9A">764893808AAB5168AC450EA1BAB81E9A</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Alex R Hardisty, Larry Lannom, Dimitris Koureas, Wouter Addink, Claus Weiland</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Preserved specimens in natural science collections have lifespans of many decades and often, several hundreds of years. Specimens must be unambiguously identifiable and traceable in the face of changes in physical location, changes in organisation of the collection to which they belong, and changes in classification. When <ext-link ext-link-type="uri" xlink:href="http://www.nhm.ac.uk/our-science/our-work/digital-museum/digital-collections-programme.html">digitizing museum collections</ext-link>, a clear link must be maintained between the physical specimen itself and the information digitally representing that specimen in cyberspace. The idea of a <ext-link ext-link-type="uri" xlink:href="http://bit.ly/widenaccess">Natural Science Identifier (NSId)</ext-link> as a neutral, unique, universal and stable long-term persistent identifier (PID) of a ‘Digital Specimen’ is central to museums’ ambitions for widening access. An NSId allows easy identification and referencing of specific Digital Specimens, regardless of type, location, owner or user. It provides a digital doorway to physical specimens through which services for arranging loans and visits can be accessed, as well as opening the door to innovative services for manipulating specimens’ information directly; for work reliant upon discovery of related third-party information; and for demanding 3D modelling and visualization of specimens. Because the work takes place within e-Infrastructures/Cyberspace, new possibilities for analysing hundreds of thousands of specimens simultaneously are opened by exploiting large-scale cloud computing capacity and deep mining/machine learning, for example.</p>
+        <p>There are several established identifier mechanisms that could be used as a basis for NSId, but some variant of <ext-link ext-link-type="uri" xlink:href="https://www.dona.net/handle-system">Handles</ext-link> is most appropriate over the very long-term because of their neutrality, resistance to change and sustainability. Adopted uses of the <ext-link ext-link-type="uri" xlink:href="https://www.dona.net/handle-system">Handle system</ext-link> include identification of journal articles and datasets in education and research (using Digital Object Identifiers); film and television programme assets in the entertainment sector; financial derivatives; and for international shipping and construction.</p>
+        <p>Aside from being stable and sustained over time, an essential requirement of a global PID mechanism is independence from the museums/institutions assigning identifiers. NSIds are opaque insofar as no information can or should be inferred solely by inspecting the identifier. Stakeholders change, collections move, and organisations evolve, merge or disappear. Even designations and descriptions of specimens and collections can change. Information should only be revealed when the identifier is resolved via a neutral index.</p>
+        <p>One can debate the most appropriate instantiation of the Handle system but this is not useful. Relevance, ease of use and added-value of the supporting ‘NSId Registry’ (NSIdR) – the index of the different kinds of natural science object and their relations – are the decisive factors. This can be seen from the example of the <ext-link ext-link-type="uri" xlink:href="https://eidr.org/">Entertainment Identifier Registry (EIDR)</ext-link> founded by the major motion picture studios to create a reliable way to identify and track film and TV content distribution. Focus on the object model, promotional branding and value perception in the target user segment are the critical factors for success. Providing such a registry, seamlessly coupled to work practices and language of the professionals addresses the last mile challenge (<xref ref-type="bibr" rid="B5045165">Koureas et al. 2016</xref>).</p>
+        <p>From specimens, class characteristics, storage containers and collections, to specific identifications, images, naming, literature references and more, the NSIdR’s triple-hierarchy object model, rooted in OBO Foundry’s <ext-link ext-link-type="uri" xlink:href="http://www.obofoundry.org/ontology/bco.html">Biological Collections Ontology,</ext-link> is the key to persistently identifying, relating and indexing the entire range of collection objects of interest to scientists and others working in the bio and geo realms. The NSIdR ‘knowledge graph’, interoperable with other identifier schemes, supports novel first- and third-party value-add services such as arranging loans and visits, curation and annotation, and machine-learning for relationship discovery and pattern exploration.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>persistent identifier</kwd>
+        <kwd>registry</kwd>
+        <kwd>Digital Object Architecture</kwd>
+        <kwd>handle</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Horizon 2020</named-content>
+            <named-content content-type="funder_identifier">501100007601</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100007601</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Alex R Hardisty</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Horizon 2020 Framework Programme of the European Union, H2020-INFRADEV-2016-2017 Grant Agreement No. 777483</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Horizon 2020 Framework Programme of the European Union, H2020-INFRADEV-2016-2017 Grant Agreement No. 777483</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>ICEDIG - Innovation and Consolidation for Large-Scale Digitisation of Natural Heritage</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5045165">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Koureas</surname>
+              <given-names>Dimitrios</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Arvanitidis</surname>
+              <given-names>Christos</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Belbin</surname>
+              <given-names>Lee</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Damgaard</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hagedorn</surname>
+              <given-names>Gregor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hardisty</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hobern</surname>
+              <given-names>Donald</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marcer</surname>
+              <given-names>Arnald</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mietchen</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morse</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Obst</surname>
+              <given-names>Matthias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>Lyubomir</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pettersson</surname>
+              <given-names>Lars</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sierra</surname>
+              <given-names>Soraya</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Vincent</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vos</surname>
+              <given-names>Rutger</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Community engagement: The ‘last mile’ challenge for European research e-infrastructures</article-title>
+          <source>Research Ideas and Outcomes</source>
+          <volume>2</volume>
+          <fpage>e9933</fpage>
+          <pub-id pub-id-type="doi">10.3897/rio.2.e9933</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

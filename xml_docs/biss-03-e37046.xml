@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37046</article-id>
+      <article-id pub-id-type="publisher-id">37046</article-id>
+      <article-id pub-id-type="manuscript">11387</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST13 - Enhancing taxonomic publications for dynamic data exchange and navigation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Plazi Workflow: The PDF prison break for biodiversity data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Agosti</surname>
+            <given-names>Donat</given-names>
+          </name>
+          <email xlink:type="simple">agosti@amnh.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9286-1200</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Catapano</surname>
+            <given-names>Terry</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sautter</surname>
+            <given-names>Guido</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Egloff</surname>
+            <given-names>Willi</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">www.plazi.org, Bern, Switzerland</addr-line>
+        <institution>www.plazi.org</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Plazi, Bern, Switzerland</addr-line>
+        <institution>Plazi</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Donat Agosti (<email xlink:type="simple">agosti@amnh.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37046</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D0E0D4995B1C590DA2D739B5F41FA542">D0E0D4995B1C590DA2D739B5F41FA542</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Swiss NGO Plazi (http://plazi.org) has developed an automated workflow for liberating data, including images and text, from new taxonomic publications issued in PDF format. This stepwise process extracts, article metadata, illustrations and their captions, bibliographic references, scientific names, named geographic entities such as coordinates and country names, collection codes, and finally, taxonomic treatments. These extracted data are enhanced and published in TreatmentBank (http://plazi.org) and deposited in Biodiversity Literature Repository (<ext-link ext-link-type="uri" xlink:href="https://biolitrepo.org/">https:/biolitrepo.org</ext-link>) respectively, in which a Digital Object Identifier (DataCite DOI) is minted for articles as well as their contained figures and taxon treatments, each linked to each other in their metadata. This input is complemented by the import of Journal Article Tag Suite/Taxpub XML based publications from Pensoft publishers (e.g. Zookeys, Journal of Hymenoptera Research; <ext-link ext-link-type="uri" xlink:href="https://pensoft.net/browse_journals">https://pensoft.net/browse_journals</ext-link>) that are semantically enhanced during their journal production workflow. Upon import, materials citation are discovered and parsed, and the taxonomic treatments added to TreatmentBank where a persistent identifier is minted. From TreatmentBank data from taxonomic treatments, including occurence data from cited specimens, are submitted to GBIF (http://gbif.org), or are accessible via API. Treatments and material citations from more than 26,200 articles have been registered. The articles can be found on GBIF using the Digital Object Identifier in the search field. </p>
+        <p>Plazi, together with Pensoft Publishers, has processed over 26,000 articles containing more than 284,000 taxonomic treatments, 190,000 images, 50,000 georeferenced materials citations, together comprising an estimated 100 million facts. Through the support of the Arcadia Fund (<ext-link ext-link-type="uri" xlink:href="https://www.arcadiafund.org.uk/">https://www.arcadiafund.org.uk/</ext-link>) Plazi's processing is expanding to cover a sufficient number of journals to liberate the data of over 50% of the new described animal species annually. This will complement an existing service provided to the Muséum National d’Histoire Naturelle, Paris, to convert the European Journal of Taxonomy and their other journals (<ext-link ext-link-type="uri" xlink:href="http://sciencepress.mnhn.fr/en/periodiques/adansonia/40/1">http://sciencepress.mnhn.fr/en/periodiques/adansonia/40/1</ext-link>) to JATS/TaxPub (<ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK47081/">https://www.ncbi.nlm.nih.gov/books/NBK47081</ext-link>), as well as an increasing portfolio of journals published in JATS/TaxPub by Pensoft Ltd.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>publishing</kwd>
+        <kwd>taxonomic treatments</kwd>
+        <kwd>data conversion</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>TaxPub</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Donat Agosti</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

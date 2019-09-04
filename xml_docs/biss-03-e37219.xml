@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37219</article-id>
+      <article-id pub-id-type="publisher-id">37219</article-id>
+      <article-id pub-id-type="manuscript">11502</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS73 - Biodiversity Informatics: Perspectives from the Global South</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodiversity Data Sharing by Public Funded Institutions: Perspectives from India</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Talukdar</surname>
+            <given-names>Gautam</given-names>
+          </name>
+          <email xlink:type="simple">gautamtalukdar@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2498-5719</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Townsend Peterson</surname>
+            <given-names>Andrew</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0243-2379</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mathur</surname>
+            <given-names>Vinod B</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Wildlife Institute of India, Dehradun, India</addr-line>
+        <institution>Wildlife Institute of India</institution>
+        <addr-line content-type="city">Dehradun</addr-line>
+        <country>India</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Kansas, Lawrence, Kansas, United States of America</addr-line>
+        <institution>University of Kansas</institution>
+        <addr-line content-type="city">Lawrence, Kansas</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Gautam Talukdar (<email xlink:type="simple">gautamtalukdar@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37219</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/EDB7FF8AC35D58C696D1EB1D5CFED7B0">EDB7FF8AC35D58C696D1EB1D5CFED7B0</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Gautam Talukdar, Andrew Townsend Peterson, Vinod B Mathur</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In India, biodiversity data and information are gaining significance for sustainable development and preparing National Biodiversity Strategies and Action Plans (NBSAPs). Civil societies and individuals are seeking open access to data and information generated with public funds, whereas sensitivity requirements often demand restrictions on the availability of sensitive data. In India, the traditional classification of data for sharing was based on the "Open Series Data" model; i.e. data not specifically included remains inaccessible. The National Data Sharing and Accessibility Policy (NDSAP <xref ref-type="bibr" rid="B5186981">Anonymous 2012</xref>Suppl. material <xref ref-type="supplementary-material" rid="S5187009">1</xref>) published in 2012 produced a new data sharing framework more focused on the declaration of data as closed. NDSAP is a clear statement that data that are produced by the Government of India should be shared openly. Although much of the verbiage is focused on sharing within the Government to meet national goals, the document does include clear statements about sharing with the public. The policy is intended to apply "to all data and information created, generated, collected and archived using public funds provided by the Government of India". The policy is quite clear that it should apply to all such data, and that such data should be categorized into open-access, registered-access, or restricted-access.</p>
+        <p>NDSAP indicates that all Government of India-produced/funded data is to be opened to the broader community, but provides three access categories (open, registered, restricted). Although NDSAP does not offer much guidance about what sorts of data should fall in each of the categories, it clearly focuses on data sensitive in terms of national security (i.e., data that must be restricted), such as high-resolution satellite imagery of disputed border regions. Institutions collecting biodiversity data usually include primary, research-grade data in the restricted-access category and secondary / derived data (e.g., vegetation maps, species distribution maps) in the open or registered-access category. The conservative approach of not making bioidiversity data easily accessible, is not in accordance with the NDSAP policy, which emphasizes the openness of data. It also counters the main currents in science, which are shifting massively in the direction of opening access to data.</p>
+        <p>Though NDSAP was intended for full implementation by 2014, its uptake by the institutions engaged in primary biodiversity data collection has been slow mainly because:</p>
+        <p>
+          <list list-type="order"><list-item><p>providing primary data in some cases can endanger elements of the natural world; and</p></list-item><list-item><p>many researchers wish to keep the data that result from their research activities shielded from full, open access out of a desire to retain control of those data for future analysis or publication.</p></list-item></list>
+        </p>
+        <p>Biodiversity data collected as part of institutional activities belong, in some sense, to the institution, and the institution should value such data over the long term. If institutions curate their biodiversity data for posterity, they can reap the benefits. Imagine the returns if biodiversity data from current ongoing projects were to be compared to data collected 50-100 years later. Thus, organizations should emphasize the long-term view of institutionalizing data resources through fair data restrictions and emphasise on public access, rather than on individual rights and control. This approach may be debatable, but we reckon that it will translate into massive science pay-offs.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>NDSAP</kwd>
+        <kwd>biodiversity data</kwd>
+        <kwd>research grade</kwd>
+        <kwd>open-access</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Gautam Hirak Talukdar</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The authors are thankful to UNDP for support.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5186981">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <anonymous/>
+          </person-group>
+          <article-title>National Data Sharing and Accessibility Policy-2012</article-title>
+          <uri>https://nsdiindia.gov.in/nsdi/nsdiportal/meetings/NDSAP-30Jan2012.pdf</uri>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <supplementary-material id="S5187009" orientation="portrait" position="float" xlink:type="simple">
+      <label>Supplementary material 1</label>
+      <caption>
+        <p>National Data Sharing and Accessibility Policy-2012</p>
+      </caption>
+      <p>Data type: Document</p>
+      <p>Brief description: National Data Sharing and Accessibility Policy-2012 for India</p>
+      <p>File: oo_291663.pdf</p>
+      <media xlink:href="biss-03-e37219-s001.pdf" mimetype="Adobe Acrobat Document" mime-subtype="pdf" position="float" orientation="portrait" xlink:type="simple"/>
+      <attrib specific-use="authors">Anonymous</attrib>
+    </supplementary-material>
+  </floats-group>
+</article>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38627</article-id>
+      <article-id pub-id-type="publisher-id">38627</article-id>
+      <article-id pub-id-type="manuscript">11283</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI10 - How does Wikimedia Solve the Problems of Biodiversity Informatics?</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Using Wikidata and Metaphactory to Underpin an Integrated Flora of Canada</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sachs</surname>
+            <given-names>Joel</given-names>
+          </name>
+          <email xlink:type="simple">joel.sachs@agr.gc.ca</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pender</surname>
+            <given-names>Jocelyn</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0548-9418</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lujan-Toro</surname>
+            <given-names>Beatriz</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Macklin</surname>
+            <given-names>James</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9508-1349</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Haase</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Malik</surname>
+            <given-names>Robin</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Agriculture and Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture and Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Metaphacts GmbH, Walldorf, Germany</addr-line>
+        <institution>Metaphacts GmbH</institution>
+        <addr-line content-type="city">Walldorf</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Joel Sachs (<email xlink:type="simple">joel.sachs@agr.gc.ca</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38627</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/096AD9BF97C65340B9BD55B4A6EF7C7A">096AD9BF97C65340B9BD55B4A6EF7C7A</uri>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>We are using Wikidata and Metaphactory to build an Integrated Flora of Canada (IFC). IFC will be integrated in two senses: First, it will draw on multiple existing flora (e.g. Flora of North America, Flora of Manitoba, etc.) for content. Second, it will be a portal to related resources such as annotations, specimens, literature, and sequence data. </p>
+        <p>
+          <bold>Background</bold>
+        </p>
+        <p>We had success using Semantic Media Wiki (SMW) as the platform for an on-line representation of the Flora of North America (FNA). We used Charaparser (<xref ref-type="bibr" rid="B5182534">Cui 2012</xref>) to extract plant structures (e.g. “stem”), characters (e.g. “external texture”), and character values (e.g. “glabrous”) from the semi-structured FNA treatments. We then loaded this data into SMW, which allows us to query for taxa based on their character traits, and enables a broad range of exploratory analysis, both for purposes of hypothesis generation, and also to provide support for or against specific scientific hypotheses.</p>
+        <p>
+          <bold>Migrating to Wikidata/Wikibase</bold>
+        </p>
+        <p>We decided to explore a migration from SMW to Wikibase for three main reasons: simplified workflow; triple level provenance; and sustainability.  </p>
+        <p>Simplified workflow: Our workflow for our FNA-based portal includes Natural Language Processing (NLP) of coarse-grained XML to get the fine-grained XML, transforming this XML for input into SMW, and a custom SMW skin for displaying the data. We consider the coarse-grained XML to be canonical. When it changes (because we find an error, or we improve our NLP), we have to re-run the transformation, and re-load the data, which is time-consuming. Ideally, our presentation would be based on API calls to the data itself, eliminating the need to transform and re-load after every change. </p>
+        <p>Provenance: Wikidata's provenance model supports having multiple, conflicting assertions for the same character trait, which is something that inevitably happens when floristic data is integrated.</p>
+        <p>Sustainability: Wikidata has strong support from the Wikimedia Foundation, while SMW is increasingly seen as a legacy system.</p>
+        <p>
+          <bold>Wikibase vs. Wikidata</bold>
+        </p>
+        <p>Wikidata, however, is not a suitable home for the Integrated Flora of Canada. It is built upon a relatively small number of community curated properties, while we have ~4500 properties for the Asteraceae family alone. The model we want to pursue is to use Wikidata for a small group of core properties (e.g. accepted name, parent taxon, etc.), and to use our own instance of Wikibase for the much larger number of specialized morphological properties (e.g. adaxial leaf colour, leaf external texture, etc.) Essentially, we will be running our own Wikidata, over which we would exercise full control. <xref ref-type="bibr" rid="B5182619">Miller (2018)</xref> decribes deploying this curation model in another domain.  </p>
+        <p>
+          <bold>Metaphactory</bold>
+        </p>
+        <p>Metaphactory is a suite of middleware and front-end interfaces for authoring, managing, and querying knowledge graphs, including mechanisms for faceted search and geospatial visualizations. It is also the software (together with Blazegraph) behind the Wikidata Query Service. Metaphactory provides us with a SPARQL endpoint; a templating mechanism that allows each taxonomic treatment to be rendered via a collection of SPARQL queries; reasoning capabilities (via an underlying graph database) that permit the organization of over 42,000 morphological properties; and a variety of search and discovery tools.</p>
+        <p>There are a number of ways in which Wikidata and Metaphactory can work together, and we are still exploring questions such as: Will provenance be managed via named graphs, or via the Wikidata snak model?; How will data flow between the two platforms? Etc. We will report on our findings to date, and invite collaboration with related Wikimedia-based projects. </p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jocelyn Pender</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5182534">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Cui</surname>
+              <given-names>Hong</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>CharaParser for fine-grained semantic annotation of organism morphological descriptions</article-title>
+          <source>Journal of the American Society for Information Science and Technology</source>
+          <volume>63</volume>
+          <issue>4</issue>
+          <fpage>738</fpage>
+          <lpage>754</lpage>
+          <pub-id pub-id-type="doi">10.1002/asi.22618</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5182619">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Miller</surname>
+              <given-names>Matt</given-names>
+            </name>
+          </person-group>
+          <article-title>Wikibase for Research Infrastructure — Part 1</article-title>
+          <uri>https://medium.com/@thisismattmiller/wikibase-for-research-infrastructure-part-1-d3f640dfad34</uri>
+          <date-in-citation content-type="access-date">2019-04-04T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

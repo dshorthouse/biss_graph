@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37149</article-id>
+      <article-id pub-id-type="publisher-id">37149</article-id>
+      <article-id pub-id-type="manuscript">11468</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Access to Natural History Collections – from SYNTHESYS to DiSSCo</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Knapp</surname>
+            <given-names>Sandra</given-names>
+          </name>
+          <email xlink:type="simple">s.knapp@nhm.ac.uk</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vincent</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4012-0571</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Arvanitidis</surname>
+            <given-names>Christos</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dixey</surname>
+            <given-names>Katherine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mergen</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">LifeWatch ERIC, Seville, Spain</addr-line>
+        <institution>LifeWatch ERIC</institution>
+        <addr-line content-type="city">Seville</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Royal Museum for Central Africa, Tervuren, Belgium</addr-line>
+        <institution>Royal Museum for Central Africa</institution>
+        <addr-line content-type="city">Tervuren</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sandra Knapp (<email xlink:type="simple">s.knapp@nhm.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37149</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/72EE58AE8F125BF6896376D23BCEEB59">72EE58AE8F125BF6896376D23BCEEB59</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sandra Knapp, Sarah Vincent, Christos Arvanitidis, Katherine Dixey, Patricia Mergen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Any one collection of objects never tells the whole story. Enabling access to natural history collections by users external to a given institution, has a long history–even that great stay-at-home, Linnaeus, relied on specimens in the hands of others. Neglecting collections outside one’s institution results in duplication and inefficiency, as can be seen in the history of synonymy. Physical access had always been the norm, but difficult for the single individual. A student in the late 20<sup>th</sup> century had to decide if money were better spent going to one collection or another, or if the sometimes rather fuzzy photographs really represented the taxon she was working with. Loans between institutions were a way to provide access, but came with their own risks. The very individualised–to users as well as institutions–system of access provisioning still operates today but has fundamentally changed in several respects. The <ext-link ext-link-type="uri" xlink:href="http://www.synthesys.info/">SYNTHESYS</ext-link> (Synthesis of Systematic Resources) projects brought a set of European institutions into a consortium with one aim: to provide access to natural history collections in order to stimulate their use across communities. The SYNTHESYS Transnational Access (TA) programme provided access not only to the collections of participating institutions, but also to infrastructures such as laboratories and analytical facilities. The trajectory of TA has led to a change in thinking about natural history collections, along with access to them. Because access has been subsidised at both the individual and institutional levels, participating institutions began to function more as a collective; one infrastructure, albeit loosely dispersed. In the most recent iteration of the SYNTHESYS programme, SYNTHESYS+, access has changed yet again with the times. Technological advances in imaging permit high-quality surrogates of natural history specimens to be exchanged more freely, and Virtual Access (VA) forms an integral part of the SYNTHESYS+ access programme, alongside TA. Virtual access has been operating for some time in the natural history collections community, but like TA, with individual scientists requesting images/sequences/scans from individual institutions or curators. VA, as a centralised service, will be piloted in SYNTHESYS+ in order to establish the basis for community change in access provisioning. But what next? Will we continue to need physical access to specimens and facilities as VA becomes increasingly feasible? As European collections-based institutions coalesce into the <ext-link ext-link-type="uri" xlink:href="https://www.dissco.eu/">DiSSCo</ext-link> (Distributed System of Systematics Collections) infrastructure, will the model established in SYNTHESYS+ continue to function in the absence of centralised funding? In this talk, we will explore the trajectory of access through SYNTHESYS and provide some scenarios for how access to natural history collections–both physical and virtual–may change as we transition to the broader infrastructure that DiSSCo represents.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>access</kwd>
+        <kwd>collections</kwd>
+        <kwd>physical access</kwd>
+        <kwd>virtual access</kwd>
+        <kwd>DiSSCo</kwd>
+        <kwd>SYNTHESYS+</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>European Commission H2020 (INFRAIA-2018-2020) Integrating and opening infrastructures of European interest</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sandra Knapp</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>European Union H2020 (INFRAIA-2018-2020) Integrating and opening research infrastructures of European interest</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Natural History Museum and partners</p>
+      </sec>
+      <sec sec-type="Ethics and security">
+        <title>Ethics and security</title>
+        <p>No ethical or security issues identified.</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>No conflicts of interest to declare.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>European Union H2020 (INFRAIA-2018-2020) Integrating and opening research infrastructures of European interest</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>SYNTHESYS+ (H2020 grant agreement no. 823827)</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Natural History Museum and partners</p>
+    </sec>
+    <sec sec-type="Ethics and security">
+      <title>Ethics and security</title>
+      <p>No ethical or security issues identified.</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>No conflicts of interest to declare.</p>
+    </sec>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>The authors equally contributed to this abstract and to the development of the subsequent presentation.</p>
+    </sec>
+  </back>
+</article>

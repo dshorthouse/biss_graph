@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37062</article-id>
+      <article-id pub-id-type="publisher-id">37062</article-id>
+      <article-id pub-id-type="manuscript">11451</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST13 - Enhancing taxonomic publications for dynamic data exchange and navigation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Shaping our Taxonomic Legacy through Openly Sharing Primary Biodiversity Data in Taxonomic Revisions</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dikow</surname>
+            <given-names>Torsten</given-names>
+          </name>
+          <email xlink:type="simple">dikowt@si.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4816-2909</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America</addr-line>
+        <institution>National Museum of Natural History, Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington, DC</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Torsten Dikow (<email xlink:type="simple">dikowt@si.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37062</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/736B737E00DC50B88766B87ED7B1EDB4">736B737E00DC50B88766B87ED7B1EDB4</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Taxonomy has a long tradition of describing earth’s biodiversity. For the past 20 years or so, taxonomic revisions have become available in PDF format, which is regarded by most practicing taxonomists to be a good means of digital dissemination. However, a PDF document is nothing more than a text document that can be transferred easily for viewing among researchers and computer platforms. In today’s world, traditional taxonomic techniques need to be met with novel tools to make data dissemination a reality, make species hypotheses more robust, and open the field up to rigorous scientific testing. Here, I argue that high-quality taxonomic output is not just the publication of detailed species descriptions and re-descriptions, precise taxon delimitations, easy-to-use identification keys, and comprehensively undertaken and illustrated revisions. Rather, in addition high-quality taxonomic output embraces digital workflows and data standards to disseminate captured and published data in structured, machine-readable formats to data repositories so as to make all data openly accessible. Imagine that a taxonomist today has every original description and every subsequent re-description of a species at her/his fingertips online, has every specimen photograph produced by a previous reviser digitally available in the original resolution, and can take advantage of existing, openly accessible data and resources produced by peers in digital format in the past. When we as taxonomists provide such findable, accessible, interoperable, and reusable (FAIR) data, the future of biodiversity discovery will accelerate and our own taxonomic legacy will be enhanced. Cybertaxonomic tools provide methods to accomplish this goal and their use and implementation is here summarized in the context of revisionary taxonomy from the standpoint of a publishing taxonomist. While many of the tools have been around for some time now, very few taxonomists embrace and utilize these tools in their publications. This presentation will provide information on what kind of data can and should be openly shared (<italic>e.g.</italic>, specimen occurrence data, digital images, names, descriptions, authors) and outline best practices utilizing globally unique identifiers for specimens and data. Data standards and the best-suited data repositories such as the Global Biodiversity Information Facility (<ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">GBIF</ext-link>) and <ext-link ext-link-type="uri" xlink:href="http://www.zenodo.org">Zenodo</ext-link>, with its <ext-link ext-link-type="uri" xlink:href="https://zenodo.org/communities/biosyslit/">Biodiversity Literature Repository</ext-link>, and the <ext-link ext-link-type="uri" xlink:href="http://plazi.org/resources/treatmentbank/">Plazi TreatmentBank</ext-link>, an emerging species portal, are discussed to illustrate retrospective and prospective data capture of taxonomic revisions.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity data</kwd>
+        <kwd>cybertaxonomy</kwd>
+        <kwd>open-access</kwd>
+        <kwd>revisionary taxonomy</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Torsten Dikow</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

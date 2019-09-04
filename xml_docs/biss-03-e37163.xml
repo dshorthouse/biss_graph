@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37163</article-id>
+      <article-id pub-id-type="publisher-id">37163</article-id>
+      <article-id pub-id-type="manuscript">11349</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI37 - Making long term ecological research data FAIR</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Making Heterogeneous Specimen Data ‘FAIR’: Implementing a digital specimen repository</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Nieva de la Hidalga</surname>
+            <given-names>Abraham</given-names>
+          </name>
+          <email xlink:type="simple">nievadelahidalgaa@cardiff.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7348-7612</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hardisty</surname>
+            <given-names>Alex</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0767-4310</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Cardiff University School of Computer Science and Informatics, Cardiff, United Kingdom</addr-line>
+        <institution>Cardiff University School of Computer Science and Informatics</institution>
+        <addr-line content-type="city">Cardiff</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Cardiff University, Cardiff, United Kingdom</addr-line>
+        <institution>Cardiff University</institution>
+        <addr-line content-type="city">Cardiff</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Abraham Nieva de la Hidalga (<email xlink:type="simple">nievadelahidalgaa@cardiff.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37163</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/E413613834E15190A021377C5666F88E">E413613834E15190A021377C5666F88E</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Abraham Nieva de la Hidalga, Alex Hardisty</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The definition of a digital specimen is proposed to encompass the digital representation(s) of physical specimens from natural science collections. The digital specimen concept is intended to define a representation (digital object) that brings together an array of heterogeneous data types, which are themselves alternative physical specimen representations. In this case, the digital specimen (DS) holds references to specimen data from a collection management system, images, 3D models, research articles, DNA sequences, collector information, among many other data types. The proposal is to create persistent relationships between the DS and other categories of digital objects (e.g. resource types mentioned above, collections, storage platforms, organisations, databases, and provenance data). Complying with FAIR data principles (findability, accessibility, interoperability, and reuse), i.e., achieving data ‘FAIRness’, eases data integration, which is needed for cross-disciplinary linking and combination of data from different domains, making the DS as a comprehensive package of information about a specimen.</p>
+        <p>Implementation and access to a digital specimen repository (DSR) as a Digital Object Architecture (<xref ref-type="bibr" rid="B5211902">Sharp 2016</xref>) component demonstrates the alignment of the DS concept and FAIR data principles (<xref ref-type="bibr" rid="B5229514">Wilkinson et al. 2016</xref>, <xref ref-type="bibr" rid="B5181243">Kahn and Wilensky 2006</xref>). The DSR fulfills four roles: data producer, resource manager, data publisher, and collaboration space. As data producer, the DSR allows acquisition and curation (indexing, storage) of DSs linking primary data, models, analyses, and other digital object types. As resource manager, the DSR manages access to distributed platforms, ranging from acquisition networks (digitisation stations, museums, herbariums) to processing services, advanced computational resources, data asset storage systems, and specialised servers. As data publisher, the DSR provides access to data assets from national and transnational data archives. As collaboration space, the DSR supports users’ accessing, sharing and (re)using data assets, and derived data products and services. Adopting the collaboration space and data publisher roles, the DSR implements interfaces that expose the DSs to the research community, fulfilling the FAIR findability, accessibility, and reuse principles. Adopting the data producer and resource manager roles, the DSR creates meaningful and persistent relationships required to link DSs and other types of digital objects, fulfilling the FAIR interoperability principle.</p>
+        <p>A prototype DSR based on the Cordra digital object repository has been deployed (<xref ref-type="bibr" rid="B5181364">Corporation for National Research Initiatives (CNRI) 2018</xref>, <xref ref-type="bibr" rid="B5181290">Reilly and Tupelo-Schneck 2010</xref>). The advantages of Cordra are: rapid deployment, customisable object model, creation of relations between digital objects, and application program interfaces for programmatic access. Rapid deployment of the DSR provides a tangible target for discussing the implementation of the DS concept. The customisable object model enables the refinement and enhancing of the definition of DS in response to feedback from colleagues who have accessed the DSR and used its contents. Creating relations between digital objects enables flexible linking to digital objects stored in different repositories. Accessing the DSR programmatically through APIs enables extending the use of the repository in different platforms (e.g. mobile devices) as well as integration with other repositories and services. As well as supporting a HTTP-oriented API, Cordra implements Digital Object Interface Protocol (<xref ref-type="bibr" rid="B5181396">DONA Foundation 2018</xref>), allowing the definition of operations to act directly on selected DSs in the repository.</p>
+        <p>The DSR prototype has been demonstrated by providing access to the repository administrative interface and with a custom interface designed to facilitate access by different user groups, such as collection curators, researchers, teachers, and students. The client interface has been designed to demonstrate a subset of the functionalities derived from user stories, which describe software features from the end-user perspective. Demonstrating the DSR capabilities as proposed, will inform the refinement of the design of the DS model and provide early feedback about the needed software features.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>digital specimen repository</kwd>
+        <kwd>digital specimen</kwd>
+        <kwd>natural history collection</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>FAIR</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>European Union</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="6"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Abraham Nieva de la Hidalga</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Horizon 2020 Framework Programme of the European Union</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Cardiff University</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Horizon 2020 Framework Programme of the European Union</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>ICEDIG – “Innovation and consolidation for large scale digitisation of natural heritage” H2020-INFRADEV-2016-2017 – Grant Agreement No. 777483</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Cardiff University</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5181364">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>(CNRI)</surname>
+              <given-names>Corporation for National Research Initiatives</given-names>
+            </name>
+          </person-group>
+          <article-title>Cordra digital object repository and registry software</article-title>
+          <uri>https://www.cordra.org</uri>
+          <date-in-citation content-type="access-date">2019-02-04T00:00:00+02:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5181396">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Foundation</surname>
+              <given-names>DONA</given-names>
+            </name>
+          </person-group>
+          <article-title>Digital object interface protocol specification</article-title>
+          <uri>https://www.dona.net/sites/default/files/2018-11/DOIPv2Spec_1.pdf</uri>
+          <date-in-citation content-type="access-date">2018-11-12T00:00:00+02:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5181243">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kahn</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wilensky</surname>
+              <given-names>Robert</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>A framework for distributed digital object services</article-title>
+          <source>International Journal on Digital Libraries</source>
+          <volume>6</volume>
+          <issue>2</issue>
+          <fpage>115</fpage>
+          <lpage>123</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00799-005-0128-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5181290">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Reilly</surname>
+              <given-names>Sean</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tupelo-Schneck</surname>
+              <given-names>Robert</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Digital object repository server</article-title>
+          <source>D-Lib Magazine</source>
+          <volume>16</volume>
+          <pub-id pub-id-type="doi">10.1045/january2010-reilly</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5211902">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sharp</surname>
+              <given-names>Chip</given-names>
+            </name>
+          </person-group>
+          <article-title>Overview of the Digital Object Architecture (DOA)</article-title>
+          <uri>https://www.internetsociety.org/resources/doc/2016/overview-of-the-digital-object-architecture-doa/</uri>
+          <date-in-citation content-type="access-date">2019-04-02T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5229514">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>M. D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumontier</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aalbersberg</surname>
+              <given-names>I. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Appleton</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Axton</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baak</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blomberg</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boiten</surname>
+              <given-names>J. W.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <uri>https://www.nature.com/articles/sdata201618</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

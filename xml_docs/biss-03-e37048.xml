@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37048</article-id>
+      <article-id pub-id-type="publisher-id">37048</article-id>
+      <article-id pub-id-type="manuscript">11172</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS19 - Exploring biodiversity knowledge by ontologies</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Machine Learning Based Approach for Similarity Search on Biodiversity Knowledge Graphs</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Weiland</surname>
+            <given-names>Claus</given-names>
+          </name>
+          <email xlink:type="simple">cweiland@senckenberg.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0351-6523</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kulmanov</surname>
+            <given-names>Maxat</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schmidt</surname>
+            <given-names>Marco</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6087-6117</uri>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hoehndorf</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Senckenberg Biodiversity and Climate Research Centre, Frankfurt am Main, Germany</addr-line>
+        <institution>Senckenberg Biodiversity and Climate Research Centre</institution>
+        <addr-line content-type="city">Frankfurt am Main</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">King Abdullah University of Science and Technology, Thuwal, Saudi Arabia</addr-line>
+        <institution>King Abdullah University of Science and Technology</institution>
+        <addr-line content-type="city">Thuwal</addr-line>
+        <country>Saudi Arabia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Claus Weiland (<email xlink:type="simple">cweiland@senckenberg.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37048</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/999A75947335532B918A539E6F5F217E">999A75947335532B918A539E6F5F217E</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Claus Weiland, Maxat Kulmanov, Marco Schmidt, Robert Hoehndorf</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Mass biodiversity data from scientific collections will be provided by world-wide digitization efforts like <ext-link ext-link-type="uri" xlink:href="https://www.idigbio.org">iDigBio</ext-link> in the U.S and <ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">DiSSCo</ext-link> in Europe. This opens up an increasing amount of data on wild type organisms, which enables the building of large biodiversity knowledge graphs comprising, <italic>inter alia</italic>, sequence, trait and occurrence data. Knowledge graphs model information in the form of entities and their relationships expressed in good practice as ontology-based annotations. Based on ontological descriptions, semantic similarity analysis makes linking of wild type data to genomic and proteonomic data of model organisms possible and thus supports knowledge discovery of crop wild relatives and underutilized species of interest for medicine, breeding and agriculture. Since classical similarity measurements focus on recording differences between character states (aiming to describe disease phenotypes), but not the character states in the sense of trait variations itself, new methods for similarity search are required. Machine learning algorithms operate on feature vectors, which are numeric representations of data (images, class labels etc) in n-dimensional vector space. We established a machine learning based workflow for similarity search on biodiversity entities using feature learning on ontologies and an associated RDF knowledge graph to project structured trait data into vector space. Vectors are then compared applying a similarity function (e.g. cosine similarity) to determine similarity between taxa based on trait semantics. We will present an application example of machine learning on biodiversity knowledge graphs using a pipeline built upon <ext-link ext-link-type="uri" xlink:href="https://github.com/bio-ontology-research-group/opa2vec">OPA2Vec</ext-link>, a method to generate feature vectors from the logical content of ontologies (<xref ref-type="bibr" rid="B5171184">Smaili et al. 2018</xref>), to successfully cluster plant species for life form and ecotype (e.g. tree vs. perennial plant) on the basis of their annotations with the <ext-link ext-link-type="uri" xlink:href="http://www.obofoundry.org/ontology/flopo.html">Flora Phenotype Ontology</ext-link> (<xref ref-type="bibr" rid="B5171194">Hoehndorf et al. 2016</xref>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>semantic similarity</kwd>
+        <kwd>machine learning</kwd>
+        <kwd>trait semantics</kwd>
+        <kwd>phenotype ontology</kwd>
+        <kwd>knowledge graph</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Claus Weiland</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5171194">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hoehndorf</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Alshahrani</surname>
+              <given-names>Mona</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gkoutos</surname>
+              <given-names>Georgios V</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gosline</surname>
+              <given-names>George</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hamann</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kattge</surname>
+              <given-names>Jens</given-names>
+            </name>
+            <name name-style="western">
+              <surname>de Oliveira</surname>
+              <given-names>Sylvia Mota</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schmidt</surname>
+              <given-names>Marco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sierra</surname>
+              <given-names>Soraya</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smets</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vos</surname>
+              <given-names>Rutger A</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weiland</surname>
+              <given-names>Claus</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The flora phenotype ontology (FLOPO): tool for integrating morphological traits and phenotypes of vascular plants.</article-title>
+          <source>Journal of Biomedical Semantics</source>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>65</fpage>
+          <pub-id pub-id-type="doi">10.1186/s13326-016-0107-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5171184">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Smaili</surname>
+              <given-names>Fatima Zohra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gao</surname>
+              <given-names>Xin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hoehndorf</surname>
+              <given-names>Robert</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>OPA2Vec: combining formal and informal content of biomedical ontologies to improve similarity-based prediction.</article-title>
+          <source>Bioinformatics </source>
+          <fpage>bty933</fpage>
+          <pub-id pub-id-type="doi">10.1093/bioinformatics/bty933</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

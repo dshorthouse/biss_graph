@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37081</article-id>
+      <article-id pub-id-type="publisher-id">37081</article-id>
+      <article-id pub-id-type="manuscript">11091</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Next Steps in Data Capture from Specimen Labels and Data Integration: Lessons learnt from the ICEDIG pilots</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dillen</surname>
+            <given-names>Mathias</given-names>
+          </name>
+          <email xlink:type="simple">mathias.dillen@plantentuinmeise.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3973-1252</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Groom</surname>
+            <given-names>Quentin</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0596-5376</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Phillips</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9155-8573</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Spasic</surname>
+            <given-names>Irena</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens Kew, Surrey, United Kingdom</addr-line>
+        <institution>Royal Botanic Gardens Kew</institution>
+        <addr-line content-type="city">Surrey</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Cardiff University, Cardiff, United Kingdom</addr-line>
+        <institution>Cardiff University</institution>
+        <addr-line content-type="city">Cardiff</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mathias Dillen (<email xlink:type="simple">mathias.dillen@plantentuinmeise.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37081</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B5D66D810F255E48B2E21BA17A72BB45">B5D66D810F255E48B2E21BA17A72BB45</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mathias Dillen, Quentin Groom, Sarah Phillips, Irena Spasic</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The rapid development and refinement of digital technologies in the last two decades has spearheaded a wave of digitization in natural history collections. This has generated a massive number of digitized images and many more are expected with the planned European Distributed Systems of Scientific Collections (<ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">DiSSCo</ext-link>) infrastructure. Many of these images will contain labels with data written on them, typed on them or interpretable from them, but capturing these data remains a challenge. Automated as well as manual methods are being investigated and have yielded mixed results. In addition, previously captured data or data to be captured this way will need to be interoperable in order to make digital access and enrichment most effective. Finally, institutions holding the physical specimens will need to remain capable of efficiently curating the digital, potentially annotated, counterparts. This will require compatibility with the diverse data models of local Collection Management Systems (CMS).</p>
+        <p>In the context of the <ext-link ext-link-type="uri" xlink:href="https://icedig.eu/">ICEDIG</ext-link> (Innovation and consolidation for large scale digitisation of natural heritage) project, a benchmark dataset of herbarium specimens was assembled from nine contributing institutions (<xref ref-type="bibr" rid="B5180746">Dillen et al. 2019</xref>). This dataset was used to evaluate automated methods of text recognition, such as OCR (Optical Character Recognition) and HTR (Handwritten Text Recognition), and post-capture classification, such as language identification or NER (Named Entity Recognition). A pipeline from scan to scientifically useful data was drafted and guidelines for selecting appropriate software solutions were provided. </p>
+        <p>The benchmark dataset was also processed through multiple crowdsourcing platforms, after which the quality and interoperability of the resulting transcriptions was analyzed. The aptitude of local Collection Management Systems to curate these digitized specimens efficiently was investigated, as well as the fitness of data standards in use to ensure and maintain proper interoperability. In addition, available surveys on CMS use and satisfaction were summarized and in-depth assessments of the CMS in use at the ICEDIG partner institutes were performed. A summary of results and recommendations will be presented.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>automation</kwd>
+        <kwd>machine learning</kwd>
+        <kwd>data capture</kwd>
+        <kwd>interoperability</kwd>
+        <kwd>collection management system</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>777483 - ICEDIG</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mathias Dillen</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Horizon 2020 Framework Programme of the European Union</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Horizon 2020 Framework Programme of the European Union</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>ICEDIG – “Innovation and consolidation for large scale digitisation of natural heritage” H2020-INFRADEV-2016-2017 – Grant Agreement No. 777483</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5180746">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Dillen</surname>
+              <given-names>Mathias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chagnoux</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hardisty</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Haston</surname>
+              <given-names>Elspeth</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Livermore</surname>
+              <given-names>Laurence</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Runnel</surname>
+              <given-names>Veljo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schulman</surname>
+              <given-names>Leif</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willemse</surname>
+              <given-names>Luc</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wu</surname>
+              <given-names>Zhengzhe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Phillips</surname>
+              <given-names>Sarah</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>A benchmark dataset of herbarium specimen images with label data.</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>7</volume>
+          <fpage>e31817</fpage>
+          <pub-id pub-id-type="doi">10.3897/BDJ.7.e31817</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

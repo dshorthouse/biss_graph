@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37029</article-id>
+      <article-id pub-id-type="publisher-id">37029</article-id>
+      <article-id pub-id-type="manuscript">11186</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP39 - Increasing Opportunities to Align Data Initiatives for Bio/Geo Collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>We Can('t) Get There From Here: Aligning local to global efforts for realizing a biodiversity data commons</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Smith</surname>
+            <given-names>Vincent Stuart</given-names>
+          </name>
+          <email xlink:type="simple">vince@vsmith.info</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Paul</surname>
+            <given-names>Deborah L</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Seltmann</surname>
+            <given-names>Katja C</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5354-6048</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">The Natural History Museum, London, United Kingdom</addr-line>
+        <institution>The Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">iDigBio, Florida State University, Tallahassee, United States of America</addr-line>
+        <institution>iDigBio, Florida State University</institution>
+        <addr-line content-type="city">Tallahassee</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Florida State University, Tallahassee, United States of America</addr-line>
+        <institution>Florida State University</institution>
+        <addr-line content-type="city">Tallahassee</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Cheadle Center for Biodiversity and Ecological Restoration, University of California Santa Barbara, Santa Barbara, United States of America</addr-line>
+        <institution>Cheadle Center for Biodiversity and Ecological Restoration, University of California Santa Barbara</institution>
+        <addr-line content-type="city">Santa Barbara</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">University of California Santa Barbara, Santa Barbara, United States of America</addr-line>
+        <institution>University of California Santa Barbara</institution>
+        <addr-line content-type="city">Santa Barbara</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Vincent Stuart Smith (<email xlink:type="simple">vince@vsmith.info</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37029</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/C3E496CA997D52E09703E152FE5A8650">C3E496CA997D52E09703E152FE5A8650</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Vincent Stuart Smith, Deborah L Paul, Katja C Seltmann</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The last 250 years of biodiversity research have produced a wealth of information on the natural world. First locked up in museum drawers or printed publications, in isolated desktop computers or in incompatible digital formats, and in multiple human languages, an increasing proportion is now digitally accessible, thanks to a number of organisational, institutional, and regional digitisation initiatives. These are creating new repositories of open data supporting a wealth of research, much of which has become possible thanks to the digital aggregation of disparate sources of information. Despite this growth of digital content, there is a growing realisation that these initiatives alone are insufficient and inadequate to address global community needs and expectations (<xref ref-type="bibr" rid="B5174638">Hardisty et al. 2013</xref>, <xref ref-type="bibr" rid="B5174616">Hobern et al. 2019</xref>). To move the community forward, we propose a coordinated <bold>Commons for Biodiversity.</bold></p>
+        <p>Based on a landscape analysis of relevant infrastructures and more than twenty years of combined experience from two major initiatives (<ext-link ext-link-type="uri" xlink:href="https://www.idigbio.org/">Integrated Digitized Biocollections</ext-link> [iDigBio] in the US and <ext-link ext-link-type="uri" xlink:href="http://www.synthesys.info/">Synthesis of Systematic Resources</ext-link> [SYNTHESYS] in Europe), which suggest that while more data is being mobilized, our activities are creating larger data silos without cross-linkages between different categories of data necessary to fully exploit research opportunities. This highlights the need for more consolidation and alignment, with greater cross-linkage between data types supported by greater standardisation and agreed identifier strategies. Better coordination (e.g., of communication and education, to partition effort) of our communities' activities at various levels (publisher, collection, individual, and in software) would also promote more efficient use of organisational resources. We argue that this is only possible through greater international coordination, and will enable us to deliver on the major scientific opportunities from these data, such as the provision of a complete and accurate data on the world's species or predicting changing patterns and trends in biodiversity.</p>
+        <p>Adopting a shared vision at this level requires coordination mechanisms that we do not currently have and that transcend our normal regional activities. This "Biodiversity Commons" inspired by similar movements, is closely aligned with recent proposals to form a new <ext-link ext-link-type="uri" xlink:href="http://www.biodiversityinformatics.org/">alliance for biodiversity knowledge</ext-link>, the One-World Collection project, and the European <ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">Distributed System of Scientific Collections</ext-link> (DiSSCo). Coalescing these and related efforts, while engaging a broader set of stakeholders, is likely to be the next step toward realising a Common's movement for the biodiversity community.</p>
+        <p>In this presentation, we outline specific challenges and highlight possible solutions to help align our global efforts. These include bottom-up activities such as 1) sharing data visualisation and metrics of use to build a coordinated business case for collections data mobilisation; 2) the sharing of authority file resources to improve data quality and speed of data mobilisation; 3) the need for open fora supporting comment on vision, decisions and actions; as well as more top-down efforts such as 4) increasing international diversity and participation across the global museum community; 5) creating models of participation that include groups, individuals, and institutions varying in size, scope, and resources; 6) capacity enhancement activities such as the development of techniques for more cross-institutional infrastructure development; and 7) policy-level alignment to harmonise our operational activities (e.g. data citation and attribution), which are inclusive of more and varied stakeholders.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>data</kwd>
+        <kwd>policy</kwd>
+        <kwd>collaboration</kwd>
+        <kwd>infrastructure</kwd>
+        <kwd>sustainability</kwd>
+        <kwd>open data</kwd>
+        <kwd>open science</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Vincent Smith and Deborah Paul</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>iDigBio is funded by grants from the National Science Foundation's Advancing Digitization of Biodiversity Collections Program [DBI-1115210 (2011-2018) and DBI-1547229 (2016-2021)]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. ICEDIG (Innovation and Consolidation for large-scale Digitisation of natural heritage Grant Agreement Number: 777483) and SYNTHESYS+ (Synthesis of Systematic Resources, Grant Agreement Number: 823827) are funded by the European Comission's Horizon 2020 programme.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>iDigBio is funded by grants from the National Science Foundation's Advancing Digitization of Biodiversity Collections Program [DBI-1115210 (2011-2018) and DBI-1547229 (2016-2021)]. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. ICEDIG (Innovation and Consolidation for large-scale Digitisation of natural heritage Grant Agreement Number: 777483) and SYNTHESYS+ (Synthesis of Systematic Resources, Grant Agreement Number: 823827) are funded by the European Comission's Horizon 2020 programme.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5174638">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hardisty</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roberts</surname>
+              <given-names>Dave</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Informatics Community</surname>
+              <given-names>The Biodiversity</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>A decadal view of biodiversity informatics: challenges and priorities</article-title>
+          <source>BMC Ecology</source>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>16</fpage>
+          <pub-id pub-id-type="doi">10.1186/1472-6785-13-16</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5174616">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hobern</surname>
+              <given-names>Donald</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baptiste</surname>
+              <given-names>Brigitte</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Copas</surname>
+              <given-names>Kyle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hahn</surname>
+              <given-names>Andrea</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Huis</surname>
+              <given-names>Edwin van</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kim</surname>
+              <given-names>Eun-Shik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McGeoch</surname>
+              <given-names>Melodie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Naicker</surname>
+              <given-names>Isayvani</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Navarro</surname>
+              <given-names>Laetitia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Noesgaard</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>Michelle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rodrigues</surname>
+              <given-names>Andrew</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schigel</surname>
+              <given-names>Dmitry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sheffield</surname>
+              <given-names>Carolyn A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>John</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Connecting data and expertise: a new alliance for biodiversity knowledge</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>7</volume>
+          <pub-id pub-id-type="doi">10.3897/bdj.7.e33679</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

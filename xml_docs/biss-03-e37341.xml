@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37341</article-id>
+      <article-id pub-id-type="publisher-id">37341</article-id>
+      <article-id pub-id-type="manuscript">11152</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS86 - Machine learning: an emerging toolkit for biodiversity science using museum collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Accelerating the Automated Detection, Counting and Measurements of Reproductive Organs in Herbarium Collections in the Era of Deep Learning</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Mora-Fallas</surname>
+            <given-names>Adán</given-names>
+          </name>
+          <email xlink:type="simple">adamora@ic-itcr.ac.cr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Goëau</surname>
+            <given-names>Hervé H.G.</given-names>
+          </name>
+          <email xlink:type="simple">herve.goeau@cirad.fr</email>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mazer</surname>
+            <given-names>Susan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Love</surname>
+            <given-names>Natalie</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5013-5478</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mata-Montero</surname>
+            <given-names>Erick</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5471-164X</uri>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Bonnet</surname>
+            <given-names>Pierre</given-names>
+          </name>
+          <email xlink:type="simple">pierre.bonnet@cirad.fr</email>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Joly</surname>
+            <given-names>Alexis A.J.</given-names>
+          </name>
+          <email xlink:type="simple">alexis.joly@inria.fr</email>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">School of Computing, Costa Rica Institute of Technology, Cartago, Costa Rica</addr-line>
+        <institution>School of Computing, Costa Rica Institute of Technology</institution>
+        <addr-line content-type="city">Cartago</addr-line>
+        <country>Costa Rica</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">CIRAD, UMR AMAP, Montpellier, France</addr-line>
+        <institution>CIRAD, UMR AMAP</institution>
+        <addr-line content-type="city">Montpellier</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">AMAP, Univ Montpellier, CIRAD, CNRS, INRA, IRD, Montpellier, France</addr-line>
+        <institution>AMAP, Univ Montpellier, CIRAD, CNRS, INRA, IRD</institution>
+        <addr-line content-type="city">Montpellier</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Department of Ecology, Evolution, and Marine Biology, University of California Santa Barbara, Santa Barbara, California, United States of America</addr-line>
+        <institution>Department of Ecology, Evolution, and Marine Biology, University of California Santa Barbara</institution>
+        <addr-line content-type="city">Santa Barbara, California</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Inria, Zenith team, Montpellier, France</addr-line>
+        <institution>Inria, Zenith team</institution>
+        <addr-line content-type="city">Montpellier</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Adán Mora-Fallas (<email xlink:type="simple">adamora@ic-itcr.ac.cr</email>), Hervé H.G. Goëau (<email xlink:type="simple">herve.goeau@cirad.fr</email>), Pierre Bonnet (<email xlink:type="simple">pierre.bonnet@cirad.fr</email>), Alexis A.J. Joly (<email xlink:type="simple">alexis.joly@inria.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37341</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/671229E7B5995277846BC60955FBD97A">671229E7B5995277846BC60955FBD97A</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Adán Mora-Fallas, Hervé H.G. Goëau, Susan Mazer, Natalie Love, Erick Mata-Montero, Pierre Bonnet, Alexis A.J. Joly</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Millions of herbarium records provide an invaluable legacy and knowledge of the spatial and temporal distributions of plants over centuries across all continents (<xref ref-type="bibr" rid="B5180920">Soltis et al. 2018</xref>). Due to recent efforts to digitize and to make publicly accessible most major natural collections, investigations of ecological and evolutionary patterns at unprecedented geographic scales are now possible (<xref ref-type="bibr" rid="B5180881">Carranza-Rojas et al. 2017</xref>, <xref ref-type="bibr" rid="B5180892">Lorieul et al. 2019</xref>). Nevertheless, biologists are now facing the problem of extracting from a huge number of herbarium sheets basic information such as textual descriptions, the numbers of organs, and measurements of various morphological traits. Deep learning technologies can dramatically accelerate the extraction of such basic information by automating the routines of organ identification, counts and measurements, thereby allowing biologists to spend more time on investigations such as phenological or geographic distribution studies.</p>
+        <p>Recent progress on instance segmentation demonstrated by the Mask-RCNN method is very promising in the context of herbarium sheets, in particular for detecting with high precision different organs of interest on each specimen, including leaves, flowers, and fruits. However, like any deep learning approach, this method requires a significant number of labeled examples with fairly detailed outlines of individual organs. Creating such a training dataset can be very time-consuming and may be discouraging for researchers. We propose in this work to integrate the Mask-RCNN approach within a global system enabling an active learning mechanism (<xref ref-type="bibr" rid="B5180930">Sener and Savarese 2018</xref>) in order to minimize the number of outlines of organs that researchers must manually annotate. The principle is to alternate cycles of manual annotations and training updates of the deep learning model and predictions on the entire collection to process. Then, the challenge of the active learning mechanism is to estimate automatically at each cycle which are the most useful objects that must be manually extracted in the next manual annotation cycle in order to learn, in as few cycles as possible, an accurate model.</p>
+        <p>We discuss experiments addressing the effectiveness, the limits and the time required of our approach for annotation, in the context of a phenological study of more than 10,000 reproductive organs (buds, flowers, fruits and immature fruits) of <italic>Streptanthus tortuosus</italic>, a species known to be highly variable in appearance and therefore very difficult to be processed by an instance segmentation deep learning model.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Herbarium collection</kwd>
+        <kwd>phenology</kwd>
+        <kwd>phenophase</kwd>
+        <kwd>deep learning</kwd>
+        <kwd>instance detection</kwd>
+        <kwd>active learning</kwd>
+        <kwd>visual annotation</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Hervé Goëau</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5180881">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Carranza-Rojas</surname>
+              <given-names>Jose</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goeau</surname>
+              <given-names>Herve</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bonnet</surname>
+              <given-names>Pierre</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mata-Montero</surname>
+              <given-names>Erick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Joly</surname>
+              <given-names>Alexis</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Going deeper in the automated identification of Herbarium specimens</article-title>
+          <source>BMC Evolutionary Biology</source>
+          <volume>17</volume>
+          <fpage>181</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12862-017-1014-z</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5180892">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Lorieul</surname>
+              <given-names>Titouan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pearson</surname>
+              <given-names>K. D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ellwood</surname>
+              <given-names>E. R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goëau</surname>
+              <given-names>Hervé</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Molino</surname>
+              <given-names>J. ‐ F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sweeney</surname>
+              <given-names>P. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yost</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sachs</surname>
+              <given-names>Joel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mata‐Montero</surname>
+              <given-names>Erick</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nelson</surname>
+              <given-names>Gil</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Soltis</surname>
+              <given-names>P. S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bonnet</surname>
+              <given-names>Pierre</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Joly</surname>
+              <given-names>Alexis</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Toward a large‐scale and deep phenological stage annotation of herbarium specimens: Case studies from temperate, tropical, and equatorial floras</article-title>
+          <source>Applications in Plant Sciences</source>
+          <volume>7</volume>
+          <issue>3</issue>
+          <fpage>e01233</fpage>
+          <pub-id pub-id-type="doi">10.1002/aps3.1233</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5180930">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sener</surname>
+              <given-names>Ozan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Savarese</surname>
+              <given-names>Silvio</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Active learning for convolutional neural networks: A core-set approach.</article-title>
+          <source>International Conference on Learning Representations</source>
+          <uri>https://openreview.net/forum?id=H1aIuk-RW</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5180920">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Soltis</surname>
+              <given-names>P. S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nelson</surname>
+              <given-names>Gil</given-names>
+            </name>
+            <name name-style="western">
+              <surname>James</surname>
+              <given-names>S. A.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Green digitization: Online botanical collections data answering real-world questions</article-title>
+          <source>Applications in Plant Sciences</source>
+          <volume>6</volume>
+          <issue>2</issue>
+          <fpage>e1028</fpage>
+          <pub-id pub-id-type="doi">10.1002/aps3.1028</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

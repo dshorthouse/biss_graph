@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38268</article-id>
+      <article-id pub-id-type="publisher-id">38268</article-id>
+      <article-id pub-id-type="manuscript">11643</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS31 - Quantification of biodiversity across scales</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Landscape-level Biodiversity Assessment in Plantation Forests of Northern Portugal with the Fuzzy-logic Approach</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Cosovic</surname>
+            <given-names>Marija</given-names>
+          </name>
+          <email xlink:type="simple">cosovicmaja@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4300-9550</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Biber</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bugalho</surname>
+            <given-names>Miguel N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Botequim</surname>
+            <given-names>Brigite</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Borges</surname>
+            <given-names>Jose G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Forest Research Centre, School of Agriculture, University of Lisbon,Tapada da Ajuda, Lisbon, Portugal</addr-line>
+        <institution>Forest Research Centre, School of Agriculture, University of Lisbon,Tapada da Ajuda</institution>
+        <addr-line content-type="city">Lisbon</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Chair of Forest Yield Science, Technische Universität München, Hans-Carl-von-Carlowitz-Platz 2, Freising 85354, Freising , Germany</addr-line>
+        <institution>Chair of Forest Yield Science, Technische Universität München, Hans-Carl-von-Carlowitz-Platz 2, Freising 85354</institution>
+        <addr-line content-type="city">Freising</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Center for Applied Ecology ‘‘Prof. BaetaNeves’’ (CEABN-InBIO), School of Agriculture, University of Lisbon, Tapada da Ajuda, Lisbon, Portugal</addr-line>
+        <institution>Center for Applied Ecology ‘‘Prof. BaetaNeves’’ (CEABN-InBIO), School of Agriculture, University of Lisbon, Tapada da Ajuda</institution>
+        <addr-line content-type="city">Lisbon</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Forest Research Centre, School of Agriculture, University of Lisbon,Tapada da Ajuda, Lisbon , Portugal</addr-line>
+        <institution>Forest Research Centre, School of Agriculture, University of Lisbon,Tapada da Ajuda</institution>
+        <addr-line content-type="city">Lisbon</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Marija Cosovic (<email xlink:type="simple">cosovicmaja@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38268</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/634CAE51259B5990909408D0385762C7">634CAE51259B5990909408D0385762C7</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Marija Cosovic, Peter Biber, Miguel N. Bugalho, Brigite Botequim, Jose G. Borges</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p><bold>Motivation and objective:</bold> Because biodiversity conservation in forest management planning is necessary for ensuring regular ecosystem functioning, resilience and sustainability, the specific objective of this research was to quantify biodiversity at the landscape level in a forest plantation.</p>
+        <p><bold>Case study: </bold>Vale de Sousa, Forest Intervention Zone (ZIF), is located in the North of Portugal. ZIFs were formed all over the county with the objective to prevent forest fires, desertification and the abandonment of rural areas. The total case study area is 14.773 ha, mainly covered by plantation forests. The predominant forest species are maritime pine (<italic>Pinus pinaster</italic>) and blue gum (<italic>Eucalyptus globulus</italic>) either as pure or mixed stands.</p>
+        <p><bold>Methods:</bold>Fuzzy-logic system can serve as a platform for bundling expert knowledge on estimating ecosystem services provision and examining the consequences of contradictory expert views. The method was used to evaluate biodiversity as was recently proposed and demonstrated by <xref ref-type="bibr" rid="B5211658">Biber et al. (2018)</xref> in the context of the European Union (EU) project ALTERFOR (Alternative models and robust decision-making for future forest management - <ext-link ext-link-type="uri" xlink:href="https://www.alterfor-project.eu/key-facts.html">https://www.alterfor-project.eu/key-facts.html</ext-link>). In this study, we applied a fuzzy-logic approach for testing three biodiversity indicators: resident birds, heterogeneity of tree species diameter, and tree and shrub species richness. This approach generates scores for the rotation period of each plantation species between 0 (very low) and 1 (very high) for biodiversity categories. It also allows qualitative value rules regarding the above indicators. Scores are established according to stakeholder’s knowledge and validated by experts. Initially, the scores for each indicator are expressed as coloured matrices, but a final fuzzy output of biodiversity is expressed as a score between 0 and 1.</p>
+        <p><bold>Results:</bold> Our fuzzy outputs demonstrated low scores for biodiversity in monoculture stands, but medium scores in mixed stands. Tree and shrub species richness and diameter heterogeneity have low scores in analysed plantations but need to be tested in other forest types. However, the score for resident birds had medium values in monoculture forests, but due to the low score of the other biodiversity indicators, the overall biodiversity score is low.</p>
+        <p><bold>Conclusion:</bold> The results demonstrate that monocultures have the lowest score for biodiversity due to the zero level of all biodiversity indicators after the clear cut. Mixed stands have different periods of clear cut and this contributes to a higher score for biodiversity in general (fuzzy output). The fuzzy-logic approach is a very useful tool that may contribute to include biodiversity conservation in forest management decisions. This approach can be potentially used for the assessment of other biodiversity indicators (e.g. deadwood, large trees) in other forest types (including semi-natural and natural forests).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity indicators</kwd>
+        <kwd>landscape level</kwd>
+        <kwd>plantation forest</kwd>
+        <kwd>fuzzy-logic approach</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Fundação para a Ciência e a Tecnologia (FCT), Portugal</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Marija Ćosović</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>SUSFOR (Sustainable Forests and Products), Forest Research Centre, Lisbon; Fundação para a Ciência e a Tecnologia (FCT), Portugal</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Forest Research Centre (CEF), School of Agriculture, University of Lisbon,Tapada da Ajuda, Lisbon, Portugal.</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>No conflicts of interest.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The paper is written in the frame of ALTERFOR project: Alternative models and robust decision-making for future forest management. Funding scheme is under the European Union’s Horizon 2020 research and innovation programme (grant agreement No 676754).</p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>SUSFOR (Sustainable Forests and Products), Forest Research Centre, Lisbon; Fundação para a Ciência e a Tecnologia (FCT), Portugal</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>PD/BD/114076/2015</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Forest Research Centre (CEF), School of Agriculture, University of Lisbon,Tapada da Ajuda, Lisbon, Portugal.</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>No conflicts of interest.</p>
+    </sec>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>The author wrote all the content, however, the methods were suggested by co-authors. Co-authors contributed with revisions of the content.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5211658">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Biber</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schwaiger</surname>
+              <given-names>F</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Poschenrieder</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>ALTERFOR Deliverable 3.2-Ecosystem service provision under current FMM conditions</article-title>
+          <source>Contribution for the German case studies. Technical University of Munich.</source>
+          <fpage>pp. 57</fpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

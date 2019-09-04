@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36223</article-id>
+      <article-id pub-id-type="publisher-id">36223</article-id>
+      <article-id pub-id-type="manuscript">11014</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS77 - Digital biodiversity data as a frontier for new research avenues</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Use of Citizen Science Data for Characterizing Patterns and Drivers of Avian Altitudinal Migration</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tsai</surname>
+            <given-names>Pei-Yu</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ko</surname>
+            <given-names>Chie-Jen</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8343-604X</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lu</surname>
+            <given-names>Ya-Jung</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hsieh</surname>
+            <given-names>Chia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Tuanmu</surname>
+            <given-names>Mao-Ning</given-names>
+          </name>
+          <email xlink:type="simple">mntuanmu@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8233-2935</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Academia Sinica, Taipei, Taiwan</addr-line>
+        <institution>Academia Sinica</institution>
+        <addr-line content-type="city">Taipei</addr-line>
+        <country>Taiwan</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Endemic Species Research Institute, Jiji, Taiwan</addr-line>
+        <institution>Endemic Species Research Institute</institution>
+        <addr-line content-type="city">Jiji</addr-line>
+        <country>Taiwan</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">National Taiwan University, Taipei, Taiwan</addr-line>
+        <institution>National Taiwan University</institution>
+        <addr-line content-type="city">Taipei</addr-line>
+        <country>Taiwan</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mao-Ning Tuanmu (<email xlink:type="simple">mntuanmu@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36223</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/83DAE07145DC5536BFEBFBCECB16E51F">83DAE07145DC5536BFEBFBCECB16E51F</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Pei-Yu Tsai, Chie-Jen Ko, Ya-Jung Lu, Chia Hsieh, Mao-Ning Tuanmu</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Altitudinal migration, the seasonal and repeateing movement of animal individuals between breeding and non-breeding areas at different elevations, is a common and important but understudied behavior in birds. Difficulty in characterizing avian altitudinal migration has prevented a comprehensive understanding of both patterns and drivers of this behavior. To fill this knowledge gap, we investigated altitudinal migration patterns and underlying mechanisms for a major proportion (~70%) of an entire resident bird community on a subtropical island with an almost 4000-m elevational gradient. We quantified migration tendency of individual bird species based on the seasonal shift in the elevational distribution of their occurrence records in the eBird database. We then built phylogeny-controlled regression models to examine the associations between the birds’ migration tendencies and their functional traits to test major hypotheses on the mechanisms of altitudinal migration. The results showed a common but variable altitudinal migration behavior among the 118 species examined, with 40 and 11 species conducting post-breeding downhill and uphill migration, respectively. The species that have a narrower thermal tolerance range, can tolerate lower temperatures, have a smaller body size, have a more diverse or invertebrate-rich diet, or use an open nest had a higher downhill migration tendency. In contrast, no traits examined showed consistent associations with the uphill migration tendency. This suggests that post-breeding downhill and uphill migrations are driven by different processes and current hypotheses can only explain the former, but not the latter. This relatively comprehensive study demonstrated the power of citizen science data to provide new insights into an old research question from a novel perspective. Using the same approach, we are investigating the behavior in mountain regions around the world. With the global analysis, we will be able to understand the general patterns and mechanisms of avian altitudinal migration and also investigate their variation among mountain regions in different climate zones. In the face of rapid environmental changes in mountain ecosystems, the approach used in this study may also provide essential information for the conservation of mountainous biodiversity.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>eBird</kwd>
+        <kwd>functional traits</kwd>
+        <kwd>migration tendency</kwd>
+        <kwd>mountain regions</kwd>
+        <kwd>resident birds</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mao-Ning Tuanmu</p>
+      </sec>
+    </notes>
+  </front>
+</article>

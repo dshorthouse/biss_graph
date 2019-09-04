@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35295</article-id>
+      <article-id pub-id-type="publisher-id">35295</article-id>
+      <article-id pub-id-type="manuscript">11434</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PT - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Restored to Science. Challenges in Restoration and Digitisation of Long Abandoned Fungi Collection - Case Study</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Jakubowski</surname>
+            <given-names>Klemens</given-names>
+          </name>
+          <email xlink:type="simple">klemens.jakubowski@umed.wroc.pl</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Botanical Garden of Medicinal Plants, Wroclaw Medical University, Wroclaw, Poland</addr-line>
+        <institution>Botanical Garden of Medicinal Plants, Wroclaw Medical University</institution>
+        <addr-line content-type="city">Wroclaw</addr-line>
+        <country>Poland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Klemens Jakubowski (<email xlink:type="simple">klemens.jakubowski@umed.wroc.pl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35295</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/11D2A19020C55F879C0091BB001324F8">11D2A19020C55F879C0091BB001324F8</uri>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Klemens Jakubowski</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In 2017 abandoned on the dusty attic for at least twenty years the valuable fungi collection was discovered. After the investigation, it turned out that counting 2159 specimens collection is forgotten and long wanted life work of professor Andrzej Nespiak, a significant polish mycologist (1921-1981). The decision was easy: the collection must be restored, digitalised and secured for the future. These processes met many difficulties on all possible levels.</p>
+        <p>The project consisted of three main stages: cataloging, conservation, and digitisation.</p>
+        <p>Cataloging stage showed how valuable the collection is. Almost every specimen has very detailed information about location and habitat like hosting plant name (even specific names for bark or dead branches for fungi growing on wood), soil type for terrestrial ones, phytocoenosis, etc. Almost every specimen has a microscopic drawing of spores with dimensions attached. Collection dates mostly mention only month and year of collection. The big problem cataloging was chaotic naming. No name contains the names of authors. Different grammatic forms of specific epithets of the same species are used. There are a lot of species names and lower taxa names which do not exist in Index Fungorum. The main challenge was to set one standard of conduct.</p>
+        <p>Conservation stage was very important. Despite the attic was quite dry, many specimens were damaged. A small part was exposed to water and slightly infected by mold. Some were damaged by insects due to high temperatures in summer. All specimens were covered in dust. In the beginning, the whole collection was dried and frozen to stop mold and insects. Later mold was removed and all specimens were transferred to the new envelopes and boxes. All stationery used in herbarium is archive quality, acid-free.</p>
+        <p>During the digitisation stage, all specimens were photographed with labels and all additional information and drawings.</p>
+        <p>The whole project brought many challenges and required from staff a lot of commitment and deepening knowledge to properly select solutions.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>funghi</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>conservation</kwd>
+        <kwd>herbarium</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Klemens Jakubowski</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>special research facility funded by the Polish Ministry of Science and Higher Education (grant decision No. 215259/E-394/SPUB/2016/1)</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Botanical Garden of Medicinal Plants, Wroclaw Medical Universit</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>I DO NOT have a conflict of interest.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>special research facility funded by the Polish Ministry of Science and Higher Education (grant decision No. 215259/E-394/SPUB/2016/1)</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Botanical Garden of Medicinal Plants, Wroclaw Medical Universit</p>
+    </sec>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>I DO NOT have a conflict of interest.</p>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37066</article-id>
+      <article-id pub-id-type="publisher-id">37066</article-id>
+      <article-id pub-id-type="manuscript">11564</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS14 - The role of Earth Science collections within biodiversity research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Paleobiodiversity and Earth Science Paleoenvironmental Data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Lazarus</surname>
+            <given-names>David</given-names>
+          </name>
+          <email xlink:type="simple">david.lazarus@mfn.berlin</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Renaudie</surname>
+            <given-names>Johan</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9107-1984</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Museum für Naturkunde, Berlin, Germany</addr-line>
+        <institution>Museum für Naturkunde</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: David Lazarus (<email xlink:type="simple">david.lazarus@mfn.berlin</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37066</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/8A70FB00F82E5F2E9D27767597B89487">8A70FB00F82E5F2E9D27767597B89487</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>David Lazarus, Johan Renaudie</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Paleontology lies at the interface of earth sciences, biology and geologic time. When matched to histories of environmental change, such data is ideally suited to understanding how climate/environmental change affects biodiversity, and even how biodiversity change affects climate. Paleontologic and earth science collections, the data derived from them, and the global data infrastructures used in research are distinctively different than those in biology. Geologic time-linked earth science collections are found in geologic surveys, the oil industry and in museums as rock samples and sediment cores; paleontologic collections in museums and (via the microscopic fossils they contain) in sediment core repositories. Much published geologic time-linked earth science data is not tied to any collection material, and collected fossils are mostly only loosely linked to earth science collections or data. The exception is sediment cores and microfossils, where both earth science data and microfossil specimens are taken from the same cores and are thus tightly linked to each other. Lastly, most paleobiodiversity data used in research, even if derived from collection material, is compiled from the published literature rather than from collection databases.</p>
+        <p>Three major types of linked earth science-paleontology data exist, each with its own data infrastructure. Very long time scale (Phanerozoic: 600 million years [myr]-Recent) but low time resolution (ca 10 myr) published fossil data is held in the Paleobiology Database [PBDB] and/or the Geobiodiversity Database [GBDB], together with very limited earth science data (mostly general rock type and approximate rock layer where found).  PBDB in particular has been very successful in documenting the history of biodiversity over the last 600 my, and how a few major environmental events have affected it (mass extinctions and recoveries).  Poor time resolution, taxonomic coarseness (most records are only for genera, not species) and poor links to earth science data have limited using this type of data for detailed studies of paleodiversity-environmental change.</p>
+        <p>The NSB (formerly 'Neptune') database of deep-sea marine microfossils holds published fossil species occurrence data for the last ca 100 myr from the earth science sediment core collections of the deep-sea drilling programs [DSDP, ODP, IODP] together with detailed geochronologic data used to assign precise geologic ages to samples [.2-.02 myr resolution]. Species names are mostly linked to the separate community taxonomic catalog <ext-link ext-link-type="uri" xlink:href="http://www.mikrotax.org/">Mikrotax</ext-link>. All fossil occurrence data is also linked by sample name to the geologic core section material it was derived from. Earth history data from these core sections is not held in a central database, but a significant fraction is archived in the Pangea database, part of the ICSU World Data Center system. Biodiversity and environmental data can be linked directly via their shared sediment core sample locations, and/or by the high precision geologic ages for data in the systems.  This type of data has been used to study biodiversity response to environmental change on many time and geographic scales, including rapid warming or cooling events, and response to major environmental catastrophes, e.g. the meteorite impact at the end of the Cretaceous.</p>
+        <p>Lastly, very high temporal resolution (.01-.0001 my), mostly microfossil, plus earth-science data from land sections is held in the Neotoma system. This covers the last few my and is mostly used in local or regional studies of biodiversity and environmental change.</p>
+        <p>New global data networking initiatives such as the Digital Deep Earth [DDE] initiative will create new opportunities to link earth science and biodiversity data to each other.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>climate change</kwd>
+        <kwd>fossil record</kwd>
+        <kwd>deep-sea sediments</kwd>
+        <kwd>databases</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>David Lazarus</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

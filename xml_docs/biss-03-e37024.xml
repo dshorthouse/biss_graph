@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37024</article-id>
+      <article-id pub-id-type="publisher-id">37024</article-id>
+      <article-id pub-id-type="manuscript">11309</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI29 - GGBN – A global infrastructure for molecular research and collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Luomus’ Genomic Resources Collection Available as Open Data Through FinBIF</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ståhls-Mäkelä</surname>
+            <given-names>Gunilla</given-names>
+          </name>
+          <email xlink:type="simple">gunilla.stahls@helsinki.fi</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kuusijärvi</surname>
+            <given-names>Anniina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Riihikoski</surname>
+            <given-names>Ville-Matti</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schulman</surname>
+            <given-names>Leif</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1990-2173</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Juslén</surname>
+            <given-names>Aino</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Gunilla Ståhls-Mäkelä (<email xlink:type="simple">gunilla.stahls@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37024</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A1A410FCFD695EAF9C86CC00FA99785D">A1A410FCFD695EAF9C86CC00FA99785D</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Gunilla Ståhls-Mäkelä, Anniina Kuusijärvi, Ville-Matti Riihikoski, Leif Schulman, Aino Juslén</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>There is an increasing demand for high-quality genetic samples for biodiversity research as the techniques are rapidly developing and the costs are decreasing. The Finnish Museum of Natural History Luomus, an independent research institute within the University of Helsinki holding and developing the national natural history collections, has joined the Global Genome Biodiversity Network (GGBN; <ext-link ext-link-type="uri" xlink:href="http://www.ggbn.org/ggbn_portal/">http://www.ggbn.org/ggbn_portal/</ext-link>) and established a Genomic Resources Collection (GRC) in 2018.</p>
+        <p>In March 2019, the Luomus GRC comprised 2500 DNA extractions and 4000 vertebrate tissue samples amassed in approximately the last 10 years. The DNA extractions are mainly of lichens, polypores, beetles, flies, molluscs and crustaceans of worldwide origin, reflecting the focal organism groups of research groups in Luomus. The deep-frozen tissue samples are mostly of Finnish birds and mammals, as accessions of vertebrate specimens acquired to Luomus’ collections are sampled. High-quality whole-genome DNA extracts will also be prepared. We expect the GRC to increase rapidly in numbers of samples within the coming years. Furthermore, the collection will also serve the many active research groups in the Faculty of Biological and Environmental Sciences of the University of Helsinki.</p>
+        <p>The GRC collection follows the best practices of the Global Genome Biodiversity Network (GGBN) concerning long-term storage and physical quality of samples, and international agreements (the Convention on Biological Diversity, the Nagoya Protocol, CITES) as regards the legitimacy of the samples. The GRC samples are always cross-linked with the taxonomically identified and georeferenced voucher specimen from which it is separated. Each GRC sample gets a Unique Resource Identifier HTTP-URI, which is a derivative of the unique specimen ID used in Luomus’ Collection Management System (CMS) ‘Kotka’. The sample tubes are cryolabelled with the QR code on the lid of the tube.</p>
+        <p>The voucher specimens are deposited in Luomus’ collections or in another international public repository. The data on the GRC samples form part of the Open Data distributed through the Finnish Biodiversity Information Facility FinBIF <ext-link ext-link-type="uri" xlink:href="https://laji.fi/en">species.fi</ext-link> (Data policy: <ext-link ext-link-type="uri" xlink:href="https://laji.fi/en/about/960">https://laji.fi/en/about/960</ext-link>), and will be made searchable at the web portal in 2019.</p>
+        <p>The specific database functions to meet the needs of Luomus’ GRC are developed by Luomus’ Biodiversity Informatics Unit and implemented in Kotka. We have already implemented part of the database tools to manage the compliance with the Nagoya protocol. The tool for registering material transactions (donations / loans) makes use of the Application Programming Interface (API) provided by the Access and Benefit Sharing Clearing House (ABS-CH) and includes links to the ABS-CH webpage (https://absch.cbd.int/). The ABS-CH shows the contact person or organization details of the provider country, and the country-specific requirements for access to genetic resources, when present. The necessary information and documentation (letter of Prior Informed Consent, Mutually Agreed Terms, Material Transaction Agreement, and other permits) are linked from the material transactions to the relevant specimens.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Genomic Resources Collection</kwd>
+        <kwd>DNA</kwd>
+        <kwd>tissue samples</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Gunilla Ståhls-Mäkelä</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>FMNH Luomus Genomic Resources Collection is part of the Helsinki Institute of Life Science (HiLIFE) research infrastructure network, and has been partially developed by HiLIFE infrastructure funding.</p>
+    </ack>
+  </back>
+</article>

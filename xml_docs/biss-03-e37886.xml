@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37886</article-id>
+      <article-id pub-id-type="publisher-id">37886</article-id>
+      <article-id pub-id-type="manuscript">11346</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Comparison of Unsupervised Learning Methods for Natural Image Processing</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Wöber</surname>
+            <given-names>Wilfried</given-names>
+          </name>
+          <email xlink:type="simple">wilfried.woeber@technikum-wien.at</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tibihika</surname>
+            <given-names>Papius D</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Olaverri-Monreal</surname>
+            <given-names>Cristina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mehnen</surname>
+            <given-names>Lars</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sykacek</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Meimberg</surname>
+            <given-names>Harald</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Natural Resources and Life Sciences, Vienna, Austria</addr-line>
+        <institution>University of Natural Resources and Life Sciences</institution>
+        <addr-line content-type="city">Vienna</addr-line>
+        <country>Austria</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Johannes Kepler University, Linz, Austria</addr-line>
+        <institution>Johannes Kepler University</institution>
+        <addr-line content-type="city">Linz</addr-line>
+        <country>Austria</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">UAS Technikum Wien, Vienna, Austria</addr-line>
+        <institution>UAS Technikum Wien</institution>
+        <addr-line content-type="city">Vienna</addr-line>
+        <country>Austria</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Wilfried Wöber (<email xlink:type="simple">wilfried.woeber@technikum-wien.at</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37886</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D4107D4B99335F149CF6D61782BB89BF">D4107D4B99335F149CF6D61782BB89BF</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Wilfried Wöber, Papius D Tibihika, Cristina Olaverri-Monreal, Lars Mehnen, Peter Sykacek, Harald Meimberg</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>For computer vision based appraoches such as image classification (<xref ref-type="bibr" rid="B5181300">Krizhevsky et al. 2012</xref>), object detection (<xref ref-type="bibr" rid="B5234304">Ren et al. 2015</xref>) or pixel-wise weed classification (<xref ref-type="bibr" rid="B5234324">Milioto et al. 2017</xref>) machine learning is used for both feature extraction and processing (e.g. classification or regression). Historically, feature extraction (e.g. PCA; Ch. 12.1. in <xref ref-type="bibr" rid="B5181490">Bishop 2006</xref>) and processing were sequential and independent tasks (<xref ref-type="bibr" rid="B5181566">Wöber et al. 2013</xref>). Since the rise of convolutional neuronal networks (<xref ref-type="bibr" rid="B5181268">LeCun et al. 1989</xref>), a deep machine learning approach optimized for images, in 2012 (<xref ref-type="bibr" rid="B5181300">Krizhevsky et al. 2012</xref>), feature extraction for image analysis became an automated procedure. A convolutional neuronal net uses a deep architecture of artificial neurons (<xref ref-type="bibr" rid="B5181320">Goodfellow 2016</xref>) for both feature extraction and processing. Based on prior information such as image classes and supervised learning procedures, parameters of the neuronal nets are adjusted. This is known as the learning process.</p>
+        <p>Simultaneously, geometric morphometrics (<xref ref-type="bibr" rid="B5181329">Tibihika et al. 2018</xref>, <xref ref-type="bibr" rid="B5181344">Cadrin and Friedland 1999</xref>) are used in biodiversity research for association analysis. Those approaches use deterministic two-dimensional locations on digital images (landmarks; <xref ref-type="bibr" rid="B5181354">Mitteroecker et al. 2013</xref>), where each position corresponds to biologically relevant regions of interest. Since this methodology is based on scientific results and compresses image content into deterministic landmarks, no uncertainty regarding those landmark positions is taken into account, which leads to information loss (<xref ref-type="bibr" rid="B5181472">Pearl 1988</xref>). Both, the reduction of this loss and novel knowledge detection, can be done using machine learning.</p>
+        <p>Supervised learning methods (e.g., neuronal nets or support vector machines (Ch. 5 and 6. in <xref ref-type="bibr" rid="B5181490">Bishop 2006</xref>)) map data on prior information (e.g. labels). This increases the performance of classification or regression but affects the latent representation of the data itself. Unsupervised learning (e.g. latent variable models) uses assumptions concerning data structures to extract latent representations without prior information. Those representations does not have to be useful for data processing such as classification and due to that, the use of supervised and unsupervised machine learning and combinations of both, needs to be chosen carefully, according to the application and data.</p>
+        <p>In this work, we discuss unsupervised learning algorithms in terms of explainability, performance and theoretical restrictions in context of known deep learning restrictions (<xref ref-type="bibr" rid="B5181518">Marcus 2018</xref>, <xref ref-type="bibr" rid="B5181528">Szegedy et al. 2014</xref>, <xref ref-type="bibr" rid="B5181546">Su et al. 2017</xref>). We analyse extracted features based on multiple image datasets and discuss shortcomings and performance for processing (e.g. reconstruction error or complexity measurement (<xref ref-type="bibr" rid="B5181556">Pincus 1997</xref>)) using the principal component analysis (<xref ref-type="bibr" rid="B5181566">Wöber et al. 2013</xref>), independent component analysis (<xref ref-type="bibr" rid="B5181638">Stone 2004</xref>), deep neuronal nets (auto encoders; Ch. 14 in <xref ref-type="bibr" rid="B5181320">Goodfellow 2016</xref>) and Gaussian process latent variable models (<xref ref-type="bibr" rid="B5181682">Titsias and Lawrence 2010</xref>, <xref ref-type="bibr" rid="B5181754">Lawrence 2005</xref>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>latent variable models</kwd>
+        <kwd>unsupervised machine learning</kwd>
+        <kwd>deep learning</kwd>
+        <kwd>image processing</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="18"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Wilfried Wöber</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5181490">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bishop</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <source>Pattern Recognition and Machine Learning (Information Science and Statistics)</source>
+          <publisher-name>Springer</publisher-name>
+          <isbn>0387310738</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5181344">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Cadrin</surname>
+              <given-names>Steven X</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Friedland</surname>
+              <given-names>Kevin D</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>The utility of image processing techniques for morphometric analysis and stock identification</article-title>
+          <source>Fisheries Research</source>
+          <volume>43</volume>
+          <fpage>129</fpage>
+          <lpage>139</lpage>
+          <pub-id pub-id-type="doi">10.1016/s0165-7836(99)00070-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5181320">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Goodfellow</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <source>Deep Learning</source>
+          <publisher-name>The MIT Press</publisher-name>
+          <isbn>0262035618</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5181300">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Krizhevsky</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sutskever</surname>
+              <given-names>Ilya</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hinton</surname>
+              <given-names>Geoffrey E.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>ImageNet classification with deep convolutional neural networks</article-title>
+          <source>Communications of the ACM</source>
+          <volume>60</volume>
+          <issue>6</issue>
+          <fpage>84</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="doi">10.1145/3065386</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5181754">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Lawrence</surname>
+              <given-names>ND</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Probabilistic Non-linear Principal Component Analysis with Gaussian Process Latent Variable Models</article-title>
+          <source>Journal of Machine Learning Research</source>
+          <volume>6</volume>
+          <fpage>1783</fpage>
+          <lpage>1816</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B5181268">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>LeCun</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boser</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Denker</surname>
+              <given-names>J. S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Henderson</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Howard</surname>
+              <given-names>R. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hubbard</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jackel</surname>
+              <given-names>L. D.</given-names>
+            </name>
+          </person-group>
+          <year>1989</year>
+          <article-title>Backpropagation Applied to Handwritten Zip Code Recognition</article-title>
+          <source>Neural Computation</source>
+          <volume>1</volume>
+          <issue>4</issue>
+          <fpage>541</fpage>
+          <lpage>551</lpage>
+          <pub-id pub-id-type="doi">10.1162/neco.1989.1.4.541</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5181518">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Marcus</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Deep Learning: A Critical Appraisal</article-title>
+          <source>CoRR</source>
+          <volume>abs/1801.00631</volume>
+        </element-citation>
+      </ref>
+      <ref id="B5234324">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Milioto</surname>
+              <given-names>Andres</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lottes</surname>
+              <given-names>Philipp</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stachniss</surname>
+              <given-names>Cyrill</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Real-time Semantic Segmentation of Crop and Weed for Precision Agriculture Robots Leveraging Background Knowledge in CNNs</article-title>
+          <source>CoRR</source>
+          <volume>abs/1709.06764</volume>
+        </element-citation>
+      </ref>
+      <ref id="B5181354">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Mitteroecker</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gunz</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Windhager</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schaefer</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>A brief review of shape, form, and allometry in geometric morphometrics, with applications to human facial morphology</article-title>
+          <source>Hystrix, the Italian Journal of Mammalogy</source>
+          <volume>24</volume>
+          <fpage>59</fpage>
+          <lpage>66</lpage>
+          <pub-id pub-id-type="doi">10.4404/hystrix-24.1-6369</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5181472">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pearl</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>1988</year>
+          <source>Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference (Morgan Kaufmann Series in Representation and Reasoning)</source>
+          <publisher-name>Morgan Kaufmann</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B5181556">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pincus</surname>
+              <given-names>S. M.</given-names>
+            </name>
+          </person-group>
+          <year>1997</year>
+          <article-title>Approximate entropy as a measure of system complexity.</article-title>
+          <source>Proceedings of the National Academy of Sciences</source>
+          <volume>88</volume>
+          <issue>6</issue>
+          <fpage>2297</fpage>
+          <lpage>2301</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.88.6.2297</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5234304">
+        <element-citation publication-type="conference-preoceeding">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ren</surname>
+              <given-names>Shaoqing</given-names>
+            </name>
+            <name name-style="western">
+              <surname>He</surname>
+              <given-names>Kaiming</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Girshick</surname>
+              <given-names>Ross B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sun</surname>
+              <given-names>Jian</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <source>Faster R-CNN: Towards Real-Time Object Detection With Regional Proposal Networks</source>
+          <volume>abs/1506.01497</volume>
+          <conf-name>CORR</conf-name>
+        </element-citation>
+      </ref>
+      <ref id="B5181638">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stone</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <source>Independent Component Analysis: A Tutorial Introduction</source>
+          <publisher-name>MIT Press Ltd</publisher-name>
+          <isbn>0262693151</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5181546">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Su</surname>
+              <given-names>Jiawei</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vargas</surname>
+              <given-names>Danilo Vasconcellos</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sakurai</surname>
+              <given-names>Kouichi</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>One Pixel Attack for Fooling Deep Neural Networks</article-title>
+          <source>CoRR</source>
+        </element-citation>
+      </ref>
+      <ref id="B5181528">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Szegedy</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zaremba</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sutskever</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bruna</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Erhan</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goodfellow</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fergus</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Intriguing properties of neural networks</article-title>
+          <source>International Conference on Learning Representations</source>
+        </element-citation>
+      </ref>
+      <ref id="B5181329">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Tibihika</surname>
+              <given-names>Papius Dias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waidbacher</surname>
+              <given-names>Herwig</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Masembe</surname>
+              <given-names>Charles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Curto</surname>
+              <given-names>Manuel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sabatino</surname>
+              <given-names>Stephen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Alemayehu</surname>
+              <given-names>Esayas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Meulenbroek</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Akoll</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Meimberg</surname>
+              <given-names>Harald</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Anthropogenic impacts on the contextual morphological diversification and adaptation of Nile tilapia (Oreochromis niloticus, L. 1758) in East Africa</article-title>
+          <source>Environmental Biology of Fishes</source>
+          <volume>101</volume>
+          <issue>3</issue>
+          <fpage>363</fpage>
+          <lpage>381</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10641-017-0704-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5181682">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Titsias</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lawrence</surname>
+              <given-names>ND</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Bayesian Gaussian Process Latent Variable Model</article-title>
+          <source>Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics</source>
+        </element-citation>
+      </ref>
+      <ref id="B5181566">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wöber</surname>
+              <given-names>Wilfried</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Szuegyi</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kubinger</surname>
+              <given-names>Wilfried</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mehnen</surname>
+              <given-names>Lars</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>A principal component analysis based object detection for thermal infra-red images</article-title>
+          <source>Proceedings ELMAR-2013</source>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

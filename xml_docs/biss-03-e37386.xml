@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37386</article-id>
+      <article-id pub-id-type="publisher-id">37386</article-id>
+      <article-id pub-id-type="manuscript">11430</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI10 - How does Wikimedia Solve the Problems of Biodiversity Informatics?</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Wikipedia, a Tool for Knowledge Dissemination on Invasive Species</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Groom</surname>
+            <given-names>Quentin</given-names>
+          </name>
+          <email xlink:type="simple">quentin.groom@plantentuinmeise.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0596-5376</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lozano</surname>
+            <given-names>Vanessa</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Meeus</surname>
+            <given-names>Sofie</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0715-8647</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Castellanos</surname>
+            <given-names>Carlos Olmedo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Department of Agriculture, University of Sassari, Sassari, Italy</addr-line>
+        <institution>Department of Agriculture, University of Sassari</institution>
+        <addr-line content-type="city">Sassari</addr-line>
+        <country>Italy</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">University of Granada, Granada, Spain</addr-line>
+        <institution>University of Granada</institution>
+        <addr-line content-type="city">Granada</addr-line>
+        <country>Spain</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Quentin Groom (<email xlink:type="simple">quentin.groom@plantentuinmeise.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37386</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/3E0F4C1B15FA5E4E810B40B760AB9FC1">3E0F4C1B15FA5E4E810B40B760AB9FC1</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Quentin Groom, Vanessa Lozano, Sofie Meeus, Carlos Olmedo Castellanos</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>One of the most important issues for controlling the spread of invasive species is public awareness (<xref ref-type="bibr" rid="B5184255">Dehnen-Schmutz et al. 2018</xref>). Passively, the public are responsible for the spread of invasive species, for example by moving dirty boats from one water body to another. But they also actively spread invasive species by releasing them in the wild. The spread of some invasive species could be slowed or even halted if the general public were more aware of the risks. Furthermore, this is a global issue, not restricted to one country or language, and hence needs to be tackled at an international level. The Convention on Biological Diversity has a specific target to identify pathways of introduction and manage invasive species (<xref ref-type="bibr" rid="B5191373">Convention on Biological Diversity 2014</xref>). As part of this awareness-raising, the public needs information on how to identify invasive species, as well as how to know their regulatory status, distribution and transmission. They also need to be aware of how invasive species impact biodiversity, ecosystem services and health. This information needs to be up-to-date, reliable and unbiased, but also supported by evidence.</p>
+        <p>Many information platforms exist on invasive species and new information is being generated all the time on this dynamic issue. However, pre-eminent among information sources on the internet is <ext-link ext-link-type="uri" xlink:href="https://www.wikipedia.org/">Wikipedia</ext-link>. Consistently ranked in the top ten of most visited websites, with more than 15 billion page views a month across 300 language editions, it is the go-to website on many subjects (<xref ref-type="bibr" rid="B5191467">Wikimedia 2019</xref>). Invasive species such as the <ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/Zebra_mussel">zebra mussel</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/Eichhornia_crassipes">water hyacinth</ext-link> receive over 500 daily page views, just on the English edition alone. Wikipedia is arguably one of the largest citizen science projects, containing information on every area of science and connecting, through its citations, scientific literature with the general public.</p>
+        <p>Wikipedia has been criticized about many aspects of its content and editorship, including its quality and neutrality (<xref ref-type="bibr" rid="B5191295">Kumar et al. 2016</xref>, <xref ref-type="bibr" rid="B5191305">Wagner et al. 2016</xref>, <xref ref-type="bibr" rid="B5191334">Hargittai and Shaw 2014</xref>). Nevertheless, its dominance in the provision of information cannot be ignored and addressing Wikipedia's problems by direct engagement might be more productive than ignoring it. Increasingly, different disciplines are engaging with Wikipedia for communication, recognizing that it can be a productive communication channel (<xref ref-type="bibr" rid="B5184268">Murray 2018</xref>).</p>
+        <p>Invasive species are a global problem and tackling them is a global issue. We have been investigating the current status of invasive species information on Wikipedia, whether it contains relevant information on impacts and control, and whether the information is consistent across different language versions. We will present what we have found and make recommendations on what to improve and how we can engage with Wikipedia.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>citizen science</kwd>
+        <kwd>communication</kwd>
+        <kwd>international</kwd>
+        <kwd>multilingual</kwd>
+        <kwd>public awareness</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">European Cooperation in Science and Technology</named-content>
+            <named-content content-type="funder_identifier">501100000921</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100000921</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+    <conf-date>2019</conf-date>
+    <conf-name>Biodiversity_Next</conf-name>
+    <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+    <conf-loc>Leiden, The Netherlands</conf-loc>
+    <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+</conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="7"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Quentin Groom</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>VL was supported by a STSM Grant from COST Action Alien CSI (CA17122), supported by COST (European Cooperation in Science and Technology). QG acknowledges the support of the Belgian Science Policy Office under the TrIAS project (BR/165/A1/TrIAS).</p>
+      </sec>
+    </notes>
+  </front>
+  
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>VL was supported by a STSM Grant from COST Action Alien CSI (CA17122), supported by COST (European Cooperation in Science and Technology). QG acknowledges the support of the Belgian Science Policy Office under the TrIAS project (BR/165/A1/TrIAS).</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5191373">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Diversity</surname>
+              <given-names>Convention on Biological</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <source>Handbook of the Convention on Biological Diversity</source>
+          <publisher-name>Routledge</publisher-name>
+          <pub-id pub-id-type="doi">10.4324/9781315071770</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5184255">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Dehnen-Schmutz</surname>
+              <given-names>Katharina</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boivin</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Essl</surname>
+              <given-names>Franz</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Harrison</surname>
+              <given-names>Laura</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Touza</surname>
+              <given-names>Julia M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bayliss</surname>
+              <given-names>Helen</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Alien futures: What is on the horizon for biological invasions?</article-title>
+          <source>Diversity and Distributions</source>
+          <volume>24</volume>
+          <issue>8</issue>
+          <fpage>1149</fpage>
+          <lpage>1157</lpage>
+          <pub-id pub-id-type="doi">10.1111/ddi.12755</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191334">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hargittai</surname>
+              <given-names>Eszter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Shaw</surname>
+              <given-names>Aaron</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Mind the skills gap: the role of Internet know-how and gender in differentiated contributions to Wikipedia</article-title>
+          <source>Information, Communication &amp; Society</source>
+          <volume>18</volume>
+          <issue>4</issue>
+          <fpage>424</fpage>
+          <lpage>442</lpage>
+          <pub-id pub-id-type="doi">10.1080/1369118x.2014.957711</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191295">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kumar</surname>
+              <given-names>Srijan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>West</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leskovec</surname>
+              <given-names>Jure</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Disinformation on the Web</article-title>
+          <source>Proceedings of the 25th International Conference on World Wide Web - WWW '16</source>
+          <pub-id pub-id-type="doi">10.1145/2872427.2883085</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5184268">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Murray</surname>
+              <given-names>Heather</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>More than 2 billion pairs of eyeballs: Why aren’t you sharing medical knowledge on Wikipedia?</article-title>
+          <source>BMJ Evidence-Based Medicine</source>
+          <fpage>2018</fpage>
+          <lpage>111040</lpage>
+          <pub-id pub-id-type="doi">10.1136/bmjebm-2018-111040</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191305">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wagner</surname>
+              <given-names>Claudia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Graells-Garrido</surname>
+              <given-names>Eduardo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Garcia</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Menczer</surname>
+              <given-names>Filippo</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Women through the glass ceiling: gender asymmetries in Wikipedia</article-title>
+          <source>EPJ Data Science</source>
+          <volume>5</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.1140/epjds/s13688-016-0066-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191467">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wikimedia</surname>
+            </name>
+          </person-group>
+          <article-title>Wikimedia Statistics</article-title>
+          <uri>https://stats.wikimedia.org/v2/#/all-projects</uri>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

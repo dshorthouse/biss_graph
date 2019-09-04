@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35212</article-id>
+      <article-id pub-id-type="publisher-id">35212</article-id>
+      <article-id pub-id-type="manuscript">11632</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP35 - Operationalizing Essential Biodiversity Variables: data integration, production and dissemination</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A minimum set of Information Standards for Essential Biodiversity Variables</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Fernández</surname>
+            <given-names>Néstor</given-names>
+          </name>
+          <email xlink:type="simple">nestor.fernandez@idiv.de</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Guralnick</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kissling</surname>
+            <given-names>W. Daniel</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7274-6755</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany</addr-line>
+        <institution>German Centre for Integrative Biodiversity Research (iDiv)</institution>
+        <addr-line content-type="city">Leipzig</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, Gainesville, United States of America</addr-line>
+        <institution>Florida Museum of Natural History</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Univ. of Florida, Gainesville, United States of America</addr-line>
+        <institution>Univ. of Florida</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">University of Amsterdam, Amsterdam, Netherlands</addr-line>
+        <institution>University of Amsterdam</institution>
+        <addr-line content-type="city">Amsterdam</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Néstor Fernández (<email xlink:type="simple">nestor.fernandez@idiv.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35212</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/879CA159AEBF57CAA71261C91848E548">879CA159AEBF57CAA71261C91848E548</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Néstor Fernández, Robert Guralnick, W. Daniel Kissling</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Essential Biodiversity Variables (EBVs) are integrated information products typically derived from disparate sources of primary observations combined by the use of biodiversity models and data integration algorithms. Furthermore, developing policy-relevant indicators from EBVs requires an additional level of integration between datasets that inform on different facets of biodiversity, e.g. at levels from species to ecosystems. The development and dissemination of EBVs requires that the origin of the primary observations, models and algorithms, measurement uncertainties, and the scope of application are consistently reported and traceable. To support this process, the GEO BON Taskforce for Essential Biodiversity Variables - Data is developing the Minimum Information Standards (MIS) for EBVs. MIS are sets of specifications for describing datasets that aim to standardize data reporting and to maximize its discoverability and interoperability. Here we present a community effort to generate minimum standards that can be used across all the EBV classes, including genetic composition, species populations and traits, and the composition, structure and function of ecosystems. MIS for Essential Biodiversity Variables is founded in the description of the EBV-data cube as the unifying framework to deliver interoperable biodiversity observations. They summarize aspects of the spatial and temporal domains of the datasets, as well as uncertainty and bias reporting. Furthermore, they identify traceability along the EBV production workflow from the identification of primary observations to the derivation of a spatially and temporally consistent EBV product. MIS also incorporate the GEOSS proposed principles for data management. Finally, a metadata publishing toolkit ensures that EBVs are discoverable and used under the auspices of GEO BON.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Biodiversity policy</kwd>
+        <kwd>biodiversity change</kwd>
+        <kwd>Metadata</kwd>
+        <kwd>Monitoring</kwd>
+        <kwd>Workflows</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Néstor Fernández</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Symposium Presentations</p>
+      </sec>
+    </notes>
+  </front>
+</article>

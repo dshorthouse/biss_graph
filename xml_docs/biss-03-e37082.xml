@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37082</article-id>
+      <article-id pub-id-type="publisher-id">37082</article-id>
+      <article-id pub-id-type="manuscript">11165</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COT - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Extracting Data from Legacy Taxonomic Literature: Applications for planning field work</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Rivera-Quiroz</surname>
+            <given-names>Francisco Andres</given-names>
+          </name>
+          <email xlink:type="simple">andres.riveraquiroz@naturalis.nl</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Miller</surname>
+            <given-names>Jeremy A.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8918-9775</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Plazi, Bern, Switzerland</addr-line>
+        <institution>Plazi</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Francisco Andres Rivera-Quiroz (<email xlink:type="simple">andres.riveraquiroz@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37082</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/8890A95716E5501D9EBC7BC7BBD83E02">8890A95716E5501D9EBC7BC7BBD83E02</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Francisco Andres Rivera-Quiroz, Jeremy A. Miller</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Traditional taxonomic publications have served as a biological data repository accumulating vast amounts of data on species diversity, geographical and temporal distributions, ecological interactions, taxonomic relations, among many other types of information. However, the fragmented nature of taxonomic literature has made this data difficult to access and use to its full potential. Current anthropogenic impact on biodiversity demands faster knowledge generation, but also making better use of what we already have. This could help us make better-informed decisions about conservation and resources management.</p>
+        <p>In past years, several efforts have been made to make taxonomic literature more mobilized and accessible. These include online publications, open access journals, the digitization of old paper literature and improved availability through online specialized repositories such as the <ext-link ext-link-type="uri" xlink:href="https://www.biodiversitylibrary.org/">Biodiversity Heritage Library</ext-link> (BHL) and the <ext-link ext-link-type="uri" xlink:href="https://wsc.nmbe.ch/">World Spider Catalog</ext-link> (WSC), among others. Although easy to share, PDF publications still have most of their biodiversity data embedded in strings of text making them less dynamic and more difficult or impossible to read and analyze without a human interpreter. Recently developed tools as <ext-link ext-link-type="uri" xlink:href="https://github.com/plazi/GoldenGATE-Imagine">GoldenGATE-Imagine</ext-link> (GGI) allow transforming PDFs in XML files that extract and categorize taxonomically relevant data. These data can then be aggregated in databases such as <ext-link ext-link-type="uri" xlink:href="http://plazi.org/resources/treatmentbank/">Plazi TreatmentBank</ext-link>, where it can be re-explored, queried and analyzed.</p>
+        <p>Here we combined several of these cybertaxonomic tools to test the data extraction process for one potential application: the design and planning of an expedition to collect fresh material in the field. We targeted the ground spider <italic>Teutamus politus </italic>and<italic/>other related species from the <italic>Teutamus</italic> group (TG) (Araneae; Liocranidae). These spiders are known from South East Asia and have been cataloged in the family Liocranidae; however, their relations, biology and evolution are still poorly understood. We marked-up 56 publications that contained taxonomic treatments with specimen records for the Liocranidae. Of these publications, 20 contained information on members of the TG. Geographical distributions and occurrences of 90 TG species were analyzed based on 1,309 specimen records. These data were used to design our field collection in a way that allowed us to optimize the collection of adult specimens of our target taxa.</p>
+        <p>The TG genera were most common in Indonesia, Thailand and Malaysia. From these, Thailand was the second richest but had the most records of <italic>T. politus</italic>. Seasonal distribution of TG specimens in Thailand suggested June and July as the best time for collecting adults. Based on these analyses, we decided to sample from mid-July to mid-August 2018 in the three Thai provinces that combined most records of TG species and <italic>T. politus.</italic></p>
+        <p>Relying on the results of our literature analyses and using standard collection methods for ground spiders, we captured at least one specimen of every TG genus reported for Thailand. Our one-month expedition captured 231 TG spiders; from these, <italic>T. politus </italic>was the most abundant species with 188 specimens (95 adults)<italic>.</italic> By comparison, a total of 196 specimens of the TG and 66 of <italic>T. politus</italic> had been reported for the same provinces in the last 40 years. Our sampling greatly increased the number of available specimens, especially for the genera <italic>Teutamus</italic> and <italic>Oedignatha</italic>. Also, we extended the known distribution of <italic>Oedignatha </italic>and<italic> Sesieutes </italic>within Thailand.</p>
+        <p>These results illustrate the relevance of making biodiversity data contained within taxonomic treatments accessible and reusable. It also exemplifies one potential use of taxonomic legacy data: to more efficiently use existing biodiversity data to fill knowledge gaps. A similar approach can be used to study neglected or interesting taxa and geographic areas, generating a better biodiversity documentation that could aid in decision making, management and conservation.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Araneae</kwd>
+        <kwd>Liocranidae</kwd>
+        <kwd>Teutamus</kwd>
+        <kwd>cybertaxonomy</kwd>
+        <kwd>Plazi</kwd>
+        <kwd>PDF</kwd>
+        <kwd>XML</kwd>
+        <kwd>GoldenGATE-Imagine</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Francisco Andres Rivera-Quiroz</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

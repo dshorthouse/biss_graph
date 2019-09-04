@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37329</article-id>
+      <article-id pub-id-type="publisher-id">37329</article-id>
+      <article-id pub-id-type="manuscript">11618</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Linked Data Tools for Managing Taxonomic Databases</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Liljeblad</surname>
+            <given-names>Johan</given-names>
+          </name>
+          <email xlink:type="simple">cynips@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0442-8162</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lahti</surname>
+            <given-names>Tapani</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Djos</surname>
+            <given-names>Matts</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Swedish Species Information Centre, Uppsala, Sweden</addr-line>
+        <institution>Swedish Species Information Centre</institution>
+        <addr-line content-type="city">Uppsala</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Helsinki, Helsinki, Finland</addr-line>
+        <institution>University of Helsinki</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">ArtDatabanken, Uppsala, Sweden</addr-line>
+        <institution>ArtDatabanken</institution>
+        <addr-line content-type="city">Uppsala</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Johan Liljeblad (<email xlink:type="simple">cynips@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37329</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/85BA520232895FBFAD9529D316D55589">85BA520232895FBFAD9529D316D55589</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Johan Liljeblad, Tapani Lahti, Matts Djos</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Taxonomic information is dynamic, i.e. changes are made continuously, so scientific names are insufficient to track changes in taxon circumscription. The principles of Linked Open Data (LOD), as defined by the World Wide Web Consortium, can be applied for documenting the relationships of taxon circumscriptions over time and between checklists of taxa.</p>
+        <p>In our scheme, each checklist and each taxon in the checklist is assigned a globally unique, persistent identifier. According to the LOD principles, HTTP Uniform Resource Identifiers (URIs) are used as identifiers, providing both human-readable (HTML) and machine-readable (XML) responses for client requests.</p>
+        <p>Common vocabularies are needed in machine-readable responses to HTTP URIs. We use SKOS (Simple Knowledge Organization System) as a basic vocabulary for describing checklists as instances of class skos:ConceptScheme, and taxa as instances of class skos:Concept. Set relationships between taxon circumscriptions are described using the properties skos:broader and skos:narrower. Darwin Core vocabulary is used for describing taxon properties, such as scientific names, taxonomic ranks and authorship string, in the checklists.</p>
+        <p>Instead of directly linking taxon circumscriptions between checklists, we define a HTTP URI for each unique circumscription. This common identifier is then mapped to internal checklist identifiers matching the circumscription using the property skos:exactMatch. For the management of the URIs, the domain name TAXONID.ORG has been registered.</p>
+        <p>In a pilot study, our approach has been applied to linking taxon circumscriptions of selected taxa between the national checklists of Sweden and Finland. In the future, national checklists from other Nordic/Baltic countries (Norway, Denmark, Iceland, Estonia) can be easily linked together as well. The work is part of the NeIC DeepDive project (<ext-link ext-link-type="uri" xlink:href="https://neic.no/">neic.no</ext-link>).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>checklist</kwd>
+        <kwd>identifier</kwd>
+        <kwd>taxon circumscription</kwd>
+        <kwd>matching</kwd>
+        <kwd>linking</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Johan Liljeblad</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37288</article-id>
+      <article-id pub-id-type="publisher-id">37288</article-id>
+      <article-id pub-id-type="manuscript">11653</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI29 - GGBN – A global infrastructure for molecular research and collections</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Taxonomic Gap Analysis: A method of evaluating the taxa represented in biodiversity databases</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Devine</surname>
+            <given-names>Amanda</given-names>
+          </name>
+          <email xlink:type="simple">devinea@si.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8928-8749</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Coddington</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6004-7730</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Smithsonian Institution, Washington, DC, United States of America</addr-line>
+        <institution>Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington, DC</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Amanda Devine (<email xlink:type="simple">devinea@si.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37288</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/3B85C4445A5757C592156ADF28D70140">3B85C4445A5757C592156ADF28D70140</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The <ext-link ext-link-type="uri" xlink:href="https://ggi.si.edu/">Global Genome Initiative (GGI)</ext-link> endeavors to collect the Earth’s genomic biodiversity, preserve this biodiversity as high quality genetic resources in Global Genome Biodiversity Network (GGBN) affiliated biorepositories, increase knowledge of biodiversity through genetic sequencing, and make resources and knowledge accessible to researchers via the <ext-link ext-link-type="uri" xlink:href="http://data.ggbn.org/ggbn_portal/">GGBN Data Portal</ext-link>, the <ext-link ext-link-type="uri" xlink:href="http://gcm.wfcc.info/">Global Catalogue of Microorganisms (GCM)</ext-link>, and the <ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/genbank/">National Center for Biotechnology Information (NCBI) GenBank</ext-link>. In GGI's seven year timespan, it is attempting to collect samples from all 9,870 families and half of the 165,683 genera of life on Earth (<xref ref-type="bibr" rid="B5192151">Roskov et al. 2019</xref>). To accomplish this, GGI must synergistically consider the following questions:</p>
+        <p>
+          <list list-type="order"><list-item><p>What life exists?</p></list-item><list-item><p>What has already been preserved as physical resources?</p></list-item><list-item><p>What is already known from genetic sequencing?</p></list-item><list-item><p>How will novel or legacy collections fill the gaps in resources or knowledge?</p></list-item></list>
+        </p>
+        <p>To answer the first question, GGI has explored the use of taxonomic authorities such as the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c">Global Biodiversity Information Facility (GBIF) Backbone Taxonomy</ext-link> and the <ext-link ext-link-type="uri" xlink:href="http://www.catalogueoflife.org/">Catalogue of Life</ext-link> as taxonomic backbones to variously match taxonomic names and derive complete lists of extant taxa at each taxonomic rank. To answer the second question, GGI utilizes the GGBN Data Portal API and the GCM website to extract lists of taxonomic names, which are then standardized to a taxonomic backbone. To answer the third question, following the recommendations of <xref ref-type="bibr" rid="B5192111">Hanner 2009</xref> for identifying high-quality DNA barcode records, GGI employs the NCBI Entrez Programming Utilities to download GenBank records, then standardizes the associated taxa to a taxonomic backbone. Finally, GGI compares lists of taxa found in specific geographic areas or specific legacy collections to determine the amount of taxonomic novelty a new collection may supply. GGI refers to this comparison of taxonomic databases as a taxonomic gap analysis, an assessment of how well a potential collection fills the taxonomic gaps in physical collections and genetic knowledge. A gap analysis performed by GGI in March 2019 shows that 49% of families and 78% of genera still have no representation as either physical samples or genetic information (Table <xref ref-type="table" rid="T5191732">1</xref>). There are substantial gaps to fill in the endeavor to capture the Earth's biodiversity, and taxonomic gap analysis will continue to be a powerful tool to identify the most promising potential new collections.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>gap analysis</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>genetic resources</kwd>
+        <kwd>DNA barcodes</kwd>
+        <kwd>tissues</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="1"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Amanda Devine</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5192993">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Karen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Karsch-Mizrachi</surname>
+              <given-names>Ilene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lipman</surname>
+              <given-names>David J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ostell</surname>
+              <given-names>James</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sayers</surname>
+              <given-names>Eric W.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>GenBank</article-title>
+          <source>Nucleic Acids Research</source>
+          <volume>44</volume>
+          <pub-id pub-id-type="doi">10.1093/nar/gkv1276</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192916">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>GGBN</surname>
+            </name>
+          </person-group>
+          <article-title>The GGBN Data Portal</article-title>
+          <uri>http://data.ggbn.org/ggbn_portal/</uri>
+          <date-in-citation content-type="access-date">2019-03-01T00:00:00+02:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5192111">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hanner</surname>
+              <given-names>Robert</given-names>
+            </name>
+          </person-group>
+          <article-title>Data Standards for BARCODE Records in INSDC (BRIs)</article-title>
+          <uri>https://sibarcodenetwork.readthedocs.io/en/latest/barcode_data_standard.html</uri>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5192151">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Roskov</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ower</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Orrell</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nicolson</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bailly</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kirk</surname>
+              <given-names>P. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourgoin</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>DeWalt</surname>
+              <given-names>R. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Decock</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nieukerken</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zarucchi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Species 2000 &amp; ITIS Catalogue of Life, 28 February 2019</article-title>
+          <uri>www.catalogueoflife.org/col</uri>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5193021">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wu</surname>
+              <given-names>Linhuan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sun</surname>
+              <given-names>Qinglan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sugawara</surname>
+              <given-names>Hideaki</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yang</surname>
+              <given-names>Song</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zhou</surname>
+              <given-names>Yuguang</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McCluskey</surname>
+              <given-names>Kevin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vasilenko</surname>
+              <given-names>Alexander</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Suzuki</surname>
+              <given-names>Ken-Ichiro</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ohkuma</surname>
+              <given-names>Moriya</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lee</surname>
+              <given-names>Yeonhee</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robert</surname>
+              <given-names>Vincent</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ingsriswang</surname>
+              <given-names>Supawadee</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guissart</surname>
+              <given-names>François</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Philippe</surname>
+              <given-names>Desmeth</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ma</surname>
+              <given-names>Juncai</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>Global catalogue of microorganisms (gcm): a comprehensive database and information retrieval, analysis, and visualization system for microbial resources</article-title>
+          <source>BMC Genomics</source>
+          <volume>14</volume>
+          <issue>1</issue>
+          <fpage>933</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2164-14-933</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <table-wrap id="T5191732" position="float" orientation="portrait">
+      <label>Table 1.</label>
+      <caption>
+        <p>Taxonomic gap analysis results for all of life on Earth as of 06 March 2019. Total counts were derived from the Catalogue of Life (<xref ref-type="bibr" rid="B5192151">Roskov et al. 2019</xref>). Counts of physical samples were derived from the union of the GGBN Data Portal (<xref ref-type="bibr" rid="B5192916">GGBN 2011</xref>) and the Global Catalogue of Microorganisms (<xref ref-type="bibr" rid="B5193021">Wu et al. 2013</xref>). DNA barcode sequence data counts were downloaded from GenBank (<xref ref-type="bibr" rid="B5192993">Clark et al. 2015</xref>). Percentages represent the percent of the total in that category.</p>
+      </caption>
+      <table rules="all" border="1" cellpadding="1" cellspacing="1" style="width:500px">
+        <tbody>
+          <tr>
+            <th rowspan="1" colspan="1" style="text-align: left;">Taxonomic Rank</th>
+            <th rowspan="1" colspan="1" style="text-align: right;">Total</th>
+            <th rowspan="1" colspan="1" style="text-align: right;">Physical Samples Only</th>
+            <th rowspan="1" colspan="1" style="text-align: right;">Sequence Data Only</th>
+            <th rowspan="1" colspan="1" style="text-align: right;">Physical Samples AND Sequence Data</th>
+            <th rowspan="1" colspan="1" style="text-align: right;">Missing ("Gaps")</th>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <th rowspan="1" colspan="1">Phylum</th>
+            <td rowspan="1" colspan="1" style="text-align:right">101</td>
+            <td rowspan="1" colspan="1" style="text-align:right">49 (49%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">3 (3%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">34 (34%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">15 (15%)</td>
+          </tr>
+          <tr>
+            <th rowspan="1" colspan="1">Class</th>
+            <td rowspan="1" colspan="1" style="text-align:right">339</td>
+            <td rowspan="1" colspan="1" style="text-align:right">149 (44%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">7 (2%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">105 (31%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">78 (23%)</td>
+          </tr>
+          <tr>
+            <th rowspan="1" colspan="1">Order</th>
+            <td rowspan="1" colspan="1" style="text-align:right">1418</td>
+            <td rowspan="1" colspan="1" style="text-align:right">460 (32%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">73 (5%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">456 (32%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">429 (30%)</td>
+          </tr>
+          <tr>
+            <th rowspan="1" colspan="1">Family</th>
+            <td rowspan="1" colspan="1" style="text-align:right">9870</td>
+            <td rowspan="1" colspan="1" style="text-align:right">1699 (17%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">697 (7%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">2648 (27%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">4826 (49%)</td>
+          </tr>
+          <tr>
+            <th rowspan="1" colspan="1">Genus</th>
+            <td rowspan="1" colspan="1" style="text-align:right">165683</td>
+            <td rowspan="1" colspan="1" style="text-align:right">10512 (6%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">11641 (7%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">13880 (8%)</td>
+            <td rowspan="1" colspan="1" style="text-align:right">129650 (78%)</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37002</article-id>
+      <article-id pub-id-type="publisher-id">37002</article-id>
+      <article-id pub-id-type="manuscript">11019</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST92 - Advancing the Quality of Diverse Citizen Science Data from Observations to Atlasing Projects</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Using Existing Biodiversity Data to Prioritize Survey Areas in Atlas Projects</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sparrius</surname>
+            <given-names>Laurens</given-names>
+          </name>
+          <email xlink:type="simple">sparrius@floron.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4925-9289</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">FLORON Plant Conservation Netherlands, Nijmegen, Netherlands</addr-line>
+        <institution>FLORON Plant Conservation Netherlands</institution>
+        <addr-line content-type="city">Nijmegen</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Laurens Sparrius (<email xlink:type="simple">sparrius@floron.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37002</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A308C1C2C4AC51E6B3397424726AF732">A308C1C2C4AC51E6B3397424726AF732</uri>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Laurens Sparrius</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Species distribution data is often collected in local and regional atlas projects, in which data is collected in grid squares to ensure optimal data coverage. Nowadays, many different data sources are available, and atlas projects often start with a large number of observations already being available. We show how existing biodiversity data can be used to determine spatial gaps in atlas projects. An citizen science atlas project for vascular plants in the Netherlands shows how existing data are is used to prioritize grid squares with outdated or missing surveys, and grid squares that should be searched for rare and declining species that have been reported in the past. Data from citizen science projects and professional flora surveys are combined in the National Database of Flora and Fauna (www.ndff.nl), which includes the use of data standards and extensive metadata on data collection protocols. This nearly complete database is used in citizen science projects to prioritize the survey of gaps. The concept of a continuously updated atlas scheme is established. Data can be use for several purposes, providing data for the national Red List, as well as reports on protected species,  ecological studies, and the eradication of invasive species.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>citizen science</kwd>
+        <kwd>metadata</kwd>
+        <kwd>data use</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Laurens B. Sparrius</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36517</article-id>
+      <article-id pub-id-type="publisher-id">36517</article-id>
+      <article-id pub-id-type="manuscript">11405</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A More Precise Living Planet Index (LPI)</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hébert</surname>
+            <given-names>Katherine</given-names>
+          </name>
+          <email xlink:type="simple">katherine.ahebert@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Université de Sherbrooke, Sherbrooke, Canada</addr-line>
+        <institution>Université de Sherbrooke</institution>
+        <addr-line content-type="city">Sherbrooke</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Katherine Hébert (<email xlink:type="simple">katherine.ahebert@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36517</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/CBA2E57AD17E5CD58110DC321AC9E55D">CBA2E57AD17E5CD58110DC321AC9E55D</uri>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Katherine Hébert</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Reliably measuring biodiversity change is of major interest both ecologically and politically. Thoroughly testing the reliability of biodiversity metrics, meaning their ability to present a precise, accurate, and unbiased measurement of biodiversity trends, is vital to avoid misinforming decision makers when selecting management strategies, and misleading the public’s view of biodiversity issues.</p>
+        <p>Developed by <xref ref-type="bibr" rid="B5183484">Loh et al. (2005)</xref>, the World Wildlife Fund (WWF), and the Zoological Society of London, the <ext-link ext-link-type="uri" xlink:href="http://www.livingplanetindex.org/home/index">Living Planet Index (LPI)</ext-link> measures the overall global trend in vertebrate abundances since 1970 (<xref ref-type="bibr" rid="B5183484">Loh et al. 2005</xref>). The LPI has become a popular indicator of global biodiversity change due to its intuitive association with biodiversity targets, which makes it a powerful tool to communicate the status of biodiversity to the public, and to decision makers tasked with the management of biodiversity (<xref ref-type="bibr" rid="B5183442">Collen et al. 2009</xref>). Importantly, the Convention on Biological Diversity (CBD) selected the LPI as one of four indices approved to monitor progress towards the Aichi Biodiversity Targets (<xref ref-type="bibr" rid="B5183542">CBD 2016</xref>). The LPI was also selected as an Essential Biodiversity Variable, which are essential tools for the harmonized study, reporting, and management of biodiversity change worldwide (<xref ref-type="bibr" rid="B5183507">Pereira et al. 2013</xref>). Due to the LPI’s pivotal role in policy, conservation, and communication, ensuring its reliability as a biodiversity change metric is crucial for both biodiversity science and management at a global scale.</p>
+        <p>Despite the LPI’s influence on the global stage of biodiversity management, the index’s reliability as a measure of biodiversity loss has not been rigorously tested for limitations. The LPI’s capacity to accurately estimate global population trends depends in part on undetected errors in its supporting data, including process errors (i.e. random population fluctuations), and observation errors (i.e. poor detectability of certain species) (<xref ref-type="bibr" rid="B5183432">Clark and Bjørnstad 2004</xref>, <xref ref-type="bibr" rid="B5183464">Gotelli and Colwell 2001</xref>, <xref ref-type="bibr" rid="B5183454">Dennis et al. 2006</xref>, <xref ref-type="bibr" rid="B5183422">Buckland et al. 2004</xref>). These errors are often undocumented and cannot be directly assessed, making it difficult to determine their impact on LPI trends. Interpretation of an LPI trend also heavily relies on its precision, which establishes the uncertainty surrounding the estimated magnitude and direction of biodiversity change. If uncertainty is high, the LPI is a less reliable measure of biodiversity change, and must be interpreted with greater caution when communicating biodiversity trends to the public and when choosing management strategies (<xref ref-type="bibr" rid="B5183474">Hui et al. 2008</xref>). The LPI’s confidence interval progressively widens as uncertainty accumulates over time from the baseline in 1970 (<xref ref-type="bibr" rid="B5183523">WWF 2018</xref>, <xref ref-type="bibr" rid="B5183497">McRae et al. 2017</xref>, <xref ref-type="bibr" rid="B5183442">Collen et al. 2009</xref>). This growing imprecision could impede our ability to confidently interpret both the direction and magnitude of biodiversity change, which has serious implications for monitoring progress towards global biodiversity targets, and for maintaining public engagement in biodiversity issues.</p>
+        <p>Here, we suggest a methodological approach to address this growing uncertainty, in order to improve the reliability of the LPI. We propose a methodology for integrating the covariation between population trends into the computation of the LPI, in order to bolster confidence in related trends and ultimately decrease imprecision. Rather than assuming all population trends are varying in isolation, we explicitly identify covariation between population trends, and weight populations according to this covariation. We then compare the confidence intervals of the reported LPI trend to the trend obtained using our proposed methodology, and consider the potential political, ecological, and communicational implications of this approach on the interpretation of biodiversity metrics.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Living Planet Index</kwd>
+        <kwd>precision</kwd>
+        <kwd>biodiversity change</kwd>
+        <kwd>biodiversity metric</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="11"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Katherine Hébert</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Université de Sherbrooke</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Université de Sherbrooke</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5183422">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Buckland</surname>
+              <given-names>S. T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Newman</surname>
+              <given-names>K. B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thomas</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Koesters</surname>
+              <given-names>N. B.</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>State-space models for the dynamics of wild animal populations</article-title>
+          <source>Ecological Modelling</source>
+          <volume>171</volume>
+          <issue>1-2</issue>
+          <fpage>157</fpage>
+          <lpage>175</lpage>
+          <pub-id pub-id-type="doi">10.1016/J.ECOLMODEL.2003.08.002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183542">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>CBD</surname>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <person-group person-group-type="editor">
+            <name name-style="western">
+              <surname>UNEP</surname>
+            </name>
+          </person-group>
+          <article-title><italic>Indicators </italic>for the Strategic Plan for Biodiversity 2011-2020 and the Aichi Biodiversity Targets</article-title>
+          <source>Convention on Biological Diversity</source>
+          <volume>XIII/28</volume>
+          <conf-loc>Cancun, Mexico</conf-loc>
+          <conf-date>12 December 2016</conf-date>
+        </element-citation>
+      </ref>
+      <ref id="B5183432">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>James S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bjørnstad</surname>
+              <given-names>Ottar N.</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>Population time series: Process variability, observation errors, missing values, lags, and hidden states</article-title>
+          <source>Ecology</source>
+          <volume>85</volume>
+          <issue>11</issue>
+          <fpage>3140</fpage>
+          <lpage>3150</lpage>
+          <pub-id pub-id-type="doi">10.1890/03-0520</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183442">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Collen</surname>
+              <given-names>Ben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Loh</surname>
+              <given-names>Jonathan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Whitmee</surname>
+              <given-names>Sarah</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McRae</surname>
+              <given-names>Louise</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Amin</surname>
+              <given-names>Rajan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baillie</surname>
+              <given-names>Jonathan E. M.</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Monitoring change in vertebrate abundance: the Living Planet Index</article-title>
+          <source>Conservation Biology</source>
+          <volume>23</volume>
+          <issue>2</issue>
+          <fpage>317</fpage>
+          <lpage>327</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1523-1739.2008.01117.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183454">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Dennis</surname>
+              <given-names>Brian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ponciano</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lele</surname>
+              <given-names>SR</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Estimation density dependence, process noise, and observation error</article-title>
+          <source>Ecological Monographs</source>
+          <volume>76</volume>
+          <issue>3</issue>
+          <fpage>323</fpage>
+          <lpage>341</lpage>
+          <pub-id pub-id-type="doi">10.1890/0012-9615(2006)76[323:EDDPNA]2.0.CO;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183464">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Gotelli</surname>
+              <given-names>Nicholas J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Colwell</surname>
+              <given-names>Robert K.</given-names>
+            </name>
+          </person-group>
+          <year>2001</year>
+          <article-title>Quantifying biodiversity: procedures and pitfalls in the measurement and comparison of species richness</article-title>
+          <source>Ecology Letters</source>
+          <volume>4</volume>
+          <issue>4</issue>
+          <fpage>379</fpage>
+          <lpage>391</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1461-0248.2001.00230.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183474">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hui</surname>
+              <given-names>Dafeng</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Biggs</surname>
+              <given-names>Reinette</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scholes</surname>
+              <given-names>Robert J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jackson</surname>
+              <given-names>Robert B.</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Measuring uncertainty in estimates of biodiversity loss: The example of biodiversity intactness variance</article-title>
+          <source>Biological Conservation</source>
+          <volume>141</volume>
+          <issue>4</issue>
+          <fpage>1091</fpage>
+          <lpage>1094</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2008.02.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183484">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Loh</surname>
+              <given-names>Jonathan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Green</surname>
+              <given-names>Rhys E</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ricketts</surname>
+              <given-names>Taylor</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lamoreux</surname>
+              <given-names>John</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jenkins</surname>
+              <given-names>Martin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kapos</surname>
+              <given-names>Valerie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Randers</surname>
+              <given-names>Jorgen</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>The Living Planet Index: Using species population time series to track trends in biodiversity</article-title>
+          <source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+          <volume>360</volume>
+          <issue>1454</issue>
+          <fpage>289</fpage>
+          <lpage>295</lpage>
+          <pub-id pub-id-type="doi">10.1098/rstb.2004.1584</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183497">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>McRae</surname>
+              <given-names>Louise</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deinet</surname>
+              <given-names>Stefanie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Freeman</surname>
+              <given-names>Robin</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>The diversity-weighted living planet index: controlling for taxonomic bias in a global biodiversity indicator</article-title>
+          <source>PloS one</source>
+          <volume>12</volume>
+          <issue>1</issue>
+        </element-citation>
+      </ref>
+      <ref id="B5183507">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pereira</surname>
+              <given-names>Henrique Miguel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ferrier</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Walters</surname>
+              <given-names>M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Geller</surname>
+              <given-names>Gary N</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jongman</surname>
+              <given-names>R H G</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scholes</surname>
+              <given-names>Robert J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bruford</surname>
+              <given-names>Michael William</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brummitt</surname>
+              <given-names>N</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Butchart</surname>
+              <given-names>S H M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cardoso</surname>
+              <given-names>A C</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>Essential biodiversity variables</article-title>
+          <source>Science</source>
+          <volume>339</volume>
+          <issue>6117</issue>
+          <fpage>277</fpage>
+          <lpage>278</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1229931</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5183523">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>WWF</surname>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <source>Living planet report 2018: Aiming higher</source>
+          <publisher-name>World Wildlife Fund.</publisher-name>
+          <isbn>288085265X</isbn>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

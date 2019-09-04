@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35216</article-id>
+      <article-id pub-id-type="publisher-id">35216</article-id>
+      <article-id pub-id-type="manuscript">11440</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Using Crowd-curation to Improve Taxon Annotations on the Wikimedia Infrastructure</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Waagmeester</surname>
+            <given-names>Andra</given-names>
+          </name>
+          <email xlink:type="simple">andra@micelio.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9773-4008</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mietchen</surname>
+            <given-names>Daniel</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9488-1870</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Leachman</surname>
+            <given-names>Siobhan</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5398-7721</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Groom</surname>
+            <given-names>Quentin</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0596-5376</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Micelio, Ekeren (Antwerpen), Belgium</addr-line>
+        <institution>Micelio</institution>
+        <addr-line content-type="city">Ekeren (Antwerpen)</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Virginia, Charlottesville, United States of America</addr-line>
+        <institution>University of Virginia</institution>
+        <addr-line content-type="city">Charlottesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Citizen Scientist, Wellington &amp; Wairarapa, New Zealand</addr-line>
+        <institution>Citizen Scientist</institution>
+        <addr-line content-type="city">Wellington &amp; Wairarapa</addr-line>
+        <country>New Zealand</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Andra Waagmeester (<email xlink:type="simple">andra@micelio.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35216</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F69E0980F2F25C8BAAC56B18B9C97A00">F69E0980F2F25C8BAAC56B18B9C97A00</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Andra Waagmeester, Daniel Mietchen, Siobhan Leachman, Quentin Groom</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Here we present how two independent infrastructures, <ext-link ext-link-type="uri" xlink:href="https://www.wikimedia.org/">Wikimedia </ext-link>and <ext-link ext-link-type="uri" xlink:href="https://www.inaturalist.org/">iNaturalist</ext-link>, can be jointly leveraged to improve content on both platforms. iNaturalist.org began as a Master's final project in 2008 and grew to a globally used app to help identify biodiversity. The community behind iNaturalist consists of citizen scientists, who record a species existence through photos or sound recordings. The Wikimedia Foundation provides a spectrum of resources, of which Wikipedia is the most famous sibling. Other siblings we address here are Wikimedia Commons and Wikidata. Commons is the platform where open licensed media can be shared. Wikidata is the linked knowledge graph, where public data can be stored as structured data. Basically, data goes to Wikidata, images and recordings go to Commons and text goes to Wikipedia. Initially, both Commons and Wikidata served primarily the approximately 300 language versions of Wikipedia. However, nowadays both Commons and Wikidata are also being used as is, that is in other contexts than Wikipedia.</p>
+        <p>Although iNaturalist and the Wikimedia family of repositories thrive as independent infrastructures and are thus maintained independently from each other, they can be mutually beneficial to each other. Content created by the iNaturalist community can be very valuable to the Wikimedia community.</p>
+        <p>Firstly, observations in the form of  photos and sound recordings can be stored on iNaturalist, with an open and compatible license that can provide valuable illustrations and structured knowledge on biodiversity. Wikipedia articles can be enriched with already approximately 1.2M photos from observations. Furthermore, the assertions made by the iNaturalist community can act as references in various Wikidata claims or Wikipedia articles. In many cases in Wikipedia, we have to rely on personal annotations by the picture taker, who stores it on Wikimedia’s multimedia <ext-link ext-link-type="uri" xlink:href="https://commons.wikimedia.org/wiki/Main_Page">Commons</ext-link>. iNaturalist provides images of organisms with stronger - peer-reviewed - assertions on the subject in the picture. When a cat is called a cat in Wikipedia or Commons, it is the iNaturalist community that either approves or rejects that claim.</p>
+        <p>In the opposite direction, iNaturalist relies on knowledge described in Wikipedia. It includes Wikipedia articles about taxa on its website. Images can also be uploaded into iNaturalist from Commons. It is therefore possible to add images of museum specimens into iNaturalist to assist with taxon identification.</p>
+        <p>Other citizen science apps do exist. iNaturalist, however, is particularly interesting due to the feature that it allows its users to select from a selection of licenses, of which some are compatible with the licenses upon which content from the Wikimedia family is available. Wikidata uses a CC0 - public - license for its data, Wikipedia is available under a CC-BY-SA and Commons content uses a selection of Creative Commons licenses (Table <xref ref-type="table" rid="T5184563">1</xref>). iNaturalist is also a particular good fit with Wikimedia, because both have a global and multilingual scope. This is a great example of how platforms can support each other's missions by simple policy decisions, such as open licencing, that underpin interoperability<styled-content style="background-color: rgb(255, 232, 232);">.</styled-content></p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>crowd curation</kwd>
+        <kwd>iNaturalist</kwd>
+        <kwd>Wikidata</kwd>
+        <kwd>Wikimedia</kwd>
+        <kwd>Creative Commons</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="1"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Andra Waagmeester</p>
+      </sec>
+    </notes>
+  </front>
+  <floats-group>
+    <table-wrap id="T5184563" position="float" orientation="portrait">
+      <label>Table 1.</label>
+      <caption>
+        <p>Availability of licenses on the different platforms of Wikimedia resources and iNaturalist.</p>
+      </caption>
+      <table rules="all">
+        <tbody>
+          <tr>
+            <th rowspan="1" colspan="1">Licenses available on iNaturalist</th>
+            <th rowspan="1" colspan="1">Add to iNaturalist</th>
+            <th rowspan="1" colspan="1">Add to Wikidata</th>
+            <th rowspan="1" colspan="1">Add to Commons</th>
+            <th rowspan="1" colspan="1">Add to Wikipedia</th>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 </ext-link>
+            </td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">CC-BY </ext-link>
+            </td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/legalcode">CC-BY-NC </ext-link>
+            </td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA </ext-link>
+            </td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">+</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nd/2.0/">CC-BY-ND </ext-link>
+            </td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA </ext-link>
+            </td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC-BY-NC-ND </ext-link>
+            </td>
+            <td rowspan="1" colspan="1">+</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36319</article-id>
+      <article-id pub-id-type="publisher-id">36319</article-id>
+      <article-id pub-id-type="manuscript">11338</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP35 - Operationalizing Essential Biodiversity Variables: data integration, production and dissemination</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Analyzing Essential Biodiversity Variables with the VAT System</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Beilschmidt</surname>
+            <given-names>Christian</given-names>
+          </name>
+          <email xlink:type="simple">beilschmidt@mathematik.uni-marburg.de</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Drönner</surname>
+            <given-names>Johannes</given-names>
+          </name>
+          <email xlink:type="simple">droenner@mathematik.uni-marburg.de</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Fernández</surname>
+            <given-names>Néstor</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Langer</surname>
+            <given-names>Christian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mattig</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Seeger</surname>
+            <given-names>Bernhard</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Marburg, Marburg, Germany</addr-line>
+        <institution>University of Marburg</institution>
+        <addr-line content-type="city">Marburg</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">German Centre for Integrative Biodiversity Research (iDiv), Halle-Jena-Leipzig, Germany</addr-line>
+        <institution>German Centre for Integrative Biodiversity Research (iDiv)</institution>
+        <addr-line content-type="city">Halle-Jena-Leipzig</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Christian Beilschmidt (<email xlink:type="simple">beilschmidt@mathematik.uni-marburg.de</email>), Johannes Drönner (<email xlink:type="simple">droenner@mathematik.uni-marburg.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36319</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/00CCE68ED3F05368BE6578C45C783D14">00CCE68ED3F05368BE6578C45C783D14</uri>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Christian Beilschmidt, Johannes Drönner, Néstor Fernández, Christian Langer, Michael Mattig, Bernhard Seeger</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Essential Biodiversity Variables (EBVs) are important information sources for scientists and decision makers. They are developed and promoted by the Group on Earth Observations Biodiversity Observation Network (GEO BON) together with the community. EBVs provide an abstraction level between measurements and indicators. This enables access to biodiversity observations and allows different groups of users to detect temporal trends as well as regional deviations. In particular, the analysis of EBVs supports finding countermeasures for current important challenges like biodiversity loss and climate change. A visual assessment is an intuitive way to drive the analysis. As one example, researchers can recognize and interpret the changes of forest cover maps over time.</p>
+        <p>The VAT System, in which VAT is an acronym for visualization, analysis and transformation, is an ideal candidate platform for the creation of such an analytical application. It is a geographical processing system that supports a variety of spatio-temporal data types and allows computations using heterogeneous data. For user interaction, it offers a web-based user interface that is built with state-of-the-art web technology. Users can perform interactive analysis of spatio-temporal data by visualizing data on maps and using various graphs and diagrams that are linked to the user’s area of interest. Furthermore, users are enabled to browse through the temporal dimension of the data using a time slider tool. This provides an easy access to large spatio-temporal data sets.</p>
+        <p>One exemplary use case is the creation of EBV statistics for selected countries or areas. This functionality is provided as an app that is built upon the VAT System. Here, users select EBVs, a time range and a metric, and create temporal charts that display developments over time. The charts are constructed internally by employing R scripts that were created by domain experts. The scripts are executed using VAT’s R connectivity module. Finally, users can export the results to their local computers. An export contains the result itself and additionally, a list of citations of the included EBVs as well as a workflow description of all processing steps for reasons of reproducibility. Such a use case exemplifies the suitability of the VAT System to facilitate the creation of similar projects or applications without the need of programming, using VAT’s modular and flexible components.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Essential Biodiversity Variables</kwd>
+        <kwd>GIS</kwd>
+        <kwd>interactive data exploration</kwd>
+        <kwd>workflow</kwd>
+        <kwd>spatio-temporal processing</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Johannes Drönner</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

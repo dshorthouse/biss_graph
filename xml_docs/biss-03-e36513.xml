@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36513</article-id>
+      <article-id pub-id-type="publisher-id">36513</article-id>
+      <article-id pub-id-type="manuscript">11589</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>SpOccSum: An easy-to-use Python tool to summarize species occurrence data from material examined lists in taxonomic revisions</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Trizna</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0537-8382</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dikow</surname>
+            <given-names>Torsten</given-names>
+          </name>
+          <email xlink:type="simple">dikowt@si.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4816-2909</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Data Science Lab, Office of the Chief Information Officer, Smithsonian Institution, Washington, DC, United States of America</addr-line>
+        <institution>Data Science Lab, Office of the Chief Information Officer, Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington, DC</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Department of Entomology, National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America</addr-line>
+        <institution>Department of Entomology, National Museum of Natural History, Smithsonian Institution</institution>
+        <addr-line content-type="city">Washington, DC</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Torsten Dikow (<email xlink:type="simple">dikowt@si.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36513</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/BC55CC3E7ACD59CB87610A3B53811D6F">BC55CC3E7ACD59CB87610A3B53811D6F</uri>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Taxonomic revisions contain crucial biodiversity data in the material examined sections for each species. In entomology, material examined lists minimally include the collecting locality, date of collection, and the number of specimens of each collection event. Insect species might be represented in taxonomic revisions by only a single specimen or hundreds to thousands of specimens. Furthermore, revisions of insect genera might treat small genera with few species or include tens to hundreds of species. Summarizing data from such large and complex material examined lists and revisions is cumbersome, time-consuming, and prone to errors. However, providing data on the seasonal incidence, abundance, and collecting period of species is an important way to mobilize primary biodiversity data to understand a species’s occurrence or rarity. Here, we present SpOccSum (Species Occurrence Summary)—a tool to easily obtain metrics of seasonal incidence from specimen occurrence data in taxonomic revisions. SpOccSum is written in Python (<xref ref-type="bibr" rid="B5216323">Python Software Foundation 2019</xref>) and accessible through the Anaconda Python/R Data Science Platform as a Jupyter Notebook (<xref ref-type="bibr" rid="B5216299">Kluyver et al. 2016</xref>). The tool takes a simple list of specimen data containing species name, locality, date of collection (preferably separated by day, month, and year), and number of specimens in CSV format and generates a series of tables and graphs summarizing:</p>
+        <p>
+          <list list-type="order"><list-item><p>number of specimens per species,</p></list-item><list-item><p>number of specimens collected per month,</p></list-item><list-item><p>number of unique collection events, as well as</p></list-item><list-item><p>earliest, and</p></list-item><list-item><p>most recent collecting year of each species.</p></list-item></list>
+        </p>
+        <p>The results can be exported as graphics or as csv-formatted tables and can easily be included in manuscripts for publication. An example of an early version of the summary produced by SpOccSum can be viewed in Tables <xref ref-type="table" rid="T5216143">1</xref>, <xref ref-type="table" rid="T5216170">2</xref> from <xref ref-type="bibr" rid="B5216221">Markee and Dikow (2018)</xref>. To accommodate seasonality in the Northern and Southern Hemispheres, users can choose to start the data display with either January or July. When geographic coordinates are available and species have widespread distributions spanning, for example, the equator, the user can itemize particular regions such as North of Tropic of Cancer (23.5˚N), Tropic of Cancer to the Equator, Equator to Tropic of Capricorn, and South of Tropic of Capricorn (23.5˚S). Other features currently in development include the ability to produce distribution maps from the provided data (when geographic coordinates are included) and the option to export specimen occurrence data as a Darwin-Core Archive ready for upload to the Global Biodiversity Information Facility (GBIF).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity data</kwd>
+        <kwd>species occurrence</kwd>
+        <kwd>seasonal incidence</kwd>
+        <kwd>Python</kwd>
+        <kwd>Jupyter Notebook</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="2"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mike Trizna and Torsten Dikow</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5216299">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kluyver</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ragan-Kelley</surname>
+              <given-names>Benjamin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pérez</surname>
+              <given-names>Fernando</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Granger</surname>
+              <given-names>Brian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bussonnier</surname>
+              <given-names>Matthias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Frederic</surname>
+              <given-names>Jonathan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kelley</surname>
+              <given-names>Kyle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hamrick</surname>
+              <given-names>Jessica</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grout</surname>
+              <given-names>Jason</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Corlay</surname>
+              <given-names>Sylvain</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ivanov</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Avila</surname>
+              <given-names>Damian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Abdalla</surname>
+              <given-names>Safia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willing</surname>
+              <given-names>Carol</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <chapter-title>Jupyter Notebooks -- a publishing format for reproducible computational workflows</chapter-title>
+          <person-group person-group-type="editor">
+            <name name-style="western">
+              <surname>Loizides</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schmidt</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <source>Positioning and Power in Academic Publishing: Players, Agents and Agendas</source>
+          <publisher-name>IOS Press BV</publisher-name>
+          <publisher-loc>Amsterdam</publisher-loc>
+          <size units="page">87-90</size>
+          <uri>http://orca.cf.ac.uk/id/eprint/108581</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5216221">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Markee</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dikow</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Taxonomic revision of the assassin-fly genus Microphontes Londt, 1994 (Insecta, Diptera, Asilidae)</article-title>
+          <source>African Invertebrates</source>
+          <volume>59</volume>
+          <issue>2</issue>
+          <fpage>195</fpage>
+          <lpage>237</lpage>
+          <pub-id pub-id-type="doi">10.3897/AfrInvertebr.59.30684</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216323">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Foundation</surname>
+              <given-names>Python Software</given-names>
+            </name>
+          </person-group>
+          <article-title>Python Language Reference, version 3.7</article-title>
+          <uri>https://www.python.org/</uri>
+          <date-in-citation content-type="access-date">2019-04-21T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <table-wrap id="T5216143" position="float" orientation="portrait">
+      <label>Table 1.</label>
+      <caption>
+        <p>Collection event summary for <italic>Microphontes </italic>species (Insecta: Diptera: Asilidae) from <xref ref-type="bibr" rid="B5216221">Markee and Dikow (2018)</xref>.</p>
+      </caption>
+      <table rules="all" border="1" cellpadding="1" cellspacing="1">
+        <tbody>
+          <tr>
+            <th rowspan="1" colspan="1">Species</th>
+            <th rowspan="1" colspan="1"># Specimens</th>
+            <th rowspan="1" colspan="1"># Collection events</th>
+            <th rowspan="1" colspan="1">Earliest collection</th>
+            <th rowspan="1" colspan="1">Most recent collection</th>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. ericfisheri</italic>
+            </td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">2015</td>
+            <td rowspan="1" colspan="1">2015</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. gaiophanes</italic>
+            </td>
+            <td rowspan="1" colspan="1">17</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">2017</td>
+            <td rowspan="1" colspan="1">2017</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. jasonlondti</italic>
+            </td>
+            <td rowspan="1" colspan="1">4</td>
+            <td rowspan="1" colspan="1">3</td>
+            <td rowspan="1" colspan="1">1986</td>
+            <td rowspan="1" colspan="1">1998</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. kryphios</italic>
+            </td>
+            <td rowspan="1" colspan="1">4</td>
+            <td rowspan="1" colspan="1">2</td>
+            <td rowspan="1" colspan="1">1990</td>
+            <td rowspan="1" colspan="1">2002</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. megoura</italic>
+            </td>
+            <td rowspan="1" colspan="1">9</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">1936</td>
+            <td rowspan="1" colspan="1">1936</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. safra</italic>
+            </td>
+            <td rowspan="1" colspan="1">5</td>
+            <td rowspan="1" colspan="1">3</td>
+            <td rowspan="1" colspan="1">1974</td>
+            <td rowspan="1" colspan="1">2012</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. whittingtoni</italic>
+            </td>
+            <td rowspan="1" colspan="1">3</td>
+            <td rowspan="1" colspan="1">2</td>
+            <td rowspan="1" colspan="1">1990</td>
+            <td rowspan="1" colspan="1">2008</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"><italic>Microphontes </italic>sp.</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">1999</td>
+            <td rowspan="1" colspan="1">1999</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">summary</td>
+            <td rowspan="1" colspan="1">44</td>
+            <td rowspan="1" colspan="1">14</td>
+            <td rowspan="1" colspan="1">1936</td>
+            <td rowspan="1" colspan="1">2017</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap id="T5216170" position="float" orientation="portrait">
+      <label>Table 2.</label>
+      <caption>
+        <p>Seasonal incidence of <italic>Microphontes </italic>species (Insecta: Diptera: Asilidae) through number of specimens collected and unique collection events in each month (data given as # specimens/# collecting events when more than one specimen has been collected). Months abbreviated starting with July. From <xref ref-type="bibr" rid="B5216221">Markee and Dikow (2018)</xref>.</p>
+      </caption>
+      <table rules="all" border="1" cellpadding="1" cellspacing="1" style="width:600px">
+        <tbody>
+          <tr>
+            <th rowspan="1" colspan="1">Species</th>
+            <th rowspan="1" colspan="1">Jul</th>
+            <th rowspan="1" colspan="1">Aug</th>
+            <th rowspan="1" colspan="1">Sep</th>
+            <th rowspan="1" colspan="1">Oct</th>
+            <th rowspan="1" colspan="1">Nov</th>
+            <th rowspan="1" colspan="1">Dec</th>
+            <th rowspan="1" colspan="1">Jan</th>
+            <th rowspan="1" colspan="1">Feb</th>
+            <th rowspan="1" colspan="1">Mar</th>
+            <th rowspan="1" colspan="1">Apr</th>
+            <th rowspan="1" colspan="1">May</th>
+            <th rowspan="1" colspan="1">Jun</th>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. ericfisheri</italic>
+            </td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. gaiophanes</italic>
+            </td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">17/1</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. jasonlondti</italic>
+            </td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">4/3</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. kryphios</italic>
+            </td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">4/2</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. megoura</italic>
+            </td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">9/1</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. safra</italic>
+            </td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">5/3</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">
+              <italic>M. whittingtoni</italic>
+            </td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">3/2</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1"><italic>Microphontes </italic>sp.</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">total</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">17/1</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">21/9</td>
+            <td rowspan="1" colspan="1">1</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">5/3</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+            <td rowspan="1" colspan="1">-</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>

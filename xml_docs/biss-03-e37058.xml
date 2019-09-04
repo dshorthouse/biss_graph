@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37058</article-id>
+      <article-id pub-id-type="publisher-id">37058</article-id>
+      <article-id pub-id-type="manuscript">11207</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>FuTRES: Functional Trait Resource for Environmental Studies</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Balk</surname>
+            <given-names>Meghan A.</given-names>
+          </name>
+          <email xlink:type="simple">meghan.balk@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2699-3066</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Walls</surname>
+            <given-names>Ramona L.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8815-0078</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Guralnick</surname>
+            <given-names>Robert P.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Davis</surname>
+            <given-names>Edward B.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0918-5852</uri>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Deck</surname>
+            <given-names>John</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Emery</surname>
+            <given-names>Kitty F.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bernor</surname>
+            <given-names>Raymond L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Brenskelle</surname>
+            <given-names>Laura M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Boileau</surname>
+            <given-names>Arianne</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8967-6215</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Bio5 Institute, Tucson, United States of America</addr-line>
+        <institution>Bio5 Institute</institution>
+        <addr-line content-type="city">Tucson</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Arizona, Tucson, United States of America</addr-line>
+        <institution>University of Arizona</institution>
+        <addr-line content-type="city">Tucson</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">CyVerse, Tucson, United States of America</addr-line>
+        <institution>CyVerse</institution>
+        <addr-line content-type="city">Tucson</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Vertnet, Florida, United States of America</addr-line>
+        <institution>Vertnet</institution>
+        <addr-line content-type="city">Florida</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">University of Florida, Gainesville, United States of America</addr-line>
+        <institution>University of Florida</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">University of Oregon, Eugene, United States of America</addr-line>
+        <institution>University of Oregon</institution>
+        <addr-line content-type="city">Eugene</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Biocode LLC, Portland, United States of America</addr-line>
+        <institution>Biocode LLC</institution>
+        <addr-line content-type="city">Portland</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">University of California at Berkeley, Berkeley, United States of America</addr-line>
+        <institution>University of California at Berkeley</institution>
+        <addr-line content-type="city">Berkeley</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim">Howard University, Washington, DC, United States of America</addr-line>
+        <institution>Howard University</institution>
+        <addr-line content-type="city">Washington, DC</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, Gainesville, United States of America</addr-line>
+        <institution>Florida Museum of Natural History</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Meghan A. Balk (<email xlink:type="simple">meghan.balk@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37058</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B17D0C256A1D59BF8589C4964AA0ADB8">B17D0C256A1D59BF8589C4964AA0ADB8</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Meghan A. Balk, Ramona L. Walls, Robert P. Guralnick, Edward B. Davis, John Deck, Kitty F. Emery, Raymond L. Bernor, Laura M. Brenskelle, Arianne Boileau</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Functional traits are the features of organisms that directly interact with the environment. Studying change and variation in these traits across space, time, and taxonomy can inform how species have responded to environmental and climatic change, how communities are assembled, and other eco-evolutionary questions. Trait data are collected at the individual level; however, animal trait databases often report these data at the species level, undermining their value for researchers who want to look at variation within species and rendering trait data ambiguous when taxonomy is updated. Additionally, these data are often recorded in auxiliary fields, such as “field notes” or hidden in supplementary materials or published tables, making them difficult to recover by researchers. Furthermore, animal trait data from paleontological, zooarchaeological (from archaeological sites), and neontological specimens are typically curated in separate forums and formats that are not easily integrated to provide perspective across the entire range of time. We are developing a toolkit to overcome these challenges called FuTRES: Functional Trait Resource for Environmental Studies. We seek to make these data accessible, standardize trait descriptions across Vertebrata, and teach (future) scientists how to create FAIR (findable, accessible, interoperable, and reusable) trait datasets. To make data more FAIR, FuTRES employs ontologies, a logical framework for relating terms to search datasets and standardizing traits across datasets. FuTRES builds off existing ontologies and standards, such as <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/ols/ontologies/uberon">UBERON</ext-link> for anatomical terms and <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/ols/ontologies/pato">PATO</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/ols/ontologies/oba">OBA</ext-link> for trait terms, as well as create new terms that are general enough to be used for all vertebrates and multiple disciplines. This talk will showcase the semantic framework underpinning FuTRES, describe how we are linking diverse trait datasets to ontologies and, therefore, each other, and report the results of a preliminary analysis of integrated datasets.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>specimen</kwd>
+        <kwd>variation</kwd>
+        <kwd>ontology</kwd>
+        <kwd>trait</kwd>
+        <kwd>neoecology</kwd>
+        <kwd>paleoecology</kwd>
+        <kwd>zooarchaeology</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Meghan A. Balk</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37689</article-id>
+      <article-id pub-id-type="publisher-id">37689</article-id>
+      <article-id pub-id-type="manuscript">11738</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP79 - Agrobiodiversity in the era of open government, FAIR data, and public access policy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Slow Science for a Sustainable Agriculture</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Lybaert</surname>
+            <given-names>Anissa</given-names>
+          </name>
+          <email xlink:type="simple">anissa.lybaert@canada.ca</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Macklin</surname>
+            <given-names>James A</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9508-1349</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Agriculture and Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture and Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Anissa Lybaert (<email xlink:type="simple">anissa.lybaert@canada.ca</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37689</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/CB4B5BA87A55548EB1E179C40C1A5CE0">CB4B5BA87A55548EB1E179C40C1A5CE0</uri>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>“Data is the lifeblood of decision-making and the raw material for accountability.” (Food and Agricultural Organisation of the United Nations)</p>
+        <p>Agriculture depends on living organisms: the resources that we grow and harvest (crops, livestock), the many naturally-occurring organisms that support agro-ecosystem services and those that are considered pests. Biodiversity represents the pool of resources upon which production systems are based. This ecosystem-based understanding of agriculture is fast replacing the simplistic input-output paradigm that was once prevalent. Reflecting this trend, the Food and Agricultural Organisation of the United Nations created a Department of Climate, Biodiversity, Land and Water in 2016. This shift is also perceived in trends in research supporting agriculture, where research towards fast fixes (eg. genetic engineering) for food security and production sustainability, is steadily losing ground to more systemic approaches and “Slow Science”. This includes information derived from observation-based, long-term, multi-location data gathering from, for example, newly-termed Living Laboratories or Genomic Observatories. These activities generate a diverse set of data types complemented with extensive physical-chemical and climate data to enable more comprehensive and scientifically defensible assessments of biodiversity for policy and regulatory decision-making. However, the data associated with these entities can be very large, raising several challenges. First, a robust IT infrastructure must exist and persist to both store the data and to facilitate analysis often associated with high-performance computing. Next, this infrastructure must be supported by a data management policy, which responsibly dictates what data is preserved and for what time period as most institutions must be cognisant of their limited IT resources. The data, where not sensitive, must typically be openly shared to allow for use in other projects from local to global scale. This sharing relies on global data standards managed by a multitude of standard bodies and spread across a diverse set of data types. However, this new paradigm, especially with the constant advent of new technologies such as those implemented in genomic observatories and precision agriculture, has challenged standards bodies to keep up. Another challenge lies in the analysis and management of this big data, which relies on a new set of skills not traditionally found in agricultural science including data scientists and data curators. Finally, a major challenge to this “Slow Science” approach are the research funding models themselves that are not highly supportive of long-term, and often non-hypothesis-driven research. We will discuss these challenges and provide some examples of progress being made to embrace this new “Slow Science” agricultural paradigm.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>agriculture</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>data</kwd>
+        <kwd>ecosystem</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Anissa Lybaert</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

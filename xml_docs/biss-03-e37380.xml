@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37380</article-id>
+      <article-id pub-id-type="publisher-id">37380</article-id>
+      <article-id pub-id-type="manuscript">11390</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST92 - Advancing the Quality of Diverse Citizen Science Data from Observations to Atlasing Projects</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>How Citizen Science is Reinforcing the Forming of a Bottom-Up National Biodiversity Open Data Culture: Our progress on an island in the Western Pacific region - Taiwan</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ko</surname>
+            <given-names>Jerome Chie-Jen</given-names>
+          </name>
+          <email xlink:type="simple">jeromeko.tw@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8343-604X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chang</surname>
+            <given-names>Huiling</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chang</surname>
+            <given-names>Yihong</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kuo</surname>
+            <given-names>Tzu-Chien</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Yu</surname>
+            <given-names>You-Cheng</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kuo</surname>
+            <given-names>Kuei-Lan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lin</surname>
+            <given-names>Te-En</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lin</surname>
+            <given-names>Ruey-Shing</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Endemic Species Research Institute, Nantou, Taiwan</addr-line>
+        <institution>Endemic Species Research Institute</institution>
+        <addr-line content-type="city">Nantou</addr-line>
+        <country>Taiwan</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">National Taiwan University, Taipei, Taiwan</addr-line>
+        <institution>National Taiwan University</institution>
+        <addr-line content-type="city">Taipei</addr-line>
+        <country>Taiwan</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Word Gleaner Ltd., New Taipei, Taiwan</addr-line>
+        <institution>Word Gleaner Ltd.</institution>
+        <addr-line content-type="city">New Taipei</addr-line>
+        <country>Taiwan</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jerome Chie-Jen Ko (<email xlink:type="simple">jeromeko.tw@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37380</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0E5E8A2F3CD05F3985A526EF2AAE4629">0E5E8A2F3CD05F3985A526EF2AAE4629</uri>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jerome Chie-Jen Ko, Huiling Chang, Yihong Chang, Tzu-Chien Kuo, You-Cheng Yu, Kuei-Lan Kuo, Te-En Lin, Ruey-Shing Lin</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The importance of a data exchanging culture accompanied by a supporting bioinformatic system is widely praised as an aid to sustainable development. Yet this is not always implemented as a top-down procedure in every governing environment. Common obstacles include lack of resources, lack of support from decision-makers, and lack of recognition from data-providers. Using citizen science (hereafter CS), which assumes a spirit of public information sharing, we demonstrate how CS can be a critical tool to help database managers overcome this difficulty.</p>
+        <p>CS data contributes to impressively over 70% of the currently 4.5 million openly distributed occurrence data in Taiwan. Although CS projects emerged much earlier in a few taxa, such as Aves and Anura, CS was unknown to the wider public and politicians in the region until 2009. This was probably due to the combination of the popularity of social media and improvements to wifi connections, which brought discoveries and impacts of CS data to the news spotlight. Such cases include roadkill projects that aided rabies-outbreak control, and amateur bird records that helped downscale the conflict between solar energy deployment and migratory wetland bird conservation. These cases also created feedback on the call for more data to be open, an effect that was prominent from project managers in other CS communities, the previously reluctant expert researcher communities, and even placed pressure on data policy of several conservation agencies which previously were not supportive of open data.</p>
+        <p>The inclusion of CS programs is also critical in forming alliances between agencies that were responsible for promoting and building the biodiversity informatics system. Previously, financial and human resources for such systems are split across agencies. However, in terms of building up a cutting edge biodiversity information service platform, or empowerment of human resources to handle the rapidly growing amount of data, joint partnerships across government agencies is then necessary. CS brings the spotlight of government efforts to the people, which is an important strategy to maintain support from top decision-makers and politicians, who mostly rely on public votes in a democratic society. Currently, the national node of the Global Biodiversity Information Facility in Taiwan, the administration for conservation in Taiwan, and the main biodiversity consultancy in Taiwan have teamed up, answering the call for sharing data for a better future.</p>
+        <p>As a tribute to the CS projects, a biodiversity informatics system named <ext-link ext-link-type="uri" xlink:href="https://www.tbn.org.tw/">Taiwan Biodiversity Network</ext-link>, is now enhancing its ability as a platform to promote data usage and provide technical aid to CS programs. Data visualization projects such as “<ext-link ext-link-type="uri" xlink:href="https://www.tbn.org.tw/topic/coldspot">Coldspots</ext-link>” pointed out regions that lack data, which can be used to decide where to focus efforts for the next field surveys. Online CS data platforms, such as <ext-link ext-link-type="uri" xlink:href="https://reptile.tbn.org.tw/">Taiwan Reptile Report Program</ext-link>, are also working to ease the previously intensive efforts that project managers needed to contribute to run event-based monitoring. Combined, these developments form a cultural and technical basis for the implementation of multi-taxa atlas projects, which was made possible by the mainstreaming of open data culture and biodiversity awareness through citizen science projects.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>volunteers</kwd>
+        <kwd>biodiversity network</kwd>
+        <kwd>participatory GIS</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jerome Chie-Jen Ko</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

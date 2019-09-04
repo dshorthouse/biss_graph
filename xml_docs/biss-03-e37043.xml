@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37043</article-id>
+      <article-id pub-id-type="publisher-id">37043</article-id>
+      <article-id pub-id-type="manuscript">11528</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Otobur in Action: Processing of various biodiversity data for botanical gardens; flowering calendar, herbarium digitization, propagation trials and scientific plant names</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Aydınkal</surname>
+            <given-names>Rasim Murat</given-names>
+          </name>
+          <email xlink:type="simple">a.rasimmurat@ngbb.org.tr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1580-9892</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kanoğlu</surname>
+            <given-names>Salih Sercan</given-names>
+          </name>
+          <email xlink:type="simple">salih@ngbb.org.tr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5526-5549</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Nezahat Gökyiğit Botanik Bahçesi, İstanbul, Turkey</addr-line>
+        <institution>Nezahat Gökyiğit Botanik Bahçesi</institution>
+        <addr-line content-type="city">İstanbul</addr-line>
+        <country>Turkey</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Rasim Murat Aydınkal (<email xlink:type="simple">a.rasimmurat@ngbb.org.tr</email>), Salih Sercan Kanoğlu (<email xlink:type="simple">salih@ngbb.org.tr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37043</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/8D192BF46A7152D7B9CF3F7FB32C4F18">8D192BF46A7152D7B9CF3F7FB32C4F18</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Rasim Murat Aydınkal, Salih Sercan Kanoğlu</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Over the past decade, great improvements have occurred in the field of biodiversity information technology. Data types such as geographic and phenological (e.g., blooming) characteristics of different specimens, which are used for the analysis of environmental issues, are steadily increasing on a large scale. Most herbaria and botanic gardens are involved in the digital compilations of such kinds of data to be able to transform them into meaningful results that can be used to tackle environmental problems (<xref ref-type="bibr" rid="B5196860">Leadlay and Greene 1998</xref>). These are usually in the form of high resolution images, along with tables displaying additional information about specimens, which are accessible over the internet.</p>
+        <p>This study, will describe how we made an annual estimate of phenological data, constructing a flowering calendar of plants (Fig. <xref ref-type="fig" rid="F5196883">1</xref>) in the Nezahat Gökyiğit Botanik Bahçesi (NGBB), using Otobur (<xref ref-type="bibr" rid="B5196869">Loizeau et al. 2018</xref>). Otobur is a data management system developed under NGBB in Istanbul, which is accessible at <ext-link ext-link-type="uri" xlink:href="https://www.otobur.org.tr">https://www.otobur.org.tr</ext-link>. In addition to this, we also analyze our recorded data on the ongoing propagation effort of seedlings, in order to analyze and compare their prior germination success and mortality ratios (Fig. <xref ref-type="fig" rid="F5196887">2</xref>). This enables us to improve our procedures, and to find the most suitable techniques to apply in the most accurate propagation trials.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Otobur</kwd>
+        <kwd>botanic garden</kwd>
+        <kwd>data management</kwd>
+        <kwd>phenology</kwd>
+        <kwd>propagation</kwd>
+        <kwd>specimen data</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="2"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Rasim Murat Aydınkal</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Conflicts of interest">
+        <title>Conflicts of interest</title>
+        <p>There is no conflict of interest.</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Conflicts of interest">
+      <title>Conflicts of interest</title>
+      <p>There is no conflict of interest.</p>
+    </sec>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>S.S. Kanoglu conceived the idea of Otobur; R.M. Aydinkal designed the interface, implemented the application, constructed the database; S.S. Kanoglu supervised the Otobur project and wrote the abstract.</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5196860">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Leadlay</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Greene</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>1998</year>
+          <source>The Darwin technical manual for botanic gardens</source>
+          <publisher-name>Botanic Gardens Conservation International</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <isbn>0952027569</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5196869">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Loizeau</surname>
+              <given-names>Pierre-André</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>Michelle J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Maeder</surname>
+              <given-names>Anouchka</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sharrock</surname>
+              <given-names>Suzanne</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>6Th Global Botanic Gardens Congress - 6E Congrès Mondial Des Jardins Botaniques - Abstracts - Résumés</article-title>
+          <source>Zenodo</source>
+          <fpage>40</fpage>
+          <pub-id pub-id-type="doi">10.5281/ZENODO.1162801</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5196883" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Display of the flowering calendar of Otobur.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37043-g001.png" position="float" id="oo_293058.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <fig id="F5196887" position="float" orientation="portrait">
+      <label>Figure 2.</label>
+      <caption>
+        <p>Propagation approach comparison screen.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37043-g002.png" position="float" id="oo_293060.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

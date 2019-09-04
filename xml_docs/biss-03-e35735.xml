@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35735</article-id>
+      <article-id pub-id-type="publisher-id">35735</article-id>
+      <article-id pub-id-type="manuscript">11682</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PT - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Norwegian Taxonomy Initiative &amp; Biodiversity Infrastructure</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Skarp</surname>
+            <given-names>Liselott Sjodin</given-names>
+          </name>
+          <email xlink:type="simple">liselott.sjodin.skarp@slu.se</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Päivikki Kallioniemi</surname>
+            <given-names>Eveliina</given-names>
+          </name>
+          <email xlink:type="simple">eveliina.p.kallioniemi@artsdatabanken.no</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3112-6549</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ertshus Mathisen</surname>
+            <given-names>Ingrid</given-names>
+          </name>
+          <email xlink:type="simple">ingrid.mathisen@artsdatabanken.no</email>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Swedish Species Information Centre (ArtDatabanken, SSIC), Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden</addr-line>
+        <institution>Swedish Species Information Centre (ArtDatabanken, SSIC), Swedish University of Agricultural Sciences (SLU)</institution>
+        <addr-line content-type="city">Uppsala</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Norwegian Biodiversity Information Centre (Artsdatabanken), Trondheim, Norway</addr-line>
+        <institution>Norwegian Biodiversity Information Centre (Artsdatabanken)</institution>
+        <addr-line content-type="city">Trondheim</addr-line>
+        <country>Norway</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Liselott Sjodin Skarp (<email xlink:type="simple">liselott.sjodin.skarp@slu.se</email>), Eveliina Päivikki Kallioniemi (<email xlink:type="simple">eveliina.p.kallioniemi@artsdatabanken.no</email>), Ingrid Ertshus Mathisen (<email xlink:type="simple">ingrid.mathisen@artsdatabanken.no</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35735</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/557C4FA9735855CDB29685AC2C4E8E52">557C4FA9735855CDB29685AC2C4E8E52</uri>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Liselott Sjodin Skarp, Eveliina Päivikki Kallioniemi, Ingrid Ertshus Mathisen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Norwegian Biodiversity Information centre (NBIC) shares information about Norwegian species, habitats and ecosystems. One of the key tasks is to maintain an updated taxonomical and nomenclatural backbone “Norwegian Taxonomic backbone” (Artsnavnebase) for species. Launched in 2009, the backbone contains more than 185 000 scientific names, as well as 45 000 names in Norwegian (two languages) and Northern Sami. “Norwegian Taxonomic backbone” delivers names and taxonomic information to scientific institutions and museums across the country and is used for both management and research purposes as well as by general public. Additionally, the database has contributed more than 33500 names to the construction of the <italic>Global Biodiversity Information Facility (GBIF) taxonomy.</italic> </p>
+        <p>Another major task is the Norwegian Taxonomy Initiative (NTI) which was established in 2009 with the goal of improving knowledge about Norwegian biodiversity with special emphasis on poorly known species. In addition, the surveys provide information about distributions of species in Norway and their habitat requirements. NTI collaborates with Norwegian Barcode of Life (NorBOL) and contributes into building up a comprehensive library of standardized DNA sequences (DNA barcodes) and supports research school in biosystematics (ForBio). Swedish and Norwegian taxonomy initiatives work cooperatively to increase the collective knowledge on poorly known species, and as a result, more than 3 000 species new to the country in both Sweden and Norway has been found, of which about a third being new to science.</p>
+        <p>NBIC is in a process of developing and collating a trait database “Trait bank” (Egenskapsbank) for Norwegian species and habitats. Trait bank will describe and combine information about species traits on morphology, physiology and ecology etc. The aim is to also store information about Norwegian habitat types described based on Nature in Norway -system and establish the connections between habitats and species using them. Species trait data relevant for Norwegian species will be extracted from existing databases and other data sources. The first information from this work will be made available through 2020 and is going to be useful for research, conservation and area planning.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Taxonomy</kwd>
+        <kwd>biodiversity infrastructure</kwd>
+        <kwd>species information</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Eveliina Päivikki Kallioniemi</p>
+      </sec>
+    </notes>
+  </front>
+</article>

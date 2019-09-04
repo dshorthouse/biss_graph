@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38286</article-id>
+      <article-id pub-id-type="publisher-id">38286</article-id>
+      <article-id pub-id-type="manuscript">11652</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP79 - Agrobiodiversity in the era of open government, FAIR data, and public access policy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mesoamerica’s Crop Wild Relatives: A new approach for conservation planning</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Tobón</surname>
+            <given-names>Wolke</given-names>
+          </name>
+          <email xlink:type="simple">wolke.tobon@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9067-8936</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Urquiza-Haas</surname>
+            <given-names>Tania</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mastretta Yanes</surname>
+            <given-names>Alicia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Cuervo Robayo</surname>
+            <given-names>Angela P</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Orjuela Restrepo</surname>
+            <given-names>María A</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Urquiza-Haas</surname>
+            <given-names>Esmeralda</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Alarcón</surname>
+            <given-names>Jesús</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Oliveros</surname>
+            <given-names>Oswaldo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Acevedo</surname>
+            <given-names>Francisca</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Goettsch</surname>
+            <given-names>Bárbara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koleff Osorio</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), Mexico City, Mexico</addr-line>
+        <institution>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</institution>
+        <addr-line content-type="city">Mexico City</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">-, Mexico City, Mexico</addr-line>
+        <institution>-</institution>
+        <addr-line content-type="city">Mexico City</addr-line>
+        <country>Mexico</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim"> International Union for Conservation of Nature (IUCN), Cambridge, United Kingdom</addr-line>
+        <institution> International Union for Conservation of Nature (IUCN)</institution>
+        <addr-line content-type="city">Cambridge</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Wolke Tobón (<email xlink:type="simple">wolke.tobon@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38286</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5BCF01F3227655C3816E07EE10DEEC80">5BCF01F3227655C3816E07EE10DEEC80</uri>
+      <history>
+        <date date-type="received">
+          <day>16</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Wolke Tobón, Tania Urquiza-Haas, Alicia Mastretta Yanes, Angela P Cuervo Robayo, María A Orjuela Restrepo, Esmeralda Urquiza-Haas, Jesús Alarcón, Oswaldo Oliveros, Francisca Acevedo, Bárbara Goettsch, Patricia Koleff Osorio</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Crop wild relatives (CWR) are wild plants that are the ancestors of important crops for human well-being. CWR hold genetic diversity that can be vital for plant breeding programs and the sustainability of agriculture, particularly given global change. Conservation of CWR genetic diversity thus has become a global food security issue, and several countries are actively developing conservation strategies including the generation of a national checklist and inventory of CWR, the assessment of current threat status, the identification of knowledge and conservation, and the establishment of genetic reserves. In this context, Mexico, Guatemala, and El Salvador, in collaboration with experts abroad (University of Birmingham, UK, and IUCN), are working together in a project to contribute towards safeguarding Mesoamerican CWR (<ext-link ext-link-type="uri" xlink:href="http://www.psmesoamerica.org/en/">http://www.psmesoamerica.org/en/</ext-link>).</p>
+        <p>One important step is to identify CWR conservation area networks framed within the systematic conservation planning approach. However, genetic diversity is generally not addressed during the planning process. As it is unfeasible to sample and perform genetic analyses of hundreds of species due to limited timeframes and conservation budgets, we propose a novel approach to overcome the lack of genetic data. We used two criteria to develop proxies for genetic diversity (PGD):</p>
+        <p>
+          <list list-type="order"><list-item><p>environmental variability, as given by climate, soil and topographic spatially-defined variables; and</p></list-item><list-item><p>historic differentiation, as shown by phylogeographic patterns found in other species of the same habitat and region.</p></list-item></list>
+        </p>
+        <p>We tested our approach by using genomic data from an empirical study of maize wild relatives distributed in Mexico. By combining species distribution models of 120 Mesoamerican CWR taxa and 102 PGD, we delimited areas of potential population differentiation. Furthermore, we considered each taxon's IUCN Red List category and habitat preference, assessed by experts during the project, to determine areas for CWR conservation in Mexico, using the Zonation conservation planning tool.</p>
+        <p>Areas identified as important for CWR <italic>in situ</italic> conservation are located within sites of high cultural diversity and in areas where agriculture originated and traditional agriculture is ongoing. Also, our study design maximizes the representation of CWR throughout its distribution, thus highlighting the need for comprehensive analysis to encompass the genetic variability of taxa. The results of this work represent a first national and regional guide to promote CWR <italic>in situ </italic>conservation and sustainable management that contributes towards achievement of the CBD Global Strategy for Plant Conservation, Sustainable Development Goals and Aichi Targets.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>agrobiodiversity</kwd>
+        <kwd>proxies of genetic diversity</kwd>
+        <kwd>systematic conservation planning</kwd>
+        <kwd>Mexico</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Darwin Initiative, project number 23-007</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Patricia Koleff Osorio</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p><ext-link ext-link-type="uri" xlink:href="http://www.darwininitiative.org.uk/">Darwin Initiative</ext-link> </p>
+        <p>Project number: 23-007</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p><ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/conabio">Conabio</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.iucn.org/">IUCN</ext-link></p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p><ext-link ext-link-type="uri" xlink:href="http://www.darwininitiative.org.uk/">Darwin Initiative</ext-link> </p>
+      <p>Project number: 23-007</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p><ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/conabio">Conabio</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.iucn.org/">IUCN</ext-link></p>
+    </sec>
+  </back>
+</article>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37285</article-id>
+      <article-id pub-id-type="publisher-id">37285</article-id>
+      <article-id pub-id-type="manuscript">11499</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Registration of Algal Novelties in Phycobank: Serving the scientific community and filling gaps in the global names backbone</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kusber</surname>
+            <given-names>Wolf-Henning</given-names>
+          </name>
+          <email xlink:type="simple">w.h.kusber@bgbm.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kohlbecker</surname>
+            <given-names>Andreas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mohamad</surname>
+            <given-names>Heba</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Güntsch</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4325-4030</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Berendsohn</surname>
+            <given-names>Walter G.</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9945-7606</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Jahn</surname>
+            <given-names>Regine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Freie Universität Berlin, Botanic Garden and Botanical Museum, Berlin, Germany</addr-line>
+        <institution>Freie Universität Berlin, Botanic Garden and Botanical Museum</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Wolf-Henning Kusber (<email xlink:type="simple">w.h.kusber@bgbm.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37285</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/6802E1CD06965FC08E34AA8496F07B08">6802E1CD06965FC08E34AA8496F07B08</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Wolf-Henning Kusber, Andreas Kohlbecker, Heba Mohamad, Anton Güntsch, Walter G. Berendsohn, Regine Jahn</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The International Code of Nomenclature (ICN) for algae, fungi, and plants provides for nomenclatural indexing through nomenclatural repositories (<xref ref-type="bibr" rid="B5186693">Turland et al. 2018</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.iapt-taxon.org/nomen/pages/main/art_42.html">Art. 42</ext-link>). Registering nomenclatural novelties and nomenclatural acts means that repositories will keep track of names (species names and names at all ranks, replacement names, names proposed for conservation or rejection, validated names) and of nomenclatural types, including lectotypes and epitypes.</p>
+        <p>Thus, PhycoBank has been advocated by different players such as the International Society for Diatom Research (ISDR), the Global Biodiversity Information Facility (GBIF), and the Special Committee on Registration of Algal and Plant Names (including fossils). Aided by a grant from the German Research Foundation (DFG, JA 874/8-1), PhycoBank has been established at the BGBM Berlin as the repository for nomenclatural acts of algae. As added value, PhycoBank deals with orthographical variants in linking the published spelling of a name to the corrected one with reference to the respective article of the ICN (<xref ref-type="bibr" rid="B5186693">Turland et al. 2018</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.iapt-taxon.org/nomen/pages/main/art_60.html">Art. 60</ext-link>).</p>
+        <p>Almost all nomenclatural acts are the result of taxonomic issues but also have implications for the taxonomic work of specialists worldwide. The challenge for implementing a registration system like PhycoBank is to inform individual scientists as well as to feed data into data networks, to strengthen their underlying names backbone linking scientific names to occurrences.</p>
+        <p>Since June 2018, PhycoBank staff are operating the registration system using a user-friendly data entry web application. This interface for data entry by volunteers has been available since March 2019. All data entered into the system undergoes a curatorial process to assure a high level of data quality.</p>
+        <p>The data entry web application is complemented by a public data access portal which is available under <ext-link ext-link-type="uri" xlink:href="https://www.phycobank.org/"> https://www.phycobank.org </ext-link>(Fig. <xref ref-type="fig" rid="F5186589">1</xref>). PhycoBank can be searched for scientific names (including unregistered formal or informal higher rank names), for categories of types and PhycoBank identifiers.</p>
+        <p>PhycoBank assigns resolvable and globally unique HTTP-based identifiers for nomenclatural acts, e.g. for the genus <italic>Iconella,</italic> <ext-link ext-link-type="uri" xlink:href="https://phycobank.org/100040">https://phycobank.org/100040</ext-link>. Via these PhycoBank identifiers, the corresponding data and metadata can be retrieved in human- and machine-readable formats.</p>
+        <p>More than ten journals have published PhycoBank identifiers so far, allowing cross-linking between their PDF and the PhycoBank system. The Pensoft journals are pioneering an automatic registration workflow modeled and specified by the PhycoBank team.</p>
+        <p>Classifications are frequently subject to changes. Currently, the algal classification is under discussion because of results from phylogenetic research. PhycoBank aims to be neutral with respect to higher classification, but tracks classification information of each name that is registered into a directed graph of available higher rank names to record fragments of higher classification information and to facilitate search functionalities.</p>
+        <p>All scientists, editors, and publishers involved in the publication of nomenclatural novelties are invited to contact PhycoBank (<ext-link ext-link-type="uri" xlink:href="mailto:curation@phycobank.org">curation@phycobank.org</ext-link>) to influence the prototypical registration process and to improve PhycoBank’s functionality.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>nomenclature</kwd>
+        <kwd>registration</kwd>
+        <kwd>names backbone</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Deutsche Forschungsgemeinschaft</named-content>
+            <named-content content-type="funder_identifier">501100001659</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001659</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Wolf-Henning Kusber</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5186693">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Turland</surname>
+              <given-names>NJ</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wiersema</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barrie</surname>
+              <given-names>FR</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Greuter</surname>
+              <given-names>W</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hawksworth</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Herendeen</surname>
+              <given-names>PS</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Knapp</surname>
+              <given-names>S</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kusber</surname>
+              <given-names>WH</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Li</surname>
+              <given-names>DZ</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marhold</surname>
+              <given-names>K</given-names>
+            </name>
+            <name name-style="western">
+              <surname>May</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McNeill</surname>
+              <given-names>J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Monro</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Prado</surname>
+              <given-names>J</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>GF</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <source>International Code of Nomenclature for algae, fungi, and plants (Shenzhen Code) adopted by the Nineteenth International Botanical Congress Shenzhen, China, July 2017</source>
+          <publisher-name>Koeltz Botanical Books</publisher-name>
+          <publisher-loc>Glashütten</publisher-loc>
+          <pub-id pub-id-type="doi">10.12705/code.2018</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5186589" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>PhycoBank workflow. A. Publication including a PhycoBank identifier, B.<styled-content style="background-color: rgb(251, 235, 199);"/>Registration User Interface, C. PhycoBank Portal. A and B link to C, C links back to A.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37285-g001.jpg" position="float" id="oo_291650.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37374</article-id>
+      <article-id pub-id-type="publisher-id">37374</article-id>
+      <article-id pub-id-type="manuscript">11446</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>TaxonWorks 1.0?</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Yoder</surname>
+            <given-names>Matthew</given-names>
+          </name>
+          <email xlink:type="simple">diapriid@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5640-5491</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dmitriev</surname>
+            <given-names>Dmitry A</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3293-4794</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pereira</surname>
+            <given-names>José Luis</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Flood</surname>
+            <given-names>James R</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Tucker</surname>
+            <given-names>James D</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pereira</surname>
+            <given-names>Hernán</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Beckman</surname>
+            <given-names>Marilyn</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Illinois, Champaign, United States of America</addr-line>
+        <institution>University of Illinois</institution>
+        <addr-line content-type="city">Champaign</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Illinois at Urbana-Champaign, Champaign, United States of America</addr-line>
+        <institution>University of Illinois at Urbana-Champaign</institution>
+        <addr-line content-type="city">Champaign</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Facultad de Ciencias Naturales y Museo de la Universidad Nacional de La Plata, La Plata, Argentina</addr-line>
+        <institution>Facultad de Ciencias Naturales y Museo de la Universidad Nacional de La Plata</institution>
+        <addr-line content-type="city">La Plata</addr-line>
+        <country>Argentina</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Illinois Natural History Survey, Champaign, United States of America</addr-line>
+        <institution>Illinois Natural History Survey</institution>
+        <addr-line content-type="city">Champaign</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Matthew Yoder (<email xlink:type="simple">diapriid@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37374</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4E6F74EB8821506499E85CD519B50654">4E6F74EB8821506499E85CD519B50654</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Matthew Yoder, Dmitry A Dmitriev, José Luis Pereira, James R Flood, James D Tucker, Hernán Pereira, Marilyn Beckman</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p><ext-link ext-link-type="uri" xlink:href="http://taxonworks.org">TaxonWorks</ext-link> is an open-source workbench for biodiversity researchers.  With several years of development behind it, we highlight its present status, and discuss if and when it makes sense to release a version 1.0, i.e. software completed to specific stage.  TaxonWorks' scope is broad; it seeks to touch nearly all areas that might be of interest to taxonomists, i.e. those who integrate everything that is known about a taxon into a single resource.  Its role as a software platform is placed in a broader context, where many instances of TaxonWorks each can support multiple research projects.  Instances may be supported by individuals or organizations.  A suite of technical tools including containerization and unit tests facilitate collaboration at many different levels.  TaxonWorks is a research tool, mechanisms for analyzing the results of data curation including its application programing interface are described.</p>
+        <p>The long-term development of TaxonWorks is supported by an endowment to the Species File Group. Its source is <ext-link ext-link-type="uri" xlink:href="https://github.com/SpeciesFileGroup/taxonworks">available on Github</ext-link>.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>software</kwd>
+        <kwd>VRE</kwd>
+        <kwd>taxonomists</kwd>
+        <kwd>workbench</kwd>
+        <kwd>open-source</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Matthew Yoder, Dmitry Dmitriev</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>Elizabeth Frank (Retired, INHS) and Fauzi Klima (Oregon State) also contributed hundreds of commits to the code base.  Many others have <ext-link ext-link-type="uri" xlink:href="https://github.com/SpeciesFileGroup/taxonworks/blob/development/CONTRIBUTORS.md">contributed to the software in numerous other ways</ext-link>. TaxonWorks is made possible by an endowment of the Species File Group.</p>
+    </ack>
+    <sec sec-type="Author contributions">
+      <title>Author contributions</title>
+      <p>All authors contributed over 250 commits to the code base of TaxonWorks.</p>
+    </sec>
+  </back>
+</article>

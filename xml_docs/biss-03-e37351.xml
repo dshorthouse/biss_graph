@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37351</article-id>
+      <article-id pub-id-type="publisher-id">37351</article-id>
+      <article-id pub-id-type="manuscript">11095</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS14 - The role of Earth Science collections within biodiversity research</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Applying Vocabularies to a Large, Historic Geoscience Collection</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Mansur</surname>
+            <given-names>Adam</given-names>
+          </name>
+          <email xlink:type="simple">mansura@si.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7512-4206</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hale</surname>
+            <given-names>Leslie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Smithsonian Institution National Museum of Natural History, Washington, DC, United States of America</addr-line>
+        <institution>Smithsonian Institution National Museum of Natural History</institution>
+        <addr-line content-type="city">Washington, DC</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Adam Mansur (<email xlink:type="simple">mansura@si.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37351</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/CCE3EEB4BDD0526B942575219F647A37">CCE3EEB4BDD0526B942575219F647A37</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Geoscience collections have data needs that are broadly consistent with, but differ in important ways from, biology collections. Non-paleontology geoscience collections have received particularly little attention because they do not fit easily into the biodiversity framework that encompasses most natural history collections. Here we describe efforts to apply controlled vocabularies to the rock, mineral, and meteorite collections of the Department of Mineral Sciences in the Smithsonian Institution's National Museum of Natural History. Controlled vocabularies encourage consistency in usage of terms, connect related terms and concepts, and simplify discovery and re-use of data. Developing and implementing vocabularies for geoscience collections is a key step in better integrating these collections into the broader natural history landscape.</p>
+        <p>The Mineral Sciences collections contain approximately 450,000 specimens collected over 150 years. Specimen records therefore contain a large number of archaic terms and vary widely in the quality and amount of descriptive metadata available. We targeted four fields judged most likely to benefit from using a vocabulary: rock/mineral classification (using terms from the British Geological Survey Rock Classification Scheme, the International Mineralogicial Association's list of minerals, and other sources); rock microstructure (using terms from GeoScience Markup Language, or GeoSciML); stratigraphy (using MacroStrat); and collection locality (using terms from GeoNames and the Global Volcanism Program). This process highlighted many of the challenges of grafting vocabularies onto existing data of varying age and quality, including:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>A lack of comprehensive, widely used vocabularies for geosciences</p></list-item><list-item><p>Ambiguities in usage between the specimen database and the controlled vocabulary</p></list-item><list-item><p>Widespread use of archaic terms that must be defined or replaced</p></list-item><list-item><p>Difficulty shoehorning vocabularies into databases not designed to accommodate them</p></list-item><list-item><p>Tension between the needs of data management and collection management</p></list-item></list>
+        </p>
+        <p>Even with these difficulties, implementing vocabularies has made it easier to retrieve and interpret specimen data, especially for queries of rock/mineral classification and locality information, and is a useful step in encouraging wider use of data from the collections.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>earth science</kwd>
+        <kwd>controlled vocabularies</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Adam Mansur</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

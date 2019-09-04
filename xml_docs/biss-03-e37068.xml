@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37068</article-id>
+      <article-id pub-id-type="publisher-id">37068</article-id>
+      <article-id pub-id-type="manuscript">11496</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS73 - Biodiversity Informatics: Perspectives from the Global South</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Global Biodiversity Knowledge Commons and Civil Society of the Global South</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dhandapani</surname>
+            <given-names>Balasubramanian</given-names>
+          </name>
+          <email xlink:type="simple">balu.d@ifpindia.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2078-1858</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rajagopal</surname>
+            <given-names>Prabhakar</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Barve</surname>
+            <given-names>Vijay</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4852-2567</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koparde</surname>
+            <given-names>Pankaj</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Saraiva</surname>
+            <given-names>Antonio Mauro</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2283-1123</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">French Institute of Pondicherry, Puducherry, India</addr-line>
+        <institution>French Institute of Pondicherry</institution>
+        <addr-line content-type="city">Puducherry</addr-line>
+        <country>India</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Strand Life Sciences, Bangalore, India</addr-line>
+        <institution>Strand Life Sciences</institution>
+        <addr-line content-type="city">Bangalore</addr-line>
+        <country>India</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Florida Museum of Natural History, Gainesville, United States of America</addr-line>
+        <institution>Florida Museum of Natural History</institution>
+        <addr-line content-type="city">Gainesville</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Abasaheb Garware College, Pune, Pune, India</addr-line>
+        <institution>Abasaheb Garware College, Pune</institution>
+        <addr-line content-type="city">Pune</addr-line>
+        <country>India</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Universidade de São Paulo, São Paulo, Brazil</addr-line>
+        <institution>Universidade de São Paulo</institution>
+        <addr-line content-type="city">São Paulo</addr-line>
+        <country>Brazil</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Balasubramanian Dhandapani (<email xlink:type="simple">balu.d@ifpindia.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37068</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0C07732806595360A2BC8F5B6DF255C8">0C07732806595360A2BC8F5B6DF255C8</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Balasubramanian Dhandapani, Prabhakar Rajagopal, Vijay Barve, Pankaj Koparde, Antonio Mauro Saraiva</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In our times of challenged relationships between nature and culture, it is essential that biodiversity conservation in biodiversity-rich areas of the world is ceded priority with recognised urgency.  <ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/sp/targets/">The Convention on Biological Diversity's (CBD) </ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/sp/targets/">Aichi </ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/sp/targets/">T</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cbd.int/sp/targets/">arget 19</ext-link> states that "By 2020, knowledge, the science base and technologies relating to biodiversity, its values, functioning, status and trends, and the consequences of its loss, are improved, widely shared and transferred, and applied."  One of the significant impediments mentioned in achieving the goals of CBD is lack of scientific information, which is substantiated by studies that highlight various gaps such as taxonomic, thematic, spatial and temporal biases in the global knowledge on biodiversity. Behind such global approaches to knowledge and its production, there is a need to establish a biodiversity knowledge commons at the global, regional and national scales. </p>
+        <p>Biodiversity informatics is tightly integrated with both fundamental biological sciences and the most recent advances in information technology, which gives it a unique blended quality of an academic discipline and technological practice. This has generated much enthusiasm, where rapid technological progress in biodiversity informatics is witnessed along with large scale threats to biodiversity. Such enthusiastic efforts for biodiversity informatics data and tools, as <xref ref-type="bibr" rid="B5186428">Peterson et al. (2010)</xref> argues, need to be integrated with other overall conceptual frameworks, particularly within ecology and evolutionary biology. In the context of the Global South, it is important to place the practice and knowledge of biodiversity informatics within the framework of sustainable development, biodiversity conservation, traditional knowledge and development aspirations. </p>
+        <p>The emphasis on growth, in the current global economic paradigm, has meant undue stress on natural resources. State institutions in the Global South, responsible for natural resource and biodiversity conservation, are often found to be silent if not supportive of the dominant development policies. Civil society groups and grass-roots level organisations have taken the lead in documenting biodiversity at relevant scales, to argue for conservation. It is imperative that citizen science has a growing role to play in environmental assessments (<xref ref-type="bibr" rid="B5186410">Chandler et al. 2016</xref>), mediated through biodiversity informatics. By participating in knowledge production and overcoming the barriers of scientific legitimacy by collaborating with experts in scientific institutions, civil society science groups play a role in changing the power relations by developing the means to generate independent knowledge (<xref ref-type="bibr" rid="B5186400">Jalbert 2016</xref>), contributing towards a global knowledge commons. </p>
+        <p>Limiting factors such as a data sharing culture, coping with quickly evolving technologies and capabilities, inhibit communities in the Global South from participating in building a global biodiversity knowledge commons. The historically skewed accumulation of knowledge on biodiversity of the Global South in northern institutions facilitates their influence of contemporary global policies and allocation of resources. Apart from a few exceptions, such as <ext-link ext-link-type="uri" xlink:href="https://bid.gbif.org/">Biodiversity Information for Development</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://jrsbiodiversity.org/our-programs/strategy/">JRS Foundation</ext-link>’s African efforts and <ext-link ext-link-type="uri" xlink:href="https://www.cepf.net/our-work/biodiversity-hotspots">C</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cepf.net/our-work/biodiversity-hotspots">ritical Ecosytem </ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cepf.net/our-work/biodiversity-hotspots">P</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cepf.net/our-work/biodiversity-hotspots">artnership </ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cepf.net/our-work/biodiversity-hotspots">F</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.cepf.net/our-work/biodiversity-hotspots">und</ext-link>’s investments in biodiversity hotspots, one does not see any encouraging shifts in this cyclic trend, which will not be effective in addressing the biases in global biodiversity knowledge. As much as the development of the discipline and practice of biodiversity informatics at different scales is important, it is equally necessary to address such structural aspects that affect the constitution of the global biodiversity knowledge commons and its relevance to the communities in the Global South.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>knowledge</kwd>
+        <kwd>knowledge commons</kwd>
+        <kwd>Global South</kwd>
+        <kwd>challenges</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Balasubramanian Dhandapani</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5186410">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Chandler</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>See</surname>
+              <given-names>Linda</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Copas</surname>
+              <given-names>Kyle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bonde</surname>
+              <given-names>Astrid M. Z.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>López</surname>
+              <given-names>Bernat Claramunt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Danielsen</surname>
+              <given-names>Finn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Legind</surname>
+              <given-names>Jan Kristoffer</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Masinde</surname>
+              <given-names>Siro</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Miller-Rushing</surname>
+              <given-names>Abraham J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Newman</surname>
+              <given-names>Greg</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rosemartin</surname>
+              <given-names>Alyssa</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Turak</surname>
+              <given-names>Eren</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Contribution of citizen science towards international biodiversity monitoring</article-title>
+          <source>Biological Conservation</source>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2016.09.004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5186400">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Jalbert</surname>
+              <given-names>Kirk</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Building Knowledge Infrastructures for Empowerment: A Study of Grassroots Water Monitoring Networks in the Marcellus Shale</article-title>
+          <source>Science &amp; Technology Studies</source>
+          <volume>29</volume>
+          <issue>2</issue>
+        </element-citation>
+      </ref>
+      <ref id="B5186428">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Peterson</surname>
+              <given-names>A. Townsend</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Knapp</surname>
+              <given-names>Sandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Soberón</surname>
+              <given-names>Jorge</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holder</surname>
+              <given-names>Mark T.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>The big questions for biodiversity informatics</article-title>
+          <source>Systematics and Biodiversity</source>
+          <volume>8</volume>
+          <issue>2</issue>
+          <fpage>159</fpage>
+          <lpage>168</lpage>
+          <pub-id pub-id-type="doi">10.1080/14772001003739369</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

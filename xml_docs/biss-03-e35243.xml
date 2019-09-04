@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35243</article-id>
+      <article-id pub-id-type="publisher-id">35243</article-id>
+      <article-id pub-id-type="manuscript">11147</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST08 - More than Names : Identifying and Crediting People in Biodiversity Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Quantifying Institutional Reach Through the Human Network in Natural History Collections</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Shorthouse</surname>
+            <given-names>David Peter</given-names>
+          </name>
+          <email xlink:type="simple">davidpshorthouse@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7618-5230</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Page</surname>
+            <given-names>Roderic</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7101-9767</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Agriculture &amp; Agri-Food Canada, Ottawa, Canada</addr-line>
+        <institution>Agriculture &amp; Agri-Food Canada</institution>
+        <addr-line content-type="city">Ottawa</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Glasgow, Glasgow, United Kingdom</addr-line>
+        <institution>University of Glasgow</institution>
+        <addr-line content-type="city">Glasgow</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: David Peter Shorthouse (<email xlink:type="simple">davidpshorthouse@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35243</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/685AC48AE3B356508C23F0F57027F6F3">685AC48AE3B356508C23F0F57027F6F3</uri>
+      <history>
+        <date date-type="received">
+          <day>07</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Through the Bloodhound proof-of-concept, <ext-link ext-link-type="uri" xlink:href="https://bloodhound-tracker.net">https://bloodhound-tracker.net</ext-link> an international audience of collectors and determiners of natural history specimens are engaged in the emotive act of claiming their specimens and attributing other specimens to living and deceased mentors and colleagues. Behind the scenes, these claims build links between Open Researcher and Contributor Identifiers (ORCID, <ext-link ext-link-type="uri" xlink:href="https://orcid.org">https://orcid.org</ext-link>) or Wikidata identifiers for people and Global Biodiversity Information Facility (GBIF) specimen identifiers, predicated by the Darwin Core terms, <italic>recordedBy</italic> (collected) and <italic>identifiedBy</italic> (determined). Here we additionally describe the socio-technical challenge in unequivocally resolving people names in legacy specimen data and propose lightweight and reusable solutions. The unique identifiers for the affiliations of active researchers are obtained from ORCID whereas the unique identifiers for institutions where specimens are actively curated are resolved through Wikidata. By constructing closed loops of links between person, specimen, and institution, an interesting suite of potential metrics emerges, all due to the activities of employees and their network of professional relationships. This approach balances a desire for individuals to receive formal recognition for their efforts in natural history collections with that of an institutional-level need to alter budgets in response to easily obtained numeric trends in national and international reach. If handled in a coordinating fashion, this reporting technique may be a significant new driver for specimen digitization efforts on par with Altmetric, <ext-link ext-link-type="uri" xlink:href="https://www.altmetric.com">https://www.altmetric.com</ext-link>, an important new tool that tracks the impact of publications and delights administrators and authors alike.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>ORCID</kwd>
+        <kwd>wikidata</kwd>
+        <kwd>specimens</kwd>
+        <kwd>people</kwd>
+        <kwd>institutions</kwd>
+        <kwd>credit systems</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>David Shorthouse</p>
+      </sec>
+    </notes>
+  </front>
+</article>

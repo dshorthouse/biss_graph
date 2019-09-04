@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35190</article-id>
+      <article-id pub-id-type="publisher-id">35190</article-id>
+      <article-id pub-id-type="manuscript">11182</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Workflow for Data Extraction from Digitized Herbarium Specimens</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Younis</surname>
+            <given-names>Sohaib</given-names>
+          </name>
+          <email xlink:type="simple">muhammad-sohaib.younis@senckenberg.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9171-783X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Schmidt</surname>
+            <given-names>Marco</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6087-6117</uri>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Seeger</surname>
+            <given-names>Bernhard</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hickler</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Weiland</surname>
+            <given-names>Claus</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0351-6523</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Senckenberg Biodiversity and Climate Research Centre, Frankfurt am Main, Germany</addr-line>
+        <institution>Senckenberg Biodiversity and Climate Research Centre</institution>
+        <addr-line content-type="city">Frankfurt am Main</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Department of Mathematics and Computer Science, Philipps University, Marburg, Germany</addr-line>
+        <institution>Department of Mathematics and Computer Science, Philipps University</institution>
+        <addr-line content-type="city">Marburg</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Goethe University, Frankfurt am Main, Germany</addr-line>
+        <institution>Goethe University</institution>
+        <addr-line content-type="city">Frankfurt am Main</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sohaib Younis (<email xlink:type="simple">muhammad-sohaib.younis@senckenberg.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35190</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/19C21AC282E75543BFAB6496304436F7">19C21AC282E75543BFAB6496304436F7</uri>
+      <history>
+        <date date-type="received">
+          <day>05</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sohaib Younis, Marco Schmidt, Bernhard Seeger, Thomas Hickler, Claus Weiland</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Based on own work on species and trait recognition and complementary studies from other working groups, we present a workflow for data extraction from digitized herbarium specimens using convolutional neural networks. Digitized herbarium sheets contain:</p>
+        <p>
+          <list list-type="order"><list-item><p>preserved plant material as well as additional objects:</p></list-item><list-item><p>the label containing information on the collection event,</p></list-item><list-item><p>annotations such as revision labels, or notes on material extraction,</p></list-item><list-item><p>identifiers such as barcodes or numbers,</p></list-item><list-item><p>envelopes for loose plant material and</p></list-item><list-item><p>often scale bars and color charts used in the digitization process.</p></list-item></list>
+        </p>
+        <p>In order to treat these objects appropriately, segmentation techniques (<xref ref-type="bibr" rid="B5171869">Triki et al. 2018</xref>) will be applied to localize and identify the different kinds of objects for specific treatments. Detecting presence of plant organs such as leaves, flowers or fruits is already a first step in data extraction potentially useful for phenological studies. Plant organs will be subject to routines for quantitative (<xref ref-type="bibr" rid="B5171853">Gaikwad et al. 2018</xref>) and qualitative (<xref ref-type="bibr" rid="B5171766">Younis et al. 2018</xref>) trait recognition routines. Text-based objects can be treated as described by <xref ref-type="bibr" rid="B5171781">Kirchhoff et al. 2018</xref>, using OCR techniques and considering the many collection-specific terms and abbreviations as described in <xref ref-type="bibr" rid="B5171884">Schröder 2019</xref>. Additionally, species recognition (<xref ref-type="bibr" rid="B5171766">Younis et al. 2018</xref>) will be applied in order to help further identification of incompletely identified collection items or to detect possible misidentifications. All steps described above need sufficient training data including labelling that may be obtained from collection metadata and trait databases.</p>
+        <p>In order to deal with new incoming digitized collections, unseen data or categories, we propose implementation of a new Deep Learning approach, so-called Lifelong Learning: Past knowledge of the network is dynamically saved in latent space using autoencoder and generatively replayed while the network is trained on new tasks which enables it to solve complex image processing tasks without forgetting former knowledge while incrementally learning new classes and knowledge.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Trait Recognition</kwd>
+        <kwd>Convolutional Neural Networks</kwd>
+        <kwd>Lifelong Learning</kwd>
+        <kwd>Herbarium specimens</kwd>
+        <kwd>Trait Semantics</kwd>
+        <kwd>Digitized Natural History Collections</kwd>
+        <kwd>Image Processing</kwd>
+        <kwd>Image Captioning</kwd>
+        <kwd>Object Detection</kwd>
+        <kwd>Object Annotation</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="5"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sohaib Younis</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5171853">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Gaikwad</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Triki</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouaziz</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hamed</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hentschel</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>TraitEx: tool for measuring morphological functional traits from digitized herbarium specimens</article-title>
+          <source>Proceedings of the 10th International Conference on Ecological Informatics</source>
+          <publisher-loc>Jena</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="B5171781">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kirchhoff</surname>
+              <given-names>Agnes</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bügel</surname>
+              <given-names>Ulrich</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Santamaria</surname>
+              <given-names>Eduard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Reimeier</surname>
+              <given-names>Fabian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Röpert</surname>
+              <given-names>Dominik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tebbje</surname>
+              <given-names>Alexander</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chaves</surname>
+              <given-names>Fernando</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Steinke</surname>
+              <given-names>Karl-Heinz</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Toward a service-based workflow for automated information extraction from herbarium specimens</article-title>
+          <source>Database</source>
+          <volume>2018</volume>
+          <uri>10.1093/database/bay103</uri>
+          <pub-id pub-id-type="doi">10.1093/database/bay103</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5171884">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Schröder</surname>
+              <given-names>C. N.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Katalog der auf Herbarbelegen gebräuchlichen Abkürzungen</article-title>
+          <source>Kochia</source>
+          <volume>12</volume>
+          <fpage>37</fpage>
+          <lpage>67</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B5171869">
+        <element-citation publication-type="conference-paper">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Triki</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouaziz</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gaikwad</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Refined methodology for accurately detecting objects from digitized herbarium specimens</article-title>
+          <source>Proceedings of the 10th International Conference on Ecological Informatics</source>
+          <publisher-loc>Jena</publisher-loc>
+        </element-citation>
+      </ref>
+      <ref id="B5171766">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Younis</surname>
+              <given-names>Sohaib</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weiland</surname>
+              <given-names>Claus</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hoehndorf</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dressler</surname>
+              <given-names>Stefan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hickler</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Seeger</surname>
+              <given-names>Bernhard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schmidt</surname>
+              <given-names>Marco</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Taxon and trait recognition from digitized herbarium specimens using deep convolutional neural networks</article-title>
+          <source>Botany Letters</source>
+          <volume>165</volume>
+          <fpage>377</fpage>
+          <lpage>383</lpage>
+          <uri>https://www.tandfonline.com/doi/full/10.1080/23818107.2018.1446357</uri>
+          <pub-id pub-id-type="doi">10.1080/23818107.2018.1446357</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

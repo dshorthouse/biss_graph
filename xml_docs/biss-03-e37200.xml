@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37200</article-id>
+      <article-id pub-id-type="publisher-id">37200</article-id>
+      <article-id pub-id-type="manuscript">11651</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST60 - World Catalogue of Collections – describing and assessing collections for identifying relevant gaps</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Join the Dots: Adding collection assessment to collection descriptions</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Woodburn</surname>
+            <given-names>Matt</given-names>
+          </name>
+          <email xlink:type="simple">m.woodburn@nhm.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6496-1423</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vincent</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4012-0571</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hardy</surname>
+            <given-names>Helen</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9206-8357</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Valentine</surname>
+            <given-names>Clare</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Matt Woodburn (<email xlink:type="simple">m.woodburn@nhm.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37200</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/45FF969F37AD5314ABDB2B0C3B2AAC79">45FF969F37AD5314ABDB2B0C3B2AAC79</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Matt Woodburn, Sarah Vincent, Helen Hardy, Clare Valentine</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The natural science collections community has identified an increasing need for shared, structured and interoperable data standards that can be used to describe the totality of institutional collection holdings, whether digitised or not. Major international initiatives - including the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/">Global Biodiversity Information Facility (GBIF)</ext-link>, the <ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">Distributed System of Scientific Collections (DiSSCo)</ext-link> and the <ext-link ext-link-type="uri" xlink:href="https://cetaf.org/">Consortium of European Taxonomic Facilities (CETAF)</ext-link> - consider the current lack of standards to be a major barrier, which must be overcome to further their strategic aims and contribute to an open, discoverable catalogue of global collections. The <ext-link ext-link-type="uri" xlink:href="https://www.tdwg.org/community/cd/">Biodiversity Information Standards (TDWG) Collection Descriptions (CD) group</ext-link> is looking to address this issue with a new data standard for collection descriptions.</p>
+        <p>At an institutional level, this concept of collection descriptions aligns strongly with the need to use a structured and more data-driven approach to assessing and working with collections, both to identify and prioritise investment and effort, and to monitor the impact of the work. Use cases include planning conservation and collection moves, prioritising specimen digitisation activities, and informing collection development strategy. The data can be integrated with the collection description framework for ongoing assessments of the state of the collection.</p>
+        <p>This approach was pioneered with the ‘Move the Dots’ methodology by the Smithsonian National Museum of Natural History, started in 2009 and run annually since. The collection is broken down into several hundred discrete subcollections, for each of which the number of objects was estimated and a numeric rank allocated according to a range of assessment criteria. This method has since been adopted by several other institutions, including Naturalis Biodiversity Centre, Museum für Naturkunde and Natural History Museum, London (NHM).</p>
+        <p>First piloted in 2016, and now implemented as a core framework, the NHM’s adaptation, ‘Join the Dots’, divides the collection into approximately 2,600 ‘collection units’. The breakdown uses formal controlled lists and hierarchies, primarily taxonomy, type of object, storage location and (where relevant) stratigraphy, which are mapped to external authorities such as the Catalogue of Life and Paleobiology Database. The collection breakdown is enhanced with estimations of number of items, and ranks from 1 to 5 for each collection unit against 17 different criteria. These are grouped into four categories of ‘Condition’, ‘Information’ (including digital records), ‘Importance and Significance’ and ‘Outreach’.</p>
+        <p>Although requiring significant time investment from collections staff to provide the estimates and assessments, this methodology has yielded a rich dataset that supports both discoverability (collection descriptions) and management (collection assessment). Links to further datasets about the building infrastructure and environmental conditions also make it into a powerful resource for planning activities such as collections moves, pest monitoring and building work. We have developed dynamic dashboards to provide rich visualisations for exploring, analysing and communicating the data. As an ongoing, embedded activity for collections staff, there will also be a build-up of historical data going forward, enabling us to see trends, track changes to the collection, and measure the impact of projects and events.</p>
+        <p>The concept of Join the Dots also offers a generic, institution-agnostic model for enhancing the collection description framework with additional metrics that add value for strategic management and resourcing of the collection. In the design and implementation, we’ve faced challenges that should be highly relevant to the TDWG CD group, such as managing the dynamic breakdown of collections across multiple dimensions. We also face some that are yet to be resolved, such as a robust model for managing the evolving dataset over time. We intend to contribute these use cases into the development of the new TDWG data standard and be an early adopter and reference case. We envisage that this could constitute a common model that, where resources are available, provides the ability to add greater depth and utility to the world catalogue of collections.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>collection descriptions</kwd>
+        <kwd>collection assessment</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>assessment criteria</kwd>
+        <kwd>natural history museum</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Matt Woodburn</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

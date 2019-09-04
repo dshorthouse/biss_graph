@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37013</article-id>
+      <article-id pub-id-type="publisher-id">37013</article-id>
+      <article-id pub-id-type="manuscript">11166</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI20 - Semantic Annotation of Collection Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Uniquely Identifying Collectors of Specimens</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Groom</surname>
+            <given-names>Quentin</given-names>
+          </name>
+          <email xlink:type="simple">quentin.groom@plantentuinmeise.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0596-5376</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dillen</surname>
+            <given-names>Mathias</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3973-1252</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Huybrechts</surname>
+            <given-names>Pieter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Quentin Groom (<email xlink:type="simple">quentin.groom@plantentuinmeise.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37013</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/AEFE10277B285DD4B8A900DCC309B7E3">AEFE10277B285DD4B8A900DCC309B7E3</uri>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Quentin Groom, Mathias Dillen, Pieter Huybrechts</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Being able to connect together the specimens collected and determined by a person is key to understanding the origins, history, identity and ownership of a collection. Yet making these connections is difficult because people’s names change, are not unique and are written in many different ways. Semantic annotation of people names with stable identifiers is a solution to this problem.</p>
+        <p>Semantic annotation requires the linking of textual information to unique identities for known entities. This often needs to be done manually and can be time-consuming and error-prone. We have been linking person text strings to persistent identifiers of various kinds. We focused on the semantic annotation of people names mentioned on specimen labels, particularly the collectors, but also determiners of the specimen. Various person identifiers systems exist and they vary in their scope, their business model and their notability requirements. We have chosen, where possible, to link to several systems, because we feel this creates a more robust system, that does not rely on the maintenance of any single identifier system.</p>
+        <p>Currently, we are using <ext-link ext-link-type="uri" xlink:href="https://viaf.org/">Virtual International Authority File (VIAF)</ext-link> identifiers that are particularly useful for published authors. The <ext-link ext-link-type="uri" xlink:href="https://kiki.huh.harvard.edu/databases/botanist_index.html">Harvard University Index of Botanists</ext-link> has information on well known botanists and <ext-link ext-link-type="uri" xlink:href="https://orcid.org/">ORCID</ext-link> IDs are useful for living collectors. However, even with all these various identifiers systems, there are many collectors of whom we know little, particularly where they have not published or done something notable other than collect specimens. For many of these collectors <ext-link ext-link-type="uri" xlink:href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ext-link> is a solution, because it can be edited by anyone and because it has a low threshold for notability. Wikidata also has the additional advantage of forming a bridge between many identifier systems. Hence, we incorporated Wikidata entries as well if available and endeavoured to merge existing duplicates wherever we could. In this process, we have examined the coverage, scope and reliability of these different systems for identifying collectors and determiners. We also advise on strategies for linking collectors to their identifiers efficiently. Linking specimens to clearly identified people has enormous advantages for specimen data curation and linking between different collections. We encourage every collection to prioritize this. </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>botanists</kwd>
+        <kwd>ORCID</kwd>
+        <kwd>Virtual International Authority File</kwd>
+        <kwd>VIAF</kwd>
+        <kwd>Wikidata</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">European Commission</named-content>
+            <named-content content-type="funder_identifier">501100000780</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100000780</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Quentin Groom</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>H2020 project Synthesys+ under grant agreement 823827</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>H2020 project Synthesys+ under grant agreement 823827</p>
+    </sec>
+  </back>
+</article>

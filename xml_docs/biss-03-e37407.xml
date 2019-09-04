@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37407</article-id>
+      <article-id pub-id-type="publisher-id">37407</article-id>
+      <article-id pub-id-type="manuscript">11257</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI20 - Semantic Annotation of Collection Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>LinBi: Linking biodiversity and culture information</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Huybrechts</surname>
+            <given-names>Pieter</given-names>
+          </name>
+          <email xlink:type="simple">pieter.huybrechts@plantentuinmeise.be</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6658-6062</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Alonso-Sánchez</surname>
+            <given-names>Felix</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Böttinger</surname>
+            <given-names>Petra</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dillen</surname>
+            <given-names>Mathias</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3973-1252</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Groom</surname>
+            <given-names>Quentin</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0596-5376</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hanquart</surname>
+            <given-names>Nicole</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Koch</surname>
+            <given-names>Walter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gordon</surname>
+            <given-names>Martin</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mergen</surname>
+            <given-names>Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Real Jardín Botánico (RJB-CSIC), Madrid, Spain</addr-line>
+        <institution>Real Jardín Botánico (RJB-CSIC)</institution>
+        <addr-line content-type="city">Madrid</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Botanischer Garten und Botanisches Museum, Berlin, Germany</addr-line>
+        <institution>Botanischer Garten und Botanisches Museum</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Angewandte Informationstechnik Forschungsgesellschaft mbH , Graz, Austria</addr-line>
+        <institution>Angewandte Informationstechnik Forschungsgesellschaft mbH </institution>
+        <addr-line content-type="city">Graz</addr-line>
+        <country>Austria</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Rundfunk Berlin-Brandenburg, Berlin, Germany</addr-line>
+        <institution>Rundfunk Berlin-Brandenburg</institution>
+        <addr-line content-type="city">Berlin</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Royal Museum for Central Africa, Tervuren, Belgium</addr-line>
+        <institution>Royal Museum for Central Africa</institution>
+        <addr-line content-type="city">Tervuren</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Pieter Huybrechts (<email xlink:type="simple">pieter.huybrechts@plantentuinmeise.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37407</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/02CB108CEE2157C78B10BA0B17D3A159">02CB108CEE2157C78B10BA0B17D3A159</uri>
+      <history>
+        <date date-type="received">
+          <day>17</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Pieter Huybrechts, Felix Alonso-Sánchez, Petra Böttinger, Mathias Dillen, Quentin Groom, Nicole Hanquart, Walter Koch, Martin Gordon, Patricia Mergen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The <ext-link ext-link-type="uri" xlink:href="https://linbi.eu/">LinBi project</ext-link> aims to enhance the discoverability of digitized objects from natural history collections hosted by institutes all over Europe. This enhancement is achieved by publishing new and enriched content to the <ext-link ext-link-type="uri" xlink:href="https://www.europeana.eu/">Europeana collections platform.</ext-link> The use of simple vocabularies and machine-readable metadata encourages reuse and has the additional advantage of facilitating the clustering of interesting content for user groups beyond biodiversity and natural history researchers. Linking the collections of Europe together in an openly-available platform and sharing our common cultural and natural heritage with a broad audience will increase the public’s awareness of biodiversity collections. Furthermore, it will help us reach out to new user groups such as teachers, journalists and artists, who were previously unaware of, or distant from, our collections.</p>
+        <p>Suitable content was selected and harmonized for interlinking with Europeana. Contributions include a large quantity of herbarium sheets, digitized glass plate negatives taken between 1880 and 1930 and a portrait collection dating from the late 19th and early 20th century. With the help of the <ext-link ext-link-type="uri" xlink:href="https://www.doedat.be/">DoeDat </ext-link>crowdsourcing platform, existing metadata were enriched and mobilized to allow for publication in the form of open linked data.</p>
+        <p>The integration of geographical data and common names allows the Europeana platform to link scientific specimens with literature and fine art from different collections and to guide users to interesting and inspiring content via themed virtual exhibitions. One such theme is composed of content from the "Wild Roses of Crépin" collection, which will be enriched by pictures of living plants, herbarium specimens and illustrations old and modern. A second content cluster consists of an enriched and curated collection of botanical illustrations originating from a corpus of special and rare books ranging from the 15th to 19th centuries. Careful curation increases the potential for re-use and provides additional oppertunities for the general public to interact with this collection.</p>
+        <p>The LinBi platform has the long-term ambition of forming a sustainable and open source solution integrated into the Europeana Core Service. This will further improve cooperation between institutes by building international infrastructure and networks, thus contributing to a more open cross-border society.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Europeana</kwd>
+        <kwd>citizen science</kwd>
+        <kwd>crowdsourcing</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>digital heritage</kwd>
+        <kwd>metadata enrichment</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Pieter Huybrechts</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>Linking Biodiversity and Culture Information - LinBi</p>
+    </sec>
+  </back>
+</article>

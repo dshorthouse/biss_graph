@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37028</article-id>
+      <article-id pub-id-type="publisher-id">37028</article-id>
+      <article-id pub-id-type="manuscript">11237</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COP - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Species Threat Assessment Tool and Online Result Service in FinBIF</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Juslén</surname>
+            <given-names>Aino</given-names>
+          </name>
+          <email xlink:type="simple">aino.juslen@helsinki.fi</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Liukko</surname>
+            <given-names>Ulla-Maija</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Uddström</surname>
+            <given-names>Annika</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>von Bonsdorff-Salminen</surname>
+            <given-names>Tea</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Laiho</surname>
+            <given-names>Eija-Leena</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Piirainen</surname>
+            <given-names>Esko</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Finnish Museum of Natural History LUOMUS, Helsinki, Finland</addr-line>
+        <institution>Finnish Museum of Natural History LUOMUS</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Finnish Environment Institute, Helsinki, Finland</addr-line>
+        <institution>Finnish Environment Institute</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Aino Juslén (<email xlink:type="simple">aino.juslen@helsinki.fi</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37028</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/136A124F95055C84A44DEB97C2E7F700">136A124F95055C84A44DEB97C2E7F700</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Aino Juslén, Ulla-Maija Liukko, Annika Uddström, Tea von Bonsdorff-Salminen, Eija-Leena Laiho, Esko Piirainen</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The threat assessment of Finnish species was carried out during 2017–2018 for the third time using International Union for Conservation of Nature (IUCN) criteria (<xref ref-type="bibr" rid="B5226828">IUCN 2012a</xref>, <xref ref-type="bibr" rid="B5226837">IUCN 2012b</xref>, <xref ref-type="bibr" rid="B5226846">IUCN 2016</xref>). The <ext-link ext-link-type="uri" xlink:href="https://helda.helsinki.fi/handle/10138/299501?locale-attribute=en">Red List</ext-link> was published in March 2019 (<xref ref-type="bibr" rid="B5226778">Hyvärinen et al. 2019</xref>). In conjunction with the assessment of threatened species, 36,602 species or lower taxa were listed. The information was sufficient for assessment of 22,418 species. It was done by 18 expert groups of different organism groups. The process was coordinated by the Finnish Environment Institute Syke and led by the steering group of the assessment from the Ministry of Environment. For the first time, the Finnish Biodiversity Information Facility <ext-link ext-link-type="uri" xlink:href="http://www.species.fi">FinBIF</ext-link> offered a documentation tool and archive for the threat assessment. The assessment was based on <ext-link ext-link-type="uri" xlink:href="https://laji.fi/en/taxon/list?onlyFinnish=true">the national checklist of Finnish species </ext-link>coordinated by FinBIF. Many of the expert groups are in active collaboration with FinBIF in maintaining FinBIF’s taxon database and in updating the checklists. Hence, there was a good foundation to build on in developing the cooperation further and deepening the integration of the Red Listing process into FinBIF’s IT infrastructure.</p>
+        <p>The documentation tool of the assessment is implemented in the taxon database of FinBIF (Fig. <xref ref-type="fig" rid="F5175494">1</xref>). The Red List data of the 2010 (all species) and 2015 (birds and mammals) assessments are readily available in the tool. The assessor can therefore easily copy and confirm e.g. area of occupancy, extent of occurrence, generation length and habitat of a species, if there is no need for editing. The service offers the possibility to add notes to most of the fields separately and commenting on the assessment by other authorized users. The tool archives the history of all changes. In line with the IUCN instructions, the tool automatically chooses the criteria leading to the highest possible threat category of criteria A-E filled out for each species. However, the assessor confirms the final evaluation. Finally, in several fields, the tool automatically checks the validity of values entered, e.g. criteria, threat category, length of the observation period, causes of threat, and current threat factors. The tool includes necessary fields for back-casting the categories of previous assessments to count the Red List Index. There is also a possibility to add or choose references for the assessment of a certain species in the publications part of the taxon database. Due to linkage through the taxon database, the updated threat categories of each Finnish species are immediately available as additional information of each species introduced in FinBIF.</p>
+        <p>Also for the first time, the results of the threat assessment can be examined online directly after its publication at the Red List online service through FinBIF: <ext-link ext-link-type="uri" xlink:href="https://punainenkirja.laji.fi/en">https://punainenkirja.laji.fi/en</ext-link>. The online service makes Red List categories and related criteria searchable. Data can be categorized also by habitat, causes of threat, or current threat factors. Due to the ability to conduct searches, the online service supplements the printed book (<xref ref-type="bibr" rid="B5226778">Hyvärinen et al. 2019</xref>), which includes extensive summaries for groups of organisms.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>FinBIF</kwd>
+        <kwd>IUCN</kwd>
+        <kwd>Red List</kwd>
+        <kwd>species</kwd>
+        <kwd>threat assessment</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Aino Juslén</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Finnish Museum of Natural History LUOMUS, University of Helsinki</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Finnish Museum of Natural History LUOMUS, University of Helsinki</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5226778">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hyvärinen</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Juslén</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kemppainen</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Uddström</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Liukko</surname>
+              <given-names>U.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <source>Suomen lajien uhanalaisuus 2019</source>
+          <trans-title>The 2019 Red List of Finnish Species</trans-title>
+          <publisher-name>Ympäristöministeriö ja Suomen ympäristökeskus</publisher-name>
+          <publisher-loc>Helsinki</publisher-loc>
+          <size units="page">704</size>
+          <comment content-type="language">Finnish (summaries in English)</comment>
+          <uri>https://helda.helsinki.fi/handle/10138/299501</uri>
+          <isbn>978-952-11-4973-3</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5226828">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>IUCN</surname>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <source>Guidelines for Application of IUCN Red List Criteria at Regional and National Levels: Version 4.0</source>
+          <publisher-name>IUCN</publisher-name>
+          <publisher-loc>Gland and Cambridge</publisher-loc>
+          <comment content-type="language">English</comment>
+          <uri>https://portals.iucn.org/library/node/10336</uri>
+          <isbn>978-2-8317-1247-5</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5226837">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>IUCN</surname>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <source>IUCN Red List Categories and Criteria: Version 3.1 </source>
+          <publisher-name>IUCN</publisher-name>
+          <publisher-loc>Gland and Cambridge</publisher-loc>
+          <comment content-type="language">English</comment>
+          <uri>https://portals.iucn.org/library/node/10315</uri>
+          <isbn>978-2-8317-1435-6</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5226846">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>IUCN</surname>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <source>Standards and Petitions Subcommittee 2016. Guidelines for Using the IUCN Red List Categories and Criteria. Version 12.</source>
+          <publisher-name>IUCN</publisher-name>
+          <comment content-type="language">English</comment>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5175494" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Overview of the Ortolan Bunting threat assessment in the species threat assessment tool implemented in the FinBIF taxon database.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37028-g001.jpg" position="float" id="oo_290137.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37749</article-id>
+      <article-id pub-id-type="publisher-id">37749</article-id>
+      <article-id pub-id-type="manuscript">11715</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI87 - Empowering the taxonomic community by linking information through names and taxonomy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Distributed, but Global in Reach: Outline of a de-centralized paradigm for biodiversity data intelligence</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Franz</surname>
+            <given-names>Nico</given-names>
+          </name>
+          <email xlink:type="simple">nico.franz@asu.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7089-7018</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gilbert</surname>
+            <given-names>Edward</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-5006-8092</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sterner</surname>
+            <given-names>Beckett W.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Arizona State University, Tempe, United States of America</addr-line>
+        <institution>Arizona State University</institution>
+        <addr-line content-type="city">Tempe</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nico Franz (<email xlink:type="simple">nico.franz@asu.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37749</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F83DD9C096CA5BCCBBB84851D8E0F907">F83DD9C096CA5BCCBBB84851D8E0F907</uri>
+      <history>
+        <date date-type="received">
+          <day>28</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nico Franz, Edward Gilbert, Beckett W. Sterner</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>We provide an overview and update on initiatives and approaches to add taxonomic data intelligence to distributed biodiversity knowledge networks. "Taxonomic intelligence" for biodiversity data is defined here as the ability to identify and renconcile source-contextualized taxonomic name-to-meaning relationships (<xref ref-type="bibr" rid="B5194715">Remsen 2016</xref>). We review the scientific opportunities, as well as information-technological and socio-economic pathways - both existing and envisioned - to embed de-centralized taxonomic data intelligence into the biodiversity data publication and knowledge intedgration processes.</p>
+        <p>We predict that the success of this project will ultimately rest on our ability to up-value the roles and recognition of systematic expertise and experts in large, aggregated data environments. We will argue that these environments will need to adhere to criteria for responsible data science and interests of coherent communities of practice (<xref ref-type="bibr" rid="B5264248">Wenger 2000</xref>, <xref ref-type="bibr" rid="B5194688">Stoyanovich et al. 2017</xref>). This means allowing for fair, accountable, and transparent representation and propagation of evolving systematic knowledge and enduring or newly apparent <italic>conflict </italic>in systematic perspective (<xref ref-type="bibr" rid="B5194569">Sterner and Franz 2017</xref>, <xref ref-type="bibr" rid="B5194549">Franz and Sterner 2018</xref>, <xref ref-type="bibr" rid="B5194820">Sterner et al. 2019</xref>).</p>
+        <p>We will demonstrate in principle and through concrete use cases, how to de-centralize systematic knowledge while maintaining <italic>alignments</italic> between congruent or concflicting taxonomic concept labels (<xref ref-type="bibr" rid="B5194614">Franz et al. 2016a</xref>, <xref ref-type="bibr" rid="B5194590">Franz et al. 2016b</xref>, <xref ref-type="bibr" rid="B5194579">Franz et al. 2019</xref>). The suggested approach uses custom-configured logic representation and reasoning methods, based on the Region Connection Calculus (RCC-5) alignment language. The approach offers syntactic consistency and semantic applicability or scalability across a wide range of biodiversity data products, ranging from occurrence records to phylogenomic trees. We will also illustrate how this kind of taxonomic data intelligence can be captured and propagated through existing or envisioned metadata conventions and standards (e.g., <xref ref-type="bibr" rid="B5194700">Senderov et al. 2018</xref>).</p>
+        <p>Having established an intellectual opportunity, as well as a technical solution pathway, we turn to the issue of developing an implementation and adoption strategy. Which biodiversity data environments are currently the most taxonomically intelligent, and why? How is this level of taxonomic data intelligence created, maintained, and propagated outward? How are taxonomic data intelligence services motivated or incentivized, both at the level of individuals and organizations? Which "concerned entities" within the greater biodiversity data publication enterprise are best positioned to promote such services? Are the most valuable lessons for biodiversity data science "hidden" in successful social media applications? What are good, feasible, incremental steps towards improving taxonomic data intelligence for a diversity of data publishers?</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>alignment</kwd>
+        <kwd>biodiversity data</kwd>
+        <kwd>conflict</kwd>
+        <kwd>coordination</kwd>
+        <kwd>de-centralization</kwd>
+        <kwd>Region Connection Calculus</kwd>
+        <kwd>taxonomic concepts</kwd>
+        <kwd>systematics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="10"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nico M. Franz</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5194614">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>N. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gilbert</surname>
+              <given-names>E. E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ludäscher</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weakley</surname>
+              <given-names>A. S.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Controlling the taxonomic variable: Taxonomic concept resolution for a southeastern United States herbarium portal</article-title>
+          <source>Research Ideas and Outcomes</source>
+          <volume>2</volume>
+          <pub-id pub-id-type="doi">10.3897/rio.2.e10610</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5194590">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>N. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pier</surname>
+              <given-names>N. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Reeder</surname>
+              <given-names>D. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chen</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kianmajd</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bowers</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ludäscher</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Two influential primate classifications logically Aligned</article-title>
+          <source>Systematic Biology</source>
+          <volume>65</volume>
+          <issue>4</issue>
+          <fpage>561</fpage>
+          <lpage>582</lpage>
+          <pub-id pub-id-type="doi">10.1093/sysbio/syw023</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5194549">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>N. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sterner</surname>
+              <given-names>B. W.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>To increase trust, change the social design behind aggregated biodiversity data</article-title>
+          <source>Database</source>
+          <volume>2018</volume>
+          <pub-id pub-id-type="doi">10.1093/database/bax100</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5194579">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>N. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Musher</surname>
+              <given-names>L. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brown</surname>
+              <given-names>J. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yu</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ludäscher</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Verbalizing phylogenomic conflict: Representation of node congruence across competing reconstructions of the neoavian explosion</article-title>
+          <source>PLOS Computational Biology</source>
+          <volume>15</volume>
+          <issue>2</issue>
+          <pub-id pub-id-type="doi">10.1371/journal.pcbi.1006493</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5194715">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Remsen</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The use and limits of scientific names in biological informatics</article-title>
+          <source>ZooKeys</source>
+          <volume>550</volume>
+          <fpage>207</fpage>
+          <lpage>223</lpage>
+          <pub-id pub-id-type="doi">10.3897/zookeys.550.9546</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5194700">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Senderov</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Simov</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>N. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stoev</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Catapano</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agosti</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sautter</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morris</surname>
+              <given-names>R. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penev</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>OpenBiodiv-O: Ontology of the OpenBiodiv knowledge management system</article-title>
+          <source>Journal of Biomedical Semantics</source>
+          <volume>9</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.1186/s13326-017-0174-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5194569">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sterner</surname>
+              <given-names>B. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>N. M.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Taxonomy for humans or computers? Cognitive pragmatics for big data</article-title>
+          <source>Biological Theory</source>
+          <volume>12</volume>
+          <issue>2</issue>
+          <fpage>99</fpage>
+          <lpage>111</lpage>
+          <pub-id pub-id-type="doi">10.1007/s13752-017-0259-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5194820">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Sterner</surname>
+              <given-names>B. W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Witteveen</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Franz</surname>
+              <given-names>N. M.</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>lternatives to realist consensus in bio-ontologies: Taxonomic classification as a basis for data discovery and integration</article-title>
+          <source>Preprint - ResearchGate</source>
+          <fpage>1</fpage>
+          <lpage>21</lpage>
+          <uri>https://www.researchgate.net/publication/331498583</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5194688">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stoyanovich</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Howe</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Abiteboul</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Miklau</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sahuguet</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Weikum</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Fides: Towards a platform for responsible data science</article-title>
+          <source>Proceedings of the 29th International Conference on Scientific and Statistical Database Management - SSDBM '17</source>
+          <pub-id pub-id-type="doi">10.1145/3085504.3085530</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5264248">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wenger</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <year>2000</year>
+          <article-title>Communities of practice and social learning systems</article-title>
+          <source>Organization</source>
+          <volume>7</volume>
+          <issue>2</issue>
+          <fpage>225</fpage>
+          <lpage>246</lpage>
+          <pub-id pub-id-type="doi">10.1177/135050840072002</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

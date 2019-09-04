@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37332</article-id>
+      <article-id pub-id-type="publisher-id">37332</article-id>
+      <article-id pub-id-type="manuscript">11572</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI87 - Empowering the taxonomic community by linking information through names and taxonomy</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Linked Open Data for Taxonomic Databases: The Nordic/Baltic implementation</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Liljeblad</surname>
+            <given-names>Johan</given-names>
+          </name>
+          <email xlink:type="simple">cynips@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0442-8162</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lahti</surname>
+            <given-names>Tapani</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Swedish Species Information Centre, Uppsala, Sweden</addr-line>
+        <institution>Swedish Species Information Centre</institution>
+        <addr-line content-type="city">Uppsala</addr-line>
+        <country>Sweden</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">University of Helsinki, Helsinki, Finland</addr-line>
+        <institution>University of Helsinki</institution>
+        <addr-line content-type="city">Helsinki</addr-line>
+        <country>Finland</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Johan Liljeblad (<email xlink:type="simple">cynips@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37332</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/BEA132298D805A4AB9BE1AFE24821533">BEA132298D805A4AB9BE1AFE24821533</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Johan Liljeblad, Tapani Lahti</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Starting with Finland and Sweden and a subset of taxonomic groups, the Nordic/Baltic countries are connecting national checklists using Linked Open Data standards (<xref ref-type="bibr" rid="B5230376">Auer et al. 2007</xref>) and agreed vocabularies. We use HTTP Uniform Resource Identifiers as globally unique, persistent identifiers for taxon concepts (<xref ref-type="bibr" rid="B5230403">Chawuthai et al. 2013</xref>). Currently, we provide both human-readable (html) and machine-readable (xml) responses for client requests via a central checklist, <ext-link ext-link-type="uri" xlink:href="http://taxonid.org/">TAXONID.ORG</ext-link>, which in itself needs to be managed. However, we hope this can be replaced by <ext-link ext-link-type="uri" xlink:href="https://github.com/Sp2000/colplus">Catalogue of Life Plus</ext-link> in a not too distant future. While initially exchanging taxonomic information, our goal is ultimately to share information also on genetics, images and traits as well as conservation status and observations in a standardized way. The work is part of the NeIC DeepDive project which is funded by the Nordic e-Infrastructure Collaboration (neic.no/deepdive). The vision is to establish a regional infrastructure network consisting of Nordic and Baltic data centers and information systems and to provide seamlessly operating regional data services, tools, and virtual laboratories.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>checklist</kwd>
+        <kwd>identifier</kwd>
+        <kwd>taxon circumscription</kwd>
+        <kwd>matching</kwd>
+        <kwd>linking</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Johan Liljeblad</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5230376">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Auer</surname>
+              <given-names>Sören</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bizer</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kobilarov</surname>
+              <given-names>Georgi</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lehmann</surname>
+              <given-names>Jens</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cyganiak</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ives</surname>
+              <given-names>Zachary</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <article-title>DBpedia: A Nucleus for a Web of Open Data</article-title>
+          <source>The Semantic Web</source>
+          <volume>4825</volume>
+          <fpage>722</fpage>
+          <lpage>735</lpage>
+          <comment content-type="language">English</comment>
+          <pub-id pub-id-type="doi">10.1007/978-3-540-76298-0_52</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5230403">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Chawuthai</surname>
+              <given-names>Rathachai</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Takeda</surname>
+              <given-names>Hideaki</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wuwongse</surname>
+              <given-names>Vilas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jinbo</surname>
+              <given-names>Utsugi</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>A logical model for taxonomic concepts for expanding knowledge using Linked Open Data</article-title>
+          <source>Semantics for Biodiversity (S4BioDiv 2013)</source>
+          <fpage>9</fpage>
+          <lpage>16</lpage>
+          <comment content-type="language">English</comment>
+          <uri>https://hal-lirmm.ccsd.cnrs.fr/lirmm-00831757/document#page=10</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

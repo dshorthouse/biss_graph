@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.38190</article-id>
+      <article-id pub-id-type="publisher-id">38190</article-id>
+      <article-id pub-id-type="manuscript">11542</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS48 Strengthening the biodiversity informatics community of practice through capacity enhancement</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Regional Approach to Biodiversity Information Management and Reporting in Southeast Europe</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Velagić-Hajrudinović</surname>
+            <given-names>Azra</given-names>
+          </name>
+          <email xlink:type="simple">azra.velagic-hajrudinovic@giz.de</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Project Manager of the Regional Network for Biodiversity Information Management and Reporting (BIMR), Sarajevo, Bosnia and Herzegovina</addr-line>
+        <institution>Project Manager of the Regional Network for Biodiversity Information Management and Reporting (BIMR)</institution>
+        <addr-line content-type="city">Sarajevo</addr-line>
+        <country>Bosnia and Herzegovina</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Azra Velagić-Hajrudinović (<email xlink:type="simple">azra.velagic-hajrudinovic@giz.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>17</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e38190</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/21334F303A4B5930A1E7246D23A55550">21334F303A4B5930A1E7246D23A55550</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Azra Velagić-Hajrudinović</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Featuring a large variety of ecosystems, abundant freshwater and forest resources, unique extensive karstic systems, and a high level of biodiversity and endemism, Southeast Europe (SEE) plays a crucial role in the conservation of biodiversity in Europe and beyond. In order to conserve and sustainably use these biodiversity assets and valuable natural resources, a regional concerted approach in the field of biodiversity information management and reporting (BIMR) has been strengthened. This has enabled improvement in access, transparency and exchange of biodiversity data and reporting processes among the participating economies.</p>
+        <p>Certain significant and visible progress among SEE economies and stakeholders is due to to the knowledge gained about regional and national BIMR baselines, agreed and elaborated minimum Convention on Biological Diversity (CBD) and European Union (EU) requirements on BIMR among stakeholders and implemented BIMR tools (e.g., a regionally unified fundamental database for the Information System for Nature Conservation (ISNC), for instance in Montenegro (<ext-link ext-link-type="uri" xlink:href="http://zasticenapodrucja-cg.tk//en">http://zasticenapodrucja-cg.tk//en</ext-link>), Bosnia and Herzegovina/entity of Republika Srpska (<ext-link ext-link-type="uri" xlink:href="http://e-priroda.rs.ba/en/"><underline>http://e-priroda.rs.ba/en/</underline></ext-link>) and entity of Federation of Bosnia and Herzegovina and North Macedonia (Standard Data Form - SDF application for NATURA 2000) and compiled dataset on five taxonomic groups of endemic taxa using the Darwin Core standard). Therefore, BIMR activities/priorities from the region have become more evident and supported along with ownership of BIMR tools acquired by the partner institutions and recognized at the global level through the Global Biodiversity Information Facility (GBIF).</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>data management</kwd>
+        <kwd>reporting</kwd>
+        <kwd>regional cooperation</kwd>
+        <kwd>South-East Europe</kwd>
+        <kwd>endemic species</kwd>
+        <kwd>information system for nature conservation</kwd>
+        <kwd>Global Biodiversity Information Facility (GBIF)</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Financed by the German Federal Ministry for Economic Cooperation and Development (BMZ) Implemented by the Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH (GIZ) Project title: Open Regional Fund for South-East Europe – Implementation of Biodiversity Agreements (ORF BDU)</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Azra Velagić-Hajrudinović</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next Conference 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

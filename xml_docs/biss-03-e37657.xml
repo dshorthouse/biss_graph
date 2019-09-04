@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37657</article-id>
+      <article-id pub-id-type="publisher-id">37657</article-id>
+      <article-id pub-id-type="manuscript">11445</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Taxonomy and Systematics in Biodiversity Informatics: Lessons learned from ichthyology and general perspectives </article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Bailly</surname>
+            <given-names>Nicolas</given-names>
+          </name>
+          <email xlink:type="simple">bailly@zoology.ubc.ca</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4994-0653</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of British Columbia / Beaty Biodiversity Museum, Vancouver, Canada</addr-line>
+        <institution>University of British Columbia / Beaty Biodiversity Museum</institution>
+        <addr-line content-type="city">Vancouver</addr-line>
+        <country>Canada</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nicolas Bailly (<email xlink:type="simple">bailly@zoology.ubc.ca</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37657</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/58D1ACB141D45A47B2BC5011EEFF2AF8">58D1ACB141D45A47B2BC5011EEFF2AF8</uri>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Although still strongly intertwined, taxonomy and systematics are diverging more and more in their paradigms, methods, and agendas: it is not possible to consider them as synonyms anymore. While taxonomy remains an analytical science based on abductive reasoning (trying to find the historical pathways leading to present species delineations), systematics diverged as an information science since the rise of computers: summarizing, organising, and exposing taxonomical, biological, and ecological data, information, and knowledge in the most efficient ways, with respect to various targeted audiences. One could even consider synonymising biodiversity informatics with systematics instead!</p>
+        <p>Schematically, this led to two different types of information systems: one dedicated to pure taxonomic and nomenclatural data; one oriented to record life-traits. Obviously, the latter must be built along reliable taxonomic backbones, therefore the former should have been built before the latter. It did not happen as exemplified in fishes by the Food and Agriculture Organisation (FAO) <ext-link ext-link-type="uri" xlink:href="http://www.fao.org/fishery/figis/en">Fisheries Global Information System</ext-link> (FIGIS) and related, <ext-link ext-link-type="uri" xlink:href="https://www.calacademy.org/scientists/projects/eschmeyers-catalog-of-fishes">Catalog of Fishes</ext-link>, and <ext-link ext-link-type="uri" xlink:href="https://www.fishbase.de/">FishBase</ext-link>, and later the databases of the <ext-link ext-link-type="uri" xlink:href="https://www.iucn.org/">International Union for Conservation of Nature</ext-link> (IUCN) and <ext-link ext-link-type="uri" xlink:href="http://www.marinespecies.org/">World Register of Marine Species</ext-link> (WoRMS), or for aggregators with <ext-link ext-link-type="uri" xlink:href="https://www.catalogueoflife.org/">Catalogue of Life</ext-link> and e.g., GBIF, Encyclopedia of Life. This has created some confusion for end users, “which system should I use” being their regular question with the invariable answer, “it depends”.</p>
+        <p>In the absence of a formal preexisting taxonomic information system, each biodiversity information system has developed its own way to manage its taxonomic backbone with more or less impact of taxonomists. For fishes, we are not far from reconciling the various systems, and data to knowledge flows are becoming clearer, but it is not without unnecessary extra work. A real breakthrough is necessary to move from a collaboration stage to a cooperative stage, where systems are interconnected (not necessarily integrated) in such a way that the same taxonomic work is not repeated over and over to synchronise the systems. The difficulty is that taxonomic information systems must be designed for the needs of taxonomists, while their resulting classifications and the way they are exposed must fit the needs of systematics/biodiversity systems purposes, and by extension of the rest of scientific domains and the society in general. Conditions for this breakthrough to happen are discussed.</p>
+        <p>The breakthrough does not reside in only one action but rather is the result of multiple simultaneous advances in the theory of taxonomy, its (mathematical?) formalization and informatics implementation, technology (although progress in that domain may be well in advance over others), data entry, networking, and sociology of science. The "potential taxon" concept (<xref ref-type="bibr" rid="B5233567">Berendsohn 1995</xref>) led to important theoretical progresses but its actual implementation lags behind in many systems, due probably to the huge effort of data entry it requires. Data entry is certainly a part that was neglected at the beginning of biodiversity informatics, because it has to be sustained endlessly, while the development of new systems was seen as more rewarding in time-limited frameworks. This has been corrected at least for occurrences and specimens, with the development of national and international digitization programs. Besides, the development of the <ext-link ext-link-type="uri" xlink:href="https://www.biodiversitylibrary.org/">Biodiversity Heritage Library</ext-link> and text extraction technologies is quite promising for taxon information.</p>
+        <p>As in all complex situations with many interacting dimensions (e.g., fisheries management in ichthyology), progress must be balanced among all dimensions to have effective results for the overall domain. Among others, issues in sociology of sciences, for instance, must be addressed to make significant progresses. In particular the way data, information and knowledge are published, and jobs delineated and careers evaluated, must still be seriously reviewed in the light of information system development.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>taxonomy</kwd>
+        <kwd>systematics</kwd>
+        <kwd>integration of information systems</kwd>
+        <kwd>ichthyology</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nicolas Bailly</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5233567">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Berendsohn</surname>
+              <given-names>Walter G.</given-names>
+            </name>
+          </person-group>
+          <year>1995</year>
+          <article-title>The Concept of "Potential Taxa" in Databases</article-title>
+          <source>Taxon</source>
+          <volume>44</volume>
+          <issue>2</issue>
+          <fpage>207</fpage>
+          <uri>https://www.jstor.org/stable/1222443</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

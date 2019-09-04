@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37182</article-id>
+      <article-id pub-id-type="publisher-id">37182</article-id>
+      <article-id pub-id-type="manuscript">10975</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Antarctic Biodiversity Portal, an Online Ecosystem for Linking, Integrating and Disseminating Antarctic Biodiversity Information</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Gan</surname>
+            <given-names>Yi-Ming</given-names>
+          </name>
+          <email xlink:type="simple">ymgan@naturalsciences.be</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Sweetlove</surname>
+            <given-names>Maxime</given-names>
+          </name>
+          <email xlink:type="simple">msweetlove@naturalsciences.be</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Van de Putte</surname>
+            <given-names>Anton</given-names>
+          </name>
+          <email xlink:type="simple">antonarctica@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-1336-5554</uri>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Belgian Institute of Natural Sciences, Brussels, Belgium</addr-line>
+        <institution>Royal Belgian Institute of Natural Sciences</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Yi-Ming Gan (<email xlink:type="simple">ymgan@naturalsciences.be</email>), Maxime Sweetlove (<email xlink:type="simple">msweetlove@naturalsciences.be</email>), Anton Van de Putte (<email xlink:type="simple">antonarctica@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37182</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/648B85DDAFB952D29191322517F8D291">648B85DDAFB952D29191322517F8D291</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Yi-Ming Gan, Maxime Sweetlove, Anton Van de Putte</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Antarctic Biodiversity portal (<ext-link ext-link-type="uri" xlink:href="http://www.biodiversity.aq/">biodiversity.aq</ext-link>) is a gateway to a wide variety of Antarctic biodiversity information and tools. Launched in 2015 as the Scientific Committee on Antarctic Research (SCAR) - Marine Biodiversity Information Network (SCAR-MarBIN, <ext-link ext-link-type="uri" xlink:href="http://www.scarmarbin.be/">scarmarbin.be</ext-link>) and the Register of Antarctic Marine Species (RAMS, <ext-link ext-link-type="uri" xlink:href="http://marinespecies.org/rams/">marinespecies.org/rams/</ext-link>), the system has grown in scope from purely marine to include terrestrial information.</p>
+        <p>Biodiversity.aq is a SCAR product, currently supported by Belspo (Belgian Science Policy) as one of the Belgian contributions to the European Lifewatch-European Research Infrastructure Consortium (Lifewatch-ERIC). The goal of Lifewatch is to provide access to: distributed observatories/sensor networks; interoperable databases, existing (data-)networks, using accepted standards; high performance computing (HPC) and grid power, including the use of the state-of-the-art of cloud and big data paradigm technologies; software and tools for visualization, analysis and modeling.</p>
+        <p>Here we provide an overview of the most recent advances in the biodiversity.aq online ecosystem, a number of use cases as well as an overview of future directions. Some of the most notable components are:</p>
+        <p>
+          <list list-type="bullet"><list-item><p>The Register of Antarctic Species (RAS, <ext-link ext-link-type="uri" xlink:href="http://ras.biodiversity.aq">ras.biodiversity.aq</ext-link>) is a component of the Lifewatch Taxonomic Backbone and  provides an authoritative and comprehensive list of names of marine and terrestrial species in Antarctica and the Southern Ocean. It serves as a reference guide for users to interpret taxonomic literature, as valid names and other names in use are both provided.</p></list-item><list-item><p>Integrated Publishing Toolkit (IPT, <ext-link ext-link-type="uri" xlink:href="http://ipt.biodiversity.aq">ipt.biodiversity.aq</ext-link>) allows disseminating Antarctic biodiversity data into global initiatives such as the Ocean Biogeographic Information System (OBIS, <ext-link ext-link-type="uri" xlink:href="https://obis.org/">obis.org</ext-link>) as Antarctic node of OBIS (Ant-OBIS, also formerly known as SCAR-MarBIN) and the Global Biodiversity Information Facility  (GBIF, <ext-link ext-link-type="uri" xlink:href="https://gbif.org">gbif.org</ext-link>) as Antarctic Biodiversity Information Facility (AntaBIF). Data that can be made available include metadata, species checklists, species occurrence data and more recently, sampling event-based data. Data from these international portals can be accessed through <ext-link ext-link-type="uri" xlink:href="https://data.biodiversity.aq">data.biodiversity.aq</ext-link>.</p></list-item></list>
+        </p>
+        <p>Through SCAR, <ext-link ext-link-type="uri" xlink:href="http://biodiversity.aq">Biodiversity.aq</ext-link> builds on an international network of expert that provide expert knowledge on taxonomy, species distribution,and ecology. It provides a strong and tested platform for sharing, integrating, discovering and analysing Antarctic biodiversity information originating from a variety of sources into a distributed system.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Antarctic</kwd>
+        <kwd>biodiversity</kwd>
+        <kwd>data management</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Federaal Wetenschapsbeleid</named-content>
+            <named-content content-type="funder_identifier">501100002749</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100002749</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Yi-Ming Gan</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>EU-Lifewatch</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Royal Belgian Institute for Natural Sciences</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>EU-Lifewatch</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Royal Belgian Institute for Natural Sciences</p>
+    </sec>
+  </back>
+</article>

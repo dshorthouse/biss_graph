@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37086</article-id>
+      <article-id pub-id-type="publisher-id">37086</article-id>
+      <article-id pub-id-type="manuscript">11191</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS19 - Exploring biodiversity knowledge by ontologies</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Towards an Ontology of Comparative Biogeography: New insights into the semantics of biodiversity conservation</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ung</surname>
+            <given-names>Visotheary</given-names>
+          </name>
+          <email xlink:type="simple">visotheary.ung@mnhn.fr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4049-0820</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Buttigieg</surname>
+            <given-names>Pier Luigi</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4366-3088</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">ISYEB CNRS MNHN, Paris, France</addr-line>
+        <institution>ISYEB CNRS MNHN</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Alfred-Wegener-Institut für Polar und Meeresforschung, Bremen, Germany</addr-line>
+        <institution>Alfred-Wegener-Institut für Polar und Meeresforschung</institution>
+        <addr-line content-type="city">Bremen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Visotheary Ung (<email xlink:type="simple">visotheary.ung@mnhn.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37086</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/089E5B6372AD531F80248237CB6860BD">089E5B6372AD531F80248237CB6860BD</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Visotheary Ung, Pier Luigi Buttigieg</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Climate change, habitat destruction, and myriad other ecological stressors will impact us all and have already contributed to what is being labeled the sixth wave of extinction (<xref ref-type="bibr" rid="B5216022">Ceballos et al. 2015</xref>, <xref ref-type="bibr" rid="B5216111">Régnier et al. 2015</xref>). As a countering force, conservation biology strives to identify those areas of the planet most worthy of protecting due to their unique natural value (<xref ref-type="bibr" rid="B5178288">Dudley and Stolton 2008</xref>). Despite their value, criticisms (<xref ref-type="bibr" rid="B5216054">Camillo and Peter 2011</xref>) have been leveled at 1) the social cost of maintaining protected status (<xref ref-type="bibr" rid="B5216088">Lele et al. 2010</xref>) and 2) instances of continued biodiversity decline despite protection regimes (<xref ref-type="bibr" rid="B5216075">Craigie et al. 2010</xref>, <xref ref-type="bibr" rid="B5216034">Dudley et al. 2014</xref>). At present, the selection and delimitation of protected areas is an intuitive and often subjective process, leading to ambiguities in the semantics behind and across their definitions.</p>
+        <p>Thus, we propose that the application of ontological techniques to the ambiguities in protected area semantics is a timely contribution to conservation informatics. We hold that coherent semantic representation of the biogeographic areas which overlap protected areas (often designated empirically) will provide more efficient and standardized informatics, supporting research and decision-making processes. Our approach draws from comparative biogeography, which seeks to classify biogeographic areas based on their natural properties in a process known as bioregionalisation. In particular, we convert a cladogram of biogeographic areas (similar to cladogram of taxa) into a series of ontological classes, each corresponding to a monophyletic clade of areas. In this model, areas of endemism are treated as formal objects related by hierarchical relationships and constrained by the monophyly condition (<xref ref-type="bibr" rid="B5178298">Ung 2018</xref>). This approach unifies a model-theoretic view of endemism with the semantic web and therefore, offering new possibilities to communicate the biogeographic units conservation.</p>
+        <p>We use semantic web standards (RDF and OWL) expressed through interoperable <ext-link ext-link-type="uri" xlink:href="http://www.obofoundry.org">"Open Biological and Biomedical Ontology (OBO</ext-link><ext-link ext-link-type="uri" xlink:href="http://www.obofoundry.org">)</ext-link> Foundry" and Library resources to model areas of endemism as evolutionary entities for comparative biogeography. This aligns with current efforts in the OBO Foundry to extend their semantic coverage to the domains of Earth and ecosystem science. Due to our work’s heavy reliance on environmental semantics, we base our work on the <ext-link ext-link-type="uri" xlink:href="http://www.environmentontology.org/">Environment Ontology (ENVO)</ext-link>, extending it with often confounded biogeographic entities including biogeographic areas, such as areas of endemism and endemic areas, as well as their relationships. Hence, we seek to provide a rigorous and simple framework that improves biogeographic analyses and interoperability between systems.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>conservation</kwd>
+        <kwd>comparative biogeography</kwd>
+        <kwd>ontology</kwd>
+        <kwd>semantics</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="8"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Visotheary Ung</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>PLB is funded by the HGF Infrastructure Programme FRAM of the Alfred-Wegener-Institut, Helmholtz-Zentrum für Polar- und Meeresforschung</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5216054">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Camillo</surname>
+              <given-names>Mora</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peter</surname>
+              <given-names>Sale</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>Ongoing global biodiversity loss and the need to move beyond protected areas: A review of the technical and practical shortcomings of protected areas on land and sea</article-title>
+          <source>Marine Ecology progress</source>
+          <volume>434</volume>
+          <fpage>251</fpage>
+          <lpage>266</lpage>
+          <pub-id pub-id-type="doi">10.3354/meps09214</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216022">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ceballos</surname>
+              <given-names>Gerardo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ehrlich</surname>
+              <given-names>Paul R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barnosky</surname>
+              <given-names>Anthony D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>García</surname>
+              <given-names>Andrés</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pringle</surname>
+              <given-names>Robert M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Palmer</surname>
+              <given-names>Todd M.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Accelerated modern human–induced species losses: Entering the sixth mass extinction</article-title>
+          <source>Science Advances</source>
+          <volume>1</volume>
+          <issue>5</issue>
+          <pub-id pub-id-type="doi">10.1126/sciadv.1400253</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216075">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Craigie</surname>
+              <given-names>Ian D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baillie</surname>
+              <given-names>Jonathan E. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Balmford</surname>
+              <given-names>Andrew</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Carbone</surname>
+              <given-names>Chris</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Collen</surname>
+              <given-names>Ben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Green</surname>
+              <given-names>Rhys E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hutton</surname>
+              <given-names>Jon M.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Large mammal population declines in Africa’s protected areas</article-title>
+          <source>Biological Conservation</source>
+          <volume>143</volume>
+          <issue>9</issue>
+          <fpage>2221</fpage>
+          <lpage>2228</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.biocon.2010.06.007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5178288">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Dudley</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stolton</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <source>Defining protecter areas: an international conference in Almeria, Spain.</source>
+          <publisher-name>IUCN</publisher-name>
+          <publisher-loc>Gland Switzerland</publisher-loc>
+          <size units="page">220</size>
+          <uri>http://cmsdata.iucn.org/downloads/almeria_proceedings_final.pdf</uri>
+          <isbn>978-2-8317-1132-4</isbn>
+        </element-citation>
+      </ref>
+      <ref id="B5216034">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Dudley</surname>
+              <given-names>Nigel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groves</surname>
+              <given-names>Craig</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Redford</surname>
+              <given-names>Kent H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stolton</surname>
+              <given-names>Sue</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>Where now for protected areas? Setting the stage for the 2014 World Parks Congress</article-title>
+          <source>Oryx</source>
+          <volume>48</volume>
+          <issue>4</issue>
+          <fpage>496</fpage>
+          <lpage>503</lpage>
+          <pub-id pub-id-type="doi">10.1017/s0030605314000519</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216088">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Lele</surname>
+              <given-names>Sharachchandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wilshusen</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brockington</surname>
+              <given-names>Dan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Seidler</surname>
+              <given-names>Reinmar</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bawa</surname>
+              <given-names>Kamaljit</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Beyond exclusion: alternative approaches to biodiversity conservation in the developing tropics</article-title>
+          <source>Current Opinion in Environmental Sustainability</source>
+          <volume>2</volume>
+          <fpage>94</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.cosust.2010.03.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5216111">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Régnier</surname>
+              <given-names>Claire</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Achaz</surname>
+              <given-names>Guillaume</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lambert</surname>
+              <given-names>Amaury</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cowie</surname>
+              <given-names>Robert H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouchet</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fontaine</surname>
+              <given-names>Benoît</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Mass extinction in poorly known taxa</article-title>
+          <source>Proceedings of the National Academy of Sciences</source>
+          <volume>112</volume>
+          <issue>25</issue>
+          <fpage>7761</fpage>
+          <lpage>7766</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1502350112</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5178298">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ung</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>The need for standard protocols in bioregionalisation: comments on "The spectre of biogeographical regionalization" by Morrone (2018)</article-title>
+          <source>Zootaxa</source>
+          <volume>4532</volume>
+          <issue>2</issue>
+          <fpage>296</fpage>
+          <lpage>300</lpage>
+          <pub-id pub-id-type="doi">10.11646/zootaxa.4532.2.10</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

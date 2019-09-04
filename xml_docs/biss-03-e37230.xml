@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37230</article-id>
+      <article-id pub-id-type="publisher-id">37230</article-id>
+      <article-id pub-id-type="manuscript">11369</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Training Machines to Identify Species using GBIF-mediated Datasets</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Robertson</surname>
+            <given-names>Tim</given-names>
+          </name>
+          <email xlink:type="simple">trobertson@gbif.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Belongie</surname>
+            <given-names>Serge</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Adam</surname>
+            <given-names>Hartwig</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kaeser-Chen</surname>
+            <given-names>Christine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zhang</surname>
+            <given-names>Chenyang</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chuan Tan</surname>
+            <given-names>Kiat</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Liu</surname>
+            <given-names>Yulong</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Brulé</surname>
+            <given-names>Denis</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Deltheil</surname>
+            <given-names>Cédric</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Loarie</surname>
+            <given-names>Scott</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Van Horn</surname>
+            <given-names>Grant</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mac Aodha</surname>
+            <given-names>Oisin</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Beery</surname>
+            <given-names>Sara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Perona</surname>
+            <given-names>Pietro</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Copas</surname>
+            <given-names>Kyle</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6590-599X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Waller</surname>
+            <given-names>John Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Cornell Tech, New York, United States of America</addr-line>
+        <institution>Cornell Tech</institution>
+        <addr-line content-type="city">New York</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Google Research, Los Angeles, United States of America</addr-line>
+        <institution>Google Research</institution>
+        <addr-line content-type="city">Los Angeles</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Google Research, New York, United States of America</addr-line>
+        <institution>Google Research</institution>
+        <addr-line content-type="city">New York</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Google Research, Paris, France</addr-line>
+        <institution>Google Research</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">iNaturalist, San Francisco, United States of America</addr-line>
+        <institution>iNaturalist</institution>
+        <addr-line content-type="city">San Francisco</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">California Institute of Technology, Pasadena, United States of America</addr-line>
+        <institution>California Institute of Technology</institution>
+        <addr-line content-type="city">Pasadena</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Tim Robertson (<email xlink:type="simple">trobertson@gbif.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37230</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/E6C16587D637514580EBDDC66C27F723">E6C16587D637514580EBDDC66C27F723</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Tim Robertson, Serge Belongie, Hartwig Adam, Christine Kaeser-Chen, Chenyang Zhang, Kiat Chuan Tan, Yulong Liu, Denis Brulé, Cédric Deltheil, Scott Loarie, Grant Van Horn, Oisin Mac Aodha, Sara Beery, Pietro Perona, Kyle Copas, John Thomas Waller</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Advances in machine vision technology are rapidly enabling new and innovative uses within the field of biodiversity. Computers are now able to use images to identify tens of thousands of species across a wide range of taxonomic groups in real time, notably demonstrated by iNaturalist.org, which suggests species IDs to users (<ext-link ext-link-type="uri" xlink:href="https://www.inaturalist.org/pages/computer_vision_demo"><underline>https://www.inaturalist.org/pages/computer_vision_demo</underline></ext-link>) as they create observation records. Soon it will be commonplace to detect species in video feeds or use the camera in a mobile device to search for species-related content on the Internet.</p>
+        <p>The Global Biodiversity Information Facility (GBIF) has an important role to play in advancing and improving this technology, whether in terms of data, collaboration across teams, or citation practice. But in the short term, the most important role may relate to initiating a cultural shift in accepted practices for the use of GBIF-mediated data for training of artificial intelligence (AI).</p>
+        <p>“Training datasets” play a critical role in achieving species recognition capability in any machine vision system. These datasets compile representative images containing the explicit, verifiable identifications of the species they include. High-powered computers run algorithms on these training datasets, analysing the imagery and building complex models that characterize defining features for each species or taxonomic group. Researchers can, in turn, apply the resulting models to new images, determining what species or group they likely contain. Current research in machine vision is exploring (a) the use of location and date information to further improve model results, (b) identification methods beyond species-level into attribute, character, trait, or part-level ID, with an eye toward human interpretability, and (c) expertise modeling for improved determination of “research grade” images and metadata.</p>
+        <p>The GBIF community has amassed one of the largest datasets of labelled species images available on the internet: more than 33 million species occurrence records in GBIF.org have one or more images (<ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/occurrence/gallery"><underline>https://www.gbif.org/occurrence/gallery</underline></ext-link>). Machine vision models, when integrated into the data collection tools in use across the GBIF network, can improve the user experience. For example, in citizen science applications like iNaturalist, automated species suggestion helps even novice users contribute occurrence records to GBIF.</p>
+        <p>Perhaps most importantly, GBIF has implemented uniform (and open) data licensing, established guidelines on citation and provided consistent methods for tracking data use through the Digital Object Identifiers (DOI) citation chain. GBIF would like to build on the lessons learned in these activities while striving to assist with this technology research and increase its power and availability.</p>
+        <p>We envisage an approach as follows:</p>
+        <p>
+          <list list-type="order"><list-item><p>To assist in developing and refining machine vision models, GBIF plans to provide training datasets, taking effort to ensure license and citation practice are respected. The training datasets will be issued with a DOI, and the contributing datasets will be linked through the DOI citation graph.</p></list-item><list-item><p>To assist application developers, Google and Visipedia plan to build and publish openly-licensed models and tutorials for how to adapt them for localized use.</p></list-item><list-item><p>Together we will strive to ensure that data is being used responsibly and transparently, to close the gap between machine vision scientists, application developers, and users and to share taxonomic trees capturing the taxon rank to which machine vision models can identify with confidence based on an image’s visual characteristics.</p></list-item></list>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity species</kwd>
+        <kwd>machine vision</kwd>
+        <kwd>training models</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Tim Robertson</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

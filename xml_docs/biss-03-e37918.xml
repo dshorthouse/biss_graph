@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37918</article-id>
+      <article-id pub-id-type="publisher-id">37918</article-id>
+      <article-id pub-id-type="manuscript">11367</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COP - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Framework for Wetlands' Ecological Integrity Assessment in Rwanda</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kubwimana</surname>
+            <given-names>Jean Paul</given-names>
+          </name>
+          <email xlink:type="simple">jkubwimana@arcosnetwork.org</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kanyamibwa</surname>
+            <given-names>Sam</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Albertine Rift Conservation Society (ARCOS), Kigali, Rwanda</addr-line>
+        <institution>Albertine Rift Conservation Society (ARCOS)</institution>
+        <addr-line content-type="city">Kigali</addr-line>
+        <country>Rwanda</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jean Paul Kubwimana (<email xlink:type="simple">jkubwimana@arcosnetwork.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37918</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/476D80848FCD595489C69E8E9E494629">476D80848FCD595489C69E8E9E494629</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jean Paul Kubwimana, Sam Kanyamibwa</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Wetland's Ecological Integrity Assessment refers to "an assessment approaches that measures overall wetland condition with an emphasis on the structure, composition, and function of an ecosystem in reference to a natural habitat of the region" It provides government agencies, and key stakeholders with critical information on factors that may be degrading, maintaining or helping to restore an ecosystem, therefore supporting decision making. With continued degradation of protected areas over the last four decades, wetland ecosystems served as soft edges for biodiversity and genetic resources in Rwanda. However, there is no holistic framework to assess the ecological integrity of these important ecosystems, and the little and incomplete information collected is scattered, hence difficult to access. Consequently, wetlands are under continued overexploitation, reclamation pollution, biodiversity and ecological functions loss (<xref ref-type="bibr" rid="B5215277">Singh et al. 2015</xref>). Throughout a six months period, with a participatory planning process that involved individual expert consultations and workshops, supported with a robust literature review and the established multidisciplinary technical team, we came up with a holistic and Integrated Framework for Wetlands' Ecological Integrity Assessemnt. The framework is cost-effective and was designed to collect and analyse data on the structure (soil, hydrology), composition (biota), and functions (Ecosystem services mapping and valuation) as well as the social economy status within and around wetland landscapes in the region. In addition, the ARCOS Biodiversity Information Management System (<ext-link ext-link-type="uri" xlink:href="http://arbmis.arcosnetwork.org">ARBIMS</ext-link>), an online platform for data sharing, was developed and upgraded. The developed assessment framework will help to mobilize and integrate biodiversity data into relevant documents to inform wetland management plans and support other investment decisions in Rwanda.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>ecological integrity</kwd>
+        <kwd>assessment framework</kwd>
+        <kwd>decision making</kwd>
+        <kwd>ecosystem services</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jean Paul Kubwimana</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5215277">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Singh</surname>
+              <given-names>Ashbindu</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Barr</surname>
+              <given-names>Jane E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lund</surname>
+              <given-names>H. Gyde</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Tovivo</surname>
+              <given-names>Kouasslgan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gelaye</surname>
+              <given-names>Mesfin Tilahun</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ochieng</surname>
+              <given-names>Eugene Apindi</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Giese</surname>
+              <given-names>Kim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nyamihana</surname>
+              <given-names>Camille</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Rwanda - State of Environment and Outlook Report 2015</article-title>
+          <source>Environmental Pulse Institute</source>
+          <pub-id pub-id-type="doi">10.13140/RG.2.1.5148.6328</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37892</article-id>
+      <article-id pub-id-type="publisher-id">37892</article-id>
+      <article-id pub-id-type="manuscript">11525</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI22 - DiSSCo as a model for regional development of collections infrastructure</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Requirement Analysis for the DiSSCo Research Infrastructure</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Raes</surname>
+            <given-names>Niels</given-names>
+          </name>
+          <email xlink:type="simple">nlbif@naturalis.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4329-4892</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>van Egmond</surname>
+            <given-names>Emily</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Addink</surname>
+            <given-names>Wouter</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3090-1761</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hardisty</surname>
+            <given-names>Alex</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Naturalis Biodiversity Center, Leiden, Netherlands</addr-line>
+        <institution>Naturalis Biodiversity Center</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Free University, Amsterdam, Netherlands</addr-line>
+        <institution>Free University</institution>
+        <addr-line content-type="city">Amsterdam</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Distributed System of Scientific Collections - DiSSCo, Leiden, Netherlands</addr-line>
+        <institution>Distributed System of Scientific Collections - DiSSCo</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Species 2000 Secretariat, Leiden, Netherlands</addr-line>
+        <institution>Species 2000 Secretariat</institution>
+        <addr-line content-type="city">Leiden</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">School of Computer Science &amp; Informatics, Cardiff University, Cardiff, United Kingdom</addr-line>
+        <institution>School of Computer Science &amp; Informatics, Cardiff University</institution>
+        <addr-line content-type="city">Cardiff</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Niels Raes (<email xlink:type="simple">nlbif@naturalis.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37892</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D6BA0F2EFF3155C6AB90B7BFF9A70D3D">D6BA0F2EFF3155C6AB90B7BFF9A70D3D</uri>
+      <history>
+        <date date-type="received">
+          <day>03</day>
+          <month>07</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Niels Raes, Emily van Egmond, Wouter Addink, Alex Hardisty</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p><ext-link ext-link-type="uri" xlink:href="https://dissco.eu/"><underline>DiSSCo</underline></ext-link> – the <bold>Di</bold>stributed <bold>S</bold>ystem of <bold>S</bold>cientific <bold>Co</bold>llections – will mobilise, unify and deliver bio- and geo-diversity information at the scale, form and precision required by scientific communities, and thereby transform a fragmented landscape into a coherent and responsive research infrastructure. At present DiSSCo has 115 partners from 21 countries across Europe. The DiSSCo research infrastructure will enable critical new insights from integrated digital data to address some of the world's greatest challenges, such as biodiversity loss, food security and impacts of climate change. A requirement analysis for DiSSCo was conducted to ensure that all of its envisioned future uses are accommodated through a large survey using <ext-link ext-link-type="uri" xlink:href="https://www.agilealliance.org/glossary/epic/">epic</ext-link><ext-link ext-link-type="uri" xlink:href="https://www.agilealliance.org/glossary/epic/"> user stories</ext-link>. An epic user story has the following format:</p>
+        <p><bold>As</bold> [e.g. scientist] <bold>I want to</bold> [e.g. map the distribution of a species through time] <bold>so that I</bold> [e.g. analyse the impact of climate change] <bold>for this I need</bold> [e.g. all georeferenced specimens records through time]</p>
+        <p>Several consultation rounds within the <ext-link ext-link-type="uri" xlink:href="https://www.icedig.eu"><underline>ICEDIG</underline></ext-link> community resulted in 78 unique user stories that were assigned to one, or more, out of seven recognized stakeholder categories:</p>
+        <p>
+          <list list-type="order"><list-item><p>Research,</p></list-item><list-item><p>Collection management,</p></list-item><list-item><p>Technical support,</p></list-item><list-item><p>Policy,</p></list-item><list-item><p>Education,</p></list-item><list-item><p>Industry, and</p></list-item><list-item><p>External.</p></list-item></list>
+        </p>
+        <p>Each user story was assessed for the level of collection detail it required; four levels of detail were recognised: Collection, Taxonomic, Storage unit, and Specimen level. Furthermore, it was assessed whether the future envisioned use of digitised natural history collections were possible without the DiSSCo research infrastructure.</p>
+        <p>Subsequently 1243 identified stakeholders were invited to review the DiSSCo user stories through a Survey Monkey questionnaire. Additionally, an invitation for review was posted in several Facebook groups and announced on Twitter. A total of 379 stakeholders responded to the invitation, which led to 85 additional user stories for the envisioned use of the DiSSCo research infrastructure. In order to assess which component of the DiSSCo data flow diagram should facilitate the described user story, all user stories were mapped to the five phases of the DiSSCo Data Management Cycle (DMC), including data:</p>
+        <p>
+          <list list-type="order"><list-item><p>acquisition,</p></list-item><list-item><p>curation,</p></list-item><list-item><p>publishing,</p></list-item><list-item><p>processing, and</p></list-item><list-item><p>use.</p></list-item></list>
+        </p>
+        <p>At present, the user stories are being analysed and the results will be presented in this symposium.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>DiSSCo</kwd>
+        <kwd>ICEDIG</kwd>
+        <kwd>research infrastructure</kwd>
+        <kwd>user story</kwd>
+        <kwd>data management cycle</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Niels Raes</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

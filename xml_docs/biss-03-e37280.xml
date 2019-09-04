@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37280</article-id>
+      <article-id pub-id-type="publisher-id">37280</article-id>
+      <article-id pub-id-type="manuscript">11329</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Data Sharing in CASEarth Project</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ji</surname>
+            <given-names>Liqiang</given-names>
+          </name>
+          <email xlink:type="simple">ji@ioz.ac.cn</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1703-5723</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>He</surname>
+            <given-names>Guojin</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Yan</surname>
+            <given-names>Dongmei</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Institute of Zoology, Chinese Academy of Sciences, Beijing, China</addr-line>
+        <institution>Institute of Zoology, Chinese Academy of Sciences</institution>
+        <addr-line content-type="city">Beijing</addr-line>
+        <country>China</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Institute of Remote Sensing and Digital Earth, CAS, Beijing, China</addr-line>
+        <institution>Institute of Remote Sensing and Digital Earth, CAS</institution>
+        <addr-line content-type="city">Beijing</addr-line>
+        <country>China</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Liqiang Ji (<email xlink:type="simple">ji@ioz.ac.cn</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37280</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/85F7002FD259508E93911013760C82C8">85F7002FD259508E93911013760C82C8</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Liqiang Ji, Guojin He, Dongmei Yan</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Big Earth Data Projects (CASEarth; <ext-link ext-link-type="uri" xlink:href="http://www.casearth.com">http://www.casearth.com</ext-link>) is a key project to make research data in the fields of biology, ecology, environment and resource science in the Chinese Academy of Sciences (CAS) converge in a synthesis facility, to serve data driving fundamental research and decision making in China. The project was launched January 1, 2018 and funded by CAS. Data sharing is one of most important issues in the project, which is not only a prerequisity, but also a symbol for success in the big data era. A series of regulations refering to the data sharing policy in the CASEarch Project of CAS have been drafted and implemented in the project, including data quality contral, data submitting, data evaluation, data sharing to scientists and decision makers. Dozens of data sets have been re-arranged and submitted to a centralized data warehouse since June 2018, successfully aggregating &gt;250 volumes of detailed monographs of fauna and flora, biodiversity red lists and maps, invasive species data, 3D imagery of specimens, a microbial culture catalogue, genomic data for agricultural/domestic and wild species, checklists and introducing records for botanical gardens, vegetation maps, biodiversity monitoring, nature reserves, wetland birds distribution and conservation, plant phenology (1960-present), ecosystems, paleontological data, and fundamental geographic data such as population, economy, land use, and remote sensing. The Catalogue of Life – China, a species checklist, is the backbone of the biodiversity data sets above. Our data sharing platform (<ext-link ext-link-type="uri" xlink:href="http://www.casearth.com">http://data.casearth.cn</ext-link>), launched January 15, 2019, currently houses 5 PB of data. Registration is open to all, and registered users can browse metadata or keyword search on the platform and download data. Although the portal is currently available in Chinese, an English portal will be launched in 2020.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>CASEarth</kwd>
+        <kwd>data sharing</kwd>
+        <kwd>policy</kwd>
+        <kwd>platform</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Chinese Academy of Sciences</named-content>
+            <named-content content-type="funder_identifier">501100002367</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100002367</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Liqiang Ji</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>The Strategic Priority Research Program of the Chinese Academy of Sciences, Grant No. XDA19050202</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>The Strategic Priority Research Program of the Chinese Academy of Sciences, Grant No. XDA19050202</p>
+    </sec>
+  </back>
+</article>

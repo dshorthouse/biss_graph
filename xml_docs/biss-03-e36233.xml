@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36233</article-id>
+      <article-id pub-id-type="publisher-id">36233</article-id>
+      <article-id pub-id-type="manuscript">11608</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS78 - Facilitating Capacity Building of Young Researchers</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Making Known and Available: The importance of digitization of a historical malacological collection in the Science Museum of the University of Coimbra</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Breves</surname>
+            <given-names>André</given-names>
+          </name>
+          <email xlink:type="simple">brevesramos@uc.pt</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Girão da Cruz</surname>
+            <given-names>M. Teresa</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-2625-2567</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Casaleiro</surname>
+            <given-names>Pedro</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Science Museum of the University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>Science Museum of the University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Centre for Functional Ecology, Department of Life Sciences, University of Coimbra, Coimbra, Portugal</addr-line>
+        <institution>Centre for Functional Ecology, Department of Life Sciences, University of Coimbra</institution>
+        <addr-line content-type="city">Coimbra</addr-line>
+        <country>Portugal</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: André Breves (<email xlink:type="simple">brevesramos@uc.pt</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36233</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/77D40AB8BECC5CC2BFF7E4AF8A0D6443">77D40AB8BECC5CC2BFF7E4AF8A0D6443</uri>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>André Breves, M. Teresa Girão da Cruz, Pedro Casaleiro</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The Science Museum of the University of Coimbra (MCUC) manages the oldest zoological collections in Portugal. The molluscs are among the most relevant invertebrates within this collection, with over one hundred thousand specimens. A significant part of the Portuguese malacological collection in MCUC comes from the Madeira Archipelago, a group of oceanic islands with a high diversity of terrestrial molluscs and a hotspot of endemic taxa. </p>
+        <p>A recent review of land snails from Madeira hosted at the MCUC revealed that there were around 130 lots and 2,000 specimens offered by naturalists since the 19<sup>th</sup> Century and none of them had been previously digitized. A significant number of these specimens was offered by António da Costa de Paiva (Barão de Castelo de Paiva) who <styled-content style="display: none;"/><styled-content style="display: none;"/>described ten land snail species from the Madeira Archipelago in 1866 and published an extensive monograph on non-marine molluscs in 1867.</p>
+        <p>The main goal of our work was to carry out the inventory of the mollusc collections from the Madeira Archipelago in the database of MCUC, and to discuss the importance of specimens’ digitization for making the collections known and available to researchers and the general public.</p>
+        <p>We inserted data for 1,916 specimens of the Madeira Archipelago collection in the MCUC database ‘<italic>In</italic> Natura - Natural Heritage Management’ with information on their taxonomy, old inventory numbers (if available), correspondent lot, collector and the study areas, complemented with information about habitat, among others. In addition, we also included photographs of the lots and of some of the most remarkable individuals in the database. The specimens were then reconditioned and identified in the general mollusc collection, although the identification and designation of the type material are still lacking.</p>
+        <p>Digitization is crucial in the field of biological collections in order to transfer specimen data onto worldwide accessible repositories, potentially benefiting the work of researchers and other stakeholders in the ecological and conservation communities. For instance, even when researchers are intensively searching for a type material in a certain collection, if the data are neither known nor available, they cannot trace it and compare it with their material.</p>
+        <p>Thus, this work is fundamental for the accessibility of the malacological collections in the MCUC for researchers and also the society-at-large that has the possibility of consulting them through the digital museum (http://museudaciencia.inwebonline.net), as well as for the dissemination of the important historical and scientific heritage of the University of Coimbra and Portugal, both nationally and internationally.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Digitization</kwd>
+        <kwd>Malacology</kwd>
+        <kwd>Natural History Museums</kwd>
+        <kwd>Zoological Collections</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>André Breves </p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 - "SS78 - Facilitating Capacity Building of Young Researchers"</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to thank Fundação para a Ciência e a Tecnologia (FCT) for the scholarship granted to the first author, and the Projects PRISC - <italic>Portuguese Research Infrastructure of Scientific Collections </italic>(POCI-01-0145-FEDER-022168) and PORBIOTA - Portuguese distributed e-infrastructure to manage biodiversity data. </p>
+    </ack>
+  </back>
+</article>

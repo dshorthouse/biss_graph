@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37141</article-id>
+      <article-id pub-id-type="publisher-id">37141</article-id>
+      <article-id pub-id-type="manuscript">11527</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>ALICE, MALICE and VILE: High throughput insect specimen digitisation using angled imaging techniques</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Dupont</surname>
+            <given-names>Steen</given-names>
+          </name>
+          <email xlink:type="simple">steen.dupont@nhm.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-6766-2840</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Price</surname>
+            <given-names>Benjamin W</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Natural History Museum, London, United Kingdom</addr-line>
+        <institution>Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Steen Dupont (<email xlink:type="simple">steen.dupont@nhm.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37141</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5D9725A47A285D88B94C7E755516FB20">5D9725A47A285D88B94C7E755516FB20</uri>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Steen Dupont, Benjamin W Price</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The world’s natural history collections contain at least 2 billion specimens (<xref ref-type="bibr" rid="B5188698">Ariño 2010</xref>), representing a unique data source for answering fundamental scientific questions about ecological, evolutionary, and geological processes. Unlocking this treasure trove of data, stored in thousands of museum drawers and cabinets, is crucial to help map a sustainable future for ourselves and the natural systems on which we depend. The rate-limiting steps in the digitisation of natural history collections often involve specimen handling, due to their fragile nature. Insects comprise the single largest collection type in the Natural History Museum, London (NHM) and in many other collections, reflecting their global diversity and multiplicity. The NHM pinned insect collection, estimated at 25 million specimens, will take over 700 person years to digitise at current rates (<xref ref-type="bibr" rid="B5188782">Price et al. 2018</xref>: estimated from <xref ref-type="bibr" rid="B5188746">Blagoderov et al. 2017</xref>).</p>
+        <p>In order to ramp up digitisation, we have developed ALICE for Angled Label Image Capture and Extraction from pinned insects. This multi-camera setup (Fig. <xref ref-type="fig" rid="F5198202">1</xref>) and associated software processing pipeline, enables primary data capture from angled images, without removal of the labels from the specimen pin. As a result ALICE enables a single user to sustainably digitise (add a catalogue label, image and prepare images for database import) over 800 specimens per day (<xref ref-type="bibr" rid="B5188782">Price et al. 2018</xref>), allowing us to digitally unlock large parts of the insect collection (e.g., Hymenoptera, Diptera, Coleoptera) at up to seven times the previous rate.</p>
+        <p>We are continuing to refine hardware approaches to reduce specimen handling and extract data, for both human and machine interpretation, from labels without removing them from the object. More recently we are also trialing multiple mirrors in our Mirror Angled Label Image Capture Equipment (MALICE) (Fig. <xref ref-type="fig" rid="F5198365">2</xref>) or a rotating stage for our Vial Image Label Extraction (VILE) (Fig. <xref ref-type="fig" rid="F5198206">3</xref>) aimed at spirit-preserved specimens housed in vials. In this talk, we will outline the current approaches in use at the Natural History Museum, next generation prototypes, and challenges that need to be addressed before these techniques can be fully optimized.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>digitisation</kwd>
+        <kwd>pinned specimens</kwd>
+        <kwd>spirit preserved specimens</kwd>
+        <kwd>label extraction</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="3"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Steen Dupont</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank Louise Allan, Laura Balcells, Vladimir Blagoderov, Alice Butcher, James Durrant, Pieter Holtzhausen, Sameh Sharif, Steve Suttle, Glen Moor and Phaedra Kokkini for their contributions to developing and testing the workflows, hardware and associated software. These projects have received support from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 777483 “ICEDIG”; the SYNTHESYS Project, http://www.synthesys.info/, which is financed by European Community Research Infrastructure Action under the FP7 Integrating Activities Programme (Grant agreement number 312253); and the Natural History Museum’s Digital Collections Programme.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5188698">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ariño</surname>
+              <given-names>Arturo H.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Approaches to estimating the universe of natural history collections data</article-title>
+          <source>Biodiversity Informatics</source>
+          <volume>7</volume>
+          <issue>2</issue>
+          <pub-id pub-id-type="doi">10.17161/bi.v7i2.3991</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5188746">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Blagoderov</surname>
+              <given-names>Vladimir</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Penn</surname>
+              <given-names>Malcolm</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sadka</surname>
+              <given-names>Mike</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hine</surname>
+              <given-names>Adrian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brooks</surname>
+              <given-names>Stephen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Siebert</surname>
+              <given-names>Darrell</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sleep</surname>
+              <given-names>Chris</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cafferty</surname>
+              <given-names>Steve</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cane</surname>
+              <given-names>Elisa</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martin</surname>
+              <given-names>Geoff</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Toloni</surname>
+              <given-names>Flavia</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wing</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chainey</surname>
+              <given-names>John</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Duffell</surname>
+              <given-names>Liz</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Huxley</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ledger</surname>
+              <given-names>Sophie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McLaughlin</surname>
+              <given-names>Caitlin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mazzetta</surname>
+              <given-names>Gerardo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Perera</surname>
+              <given-names>Jasmin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crowther</surname>
+              <given-names>Robyn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Douglas</surname>
+              <given-names>Lyndsey</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Durant</surname>
+              <given-names>Joanna</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Scialabba</surname>
+              <given-names>Elisabetta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Honey</surname>
+              <given-names>Martin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Huertas</surname>
+              <given-names>Blanca</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Howard</surname>
+              <given-names>Theresa</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Carter</surname>
+              <given-names>Victoria</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Albuquerque</surname>
+              <given-names>Sara</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Paterson</surname>
+              <given-names>Gordon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kitching</surname>
+              <given-names>Ian</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>iCollections methodology: workflow, results and lessons learned</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>5</volume>
+          <fpage>e21277</fpage>
+          <pub-id pub-id-type="doi">10.3897/bdj.5.e21277</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5188782">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Price</surname>
+              <given-names>Benjamin Wills</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dupont</surname>
+              <given-names>Steen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Allan</surname>
+              <given-names>Elizabeth Louise</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blagoderov</surname>
+              <given-names>Vladimir</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Butcher</surname>
+              <given-names>Alice Jenny</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Durrant</surname>
+              <given-names>James</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holtzhausen</surname>
+              <given-names>Pieter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kokkini</surname>
+              <given-names>Phaedra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Livermore</surname>
+              <given-names>Laurence</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hardy</surname>
+              <given-names>Helen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Vincent</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>ALICE: Angled Label Image Capture and Extraction for high throughput insect specimen digitisation</article-title>
+          <source>SF Preprints</source>
+          <pub-id pub-id-type="doi">10.31219/osf.io/s2p73</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5198202" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>ALICE multi-camera setup <italic>in situ</italic> and examples of specimen overview and label images captured by each of the cameras. Note: example images are cropped for display.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37141-g001.png" position="float" id="oo_293696.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <fig id="F5198365" position="float" orientation="portrait">
+      <label>Figure 2.</label>
+      <caption>
+        <p>The image output of an early mirrored ALICE prototype including manual crop and deskew of the six specimen views and a label stack consisting of the six superimposed extracted label crops.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37141-g002.jpg" position="float" id="oo_294001.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <fig id="F5198206" position="float" orientation="portrait">
+      <label>Figure 3.</label>
+      <caption>
+        <p>Overview of the rotating stage setup for vial label imaging, with five images of an example vial, combined into a single overview image enabling transcription of the visible label data.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37141-g003.png" position="float" id="oo_293751.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

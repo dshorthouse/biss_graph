@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.39004</article-id>
+      <article-id pub-id-type="publisher-id">39004</article-id>
+      <article-id pub-id-type="manuscript">11262</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>From Field to Web: Pre-entry point digitisation</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Blagoderov</surname>
+            <given-names>Vladimir</given-names>
+          </name>
+          <email xlink:type="simple">vblago@gmail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8684-8421</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">The Natural History Museum, London, United Kingdom</addr-line>
+        <institution>The Natural History Museum</institution>
+        <addr-line content-type="city">London</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">National Museums Scotland, Edinburgh, United Kingdom</addr-line>
+        <institution>National Museums Scotland</institution>
+        <addr-line content-type="city">Edinburgh</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Vladimir Blagoderov (<email xlink:type="simple">vblago@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e39004</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/09E1553A5F345AD2A802C33B4563B052">09E1553A5F345AD2A802C33B4563B052</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>08</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Vladimir Blagoderov</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Most digitisation workflows are focused on legacy material, due to the sheer number of objects already collected. However, it is just as important to develop protocols for digitisation of incoming material to reduce accumulation of an additional backlog. This is especially crucial with the advent of molecular collections and field sequencing. In-the-field extraction and sequencing (<xref ref-type="bibr" rid="B5205222">Oxford Nanopore Technologies 2018</xref>) may lead to increasing numbers of voucher specimens without proper collection data and labels; or specimens disassociated with data. It is easy for researchers occupied by collecting and sequencing to delay proper documentation until a later date. As a curator, I can vouch that specimens without properly recorded data (with only collecting codes, for example) are lost for science. Fortunately, a combination of the best collecting and curatorial practices, simple online and offline tools, and modern technologies, makes in-the-field digitisation a reality.</p>
+        <p>In the last couple of years, entomologists at the National Museums Scotland (NMS) have been testing the following workflow:</p>
+        <p>
+          <list list-type="order"><list-item><p>Collecting routes and points are recorded with ViewRanger (<xref ref-type="bibr" rid="B5205231">Augmentra Ltd 2019</xref>), available as an app for mobile phones;</p></list-item><list-item><p>At the moment of collecting, event data is recorded with Epicollect5 (<xref ref-type="bibr" rid="B5205249">Imperial College London 2019</xref>), available as Android app. Software's field generator allows creation of different scenarios, depending on method or circumstances of collection; and records main types of data: text, dates, time, coordinates. Individual collecting code is associated with the record;</p></list-item><list-item><p>Specimens collected are prepared (pinned, stored in preservative, dried, etc.) and associated with corresponding collecting code;</p></list-item><list-item><p>Additional data (diary records) is recorded in a notebook with Neo Smartpen (<xref ref-type="bibr" rid="B5205276">NEO SMARTPEN Inc. 2017</xref>) and digitsed.</p></list-item><list-item><p>Collecting event records are imported into a collection management system (CMS) (PAPIS, <xref ref-type="bibr" rid="B5205258">Pape and Ioannou 2019</xref>) or EarthCape (<xref ref-type="bibr" rid="B5205267">EarthCape 2019</xref>);</p></list-item><list-item><p>Specimen lots (if relevant) are sorted to a desirable level;</p></list-item><list-item><p>Multiple specimen or lot records are created in CMS based on collecting event records;</p></list-item><list-item><p>Data labels and UID labels are printed and physically associated with specimens or lots;</p></list-item><list-item><p>Additional data (klm file of collecting route, diary records) are imported and associated with collecting events.</p></list-item></list>
+        </p>
+        <p>Steps 1-4, and, depending on available facilities, steps 5-9, can be performed in the field, before specimens reach the depository. Alternatively, steps 5-9 should be performed immediately on returning from the field.</p>
+        <p>There is no excuse for newly collected material not to be digitised before it is reaches the collection. Recent entomological collecting trips of NMS yielded 7358 specimens from 72 collecting events, fully documented and digitised in a matter of hours.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>collections</kwd>
+        <kwd>databasing</kwd>
+        <kwd>GPS</kwd>
+        <kwd>tool</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="6"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Vladimir Blagoderov</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5205231">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Ltd</surname>
+              <given-names>Augmentra</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>ViewRanger</article-title>
+          <uri>https://www.viewranger.com/en-gb</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5205267">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>EarthCape</surname>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>EarthCape</article-title>
+          <date-in-citation content-type="released">2019-04-15T00:00:00+03:00</date-in-citation>
+          <uri>https://earthcape.com/</uri>
+          <comment content-type="Version">18.2.7044</comment>
+        </element-citation>
+      </ref>
+      <ref id="B5205249">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>London</surname>
+              <given-names>Imperial College</given-names>
+            </name>
+          </person-group>
+          <article-title>epicollect5</article-title>
+          <uri>https://five.epicollect.net/</uri>
+          <date-in-citation content-type="access-date">2019-04-21T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5205276">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Inc.</surname>
+              <given-names>NEO SMARTPEN</given-names>
+            </name>
+          </person-group>
+          <article-title>Neo Smartpen</article-title>
+          <uri>https://www.neosmartpen.com/</uri>
+          <date-in-citation content-type="access-date">2019-04-21T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5205222">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Technologies</surname>
+              <given-names>Oxford Nanopore</given-names>
+            </name>
+          </person-group>
+          <article-title>MiniON</article-title>
+          <uri>https://nanoporetech.com/products/minion</uri>
+          <date-in-citation content-type="access-date">2018-04-21T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5205258">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Pape</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ioannou</surname>
+              <given-names>Nikolas</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>Papis</article-title>
+          <uri>http://www.papis.dk/</uri>
+          <comment content-type="Version">6.5</comment>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

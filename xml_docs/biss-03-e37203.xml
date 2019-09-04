@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37203</article-id>
+      <article-id pub-id-type="publisher-id">37203</article-id>
+      <article-id pub-id-type="manuscript">11491</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS19 - Exploring biodiversity knowledge by ontologies</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Anatomy Knowledge Graphs: Toward FAIR morphological data</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Vogt</surname>
+            <given-names>Lars</given-names>
+          </name>
+          <email xlink:type="simple">lars.m.vogt@googlemail.com</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8280-0487</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Rheinische Friedrich-Wilhelms-Universität, Bonn, Germany</addr-line>
+        <institution>Rheinische Friedrich-Wilhelms-Universität</institution>
+        <addr-line content-type="city">Bonn</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Lars Vogt (<email xlink:type="simple">lars.m.vogt@googlemail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37203</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/FF85E8D1D4E15E6EA68226828BE26704">FF85E8D1D4E15E6EA68226828BE26704</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Lars Vogt</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Most morphological data are still published as unstructured texts. This has far-reaching consequences for the <underline>F</underline>indability, <underline>A</underline>ccessibility, <underline>I</underline>nteroperability and <underline>R</underline>eusability of morphological data and thus for their FAIRness (<xref ref-type="bibr" rid="B5186236">Wilkinson et al. 2016</xref>). The lack of FAIR morphological data significantly affects their general usability within the life sciences. With the advent of the Semantic Web and an increasing amount of publicly accessible anatomy ontologies, technically feasible solutions to this linguistic problem of morphology have become available. After a brief introduction to the distinction between instance anatomy (anatomical data pertaining to instances, i.e. individuals) and canonical anatomy (generalized anatomical knowledge), between assertional statements (i.e., ABox expressions, statements about instances) and universal statements (i.e., TBox expressions, statements about kinds or classes), and between knowledge bases and ontologies, I compare two different approaches of representing anatomy through Resource Description Framework (RDF) based graphs (see Fig. <xref ref-type="fig" rid="F5186336">1</xref>): i) <italic>Semantic Phenotypes</italic>, which are class-based graphs that document anatomy purely as TBox expressions and ii) <italic>Semantic Instance Anatomy Knowledge Graphs</italic> (short: <italic>Anatomy Knowledge Graphs</italic>), which are instance-based graphs that document anatomy as a combination of ABox and TBox expressions, thereby limiting the portion of TBox expressions to a minimum. While both approaches provide solutions to the linguistic problem of morphology, they differ not only conceptually but also in their technical details. Because <italic>Anatomy Knowledge Graphs</italic> include ABox expressions, they allow the identification of any individually described part or property within the description through the part’s or property’s particular URI. This detail allows fragmentation of a morphological description into meaningful description fragments and reuse of these fragments in other contexts. Because <italic>Anatomy Knowledge Graphs</italic> limit TBox expressions to a minimum, they also perform better in many queries as querying ABox expressions is computationally less difficult than querying TBox expressions. These technical differences between the two approaches have substantial practical consequences that significantly affect the FAIRness of morphological data. Compared to <italic>Semantic Phenotypes</italic>, morphological data in the form of <italic>Anatomy Knowledge Graphs</italic> are overall more FAIR.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Anatomy Knowledge Graph</kwd>
+        <kwd>semantic phenotype</kwd>
+        <kwd>FAIR data principle</kwd>
+        <kwd>anatomy</kwd>
+        <kwd>morphological description</kwd>
+        <kwd>semantic graph</kwd>
+        <kwd>knowledge graph</kwd>
+        <kwd>ontology</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Deutsche Forschungsgemeinschaft</named-content>
+            <named-content content-type="funder_identifier">501100001659</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/501100001659</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Lars Vogt</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>VO 1244/8-1</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Rheinische Friedrich-Wilhelms-Universität, Bonn, Germany</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>I thank Peter Grobe, Roman Baum, Christian Köhler, Sandra Meid, Björn Quast, Stefan Richter, Christian Wirkner, Michael Ohl, Stefan Graf, Jan Decher, and Christian Montermann for discussing the here presented ideas. I thank István Mikó, Matt Yoder, and Torben Göpel for discussing some of the data schemes for representing morphological structures. </p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>VO 1244/8-1</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>eScience-Compliant Standards for Morphology</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Rheinische Friedrich-Wilhelms-Universität, Bonn, Germany</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5186236">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>Mark D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumontier</surname>
+              <given-names>Michel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aalbersberg</surname>
+              <given-names>IJsbrand Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Appleton</surname>
+              <given-names>Gabrielle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Axton</surname>
+              <given-names>Myles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baak</surname>
+              <given-names>Arie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blomberg</surname>
+              <given-names>Niklas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boiten</surname>
+              <given-names>Jan-Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>da Silva Santos</surname>
+              <given-names>Luiz Bonino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourne</surname>
+              <given-names>Philip E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouwman</surname>
+              <given-names>Jildau</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brookes</surname>
+              <given-names>Anthony J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crosas</surname>
+              <given-names>Mercè</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dillo</surname>
+              <given-names>Ingrid</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumon</surname>
+              <given-names>Olivier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Edmunds</surname>
+              <given-names>Scott</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Evelo</surname>
+              <given-names>Chris T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Finkers</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gonzalez-Beltran</surname>
+              <given-names>Alejandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Alasdair J. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groth</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goble</surname>
+              <given-names>Carole</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grethe</surname>
+              <given-names>Jeffrey S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heringa</surname>
+              <given-names>Jaap</given-names>
+            </name>
+            <name name-style="western">
+              <surname>’t Hoen</surname>
+              <given-names>Peter A. C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hooft</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuhn</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Ruben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Joost</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lusher</surname>
+              <given-names>Scott J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martone</surname>
+              <given-names>Maryann E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Albert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Abel L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Persson</surname>
+              <given-names>Bengt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocca-Serra</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roos</surname>
+              <given-names>Marco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Schaik</surname>
+              <given-names>Rene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sansone</surname>
+              <given-names>Susanna-Assunta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schultes</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sengstag</surname>
+              <given-names>Thierry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Slater</surname>
+              <given-names>Ted</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strawn</surname>
+              <given-names>George</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swertz</surname>
+              <given-names>Morris A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thompson</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Lei</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Mulligen</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Velterop</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wittenburg</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolstencroft</surname>
+              <given-names>Katherine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zhao</surname>
+              <given-names>Jun</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Barend</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <fpage>160018</fpage>
+          <pub-id pub-id-type="doi">10.1038/sdata.2016.18</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5186336" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Phenotype description of an insect head with two antennae in form of a <italic>Semantic Phenotype</italic> in the form of an RDF-based graph or in Manchester syntax, and an <italic>Anatomy Knowledge Graph.</italic></p>
+        <p><bold>1) </bold> The <italic>Semantic Phenotype</italic> description of an insect head that has two antennae as its parts in the form of an RDF-based graph. It consists of an instance (purple-bordered box) that instantiates the phenotype class that contains the actual description of the phenotype (yellow-bordered box) in form of a class axiom consisting of anonymous property restrictions and class descriptions (grey-bordered boxes). The class axiom characterizes all instances of the class to consist of exactly one instance of <bold><underline>insect head</underline></bold> (id UBERON:6000004) that has as its parts exactly two instances of <bold><underline>antenna</underline></bold> (id UBERON:0000972).<bold> 2)</bold> An alternative format of the same <italic>Semantic Phenotype</italic> representing the class axioms from the ‘phenotype class’ from (1) expressed in OWL Manchester Syntax (ontology classes shown with their label in bold and underlined, ontology properties with their label in italics and underlined, ‘and’ being used in the sense of intersection of two mathematical sets and ‘exactly’ as a cardinality specification). <bold>3)</bold> The <italic>Anatomy Knowledge Graph</italic> description of an insect head that has two antennae as its parts. It consists of the instance of <bold><underline>insect head</underline></bold> (id UBERON:6000004) and two instances of <bold><underline>antenna</underline></bold> (id UBERON:0000972), which relate to the head as its parts. Labels (in light-grey-bordered boxes) indicate how the different instances should be represented in a human-readable format. For reasons of clarity, resources are not represented with their URIs but with labels. <italic>purple-bordered box = ontology instance; yellow-bordered box with rounded corners = ontology class; grey-bordered box with rounded corners = anonymous class; light-grey-bordered box = literal or numerical value; labeled arrow = property</italic>.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37203-g001.jpg" position="float" id="oo_291633.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

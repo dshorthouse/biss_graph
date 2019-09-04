@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.39215</article-id>
+      <article-id pub-id-type="publisher-id">39215</article-id>
+      <article-id pub-id-type="manuscript">11302</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP35 - Operationalizing Essential Biodiversity Variables: data integration, production and dissemination</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>From Raw Biodiversity Data to Indicators, Boosting Products Creation, Integration and Dissemination: French BON FAIR initiatives and related informatics solutions</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Le Bras</surname>
+            <given-names>Yvan</given-names>
+          </name>
+          <email xlink:type="simple">yvan.le-bras@mnhn.fr</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8504-068X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Delavaud</surname>
+            <given-names>Aurélie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pelletier</surname>
+            <given-names>Dominique</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Mihoub</surname>
+            <given-names>Jean-Baptiste</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">French Museum of Natural History, Concarneau, France</addr-line>
+        <institution>French Museum of Natural History</institution>
+        <addr-line content-type="city">Concarneau</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">French Foundation for Research on Biodiversity, Paris, France</addr-line>
+        <institution>French Foundation for Research on Biodiversity</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Ifremer, Nantes, France</addr-line>
+        <institution>Ifremer</institution>
+        <addr-line content-type="city">Nantes</addr-line>
+        <country>France</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Sorbonne University, Paris, France</addr-line>
+        <institution>Sorbonne University</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Yvan Le Bras (<email xlink:type="simple">yvan.le-bras@mnhn.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>08</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e39215</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/91FE2D19032B582DBB5FC984470CA442">91FE2D19032B582DBB5FC984470CA442</uri>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>08</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Yvan Le Bras, Aurélie Delavaud, Dominique Pelletier, Jean-Baptiste Mihoub</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>
+          <styled-content style="mso-ansi-language:EN-US">Most biodiversity research aims at understanding the states and dynamics of biodiversity and ecosystems. To do so, biodiversity research increasingly relies on the use of digital products and services such as raw data archiving systems (e.g. structured databases or data repositories), ready-to-use datasets (e.g. cleaned and harmonized files with normalized measurements or computed trends) as well as associated analytical tools (e.g. model scripts in Github). Several world-wide initiatives facilitate the open access to biodiversity data, such as the Global Biodiversity Information Facility (GBIF) or GenBank, Predicts etc. Although these pave the way towards major advances in biodiversity research, they also typically deliver data products that are sometimes poorly informative as they fail to capture the genuine ecological information they intend to grasp. In other words, access to ready-to-use aggregated data products may sacrifice ecological relevance for data harmonization, resulting in over-simplified, ill-advised standard formats. This is singularly true when the main challenge is to match complementary data (large diversity of measured variables, integration of different levels of life organizations etc.) collected with different requirements and scattered in multiple databases. Improving access to raw data, and meaningful detailed metadata and analytical tools associated with standardized workflows is critical to maintain and maximize  the generic relevance of ecological data. Consequently, advancing the design of digital products and services is essential for interoperability while also enhancing reproducibility and transparency in biodiversity research. To go further, a minimal common framework organizing biodiversity observation and data organization is needed. In this regard, the Essential Biodiversity Variable (EBV) concept might be a powerful way to boost progress toward this goal as well as to connect research communities worldwide. </styled-content>
+        </p>
+        <p><styled-content style="mso-ansi-language:EN-US">As a national Biodiversity Observation Network (BON) node, the <ext-link ext-link-type="uri" xlink:href="https://geobon.org/bons/national-regional-bon/national-bon/french-bon/">French BON</ext-link> is currently embodied by a national research e-infrastructure called "Pôle national de données de biodiversité" (PNDB, formerly ECOSCOPE), aimed at simultaneously empowering the quality of scientific activities and promoting networking within the scientific community at a national level. Through the PNDB, the French BON is working on developing biodiversity data workflows oriented toward end services and products, both from and for a research perspective. More precisely, the two pillars of the PNDB are a metadata portal and a workflow-oriented web platform dedicated to the access  of biodiversity data and associated analytical tools (<ext-link ext-link-type="uri" xlink:href="https://github.com/65MO/Galaxy-E">Galaxy-E</ext-link>). After four years of experience, we are now going deeper into metadata specification, dataset descriptions and data structuring through the extensive use of Ecological Metadata Language (EML) as a pivot format. Moreover, we evaluate the relevance of existing tools such as <ext-link ext-link-type="uri" xlink:href="https://knb.ecoinformatics.org/tools/">Metacat/Morpho</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://deims.org/">DEIMS-SDR</ext-link></styled-content>(Dynamic Ecological Information Management System - Site and dataset registry) <styled-content style="mso-ansi-language:EN-US">in order to ensure a link with other initiatives like Environmental Data Initiative, DataOne and Long-Term Ecological Research related observation networks. Regarding data analysis, an open-source Galaxy-E platform was launched in 2017 as part of a project targeting the design of a citizen science observation system in France (“65 Millions d'observateurs”). </styled-content></p>
+        <p>
+          <styled-content style="mso-ansi-language:EN-US">Here, we propose to showcase ongoing French activities towards global challenges related to biodiversity information and knowledge dissemination. We particularly emphasize our focus on embracing the FAIR (findable, accessible, interoperable and reusable) data principles <xref ref-type="bibr" rid="B5310188">Wilkinson et al. 2016</xref> across the development of the French BON e-infrastructure and the promising links we anticipate for operationalizing EBVs. Using accessible and transparent analytical tools, we present the first online platform allowing the performance of advanced yet user-friendly analyses of biodiversity data in a reproducible and shareable way using data from various data sources, such as GBIF, Atlas of Living Australia (ALA), eBIRD, iNaturalist and environmental data such as climate data.</styled-content>
+        </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity data</kwd>
+        <kwd>raw data</kwd>
+        <kwd>metadata</kwd>
+        <kwd>EML</kwd>
+        <kwd>Ecological Metadata Language</kwd>
+        <kwd>indicators</kwd>
+        <kwd>EBV</kwd>
+        <kwd>Essential Biodiversity Variable</kwd>
+        <kwd>French BON</kwd>
+        <kwd>Metacat</kwd>
+        <kwd>Galaxy</kwd>
+        <kwd>Galaxy-E</kwd>
+        <kwd>GO FAIR</kwd>
+        <kwd>BiodiFAIRse</kwd>
+        <kwd>PNDB</kwd>
+        <kwd>Pôle national de données de biodiversité</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Yvan Le Bras</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>French National Museum of Natural History</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>French National Museum of Natural History</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5310188">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>Mark D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumontier</surname>
+              <given-names>Michel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aalbersberg</surname>
+              <given-names>IJsbrand Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Appleton</surname>
+              <given-names>Gabrielle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Axton</surname>
+              <given-names>Myles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baak</surname>
+              <given-names>Arie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blomberg</surname>
+              <given-names>Niklas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boiten</surname>
+              <given-names>Jan-Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>da Silva Santos</surname>
+              <given-names>Luiz Bonino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourne</surname>
+              <given-names>Philip E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouwman</surname>
+              <given-names>Jildau</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brookes</surname>
+              <given-names>Anthony J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crosas</surname>
+              <given-names>Mercè</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dillo</surname>
+              <given-names>Ingrid</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumon</surname>
+              <given-names>Olivier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Edmunds</surname>
+              <given-names>Scott</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Evelo</surname>
+              <given-names>Chris T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Finkers</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gonzalez-Beltran</surname>
+              <given-names>Alejandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Alasdair J. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groth</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goble</surname>
+              <given-names>Carole</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grethe</surname>
+              <given-names>Jeffrey S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heringa</surname>
+              <given-names>Jaap</given-names>
+            </name>
+            <name name-style="western">
+              <surname>’t Hoen</surname>
+              <given-names>Peter A. C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hooft</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuhn</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Ruben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Joost</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lusher</surname>
+              <given-names>Scott J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martone</surname>
+              <given-names>Maryann E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Albert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Abel L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Persson</surname>
+              <given-names>Bengt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocca-Serra</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roos</surname>
+              <given-names>Marco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Schaik</surname>
+              <given-names>Rene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sansone</surname>
+              <given-names>Susanna-Assunta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schultes</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sengstag</surname>
+              <given-names>Thierry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Slater</surname>
+              <given-names>Ted</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strawn</surname>
+              <given-names>George</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swertz</surname>
+              <given-names>Morris A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thompson</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Lei</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Mulligen</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Velterop</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wittenburg</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolstencroft</surname>
+              <given-names>Katherine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zhao</surname>
+              <given-names>Jun</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Barend</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <issue>1</issue>
+          <fpage>160018</fpage>
+          <pub-id pub-id-type="doi">10.1038/sdata.2016.18</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36207</article-id>
+      <article-id pub-id-type="publisher-id">36207</article-id>
+      <article-id pub-id-type="manuscript">11030</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS77 - Digital biodiversity data as a frontier for new research avenues</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Linking Biodiversity Data Using Evolutionary History</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>McTavish</surname>
+            <given-names>Emily Jane</given-names>
+          </name>
+          <email xlink:type="simple">ejmctavish@ucmerced.edu</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of California, Merced, United States of America</addr-line>
+        <institution>University of California</institution>
+        <addr-line content-type="city">Merced</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Emily Jane McTavish (<email xlink:type="simple">ejmctavish@ucmerced.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36207</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/0F474F69AFD2554884218031BF16C4D0">0F474F69AFD2554884218031BF16C4D0</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Emily Jane McTavish</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>All life on earth is linked by a shared evolutionary history. Even before Darwin developed the theory of evolution, Linnaeus categorized types of organisms based on their shared traits. We now know these traits derived from these species’ shared ancestry. This evolutionary history provides a natural framework to harness the enormous quantities of biological data being generated today.</p>
+        <p>The Open Tree of Life project is a collaboration developing tools to curate and share evolutionary estimates (phylogenies) covering the entire tree of life (<xref ref-type="bibr" rid="B5191016">Hinchliff et al. 2015</xref>, <xref ref-type="bibr" rid="B5191054">McTavish et al. 2017</xref>). The tree is viewable at https://tree.opentreeoflife.org, and the data is all freely available online. The taxon identifiers used in the Open Tree unified taxonomy (<xref ref-type="bibr" rid="B5191064">Rees and Cranston 2017</xref>) are mapped  to identifiers across biological informatics databases, including the Global Biodiversity Information Facility (GBIF), NCBI, and others. Linking these identifiers allows researchers to easily unify data from across these different resources (Fig. <xref ref-type="fig" rid="F5190966">1</xref>). Leveraging a unified evolutionary framework across the diversity of life provides new avenues for integrative wide scale research. Downstream tools, such as R packages developed by the R OpenSci foundation (rotl, rgbif) (<xref ref-type="bibr" rid="B5191044">Michonneau et al. 2016</xref>, <xref ref-type="bibr" rid="B5192359">Chamberlain 2017</xref>) and others tools (<xref ref-type="bibr" rid="B5191006">Revell 2012</xref>), make accessing and combining this information straightforward for students as well as researchers (e.g. <ext-link ext-link-type="uri" xlink:href="https://mctavishlab.github.io/BIO144/labs/rotl-rgbif.html">https://mctavishlab.github.io/BIO144/labs/rotl-rgbif.html</ext-link>).</p>
+        <p>For example, a recent publication by <xref ref-type="bibr" rid="B5206074">Santorelli et al. 2018</xref> linked evolutionary information from Open Tree with species locality data gathered from a local field study as well as GBIF species location records to test a river-barrier hypothesis in the Amazon. By combining these data, the authors were able test a widely held biogeographic hypothesis across 1952 species in 14 taxonomic groups, and found that a river that had been postulated to drive endemism, was in fact not a barrier to gene flow. However, data provenance and taxonomic name reconciliation remain key hurdles to  applying data from these large digital biodiversity and evolution community resources to answering biological questions.  In the Amazonian river analysis, while they leveraged use of GBIF records as a secondary check on their species records, they relied on their an intensive local field study for their major conclusions, and preferred taxon specific phylogenetic resources over Open Tree where they were available (<xref ref-type="bibr" rid="B5206074">Santorelli et al. 2018</xref>). When <xref ref-type="bibr" rid="B5206084">Li et al. 2018</xref> assessed large scale phylogenetic approaches, including Open Tree, for measuring community diversity, they found that synthesis phylogenies were less resolved than purpose-built phylogenies, but also found that these synthetic phylogenies were sufficient for community level phylogenetic diversity analyses. Nonetheless, data quality concerns have limited adoption of analyses data from centralized resources (<xref ref-type="bibr" rid="B5191054">McTavish et al. 2017</xref>). Taxonomic name recognition and reconciliation across databases also remains a hurdle for large scale analyses, despite several ongoing efforts to improve taxonomic interoperability and unify taxonomies, such at Catalogue of Life + (<xref ref-type="bibr" rid="B5206719">Bánki et al. 2018</xref>). </p>
+        <p>In order to support innovative science, large scale digital data resources need to facilitate data linkage between resources, and address researchers' data quality and provenance concerns. I will present the model that the Open Tree of Life is using to provide evolutionary data at the scale of the entire tree of life, while maintaining traceable provenance to the publications and taxonomies these evolutionary relationships are inferred from.  I will discuss the hurdles to adoption of these large scale resources by researchers, as well as the opportunities for new research avenues provided by the connections between evolutionary inferences and biodiversity digital databases.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>evolution</kwd>
+        <kwd>phylogeny</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>interoperability</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">National Science Foundation</named-content>
+            <named-content content-type="funder_identifier">100000001</named-content>
+            <named-content content-type="funder_doi">http://doi.org/10.13039/100000001</named-content>
+          </funding-source>
+        </award-group>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="9"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Emily Jane McTavish</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p> NSF Division Of Biological Infrastructure, Advances in Biological Informatics #1759846</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p> NSF Division Of Biological Infrastructure, Advances in Biological Informatics #1759846</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>"Cultivating a sustainable Open Tree of Life"</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5206719">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bánki</surname>
+              <given-names>Olaf</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Döring</surname>
+              <given-names>Markus</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Holleman</surname>
+              <given-names>Ayco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Addink</surname>
+              <given-names>Wouter</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Catalogue of Life Plus: innovating the CoL systems as a foundation for a clearinghouse for names and taxonomy</article-title>
+          <source>Biodiversity Information Science and Standards</source>
+          <volume>2</volume>
+          <pub-id pub-id-type="doi">10.3897/biss.2.26922</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5192359">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Chamberlain</surname>
+              <given-names>Scott</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>rgbif: Interface to the Global 'Biodiversity' Information Facility API</article-title>
+          <uri>https://CRAN.R-project.org/package=rgbif</uri>
+          <comment content-type="Version">0.99</comment>
+        </element-citation>
+      </ref>
+      <ref id="B5191016">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hinchliff</surname>
+              <given-names>Cody E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Smith</surname>
+              <given-names>Stephen A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Allman</surname>
+              <given-names>James F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Burleigh</surname>
+              <given-names>J. Gordon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chaudhary</surname>
+              <given-names>Ruchi</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Coghill</surname>
+              <given-names>Lyndon M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crandall</surname>
+              <given-names>Keith A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deng</surname>
+              <given-names>Jiabin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Drew</surname>
+              <given-names>Bryan T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gazis</surname>
+              <given-names>Romina</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gude</surname>
+              <given-names>Karl</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hibbett</surname>
+              <given-names>David S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Katz</surname>
+              <given-names>Laura A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Laughinghouse</surname>
+              <given-names>H. Dail</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McTavish</surname>
+              <given-names>Emily Jane</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Midford</surname>
+              <given-names>Peter E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Owen</surname>
+              <given-names>Christopher L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ree</surname>
+              <given-names>Richard H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rees</surname>
+              <given-names>Jonathan A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Soltis</surname>
+              <given-names>Douglas E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Williams</surname>
+              <given-names>Tiffani</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cranston</surname>
+              <given-names>Karen A.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Synthesis of phylogeny and taxonomy into a comprehensive tree of life</article-title>
+          <source>Proceedings of the National Academy of Sciences</source>
+          <volume>112</volume>
+          <issue>41</issue>
+          <fpage>12764</fpage>
+          <lpage>12769</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1423041112</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5206084">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Li</surname>
+              <given-names>Daijiang</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Trotta</surname>
+              <given-names>Lauren</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Marx</surname>
+              <given-names>Hannah E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Allen</surname>
+              <given-names>Julie M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sun</surname>
+              <given-names>Miao</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Soltis</surname>
+              <given-names>Douglas E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Soltis</surname>
+              <given-names>Pamela S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baiser</surname>
+              <given-names>Benjamin H.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>For comparing phylogenetic diversity among communities, go ahead and use synthesis phylogenies</article-title>
+          <source>bioRxiv</source>
+          <pub-id pub-id-type="doi">10.1101/370353</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191054">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>McTavish</surname>
+              <given-names>Emily Jane</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Drew</surname>
+              <given-names>Bryan T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Redelings</surname>
+              <given-names>Ben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cranston</surname>
+              <given-names>Karen A.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>How and Why to Build a Unified Tree of Life</article-title>
+          <source>BioEssays</source>
+          <volume>39</volume>
+          <issue>11</issue>
+          <pub-id pub-id-type="doi">10.1002/bies.201700114</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191044">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Michonneau</surname>
+              <given-names>François</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brown</surname>
+              <given-names>Joseph W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Winter</surname>
+              <given-names>David J.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>rotl: an R package to interact with the Open Tree of Life data</article-title>
+          <source>Methods in Ecology and Evolution</source>
+          <fpage>n/a-n/a</fpage>
+          <lpage>n/a-n/a</lpage>
+          <pub-id pub-id-type="doi">10.1111/2041-210X.12593</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191064">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Rees</surname>
+              <given-names>Jonathan A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cranston</surname>
+              <given-names>Karen</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Automated assembly of a reference taxonomy for phylogenetic data synthesis</article-title>
+          <source>Biodiversity Data Journal</source>
+          <pub-id pub-id-type="doi">10.3897/BDJ.5.e12581</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5191006">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Revell</surname>
+              <given-names>Liam J.</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>phytools: an R package for phylogenetic comparative biology (and other things)</article-title>
+          <source>Methods in Ecology and Evolution</source>
+          <volume>3</volume>
+          <issue>2</issue>
+          <fpage>217</fpage>
+          <lpage>223</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.2041-210X.2011.00169.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5206074">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Santorelli</surname>
+              <given-names>Sergio</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Magnusson</surname>
+              <given-names>William E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Deus</surname>
+              <given-names>Claudia P.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Most species are not limited by an Amazonian river postulated to be a border between endemism areas</article-title>
+          <source>Scientific Reports</source>
+          <volume>8</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.1038/s41598-018-20596-7</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5190966" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Example linking phylogenetic relationships accessed from the Open Tree of Life with specimen location data from Global Biodiversity Information Facility.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e36207-g001.png" position="float" id="oo_312191.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

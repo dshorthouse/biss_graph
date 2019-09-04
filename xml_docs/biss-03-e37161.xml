@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37161</article-id>
+      <article-id pub-id-type="publisher-id">37161</article-id>
+      <article-id pub-id-type="manuscript">11360</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Use of Semantic Segmentation for Increasing the Throughput of Digitisation Workflows for Natural History Collections</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Nieva de la Hidalga</surname>
+            <given-names>Abraham</given-names>
+          </name>
+          <email xlink:type="simple">nievadelahidalgaa@cardiff.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-7348-7612</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Owen</surname>
+            <given-names>David</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-4028-0591</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Spacic</surname>
+            <given-names>Irena</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Rosin</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sun</surname>
+            <given-names>Xianfang</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Cardiff University School of Computer Science and Informatics, Cardiff, United Kingdom</addr-line>
+        <institution>Cardiff University School of Computer Science and Informatics</institution>
+        <addr-line content-type="city">Cardiff</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Abraham Nieva de la Hidalga (<email xlink:type="simple">nievadelahidalgaa@cardiff.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37161</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/EFF6DAB25B2750F2886B87F27F7306DA">EFF6DAB25B2750F2886B87F27F7306DA</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Abraham Nieva de la Hidalga, David Owen, Irena Spacic, Paul Rosin, Xianfang Sun</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The need to increase global accessibility to specimens while preserving the physical specimens by reducing their handling motivates digitisation. Digitisation of natural history collections has evolved from recording of specimens’ catalogue data to including digital images and 3D models of specimens. The sheer size of the collections requires developing high throughput digitisation workflows, as well as novel acquisition systems, image standardisation, curation, preservation, and publishing. For instance, herbarium sheet digitisation workflows (and fast digitisation stations) can digitise up to 6,000 specimens per day; operating digitisation stations in parallel can increase that capacity. However, other activities of digitisation workflows still rely on manual processes which throttle the speed with which images can be published. Image quality control and information extraction from images can benefit from greater automation. </p>
+        <p>This presentation explores the advantages of applying semantic segmentation (Fig. <xref ref-type="fig" rid="F5197718">1</xref>) to improve and automate image quality management (IQM) and information extraction from images (IEFI) of physical specimens. Two experiments were designed to determine if IQM and IEFI activities can be improved by using segments instead of full images. The time for segmenting full images needs to be considered for both IQM and IEFI. A semantic segmentation method developed by the Natural History Museum (<xref ref-type="bibr" rid="B5182163">Durrant and Livermore 2018</xref>) adapted for segmenting herbarium sheet images (<xref ref-type="bibr" rid="B5182544">Dillen et al. 2019</xref>) can process 50 images in 12 minutes. </p>
+        <p>The IQM experiments evaluated the application of three quality attributes to full images and to image segments: colourfulness (Fig. <xref ref-type="fig" rid="F5197702">2</xref>), contrast (Fig. <xref ref-type="fig" rid="F5197710">3</xref>) and sharpness (Fig. <xref ref-type="fig" rid="F5197714">4</xref>). Evaluating colourfulness is an alternative to colour quantization algorithms such as RMSE and Delta E (<xref ref-type="bibr" rid="B5182412">Hasler and Suesstrunk 2003</xref>, <xref ref-type="bibr" rid="B5182422">Palus 2006</xref>), the method produces a value indicating if the image degrades after processing. Contrast measures the difference in luminance or colour that makes an object distinguishable. Contrast is determined by the difference in colour and brightness of the object and other objects within the same field of view (<xref ref-type="bibr" rid="B5182461">Matkovic et al. 2005</xref>, <xref ref-type="bibr" rid="B5182501">Präkel 2010</xref>). Sharpness encompasses the concepts of resolution and acutance (<xref ref-type="bibr" rid="B5182524">Bahrami and Kot 2014</xref>, <xref ref-type="bibr" rid="B5182501">Präkel 2010</xref>). Sharpness influences specimen appearance and readability of information from labels and barcodes. Evaluating the criteria on 56 barcodes and 50 colour charts segments extracted from fifty images took 34 minutes (8 minutes for the barcodes and 26 minutes for colour charts). The evaluation on the corresponding full images took 100 minutes. The processing of individual segments and full images provided results equivalent to subjective manual quality management.</p>
+        <p>The IEFI experiments compared the performance of four optical character recognition (OCR) programs applied to full images (<xref ref-type="bibr" rid="B5182586">Drinkwater et al. 2014</xref>) against individual segments. The four OCR programs evaluated were Tesseract 4.X, Tesseract 3.X, Abby FineReader Engine 12, and Microsoft OneNote 2013. The test was based on a set of 250 herbarium sheet images and 1,837 segments extracted from them. The results from the experiments show that there is an average OCR speed-up of 49% when using segmented images when compared to processing times for full images (Table <xref ref-type="table" rid="T5197767">1</xref>). Similarly, there was an average increase of 13% in line correctness (information from lines is ordered and not fragmented (Fig. <xref ref-type="fig" rid="F5197745">5</xref>, Table <xref ref-type="table" rid="T5197768">2</xref> ). Additionally, the results are useful for comparing the four OCR programs, with Tesseract 3.x offering shortest processing time, while Tesseract 4.X achieving the highest scores for line accuracy (including hand written text recognition). The results suggest that IEFI could be improved by performing OCR using segments rather than whole images, leading to faster processing and more accurate outputs.</p>
+        <p>The findings support the feasibility of further automation of digitisation workflows for natural history collections. In addition to increasing the accuracy and speed of IQM and IEFI activities, the explored approaches can be packaged and published, enabling automated quality management and information extraction to be offered as a service, taking advantage of cloud platforms and workflow engines.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>semantic segmentation</kwd>
+        <kwd>image quality management</kwd>
+        <kwd>optical character recognition</kwd>
+        <kwd>digitisation</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>digital specimens</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="5"/>
+        <table-count count="2"/>
+        <ref-count count="8"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Abraham Nieva de la Hidalga</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Horizon 2020 Framework Programme of the European Union</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Horizon 2020 Framework Programme of the European Union</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>ICEDIG – “Innovation and consolidation for large scale digitisation of natural heritage” H2020-INFRADEV-2016-2017 – Grant Agreement No. 777483</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5182524">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bahrami</surname>
+              <given-names>Khosro</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kot</surname>
+              <given-names>Alex C.</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>A fast approach for no-reference image sharpness assessment based on maximum local variation</article-title>
+          <source>IEEE Signal Processing Letters</source>
+          <volume>21</volume>
+          <issue>6</issue>
+          <fpage>751</fpage>
+          <lpage>755</lpage>
+          <pub-id pub-id-type="doi">10.1109/LSP.2014.2314487</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5182544">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Dillen</surname>
+              <given-names>Mathias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Quentin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chagnoux</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Güntsch</surname>
+              <given-names>Anton</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hardisty</surname>
+              <given-names>Alex</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Haston</surname>
+              <given-names>Elspeth</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Livermore</surname>
+              <given-names>Laurence</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Runnel</surname>
+              <given-names>Veljo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schulman</surname>
+              <given-names>Leif</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Willemse</surname>
+              <given-names>Luc</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wu</surname>
+              <given-names>Zhengzhe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Phillips</surname>
+              <given-names>Sarah</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>A benchmark dataset of herbarium specimen images with label data</article-title>
+          <source>Biodiversity Data Journal</source>
+          <volume>7</volume>
+          <pub-id pub-id-type="doi">10.3897/bdj.7.e31817</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5182586">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Drinkwater</surname>
+              <given-names>Robyn</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Cubey</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Haston</surname>
+              <given-names>Elspeth</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>The use of Optical Character Recognition (OCR) in the digitisation of herbarium specimen labels</article-title>
+          <source>PhytoKeys</source>
+          <volume>38</volume>
+          <fpage>15</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="doi">10.3897/phytokeys.38.7168</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5182163">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Durrant</surname>
+              <given-names>James</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Livermore</surname>
+              <given-names>Laurence</given-names>
+            </name>
+          </person-group>
+          <article-title>Semi-supervised semantic and instance segmentation</article-title>
+          <uri>https://github.com/NaturalHistoryMuseum/semantic-segmentation</uri>
+          <date-in-citation content-type="access-date">2018-04-26T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5182412">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hasler</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Suesstrunk</surname>
+              <given-names>Sabine E.</given-names>
+            </name>
+          </person-group>
+          <year>2003</year>
+          <article-title>Measuring colorfulness in natural images</article-title>
+          <source>Human Vision and Electronic Imaging VIII</source>
+          <pub-id pub-id-type="doi">10.1117/12.477378</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5182461">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Matkovic</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Neumann</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Neumann</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Psik</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Purgathofer W.</surname>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Global Contrast Factor-a new approach to Image contrast</article-title>
+          <source>Computational Aesthetics</source>
+          <fpage>159</fpage>
+          <lpage>168</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B5182422">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Palus</surname>
+              <given-names>Henryk</given-names>
+            </name>
+          </person-group>
+          <year>2006</year>
+          <article-title>Colorfulness of the image: definition, computation, and properties</article-title>
+          <source>Conference on Lightmetry and Light and Optics in Biomedicine</source>
+          <volume>709</volume>
+          <pub-id pub-id-type="doi">10.1117/12.675760</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5182501">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Präkel</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <source>The visual dictionary of photography</source>
+          <publisher-name>AVA Publishing</publisher-name>
+          <isbn>978-2-940411-04-7</isbn>
+          <pub-id pub-id-type="doi">10.5040/9781350088733</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5197718" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Example of semantic segmentation of a herbarium sheet. Semantic segmentation entails the identification and classification of image elements. Four classes are targeted for identification use in: labels, barcodes, clour charts and scale. IQM uses labels and barcodes, while IEFI experiments targeted labels and barcodes.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37161-g001.png" position="float" id="oo_293457.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <fig id="F5197702" position="float" orientation="portrait">
+      <label>Figure 2.</label>
+      <caption>
+        <p>Comparison of results of calculating colurfulness on segmented colour charts from herbarium sheets set (Algorithm from <xref ref-type="bibr" rid="B5182422">Palus 2006</xref>).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37161-g002.png" position="float" id="oo_293441.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <fig id="F5197710" position="float" orientation="portrait">
+      <label>Figure 3.</label>
+      <caption>
+        <p>Comparison of results of calculating contrast on segmented colour charts from herbarium sheets set (Algorithm from <xref ref-type="bibr" rid="B5182461">Matkovic et al. 2005</xref>).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37161-g003.png" position="float" id="oo_293445.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <fig id="F5197714" position="float" orientation="portrait">
+      <label>Figure 4.</label>
+      <caption>
+        <p>Comparison of results of calculating sharpness on barcode segments from herbarium sheets set (Algorithm from <xref ref-type="bibr" rid="B5182524">Bahrami and Kot 2014</xref>).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37161-g004.png" position="float" id="oo_293449.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <fig id="F5197745" position="float" orientation="portrait">
+      <label>Figure 5.</label>
+      <caption>
+        <p>Line correctness evaluation example. Line correctness means that information from lines is ordered, not fragmented, and not mixed.   </p>
+      </caption>
+      <graphic xlink:href="biss-03-e37161-g005.png" position="float" id="oo_293461.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+    <table-wrap id="T5197767" position="float" orientation="portrait">
+      <label>Table 1.</label>
+      <caption>
+        <p>Comparison processing times of three OCR programs applied to full images (250 images) and to individual segments (1,837 segments from those images).</p>
+      </caption>
+      <table rules="all" border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">250 whole images</td>
+            <td rowspan="1" colspan="1">1,837 segments</td>
+            <td rowspan="1" colspan="1">Difference (h:m:s)</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Tesseract 4.x (Tess 4J)</td>
+            <td rowspan="1" colspan="1">01:06:05</td>
+            <td rowspan="1" colspan="1">00:45:02</td>
+            <td rowspan="1" colspan="1">-00:21:03</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Tesseract 3.x (Tess 4J)</td>
+            <td rowspan="1" colspan="1">00:50:02</td>
+            <td rowspan="1" colspan="1">00:23:17</td>
+            <td rowspan="1" colspan="1">-00:26:45</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Abbyy FineReader Engine 12</td>
+            <td rowspan="1" colspan="1">01:18:15</td>
+            <td rowspan="1" colspan="1">00:29:24</td>
+            <td rowspan="1" colspan="1">-00:48:51</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="4">Processing Time (h:m:s)</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap id="T5197768" position="float" orientation="portrait">
+      <label>Table 2.</label>
+      <caption>
+        <p>Comparison of line correctness for four OCR programs applied to full images (5 images) and to individual segments (22 segments from those images).</p>
+      </caption>
+      <table rules="all" border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td rowspan="1" colspan="1"/>
+            <td rowspan="1" colspan="1">5 whole images<break/>Mean line correctness (%)</td>
+            <td rowspan="1" colspan="1">22 segments<break/>Mean line correctness (%)</td>
+            <td rowspan="1" colspan="1">Difference (%)</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Tesseract 4.x</td>
+            <td rowspan="1" colspan="1">72.8</td>
+            <td rowspan="1" colspan="1">75.2</td>
+            <td rowspan="1" colspan="1">+2.4%</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Tesseract 3.x</td>
+            <td rowspan="1" colspan="1">44.1</td>
+            <td rowspan="1" colspan="1">63.7</td>
+            <td rowspan="1" colspan="1">+19.6%</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Abbyy FineReader Engine 12</td>
+            <td rowspan="1" colspan="1">61.0</td>
+            <td rowspan="1" colspan="1">77.3</td>
+            <td rowspan="1" colspan="1">+16.3%</td>
+          </tr>
+          <tr>
+            <td rowspan="1" colspan="1">Microsoft OneNote 2013</td>
+            <td rowspan="1" colspan="1">78.9</td>
+            <td rowspan="1" colspan="1">65.5</td>
+            <td rowspan="1" colspan="1">-13.4%</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>

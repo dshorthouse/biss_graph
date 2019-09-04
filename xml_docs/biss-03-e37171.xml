@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37171</article-id>
+      <article-id pub-id-type="publisher-id">37171</article-id>
+      <article-id pub-id-type="manuscript">11117</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SP17 - Science Powered by Informatics – Connecting Policy Needs with Data Driven Science</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Transforming Biodiversity Data into Knowledge for Decision-making</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Weatherdon</surname>
+            <given-names>Lauren V.</given-names>
+          </name>
+          <email xlink:type="simple">lauren.weatherdon@unep-wcmc.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3989-027X</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">UN Environment World Conservation Monitoring Centre, Cambridge, United Kingdom</addr-line>
+        <institution>UN Environment World Conservation Monitoring Centre</institution>
+        <addr-line content-type="city">Cambridge</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Lauren V. Weatherdon (<email xlink:type="simple">lauren.weatherdon@unep-wcmc.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37171</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/35A03D6DDBDB5314A999AD6EBD7BD11B">35A03D6DDBDB5314A999AD6EBD7BD11B</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Lauren V. Weatherdon</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Ensuring that we have the data and information necessary to make informed decisions is a core requirement in an era of increasing complexity and anthropogenic impact. With cumulative challenges such as the decline in biodiversity and accelerating climate change, the need for spatially-explicit and methodologically-consistent data that can be compiled to produce useful and reliable indicators of biological change and ecosystem health is growing.</p>
+        <p>Technological advances—including satellite imagery—are beginning to make this a reality, yet uptake of biodiversity information standards and scaling of data to ensure its applicability at multiple levels of decision-making are still in progress. The complementary Essential Biodiversity Variables (EBVs) and Essential Ocean Variables (EOVs), combined with Darwin Core and other data and metadata standards, provide the underpinnings necessary to produce data that can inform indicators. However, perhaps the largest challenge in developing global, biological change indicators is achieving consistent and holistic coverage over time, with recognition of biodiversity data as global assets that are critical to tracking progress toward the UN Sustainable Development Goals and Targets set by the international community (see <xref ref-type="bibr" rid="B5205535">Jensen and Campbell (2019)</xref> for discussion).</p>
+        <p>Through this talk, I will describe some of the efforts towards producing and collating effective biodiversity indicators, such as those based on authoritative datasets like the World Database on Protected Areas (<ext-link ext-link-type="uri" xlink:href="https://www.protectedplanet.net/">https://www.protectedplanet.net/</ext-link>), and work achieved through the Biodiversity Indicators Partnership (<ext-link ext-link-type="uri" xlink:href="https://www.bipindicators.net/">https://www.bipindicators.net/</ext-link>). I will also highlight some of the characteristics of effective indicators, and global biodiversity reporting and communication needs as we approach 2020 and beyond.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>essential variables</kwd>
+        <kwd>indicators</kwd>
+        <kwd>sustainable development goals</kwd>
+        <kwd>policy</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Lauren V. Weatherdon</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5205535">
+        <element-citation publication-type="conference-preoceeding">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Jensen</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Campbell</surname>
+              <given-names>Jillian</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <source>The Case for a Digital Ecosystem for the Environment: Bringing together data, algorithms and insights for sustainable development</source>
+          <conf-name>4th UN Environment Assembly</conf-name>
+          <conf-loc>Nairobi</conf-loc>
+          <publisher-name>UN Environment</publisher-name>
+          <comment content-type="language">English</comment>
+          <uri>https://un-spbf.org/wp-content/uploads/2019/03/Digital-Ecosystem-final.pdf</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

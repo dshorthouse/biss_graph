@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35013</article-id>
+      <article-id pub-id-type="publisher-id">35013</article-id>
+      <article-id pub-id-type="manuscript">11081</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI33 - Improving access to hidden scientific data in the Biodiversity Heritage Library</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Text-mining BHL: towards new interfaces to the biodiversity literature</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Page</surname>
+            <given-names>Roderic</given-names>
+          </name>
+          <email xlink:type="simple">roderic.page@glasgow.ac.uk</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-7101-9767</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Glasgow, Glasgow, United Kingdom</addr-line>
+        <institution>University of Glasgow</institution>
+        <addr-line content-type="city">Glasgow</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Roderic Page (<email xlink:type="simple">roderic.page@glasgow.ac.uk</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35013</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/62DEEB1C3939540E9C41CBD590093892">62DEEB1C3939540E9C41CBD590093892</uri>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>03</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Roderic Page</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The taxonomic literature is one of the largest resources of information on biodiversity, both current and in the past. Unlike many scientific disciplines this literature remains perpetually relevant as successive taxonomic work builds upon those earlier foundations. Projects such as the Biodiversity Heritage Library (BHL) have greatly increased access to that literature, as have numerous independent digitisation efforts by museums, herbaria, and publishers. But the focus of this access has been human readers, with limited use of text mining tools, mostly focussed on extracting taxonomic names. This talk explores other kinds of data that can be extracted from text on BHL and elsewhere, focusing on taxonomic names, geographic localities and specimen codes in the context of the BioStor project (<ext-link ext-link-type="uri" xlink:href="https://biostor.org/"><underline>https://biostor.org</underline></ext-link>, <xref ref-type="bibr" rid="B5166612">Page 2011</xref>).</p>
+        <p>The problem of finding taxonomic names in text has been well studied (e.g., <xref ref-type="bibr" rid="B5166635">Akella et al. 2012</xref>), and new BHL content is continuously indexed by names. Despite this, there is only weak linkage between taxonomic name databases and BHL. Even projects that create these links (e.g., BioNames, <xref ref-type="bibr" rid="B5166602">Page 2013</xref>) do not enable links in the reverse direction. In other words, a BHL reader is unaware whether the appearance of a name on a page is the first publication of that name, nor are they told of the fate of a name in subsequent research. The absence of these links reduces the value of BHL to working taxonomists.</p>
+        <p>In addition to taxonomic names, a typical taxonomic paper often contains specimen codes. Extracting these from text and linking them to digital representations, such as occurrence records in GBIF, opens up the possibility to provide detailed provenance for occurrence data, as well as citation-based metrics for the utility of natural history collections.</p>
+        <p>Taxonomic papers are also often rich in geographic information. A simple method for extracting locality information from text is to search for latitude and longitude coordinates, and BioStor currently does this. To date some 83,000 individual point localities have been extracted (Fig. <xref ref-type="fig" rid="F5166673">1</xref> ). These are used to provide a simple geographic search interface in BioStor, and are also harvested by JournalMap (<xref ref-type="bibr" rid="B5166622">Karl et al. 2013</xref>). But these localities are not linked to the original location in the source text, nor are they linked to any associated specimens, so they cannot be interpreted as occurrences that could be harvested by GBIF. If the goal is to contribute to GBIF then we need tools that can parse locality information and link that to associated specimens.</p>
+        <p>A general framework for handling data on taxonomic names, specimens, and geographic localities in text is to treat them as annotations (<xref ref-type="bibr" rid="B5174094">Batista-Navarro et al. 2017</xref>). By modelling annotations using the Web Annotation Data Model (<ext-link ext-link-type="uri" xlink:href="https://www.w3.org/TR/annotation-model/"><underline>https://www.w3.org/TR/annotation-model/</underline></ext-link> ) we can incorporate these annotations into biodiversity knowledge graphs (<xref ref-type="bibr" rid="B5166592">Page 2016</xref>). We can also combine these annotations with new standards for describing digitised content, such as the International Image Interoperability Framework (IIIF, <ext-link ext-link-type="uri" xlink:href="https://iiif.io/"><underline>https://iiif.io</underline></ext-link>). The implications of this approach for developing new interfaces to the biodiversity literature will be discussed.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>text mining</kwd>
+        <kwd>BHL</kwd>
+        <kwd>BioStor</kwd>
+        <kwd>taxonomic names</kwd>
+        <kwd>specimens</kwd>
+        <kwd>geocoding</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="6"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Roderic Page</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5166635">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Akella</surname>
+              <given-names>Lakshmi Manohar</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Norton</surname>
+              <given-names>Catherine N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Miller</surname>
+              <given-names>Holly</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>NetiNeti: discovery of scientific names from text using machine learning methods</article-title>
+          <source>BMC Bioinformatics</source>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>211</fpage>
+          <lpage>211</lpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2105-13-211</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5174094">
+        <element-citation publication-type="conference-preoceeding">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Batista-Navarro</surname>
+              <given-names>Riza</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zerva</surname>
+              <given-names>Chrysoula</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Nguyen</surname>
+              <given-names>Nhung T. H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ananiadou</surname>
+              <given-names>Sophia</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <source>A Text Mining-Based Framework for Constructing an RDF-Compliant Biodiversity Knowledge Repository</source>
+          <conf-name>Information Management and Big Data</conf-name>
+          <isbn>978-3-319-55209-5</isbn>
+          <pub-id pub-id-type="doi">10.1007/978-3-319-55209-5_3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166622">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Karl</surname>
+              <given-names>Jason W.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Herrick</surname>
+              <given-names>Jeffrey E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Unnasch</surname>
+              <given-names>Robert S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gillan</surname>
+              <given-names>Jeffrey K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ellis</surname>
+              <given-names>Erle C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lutters</surname>
+              <given-names>Wayne G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martin</surname>
+              <given-names>Laura J.</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>Discovering Ecologically Relevant Knowledge from Published Studies through Geosemantic Searching</article-title>
+          <source>BioScience</source>
+          <volume>63</volume>
+          <issue>8</issue>
+          <fpage>674</fpage>
+          <lpage>682</lpage>
+          <pub-id pub-id-type="doi">10.1525/bio.2013.63.8.10</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166612">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Page</surname>
+              <given-names>Roderic DM</given-names>
+            </name>
+          </person-group>
+          <year>2011</year>
+          <article-title>Extracting scientific articles from a large digital archive: BioStor and the Biodiversity Heritage Library</article-title>
+          <source>BMC Bioinformatics</source>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>187</fpage>
+          <lpage>187</lpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2105-12-187</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166592">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Page</surname>
+              <given-names>R D M</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Towards a biodiversity knowledge graph</article-title>
+          <source>Research Ideas and Outcomes</source>
+          <volume>2</volume>
+          <fpage>e8767</fpage>
+          <lpage>e8767</lpage>
+          <pub-id pub-id-type="doi">10.3897/rio.2.e8767</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5166602">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Page</surname>
+              <given-names>Roderic D. M.</given-names>
+            </name>
+          </person-group>
+          <year>2013</year>
+          <article-title>BioNames: linking taxonomy, texts, and trees</article-title>
+          <source>PeerJ</source>
+          <volume>1</volume>
+          <fpage>e190</fpage>
+          <lpage>e190</lpage>
+          <pub-id pub-id-type="doi">10.7717/peerj.190</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5166673" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Point localities extracted from articles in BioStor.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e35013-g001.png" position="float" id="oo_276587.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

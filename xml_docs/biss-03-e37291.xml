@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37291</article-id>
+      <article-id pub-id-type="publisher-id">37291</article-id>
+      <article-id pub-id-type="manuscript">11453</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SS47 - Advancing biodiversity research through artificial intelligence</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>How Artificial Intelligence and Machine Learning can Assist in Collections Curation</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Checksfield</surname>
+            <given-names>Simon</given-names>
+          </name>
+          <email xlink:type="simple">simon.checksfield@csiro.au</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">CSIRO, National Research Collections Australia (NRCA), Canberra, Australia</addr-line>
+        <institution>CSIRO, National Research Collections Australia (NRCA)</institution>
+        <addr-line content-type="city">Canberra</addr-line>
+        <country>Australia</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Simon Checksfield (<email xlink:type="simple">simon.checksfield@csiro.au</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37291</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/4F163D2DE9E6500B8147376EB0B374AE">4F163D2DE9E6500B8147376EB0B374AE</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Simon Checksfield</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>With increasing pressure on the limited taxonomical expertise in not only <ext-link ext-link-type="uri" xlink:href="https://www.csiro.au/">Commonwealth Scientific and Industry Research Organisation</ext-link> (CSIRO) but the world, new and innovative ways need to be found to assist in the curation and identification of biological specimens.</p>
+        <p>CSIRO, through the <ext-link ext-link-type="uri" xlink:href="https://www.csiro.au/en/Research/Collections">National Research Collections Australia</ext-link> (NRCA) and <ext-link ext-link-type="uri" xlink:href="https://www.data61.csiro.au/">Data 61</ext-link> is hoping to begin a new program of work focused on using Artificial Intelligence (AI) and Machine Learning to build a framework and tools that can help identify a specimen from an image. The framework will include AI models that have been trained by expert taxonomists, thus providing a level of accuracy that has some intrinsic value.</p>
+        <p>NRCA is also exploring how AI could be linked or cross referenced with another initiative using rapid genetic barcoding to identify all newly collected specimens. Combining genetic and AI determinations will add weight to each, and potentially expose some new AI challenges, such as identifying morphological elements against genomic elements.</p>
+        <p>Whilst acknowledging challenges still exist regarding standards, acceptance of identification, provenance, accuracy and governance, the NRCA is hoping AI can assist in freeing the time of our researchers and technicians to work on more pressing and complex issues by reducing their time spent on basic identification.</p>
+        <p>The impact of such a program will also reach into industry and the general public through tools based on the AI models. There is also an opportunity to use this initiative to create global centers of taxonomic expertise, which anyone can use to help identify a specimen.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>curation</kwd>
+        <kwd>artificial intelligence</kwd>
+        <kwd>identification</kwd>
+        <kwd>provenance</kwd>
+        <kwd>collections</kwd>
+        <kwd>specimen</kwd>
+        <kwd>machine learning</kwd>
+        <kwd>genomics</kwd>
+        <kwd>morphology</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Simon Checksfield</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

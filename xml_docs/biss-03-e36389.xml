@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36389</article-id>
+      <article-id pub-id-type="publisher-id">36389</article-id>
+      <article-id pub-id-type="manuscript">11656</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Introducing Nature 4.0: A sensor network for environmental monitoring in the Marburg Open Forest</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Friess</surname>
+            <given-names>Nicolas</given-names>
+          </name>
+          <email xlink:type="simple">friess@staff.uni-marburg.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0517-3798</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bendix</surname>
+            <given-names>Jörg</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Brändle</surname>
+            <given-names>Martin</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Brandl</surname>
+            <given-names>Roland</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dahlke</surname>
+            <given-names>Stephan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Farwig</surname>
+            <given-names>Nina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Freisleben</surname>
+            <given-names>Bernd</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Holzmann</surname>
+            <given-names>Hajo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Meyer</surname>
+            <given-names>Hanna</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Müller</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Opgenoorth</surname>
+            <given-names>Lars</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Peter</surname>
+            <given-names>Carina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Quillfeldt</surname>
+            <given-names>Petra</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Reudenbach</surname>
+            <given-names>Christoph</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Seeger</surname>
+            <given-names>Bernhard</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Steinmetz</surname>
+            <given-names>Ralf</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nauss</surname>
+            <given-names>Thomas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Philipps-Universität Marburg, Marburg, Germany</addr-line>
+        <institution>Philipps-Universität Marburg</institution>
+        <addr-line content-type="city">Marburg</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Westfälische Wilhelms-Universität Münster, Münster, Germany</addr-line>
+        <institution>Westfälische Wilhelms-Universität Münster</institution>
+        <addr-line content-type="city">Münster</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Biodiversity and Climate Research Centre (BiK-F), Senckenberg Gesellschaft für Naturforschung, Frankfurt (Main), Germany</addr-line>
+        <institution>Biodiversity and Climate Research Centre (BiK-F), Senckenberg Gesellschaft für Naturforschung</institution>
+        <addr-line content-type="city">Frankfurt (Main)</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Justus-Liebig-Universität Gießen, Gießen, Germany</addr-line>
+        <institution>Justus-Liebig-Universität Gießen</institution>
+        <addr-line content-type="city">Gießen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Multimedia Communications Lab (KOM), Technische Universität Darmstadt, Darmstadt, Germany</addr-line>
+        <institution>Multimedia Communications Lab (KOM), Technische Universität Darmstadt</institution>
+        <addr-line content-type="city">Darmstadt</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Nicolas Friess (<email xlink:type="simple">friess@staff.uni-marburg.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36389</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F84BF53CF96E5796B1E623D34E6C19AE">F84BF53CF96E5796B1E623D34E6C19AE</uri>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Nicolas Friess, Jörg Bendix, Martin Brändle, Roland Brandl, Stephan Dahlke, Nina Farwig, Bernd Freisleben, Hajo Holzmann, Hanna Meyer, Thomas Müller, Lars Opgenoorth, Carina Peter, Petra Quillfeldt, Christoph Reudenbach, Bernhard Seeger, Ralf Steinmetz, Thomas Nauss</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Successful conservation strategies require frequent observations and assessments of the landscape. Although expert surveys provide a great level of detail, the trade-off is the limited spatial coverage and repetition with which they are executed. Remote sensing technology can partially resolve these issues; nevertheless, it still requires experts’ experience to create conservation planning and reaction options. Nature 4.0 seeks to address these shortcomings by developing a prototype of a modular environmental monitoring system for high-resolution observation of species, habitats, and processes. The project combines expert surveys by nature conservationists, remote sensing, and a network of environmental sensors, which are integrated into stationary units as well as attached to unmanned aerial vehicles, rovers, or animals. By utilizing powerful data integration and analysis methods, Nature 4.0 will enable researchers to effectively observe landscapes through a set of diverse lenses. Time series data from the project will also inform the development of early warning indicators. Following the open-source principle, as much of the project as possible will be made publicly available, including, for instance, schematics for sensor units, algorithms for data integration or information on species occurrence. In summary, Nature 4.0 will establish new methods and protocols in the field of comprehensive environmental monitoring by combining traditional sampling, remote sensing, and automated measurement stations. The prototype system is being developed in the Marburg Open Forest, an open research, education, and development platform for environmental monitoring methods. The Marburg Open Forest brings a cross-disciplinary group of scientists together with nature conservation experts from the private sector and the state government, as well as local schools and private citizens to collaborate and bridge the gap between basic and applied environmental research. After one year, we will present the results of the initial phase and share our experience with developing Nature 4.0.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>sensor networks</kwd>
+        <kwd>environmental monitoring</kwd>
+        <kwd>remote sensing</kwd>
+        <kwd>data integration</kwd>
+        <kwd>conservation biology</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Nicolas Friess</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>The LOEWE priority program <italic>Nature 4.0 | Sensing Biodiversity </italic>is funded by the Hessian State Ministry for Higher Education, Research and the Arts, Germany.</p>
+    </ack>
+  </back>
+</article>

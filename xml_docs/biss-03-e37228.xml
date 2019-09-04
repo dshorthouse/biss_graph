@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37228</article-id>
+      <article-id pub-id-type="publisher-id">37228</article-id>
+      <article-id pub-id-type="manuscript">11067</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>LightningBug ONE: An experiment in high-throughput digitization of pinned insects</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Hereld</surname>
+            <given-names>Mark</given-names>
+          </name>
+          <email xlink:type="simple">hereld@anl.gov</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0268-2880</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ferrier</surname>
+            <given-names>Nicola J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Argonne National Laboratory, Lemont, Illinois, United States of America</addr-line>
+        <institution>Argonne National Laboratory</institution>
+        <addr-line content-type="city">Lemont, Illinois</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mark Hereld (<email xlink:type="simple">hereld@anl.gov</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37228</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/80DF04945C0C5BF9A1E9EBABD29DA471">80DF04945C0C5BF9A1E9EBABD29DA471</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mark Hereld, Nicola J. Ferrier</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Digital technology presents us with new and compelling opportunities for discovery when focused on the world's natural history collections. The outstanding barrier to applying existing and forthcoming computational methods for large-scale study of this important resource is that it is (largely) not yet in the digital realm.  Without development of new and much faster methods for digitizing objects in these collections, it will be a long time before these data are available in digital form. For example, methods that are currently employed for capturing, cataloguing, and indexing pinned insect specimen data will require many tens of years or more to process collections with millions of dry specimens, and so we need to develop a much faster pipeline. In this paper we describe a capture system capable of collecting and archiving the imagery necessary to digitize a collection of circa 4.5 million specimens in one or two years of production operation.</p>
+        <p>To minimize the time required to digitize each specimen, we have proposed (<xref ref-type="bibr" rid="B5167370">Hereld et al. 2017</xref>) developing multi-camera systems to capture the pinned insect and its accompanying labels from many angles in a single exposure. Using a sampling (21 randomly drawn drawers, totalling 5178 insects) of the 4.5 million specimens in the collection at the Field Museum of Natural History, we estimated that a large fraction of that collection (97.6% +/- 2.2%) consists of pinned insects with labels that are visible from one angle or another without requiring adjustment or removal of elements on the pin. In this situation a multi-camera system with enough angular coverage could provide imagery for reconstructing virtual labels from fragmentary views taken from different directions. <xref ref-type="bibr" rid="B5167380">Agarwal et al. (2018)</xref> demonstrated a method for combining these multiple views into a virtual label that could be transcribed by automated optical character recognition software.</p>
+        <p>We have now designed, built and tested a prototype snapshot 3D digitization station to allow rapid capture of multi-view imagery for automated capture of pinned insect specimens and labels. It consists of twelve very small and light 8-megapixel cameras (Fig. <xref ref-type="fig" rid="F5195861">1</xref>), each controlled by a small dedicated computer. The cameras are arrayed around the target volume, six on each side of the sample feed path. Their positions and orientations are fixed by a 3D-printed scaffolding designed for the purpose. The twelve camera controllers and a master computer are connected to a dedicated high-speed data network over which all of the coordinating control signals and returning images and metadata are passed. The system is integrated with a high-performance object store that includes a database for metadata and the archived images comprising each snapshot. The system is designed so that it can be readily extended to include additional or different sensors.</p>
+        <p>The station is meant to be fed with specimens by a conveyor belt whose motion is coordinated with the exposure of the multi-view snapshots. In order to test the performance of the system we added a recirculating specimen feeder designed expressly for this experiment. With it integrated into the system in place of a conventional conveyor belt we are able to provide a continuous stream of targets for the digitization system to facilitate long tests of its performance and robustness. We demonstrated the ability to capture data at a peak rate of 1400 specimens per hour and an average rate of 1000 specimens per hour over the course of a sustained 6 hour run. The dataset (<xref ref-type="bibr" rid="B5195901">Hereld and Ferrier 2018</xref>) collected in this experiment provides fodder for the further development of algorithms for the offline reconstruction and automatic transcription of the label contents.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>mass digitization</kwd>
+        <kwd>pinned insects</kwd>
+        <kwd>image analysis</kwd>
+        <kwd>multiple view snapshot imaging</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mark Hereld</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We thank Petra Sierwald, Rüdiger Bieler, and Crystal Maier for many informative discussions about workflows and current practices. This material is based upon work supported by Laboratory Directed Research and Development (LDRD) funding from Argonne National Laboratory, provided by the Director, Office of Science, of the U.S. Department of Energy under contract DE-AC02-06CH11357. Additional support was provided by the Field Museum of Natural History.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5167380">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Agarwal</surname>
+              <given-names>Nitin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ferrier</surname>
+              <given-names>Nicola</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hereld</surname>
+              <given-names>Mark</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Towards Automated Transcription of Label Text from Pinned Insect Collections</article-title>
+          <source>2018 IEEE Winter Conference on Applications of Computer Vision (WACV)</source>
+          <uri>10.1109/wacv.2018.00027</uri>
+          <pub-id pub-id-type="doi">10.1109/wacv.2018.00027</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5167370">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hereld</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ferrier</surname>
+              <given-names>Nicola J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Agarwal</surname>
+              <given-names>Nitin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sierwald</surname>
+              <given-names>Petra</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Designing a High-Throughput Pipeline for Digitizing Pinned Insects</article-title>
+          <source>2017 IEEE 13th International Conference on e-Science (e-Science)</source>
+          <uri>10.1109/escience.2017.88</uri>
+          <pub-id pub-id-type="doi">10.1109/escience.2017.88</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5195901">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hereld</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ferrier</surname>
+              <given-names>Nicola J.</given-names>
+            </name>
+          </person-group>
+          <article-title>LightningBug ONE, a multi-view snapshot dataset for development of automated digitization algorithms</article-title>
+          <uri>https://silo18.github.io/LightningBugONE/</uri>
+          <date-in-citation content-type="access-date">2019-04-08T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5195861" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>The prototype snapshot 3D digitization station as viewed from above. The specimen feed path is indicated by the vertical stripe with red trim at the center of the image.  For scale, the marked path is 16 inches long. Scaffolding, printed in several colors of PLA plastic, to the left and right of this path provide for fixed placement of six cameras each.  Three are visibly mounted above the semi-circular rail and three are less-visibly mounted below. Each is connected via ribbon cable to its control computer in the correpsonding stack at the lower left and upper right of the image.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37228-g001.png" position="float" id="oo_292408.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

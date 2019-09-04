@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37289</article-id>
+      <article-id pub-id-type="publisher-id">37289</article-id>
+      <article-id pub-id-type="manuscript">11597</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI46 - Biodiversity Virtual Research Environments: past, present &amp; possible futures</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The Collaborative Potential of Research Infrastructures in Addressing Global Scientific Questions</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Arvanitidis</surname>
+            <given-names>Christos</given-names>
+          </name>
+          <email xlink:type="simple">arvanitidis@hcmr.gr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Warwick</surname>
+            <given-names>Richard</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Somerfield</surname>
+            <given-names>Paul J</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pavloudi</surname>
+            <given-names>Christina</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5106-6067</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Pafilis</surname>
+            <given-names>Evangelos</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Oulas</surname>
+            <given-names>Anastasis</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chatzigeorgiou</surname>
+            <given-names>Giorgos</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-3507-6542</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gerovasileiou</surname>
+            <given-names>Vasilis</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9143-7480</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Patkos</surname>
+            <given-names>Theodore</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bailly</surname>
+            <given-names>Nicolas</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4994-0653</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Hernandez</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vanhoorne</surname>
+            <given-names>Bart</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vandepitte</surname>
+            <given-names>Leen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Appeltans</surname>
+            <given-names>Ward</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3237-4547</uri>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Keklikoglou</surname>
+            <given-names>Kleoniki</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6693-2033</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chatzinikolaou</surname>
+            <given-names>Eva</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Michalakis</surname>
+            <given-names>Nikitas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Filiopoulou</surname>
+            <given-names>Irene</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Panteri</surname>
+            <given-names>Emmanouela</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Gougousis</surname>
+            <given-names>Alexandros</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bravakos</surname>
+            <given-names>Panos</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Christakis</surname>
+            <given-names>Christos</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kassapidis</surname>
+            <given-names>Panagiotis</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-1538-0320</uri>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kotoulas</surname>
+            <given-names>Georgios</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Magoulas</surname>
+            <given-names>Antonios</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Institute of Marine Biology, Biotechnology and Aquaculture, Hellenic Centre for Marine Research, Heraklion, Crete, Greece</addr-line>
+        <institution>Institute of Marine Biology, Biotechnology and Aquaculture, Hellenic Centre for Marine Research</institution>
+        <addr-line content-type="city">Heraklion, Crete</addr-line>
+        <country>Greece</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">LifeWatch ERIC, Sector II-III Plaza de España 41071, Seville, Spain</addr-line>
+        <institution>LifeWatch ERIC, Sector II-III Plaza de España 41071</institution>
+        <addr-line content-type="city">Seville</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Plymouth Marine Laboratory, Plymouth, United Kingdom</addr-line>
+        <institution>Plymouth Marine Laboratory</institution>
+        <addr-line content-type="city">Plymouth</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">ICS-FORTH, Heraklion, Greece</addr-line>
+        <institution>ICS-FORTH</institution>
+        <addr-line content-type="city">Heraklion</addr-line>
+        <country>Greece</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">University of British Columbia / Beaty Biodiversity Museum, Vancouver, Canada</addr-line>
+        <institution>University of British Columbia / Beaty Biodiversity Museum</institution>
+        <addr-line content-type="city">Vancouver</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Flanders Marine Institute, Ostend, Belgium</addr-line>
+        <institution>Flanders Marine Institute</institution>
+        <addr-line content-type="city">Ostend</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Ocean Biogeographic Information System (OBIS ), Brussels, Belgium</addr-line>
+        <institution>Ocean Biogeographic Information System (OBIS )</institution>
+        <addr-line content-type="city">Brussels</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">Institute of Marine Biology, Biotechnology and Aquaculture, Hellenic Centre for Marine Research, Heraklion, Crete,, Greece</addr-line>
+        <institution>Institute of Marine Biology, Biotechnology and Aquaculture, Hellenic Centre for Marine Research</institution>
+        <addr-line content-type="city">Heraklion, Crete,</addr-line>
+        <country>Greece</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Christos Arvanitidis (<email xlink:type="simple">arvanitidis@hcmr.gr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37289</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/5222E08003CC5EDC943BD7AEF986A5F6">5222E08003CC5EDC943BD7AEF986A5F6</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Christos Arvanitidis, Richard Warwick, Paul J Somerfield, Christina Pavloudi, Evangelos Pafilis, Anastasis Oulas, Giorgos Chatzigeorgiou, Vasilis Gerovasileiou, Theodore Patkos, Nicolas Bailly, Francisco Hernandez, Bart Vanhoorne, Leen Vandepitte, Ward Appeltans, Kleoniki Keklikoglou, Eva Chatzinikolaou, Nikitas Michalakis, Irene Filiopoulou, Emmanouela Panteri, Alexandros Gougousis, Panos Bravakos, Christos Christakis, Panagiotis Kassapidis, Georgios Kotoulas, Antonios Magoulas</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Research Infrastructures (RIs) are facilities, resources and services used by scientists to perform research and support innovation. A number of EU research infrastructures [e.g. e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research (LifeWatch) European Research Iinfrastructures Consortium (ERIC); The European life-sciences Infrastructure for biological Information (ELIXIR); the European Marine Biological Resource Centre (EMBRC ERIC); the European Research Infrastructure for Imaging Technologies in Biological and Biomedical Sciences (uroBioImaging ERIC)] have been building Virtual Research Environments (VREs), which include many virtual laboratories (vLabs) offering, one stop data access to scientists, high computational capacity and collaborative research platforms in support of the requirements of the digital science. This presentation gives examples on the use of the vLabs developed by LifeWatch ERIC which have subsequently been  taken up as web services by other RIs.</p>
+        <p>The RvLab operates on a high-performance computer cluster, and has been used in order to analyse various properties of taxon equality, with a focus on marine species. This taxonomic information on marine biota is organized and made publicly available through the World Register of Marine Species (WoRMS) that delivers more than 250,000 described valid species names. Although scientists consider an <italic>equal </italic>status (in terms of contribution to overall diversity) to each taxon used in taxonomy, biogeography, ecology and biodiversity, the question “<italic>are all taxa equal?</italic>” has never been tested at a global scale. We present evidence that this question can be addressed by applying relatedness indices (Taxonomic Distinctness) over the entire WoRMS metazoan tree.</p>
+        <p>The virtual micro-CT laboratory (Micro-CT vLab), which can be used by the members of the scientific community interested in the digitisation methods and biological collections, makes the micro-CT data exploration of natural history specimens freely available over the internet. Micro-CT vLab makes it possible the online exploration and dissemination of micro-CT datasets, which are only rarely made available to the public due to their very large size and a lack of dedicated online platforms supporting the interactive manipulation of 3D data. Examples of how these vLabs can be used by other RIs are provided.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>research infrastructures</kwd>
+        <kwd>collaborative potential</kwd>
+        <kwd>global scientific questions</kwd>
+        <kwd>virtual research environments (VREs)</kwd>
+        <kwd>virtual laboratories (vLabs)</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Christos Arvanitidis</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>LifeWatchGreece, CMBR (Centre for the study and sustainable exploitation of Marine Biological Resources), BioImaging_GR</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>LifeWatchGreece (ΜIS: 384676), BioImaging_GR (ΜIS: 5002755), CMBR (MIS: 5002670)</p>
+    </ack>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>LifeWatchGreece, CMBR (Centre for the study and sustainable exploitation of Marine Biological Resources), BioImaging_GR</p>
+    </sec>
+  </back>
+</article>

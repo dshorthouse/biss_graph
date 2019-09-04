@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.36125</article-id>
+      <article-id pub-id-type="publisher-id">36125</article-id>
+      <article-id pub-id-type="manuscript">10991</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PT - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>The SILVA Database Project: An ELIXIR core data resource for high-quality ribosomal RNA sequences</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Glöckner</surname>
+            <given-names>Frank Oliver</given-names>
+          </name>
+          <email xlink:type="simple">frank.oliver.gloeckner@awi.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8528-9023</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Alfred-Wegener-Institut, Helmholtz Zentrum für Polar- und Meeresforschung and Jacobs University, Bremen, Germany</addr-line>
+        <institution>Alfred-Wegener-Institut, Helmholtz Zentrum für Polar- und Meeresforschung and Jacobs University</institution>
+        <addr-line content-type="city">Bremen</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Frank Oliver Glöckner (<email xlink:type="simple">frank.oliver.gloeckner@awi.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e36125</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/F94FE3E8063350B0A9EA8238450F5A34">F94FE3E8063350B0A9EA8238450F5A34</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Frank Oliver Glöckner</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Ribosomal DNA (rDNA) has become the primary target molecule for phylogenetic reconstruction and the cultivation-independent detection and quantification of microorganisms (barcoding). With the advent of high-throughput sequencing technologies (Next Generation Sequencing (NGS), PCR-based amplicon sequencing of rDNA fragments for diversity screening is now a routine technology, at least in environmental sciences. The resulting exponential increase of publicly available rDNA sequences demands specialized reference databases (Fig. <xref ref-type="fig" rid="F5160165">1</xref>).</p>
+        <p><ext-link ext-link-type="uri" xlink:href="http://www.arb-silva.de/">SILVA</ext-link> (from Latin<italic> silva</italic>, meaning forest) is designed to provide a comprehensive web resource for up-to-date, quality-controlled databases of aligned rDNA sequences from the Bacteria, Archaea and Eukaryota<italic/>domains and the corresponding online services (<xref ref-type="bibr" rid="B5160039">Glöckner et al. 2017</xref>, <xref ref-type="bibr" rid="B5160069">Quast et al. 2012</xref>).</p>
+        <p>The current SILVA database (release 132) contains 6,073,181 small subunit and 907,382 large subunit rRNA gene sequences. All sequences are checked for anomalies, carry a rich set of sequence-associated contextual information, multiple taxonomic classifications (<ext-link ext-link-type="uri" xlink:href="https://www.ebi.ac.uk/">EMBL-EBI/ENA</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://rdp.cme.msu.edu/">RDP</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://gtdb.ecogenomic.org/">GTDB</ext-link>) and the latest validly-described nomenclature. SILVA maintains manually curated reference alignments of 75,000 ribosomal RNA genes, both 16S/18S (small subunit, SSU) and 23S/28S (large subunit, LSU). With every full release, a manually curated guide tree is provided that contains the latest taxonomy and nomenclature based on multiple references.</p>
+        <p>SILVA is the only rDNA database project worldwide where special emphasis is given to the consistent naming of clades of uncultivated (environmental) sequences where no validly-described cultivated representative is available (<xref ref-type="bibr" rid="B5160109">Yilmaz et al. 2014</xref>). SILVA incorporates other unique features, including a comprehensive 23S/28S database of aligned rDNA sequences and alignments that contain Eukaryota sequences.</p>
+        <p>SILVA is an active partner of <ext-link ext-link-type="uri" xlink:href="https://rnacentral.org/">RNACentral</ext-link>. RNAcentral is a public resource that offers integrated access to a comprehensive and up-to-date set of non-coding RNA sequences provided by a collaborating group of Expert Databases. The SILVA team is a member of the <ext-link ext-link-type="uri" xlink:href="https://www.bergeys.org/">Bergey’s Board of Trustees</ext-link> which provides the authoritative taxonomy for <italic>Bacteria</italic> and <italic>Archaea</italic> as well as the Protist Reference Taxonomy Project<ext-link ext-link-type="uri" xlink:href="http://www.unieuk.org/"> UniEuk</ext-link> funded by the Gordon and Betty Moore Foundation to create a unified taxonomic framework</p>
+        <p>In 2018 SILVA became an <ext-link ext-link-type="uri" xlink:href="https://www.elixir-europe.org/platforms/data/core-data-resources">ELIXIR Core Data Resource</ext-link>. ELIXIR Core Data Resources are a set of European data resources of fundamental importance to the wider life-science community and the long-term preservation of biological data.</p>
+        <p>To facilitate classification tasks for high-throughput rDNA data the <ext-link ext-link-type="uri" xlink:href="http://www.arb-silva.de/ngs">SILVAngs</ext-link> has been implemented and released in 2013. SILVAngs is a data analysis service for rDNA reads from high-throughput sequencing (NGS) approaches based on an automatic software pipeline. It uses the SILVA rDNA databases, taxonomies, and alignments as a reference. It facilitates the classification of rDNA reads and provides a wealth of results (tables, graphs and sequence files) for download. SILVAngs serves several thousands of registered users, which processes thousands of projects per year.</p>
+        <p>The application spectrum of the SILVA databases ranges from environmental sciences, microbiology, agriculture, biochemistry, biotechnology to medicine in academia and industry.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity</kwd>
+        <kwd>ribosomal RNA gene</kwd>
+        <kwd>rDNA</kwd>
+        <kwd>alignments</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>phylogeny</kwd>
+        <kwd>databases</kwd>
+        <kwd>probes</kwd>
+        <kwd>primers</kwd>
+        <kwd>amplicon (NGS) analysis</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>We are grateful for funding from the Max Planck Society, the German Research Foundation grant GL 553/5-1, the Moore Foundation grant 5257, as well as the Federal Ministry for Education and Research grant 031A539A.</funding-statement>
+      </funding-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="3"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Frank Oliver Glöckner</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>We would like to thank all SILVA and SILVAngs users for their support and feedback on the SILVA databases and tools. Your immediate critical evaluation is a great motivation for us to improve our databases, tools and services. Special thanks goes to the whole de.NBI network where foreigners turned into friends inspired to serve the scientific community at its best.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5160039">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Glöckner</surname>
+              <given-names>Frank Oliver</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yilmaz</surname>
+              <given-names>Pelin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Quast</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gerken</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Beccati</surname>
+              <given-names>Alan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ciuprina</surname>
+              <given-names>Andreea</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bruns</surname>
+              <given-names>Gerrit</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yarza</surname>
+              <given-names>Pablo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peplies</surname>
+              <given-names>Jörg</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Westram</surname>
+              <given-names>Ralf</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ludwig</surname>
+              <given-names>Wolfgang</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>25 years of serving the community with ribosomal RNA gene reference databases and tools</article-title>
+          <source>Journal of Biotechnology</source>
+          <volume>261</volume>
+          <fpage>169</fpage>
+          <lpage>176</lpage>
+          <uri>10.1016/j.jbiotec.2017.06.1198</uri>
+          <pub-id pub-id-type="doi">10.1016/j.jbiotec.2017.06.1198</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5160069">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Quast</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pruesse</surname>
+              <given-names>Elmar</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yilmaz</surname>
+              <given-names>Pelin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gerken</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schweer</surname>
+              <given-names>Timmy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yarza</surname>
+              <given-names>Pablo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peplies</surname>
+              <given-names>Jörg</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Glöckner</surname>
+              <given-names>Frank Oliver</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>The SILVA ribosomal RNA gene database project: improved data processing and web-based tools</article-title>
+          <source>Nucleic Acids Research</source>
+          <volume>41</volume>
+          <fpage>D590</fpage>
+          <lpage>D596</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gks1219</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5160109">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Yilmaz</surname>
+              <given-names>Pelin</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Parfrey</surname>
+              <given-names>Laura Wegener</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Yarza</surname>
+              <given-names>Pablo</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gerken</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Pruesse</surname>
+              <given-names>Elmar</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Quast</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schweer</surname>
+              <given-names>Timmy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peplies</surname>
+              <given-names>Jörg</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ludwig</surname>
+              <given-names>Wolfgang</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Glöckner</surname>
+              <given-names>Frank Oliver</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>The SILVA and “All-species Living Tree Project (LTP)” taxonomic frameworks</article-title>
+          <source>Nucleic Acids Research</source>
+          <volume>42</volume>
+          <fpage>D643</fpage>
+          <lpage>D648</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gkt1209</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5160165" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>SILVA Logo</p>
+      </caption>
+      <graphic xlink:href="biss-03-e36125-g001.png" position="float" id="oo_275398.png" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37306</article-id>
+      <article-id pub-id-type="publisher-id">37306</article-id>
+      <article-id pub-id-type="manuscript">11022</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Evaluating Methods for Transcribing Specimen Labels</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Phillips</surname>
+            <given-names>Sarah</given-names>
+          </name>
+          <email xlink:type="simple">sarah.phillips@kew.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-9155-8573</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Dillen</surname>
+            <given-names>Mathias</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3973-1252</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Green</surname>
+            <given-names>Laura</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0774-9498</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Groom</surname>
+            <given-names>Quentin</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0596-5376</uri>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Weech</surname>
+            <given-names>Marie-Helene</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens Kew, Richmond, United Kingdom</addr-line>
+        <institution>Royal Botanic Gardens Kew</institution>
+        <addr-line content-type="city">Richmond</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sarah Phillips (<email xlink:type="simple">sarah.phillips@kew.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37306</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/012C61ABC1EF54DFB50446EEC633EFD8">012C61ABC1EF54DFB50446EEC633EFD8</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Sarah Phillips, Mathias Dillen, Laura Green, Quentin Groom, Marie-Helene Weech</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p><ext-link ext-link-type="uri" xlink:href="https://dissco.eu/">Distributed Systems of Scientific Collections</ext-link> (DiSSCo) a pan-European Research Infrastructure will facilitate the production of tens of millions of digital images of natural history specimens each year. The labels of these specimens contain valuable information for research, but their transcription can be difficult and time-consuming, with often hard to read handwritten labels. Whilst accurate label transcription is only one step along the way to create a specimen record fit for different research uses, it is an extremely important one. It would be very time-consuming to have to return to recheck label information for even a very small proportion of specimens. Once a specimen label is transcribed correctly, it becomes much easier to enhance the record with additional information from other sources, e.g. from literature or collector itineraries. It also becomes feasible to determine the point of collection from the textual information on the label by a process known as georeferencing, or even to find inaccuracies within the label itself.</p>
+        <p>Under the auspices of the project Innovation and Consolidation for Large Scale Digitisation of Natural Heritage (<ext-link ext-link-type="uri" xlink:href="https://www.icedig.eu/">ICEDIG</ext-link>), we compared different manual approaches to transcription of collection labels. Using herbarium specimens as an example, the quality of transcribed data by:</p>
+        <p>
+          <list list-type="order"><list-item><p>in-house trained institute staff,</p></list-item><list-item><p>outsourcing to a commercial company or</p></list-item><list-item><p>transcription by the general public through online crowdsourcing platforms was compared through two transcription pilots.</p></list-item></list>
+        </p>
+        <p>The first pilot consisted of 200 S<italic>olanum</italic> specimen images from the Royal Botanic Gardens Kew in the UK and 200 from Meise Botanic Garden in Belgium. This particular genus was chosen as both institutes had specimens from which the label data had already been transcribed through the digitisation company <ext-link ext-link-type="uri" xlink:href="https://picturae.com">Picturae</ext-link>, completed by <ext-link ext-link-type="uri" xlink:href="https://alembo.nl">Alembo</ext-link>. The Kew specimens had also been transcribed in-house by staff employed as digitisation officers or curators and by an independant researcher. The images from both institutes were uploaded to two crowdsourcing platforms: <ext-link ext-link-type="uri" xlink:href="https://digivol.ala.org.au">DigiVol </ext-link>and <ext-link ext-link-type="uri" xlink:href="http://doedat.be">DoeDat</ext-link>. In a second pilot, multiple European institutions holding botanical collections were approached to provide a sample of 200 digitally imaged herbarium sheet specimens to upload to multiple crowdsourcing platforms. Specimens from 7 institutions were uploaded for transcription to 5 different crowdsourcing platforms: <ext-link ext-link-type="uri" xlink:href="https://digivol.ala.org.au">DigiVol</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://doedat.be">DoeDat</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://herbonauten.de">Die Herbonauten</ext-link>, <ext-link ext-link-type="uri" xlink:href="http://lesherbonautes.mnhn.fr">Les Herbonautes</ext-link> and <ext-link ext-link-type="uri" xlink:href="https://notesfromnature.org">Notes from Nature</ext-link><ext-link ext-link-type="uri" xlink:href="https://notesfromnature.org">.</ext-link></p>
+        <p>For both pilots, key transcription data were assessed and common errors in label transcription identified. Reasons for these errors will be discussed along with possible mechanisms to improve the accuracy of the transcriptions. The need for standards for transcription is identified and recommendations made.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data capture</kwd>
+        <kwd>data quality</kwd>
+        <kwd>Citizen Science</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Sarah Phillips</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>ICEDIG: Innovation and Consolidation for large-scale Digitisation of natural heritage</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>ICEDIG: Innovation and Consolidation for large-scale Digitisation of natural heritage</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>ICEDIG: Innovation and Consolidation for large-scale Digitisation of natural heritage</p>
+    </sec>
+  </back>
+</article>

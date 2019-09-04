@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35297</article-id>
+      <article-id pub-id-type="publisher-id">35297</article-id>
+      <article-id pub-id-type="manuscript">11408</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST69 - Machine Observations Interest Group: A first dive into Darwin Core for exchanging biologging data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Implementation of the TDWG Standards Documentation Specification</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Baskauf</surname>
+            <given-names>Steven J</given-names>
+          </name>
+          <email xlink:type="simple">steve.baskauf@vanderbilt.edu</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4365-3135</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Vanderbilt University Libraries, Nashville, Tennessee, United States of America</addr-line>
+        <institution>Vanderbilt University Libraries</institution>
+        <addr-line content-type="city">Nashville, Tennessee</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Steven J Baskauf (<email xlink:type="simple">steve.baskauf@vanderbilt.edu</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35297</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/D79ED7943A455DCAA28F2359B4DBEC30">D79ED7943A455DCAA28F2359B4DBEC30</uri>
+      <history>
+        <date date-type="received">
+          <day>08</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Steven J Baskauf</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The <ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/vocab/blob/master/sds/documentation-specification.md">Standards Documentation Specification</ext-link> (SDS) was ratified as a TDWG standard in 2017 (<xref ref-type="bibr" rid="B5183687">Baskauf et al. 2017</xref>). It specified formatting guidelines for documents, but also established a data model for standards components and their versions. The SDS provided broad guidelines for <ext-link ext-link-type="uri" xlink:href="https://tools.ietf.org/html/rfc3987">Internationalized Resource Identifier</ext-link> (IRI) use, and associated specific metadata properties to particular components, but left many details to implementers. Since 2017, progress has been made toward implementing the requirements of the SDS. Part of that work was reformatting existing documents to comply with the standard, but another major effort was designation of IRI patterns, assembling the <ext-link ext-link-type="uri" xlink:href="https://github.com/tdwg/rs.tdwg.org">necessary metadata</ext-link>, and creating a system that can generate the many vocabulary-related documents necessary to comply with the SDS. Thse documents not only include human-readable documents, but also machine-readable documents that can be acquired through <ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/Content_negotiation">content negotiation</ext-link>. In addition, the system makes available dumps that can be loaded into a <ext-link ext-link-type="uri" xlink:href="https://en.wikipedia.org/wiki/Graph_database">graph database</ext-link> for querying. In this presentation, we will review these developments and see how the newly-available machine-readable metadata can be used to answer questions about existing standards and future controlled vocabularies.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>standards machine-readable documentation</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Steven J Baskauf</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity Next, Leiden 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5183687">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Baskauf</surname>
+              <given-names>Steve</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hyam</surname>
+              <given-names>Roger</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blum</surname>
+              <given-names>Stanley</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Morris</surname>
+              <given-names>Robert A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rees</surname>
+              <given-names>Jonathan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sachs</surname>
+              <given-names>Joel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Whitbread</surname>
+              <given-names>Greg</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>John</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Endresen</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Standards Documentation Specification</article-title>
+          <source>TDWG Standards Documentation Specification</source>
+          <uri>http://rs.tdwg.org/sds/doc/specification/</uri>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

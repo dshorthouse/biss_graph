@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35268</article-id>
+      <article-id pub-id-type="publisher-id">35268</article-id>
+      <article-id pub-id-type="manuscript">11113</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST08 - More than Names : Identifying and Crediting People in Biodiversity Data</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>People of Collections: Facilitators of Interoperability?</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Besombes</surname>
+            <given-names>Chloé</given-names>
+          </name>
+          <email xlink:type="simple">chloe.besombes@mnhn.fr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Chagnoux</surname>
+            <given-names>Simon</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Illien</surname>
+            <given-names>Gildas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Muséum national d'histoire naturelle, Paris, France</addr-line>
+        <institution>Muséum national d'histoire naturelle</institution>
+        <addr-line content-type="city">Paris</addr-line>
+        <country>France</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Chloé Besombes (<email xlink:type="simple">chloe.besombes@mnhn.fr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35268</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/A617F7619DA652B19C33F1DE67600CB7">A617F7619DA652B19C33F1DE67600CB7</uri>
+      <history>
+        <date date-type="received">
+          <day>09</day>
+          <month>04</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Chloé Besombes, Simon Chagnoux, Gildas Illien</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In March 2019, the Muséum national d’histoire naturelle, Paris (MNHN) launched the datapoc.mnhn.fr project, funded by the French research infrastructures CollEX-Persée and E-recolnat. This proof of concept was imagined and is supported by a group of partners coming from different communities working at the Muséum (specimen collection curators, librarians, researchers, data scientists, publishers). The initial motivation of this team for getting together was to imagine a way to link the massive data produced and preserved in the heterogeneous institutional collection databases and repositories of the Muséum in order to improve global access and visibility for the benefit of end-users as well as data curation processes. After a year of sharing and deliberating, the group concluded that focusing on people’s names and identification, could be a promising way to explore interoperability and alignment solutions in order to match data hosted in the different systems.</p>
+        <p>The project has thus two main goals: first, to improve biodiversity and taxonomic data quality for the qualification of personal identities, publications and scientific names by resolving frequent ambiguities and issues in people’s names assignment ; second, to develop and assess machine-driven linking strategies between specimen and authorship metadata and resources derived from various institutional datasilos of interest to the research community. </p>
+        <p>In order to test this idea and to experiment innovative data computing and visualization technologies, all parties involved in the project agreed to develop a proof of concept focused on a dataset of 500 names of major MNHN naturalists from its foundation until nowadays. This proof of concept will consist in building a structured authority file for people's names, which could be shared by all services producing and using biodiversity data at MNHN, as well as reusable as open data by external stakeholders and international partners. This structured file will strengthen data and databases production and maintenance workflows, but could also help improving the quality of end-user experience by allowing individuals or machines to match, link or otherwise compute and analyse data that is still difficult to handle because of the diversity of IT applications and limited standardisation practises. It is key to the project that this structured file should somehow comply with international interoperability and semantic web standards so to facilitate global access and data exchanges with similar institutions around the world. Linked datasets and related resources derived from this work will be displayed on a public website designed for researchers as well as for the public via diverse applications and formats (API, RDF). The project will be run from April 2019 to April 2020 by the core team of partners who initiated it, with the support of a private IT and data computing service called Logilab.</p>
+        <p>Some of the challenges of this project include finding an efficient way for building the structured file and then succeed in aligning and disambiguising names already present existing databases. A way to approach this issue is to confront and consolidate MNHN biodiversity datasets with external repositories by using people identifiers systems like ISNI, VIAF, IdREF, which are already familiar to libraries, archives and other cultural institutions. How can those various people identifiers systems be profitable to parse MNHN "people of collections" and help disambiguise them? Is there a particular people identifier system which will prove to be most relevant for all types of collections? Which parsing method will give the best results, and how could it scale up and possibly be reused by other institutions or even future European taxonomic infrastructures? Those are some of the questions the MNHN team is eager to deal with and to share and discuss at the Biodiversity Next Symposium.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>interoperability</kwd>
+        <kwd>people identifiers</kwd>
+        <kwd>people names</kwd>
+        <kwd>linked data</kwd>
+        <kwd>shared standards</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Gildas Illien, Chloé Besombes</p>
+      </sec>
+    </notes>
+  </front>
+</article>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37678</article-id>
+      <article-id pub-id-type="publisher-id">37678</article-id>
+      <article-id pub-id-type="manuscript">11657</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>COS - Contributed Oral Presentation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Towards a New Legume Systematics Portal</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Bruneau</surname>
+            <given-names>Anne</given-names>
+          </name>
+          <email xlink:type="simple">anne.bruneau@umontreal.ca</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-5547-0796</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Allkin</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Borges</surname>
+            <given-names>Leonardo M</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Egan</surname>
+            <given-names>Ashley N</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>de la Estrella</surname>
+            <given-names>Manuel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Javadi</surname>
+            <given-names>Firouzeh</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Klitgård</surname>
+            <given-names>Bente</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Miller</surname>
+            <given-names>Joseph T</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Murphy</surname>
+            <given-names>Daniel J</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sinou</surname>
+            <given-names>Carole</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6718-6669</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Vatanparast</surname>
+            <given-names>Mohammad</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Zhang</surname>
+            <given-names>Rong</given-names>
+          </name>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Institut de recherche en biologie végétale and Département de sciences biologiques, Université de Montréal, Montréal, Canada</addr-line>
+        <institution>Institut de recherche en biologie végétale and Département de sciences biologiques, Université de Montréal</institution>
+        <addr-line content-type="city">Montréal</addr-line>
+        <country>Canada</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Department for Identification &amp; Naming, Royal Botanic Gardens, Kew, Richmond, Surrey, United Kingdom</addr-line>
+        <institution>Department for Identification &amp; Naming, Royal Botanic Gardens, Kew</institution>
+        <addr-line content-type="city">Richmond, Surrey</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Universidade Federal de São Carlos, Departamento de Botânica, São Carlos, Brazil</addr-line>
+        <institution>Universidade Federal de São Carlos, Departamento de Botânica</institution>
+        <addr-line content-type="city">São Carlos</addr-line>
+        <country>Brazil</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Department of Biosciences, Aarhus University, Aarhus, Denmark</addr-line>
+        <institution>Department of Biosciences, Aarhus University</institution>
+        <addr-line content-type="city">Aarhus</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Departamento de Botánica, Ecología y Fisiología Vegetal, Campus de Rabanales, Universidad de Córdoba, Córdoba, Spain</addr-line>
+        <institution>Departamento de Botánica, Ecología y Fisiología Vegetal, Campus de Rabanales, Universidad de Córdoba</institution>
+        <addr-line content-type="city">Córdoba</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A6">
+        <label>6</label>
+        <addr-line content-type="verbatim">Institute of Decision Science for a Sustainable Society, Kyushu University, Kyushu, Japan</addr-line>
+        <institution>Institute of Decision Science for a Sustainable Society, Kyushu University</institution>
+        <addr-line content-type="city">Kyushu</addr-line>
+        <country>Japan</country>
+      </aff>
+      <aff id="A7">
+        <label>7</label>
+        <addr-line content-type="verbatim">Global Biodiversity Information Facility, Copenhagen, Denmark</addr-line>
+        <institution>Global Biodiversity Information Facility</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A8">
+        <label>8</label>
+        <addr-line content-type="verbatim">Royal Botanic Gardens Victoria, Melbourne, Victoria, Australia</addr-line>
+        <institution>Royal Botanic Gardens Victoria, Melbourne</institution>
+        <addr-line content-type="city">Victoria</addr-line>
+        <country>Australia</country>
+      </aff>
+      <aff id="A9">
+        <label>9</label>
+        <addr-line content-type="verbatim">Department of Geosciences and Natural Resource Management, University of Copenhagen, Copenhagen, Denmark</addr-line>
+        <institution>Department of Geosciences and Natural Resource Management, University of Copenhagen</institution>
+        <addr-line content-type="city">Copenhagen</addr-line>
+        <country>Denmark</country>
+      </aff>
+      <aff id="A10">
+        <label>10</label>
+        <addr-line content-type="verbatim">Germplasm Bank of Wild Species, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, Yunnan, China</addr-line>
+        <institution>Germplasm Bank of Wild Species, Kunming Institute of Botany, Chinese Academy of Sciences</institution>
+        <addr-line content-type="city">Kunming, Yunnan</addr-line>
+        <country>China</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Anne Bruneau (<email xlink:type="simple">anne.bruneau@umontreal.ca</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37678</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/703CB0F928D357D99B22B3483CDB6470">703CB0F928D357D99B22B3483CDB6470</uri>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Anne Bruneau, Robert Allkin, Leonardo M Borges, Ashley N Egan, Manuel de la Estrella, Firouzeh Javadi, Bente Klitgård, Joseph T Miller, Daniel J Murphy, Carole Sinou, Mohammad Vatanparast, Rong Zhang</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The need for scientists to exchange, share, and organise data has resulted in a proliferation of research data portals in the past decades. These cyberinfrastructures have had a major impact on taxonomy and helped to revitalise the discipline, by allowing quick access to bibliographic information, biological and nomenclatural data, and specimen information. In addition, several specialised portals aggregate particular data types for a large number of species and can be queried to extract information for a particular taxonomic group. Because of their ecological and economic importance, several early initiatives to develop and deploy information technologies for capturing, sharing, and disseminating information focused specifically on the plant family Leguminosae (Fabaceae). Initiatives such as <ext-link ext-link-type="uri" xlink:href="https://www.ildis.org/">ILDIS</ext-link> (International Legume Database and Information Service), which was created in 1985, led the way in developing methods and thinking with regard to taxonomic data management more generally. More recently, the Legume Phylogeny Working Group (LPWG) was founded in 2010 with the objective of facilitating collaboration amongst systematists working on the plant family Leguminosae (Fabaceae). As part of this endeavour, the LPWG has explored whether it would be desirable and pertinent to develop a new portal focused on the legume family. We argue that, despite access to numerous data aggregation portals, a taxon-focussed portal curated by a community of researchers specialised on a particular taxonomic group, such as the LPWG, have the interest, commitment, existing collaborative links, and knowledge necessary to verify data quality, thereby providing a valuable resource and actively contributing to other more general data providers. We consider that a new portal focused on Leguminosae would thus serve a useful function in parallel to and different from large international data-aggregation portals. We explored best practices for developing a legume-focused portal that will enable long-term sustainability, data sharing, a better understanding of what data are available, missing, or erroneous, and ultimately facilitate cross analyses and development of novel research. We surveyed existing data portals to see what features are of interest to our goal and we present a general way forward for developing a legume-focused portal that would respond to the needs of the legume systematics research community as well as to the broader user community. We propose to take full advantage of existing data sources, informatics tools, and protocols to develop an easily manageable, scalable, and interactive portal that will be used, contributed to, and fully endorsed and supported by the legume systematics community.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Leguminosae</kwd>
+        <kwd>Fabaceae</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>portal</kwd>
+        <kwd>systematics</kwd>
+        <kwd>LPWG</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Anne Bruneau</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019 </p>
+      </sec>
+    </notes>
+  </front>
+</article>

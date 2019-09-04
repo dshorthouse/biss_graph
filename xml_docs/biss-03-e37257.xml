@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37257</article-id>
+      <article-id pub-id-type="publisher-id">37257</article-id>
+      <article-id pub-id-type="manuscript">11531</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI37 - Making long term ecological research data FAIR</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Making LTER Data FAIR: A workbench using DEIMS datasets and GBIF Tools</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Pando</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <email xlink:type="simple">pando@rjb.csic.es</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-6321-9398</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bonet</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Real Jardin Botanico -CSIC, Madrid, Spain</addr-line>
+        <institution>Real Jardin Botanico -CSIC</institution>
+        <addr-line content-type="city">Madrid</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Universidad de Córdoba, Córdoba, Spain</addr-line>
+        <institution>Universidad de Córdoba</institution>
+        <addr-line content-type="city">Córdoba</addr-line>
+        <country>Spain</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Unaffiliated, Granada, Spain</addr-line>
+        <institution>Unaffiliated</institution>
+        <addr-line content-type="city">Granada</addr-line>
+        <country>Spain</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Francisco Pando (<email xlink:type="simple">pando@rjb.csic.es</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37257</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/023CB0A91F03588ABD4B999124BF1599">023CB0A91F03588ABD4B999124BF1599</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Francisco Pando, Francisco Bonet</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>DEIMS-SDR (Dynamic Ecological Information Management System - Site and dataset registry, <xref ref-type="bibr" rid="B5187925">Wohner et al. 2019</xref>) is one of the largest repositories of long-term ecological research (LTER) datasets. It provides sophisticated searching tools by metadata elements and identifiers for all the 930 contained datasets, most of them from European sites. Whereas datasets' metadata are highly structured and searchable, datasets themselves have little standardization in terms of content, identifiers or license, making data integration difficult or cumbersome. Adopting the data FAIR guiding principles(<xref ref-type="bibr" rid="B5212722">Wilkinson et al. 2016</xref>) for LTER data would result in better data integration and reutilization to support knowledge discovery and innovation in ecological research.</p>
+        <p>The Global Biodiversity Information Facility (<xref ref-type="bibr" rid="B5188007">GBIF 2019a</xref>). is the largest repository of species distribution data in the world, providing access to more than a billion records from over 43,000 datasets. GBIF is a good example of FAIR principles implementation: GBIF data is highly standardized, using Darwin Core (<xref ref-type="bibr" rid="B5187956">Wieczorek et al. 2012</xref>) for data and ecological metadata language (EML, <xref ref-type="bibr" rid="B5212712">Fegraus et al. 2005</xref>) for metadata, allowing record-level search; and has implemented globally unique and persistent identifiers for datasets and downloads. Relevant in this context is that GBIF has recently introduced a new data format intended for monitoring projects and sampling event protocols (<xref ref-type="bibr" rid="B5188073">GBIF 2019b</xref>). </p>
+        <p>In this presentation, we explore the suitability of GBIF data formats and workflows to serve LTER datasets, and the work it may take to transform typical LTER datasets into these formats. For this exercise, we use some datasets available via the DEIMS platform, corresponding to the same territory, (Sierra Nevada, Spain (e.g. <xref ref-type="bibr" rid="B5188101">Bonet 2016</xref>, <xref ref-type="bibr" rid="B5188148">Bonet 2018</xref>) and transform them into the GBIF's sample-based Event core publish them in the GBIF data network, and then perform an analysis to assess how the standardized datasets work in practice, both among themselves and also with typical “occurrence-based” GBIF datasets. Finally, we discuss our findings and make recommendations for the GBIF and LTER communities.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>Long-Term Ecological Research</kwd>
+        <kwd>LTER</kwd>
+        <kwd>environmental data</kwd>
+        <kwd>DEIMS-SDR</kwd>
+        <kwd>FAIR principles</kwd>
+        <kwd>GBIF</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="8"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Francisco Pando</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5188101">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bonet</surname>
+              <given-names>Francisco</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Meteorological Data of Sierra Nevada and surroundings</article-title>
+          <publisher-name>https://deims.org</publisher-name>
+          <uri>https://deims.org/activity/f0688bcc-9a91-4704-ac80-b5dda544dbd7</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5188148">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Bonet</surname>
+              <given-names>Francisco</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Soil moisture data from a Wireless Sensor Network of Sierra Nevada LTER platform</article-title>
+          <publisher-name>https://deims.org</publisher-name>
+          <uri>https://deims.org/dataset/d7f76ac5-8e30-4813-bdd7-6b1fd348a90e</uri>
+        </element-citation>
+      </ref>
+      <ref id="B5212712">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Fegraus</surname>
+              <given-names>Eric H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Andelman</surname>
+              <given-names>Sandy</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jones</surname>
+              <given-names>Matthew B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schildhauer</surname>
+              <given-names>Mark</given-names>
+            </name>
+          </person-group>
+          <year>2005</year>
+          <article-title>Maximizing the Value of Ecological Data with Structured Metadata: An Introduction to Ecological Metadata Language (EML) and Principles for Metadata Creation</article-title>
+          <source>Bulletin of the Ecological Society of America</source>
+          <volume>86</volume>
+          <issue>3</issue>
+          <fpage>158</fpage>
+          <lpage>168</lpage>
+          <pub-id pub-id-type="doi">10.1890/0012-9623(2005)86[158:mtvoed]2.0.co;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5188007">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>GBIF</surname>
+            </name>
+          </person-group>
+          <article-title>The Global Biodiversity Information Facility</article-title>
+          <uri>https://www.gbif.org/</uri>
+          <date-in-citation content-type="access-date">2019-04-03T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5188073">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>GBIF</surname>
+            </name>
+          </person-group>
+          <article-title>What is Darwin Core, and why does it matter?</article-title>
+          <uri>https://www.gbif.org/darwin-core</uri>
+          <date-in-citation content-type="access-date">2019-04-03T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5187956">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wieczorek</surname>
+              <given-names>John</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bloom</surname>
+              <given-names>David</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Guralnick</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blum</surname>
+              <given-names>Stan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Döring</surname>
+              <given-names>Markus</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Giovanni</surname>
+              <given-names>Renato</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Robertson</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vieglais</surname>
+              <given-names>David</given-names>
+            </name>
+          </person-group>
+          <year>2012</year>
+          <article-title>Darwin Core: An Evolving Community-Developed Biodiversity Data Standard</article-title>
+          <source>PLoS ONE</source>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>e29715</fpage>
+          <pub-id pub-id-type="doi">10.1371/journal.pone.0029715</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5212722">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wilkinson</surname>
+              <given-names>Mark D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumontier</surname>
+              <given-names>Michel</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Aalbersberg</surname>
+              <given-names>IJsbrand Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Appleton</surname>
+              <given-names>Gabrielle</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Axton</surname>
+              <given-names>Myles</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Baak</surname>
+              <given-names>Arie</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Blomberg</surname>
+              <given-names>Niklas</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boiten</surname>
+              <given-names>Jan-Willem</given-names>
+            </name>
+            <name name-style="western">
+              <surname>da Silva Santos</surname>
+              <given-names>Luiz Bonino</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bourne</surname>
+              <given-names>Philip E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bouwman</surname>
+              <given-names>Jildau</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Brookes</surname>
+              <given-names>Anthony J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Tim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Crosas</surname>
+              <given-names>Mercè</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dillo</surname>
+              <given-names>Ingrid</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dumon</surname>
+              <given-names>Olivier</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Edmunds</surname>
+              <given-names>Scott</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Evelo</surname>
+              <given-names>Chris T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Finkers</surname>
+              <given-names>Richard</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gonzalez-Beltran</surname>
+              <given-names>Alejandra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gray</surname>
+              <given-names>Alasdair J. G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groth</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Goble</surname>
+              <given-names>Carole</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Grethe</surname>
+              <given-names>Jeffrey S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Heringa</surname>
+              <given-names>Jaap</given-names>
+            </name>
+            <name name-style="western">
+              <surname>’t Hoen</surname>
+              <given-names>Peter A. C</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hooft</surname>
+              <given-names>Rob</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuhn</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Ruben</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kok</surname>
+              <given-names>Joost</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Lusher</surname>
+              <given-names>Scott J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martone</surname>
+              <given-names>Maryann E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Albert</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Packer</surname>
+              <given-names>Abel L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Persson</surname>
+              <given-names>Bengt</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Rocca-Serra</surname>
+              <given-names>Philippe</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Roos</surname>
+              <given-names>Marco</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Schaik</surname>
+              <given-names>Rene</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sansone</surname>
+              <given-names>Susanna-Assunta</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Schultes</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sengstag</surname>
+              <given-names>Thierry</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Slater</surname>
+              <given-names>Ted</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Strawn</surname>
+              <given-names>George</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Swertz</surname>
+              <given-names>Morris A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Thompson</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van der Lei</surname>
+              <given-names>Johan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>van Mulligen</surname>
+              <given-names>Erik</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Velterop</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Waagmeester</surname>
+              <given-names>Andra</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wittenburg</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wolstencroft</surname>
+              <given-names>Katherine</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Zhao</surname>
+              <given-names>Jun</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mons</surname>
+              <given-names>Barend</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The FAIR Guiding Principles for scientific data management and stewardship</article-title>
+          <source>Scientific Data</source>
+          <volume>3</volume>
+          <fpage>160018</fpage>
+          <pub-id pub-id-type="doi">10.1038/sdata.2016.18</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187925">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Wohner</surname>
+              <given-names>Christoph</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Peterseil</surname>
+              <given-names>Johannes</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Poursanidis</surname>
+              <given-names>Dimitris</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kliment</surname>
+              <given-names>Tomáš</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Wilson</surname>
+              <given-names>Mike</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mirtl</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chrysoulakis</surname>
+              <given-names>Nektarios</given-names>
+            </name>
+          </person-group>
+          <year>2019</year>
+          <article-title>DEIMS-SDR – A web portal to document research sites and their associated data</article-title>
+          <source>Ecological Informatics</source>
+          <volume>51</volume>
+          <fpage>15</fpage>
+          <lpage>24</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ecoinf.2019.01.005</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

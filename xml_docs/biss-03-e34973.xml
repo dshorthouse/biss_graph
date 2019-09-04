@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.34973</article-id>
+      <article-id pub-id-type="publisher-id">34973</article-id>
+      <article-id pub-id-type="manuscript">11189</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI75 - Linking specimens and physical samples through standardised identifiers and metadata: the last mile</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Assessment of the quality of accession describing metadata on plant genetic resources</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Oppermann</surname>
+            <given-names>Markus</given-names>
+          </name>
+          <email xlink:type="simple">opperman@ipk-gatersleben.de</email>
+          <uri content-type="orcid">https://orcid.org/0000-0002-3370-3218</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Weise</surname>
+            <given-names>Stephan</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-4031-9131</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gatersleben, Germany</addr-line>
+        <institution>Leibniz Institute of Plant Genetics and Crop Plant Research (IPK)</institution>
+        <addr-line content-type="city">Gatersleben</addr-line>
+        <country>Germany</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Markus Oppermann (<email xlink:type="simple">opperman@ipk-gatersleben.de</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>30</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e34973</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B4343602B77253F095E1A5EEE4CB0DD1">B4343602B77253F095E1A5EEE4CB0DD1</uri>
+      <history>
+        <date date-type="received">
+          <day>29</day>
+          <month>03</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Markus Oppermann, Stephan Weise</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>In the wide-ranging field of biodiversity conservation, genebanks play a major role in the preservation of cultivated plants. An important focus of genebanks is the comprehensive documentation of the maintained material. This is a prerequisite to enable users to select the most suitable material for e.g. research or breeding programs (<xref ref-type="bibr" rid="B5172097">Hoisington et al. 1999</xref>). The German Federal <italic>ex situ</italic> Genebank for Agricultural and Horticultural Crops, which is being hosted at IPK, is the largest genebank in Western Europe.</p>
+        <p>Within the multitude of data associated with plant material (e.g. from various -omics areas or conservation management), the so-called passport data represent the most original and oldest data in genebanks. These metadata are often subject to heterogeneity due to historically different collection and curation, especially if they were received from different institutions around the world. This leads to difficulties in handling these data and can result in misinterpretations. In addition, there are correlations between the individual attributes of the passport data which can lead to a different importance of the individual data points for the users.</p>
+        <p>Major challenges for users are to estimate completeness, correctness and reliability of these data. Thus, it is necessary to assess the quality of these data by defining a suitable set of metrics. Unfortunately, classical data quality measurement metrics, e.g. (<xref ref-type="bibr" rid="B5172110">Klier 2008</xref>), are not sufficient to fulfill the users' needs. Depending on the intention of the user, a different focus is placed on the data. Moreover, the individual attributes of the respective areas can be related to each other. Therefore, a single index value for estimating the quality of a passport record is not sufficient. Rather, it seems to be more promising to generate more differentiated quality statements.</p>
+        <p>We are working on a metrics system that is sensitive to the users' focus. Through a practical set of rules of data quality metrics for accession-related data, the user will be able to influence the weighting of individual domains (e.g. geographical origin, biological status) according to their context (fit-for-use index).</p>
+        <p>The presentation will discuss the background and will give an overview of the progress of this research activity.</p>
+      </abstract>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="2"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Markus Oppermann</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5172097">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Hoisington</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Khairallah</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Reeves</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ribaut</surname>
+              <given-names>J - M</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Skovmand</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Taba</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Warburton</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <year>1999</year>
+          <article-title>Plant genetic resources: What can they contribute toward increased crop productivity?</article-title>
+          <source>Proceedings of the National Academy of Sciences</source>
+          <volume>96</volume>
+          <issue>11</issue>
+          <fpage>5937</fpage>
+          <lpage>5943</lpage>
+          <uri>10.1073/pnas.96.11.5937</uri>
+          <pub-id pub-id-type="doi">10.1073/pnas.96.11.5937</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5172110">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Klier</surname>
+              <given-names>Mathias</given-names>
+            </name>
+          </person-group>
+          <year>2008</year>
+          <article-title>Metriken zur Bewertung der Datenqualität – Konzeption und praktischer Nutzen</article-title>
+          <source>Informatik-Spektrum</source>
+          <volume>31</volume>
+          <issue>3</issue>
+          <fpage>223</fpage>
+          <lpage>236</lpage>
+          <uri>10.1007/s00287-007-0206-0</uri>
+          <pub-id pub-id-type="doi">10.1007/s00287-007-0206-0</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

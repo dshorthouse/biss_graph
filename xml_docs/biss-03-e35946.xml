@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.35946</article-id>
+      <article-id pub-id-type="publisher-id">35946</article-id>
+      <article-id pub-id-type="manuscript">11395</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>GeoDarwin, an Open-Source Geological Data Management Tool</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lahogue</surname>
+            <given-names>Pascale</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Herpers</surname>
+            <given-names>Jean-Marc</given-names>
+          </name>
+          <email xlink:type="simple">jimherp@hotmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Theeten</surname>
+            <given-names>Franck</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>VandenSpiegel</surname>
+            <given-names>Didier</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Royal Museum for Central Africa, Tervuren, Belgium</addr-line>
+        <institution>Royal Museum for Central Africa</institution>
+        <addr-line content-type="city">Tervuren</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jean-Marc Herpers (<email xlink:type="simple">jimherp@hotmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e35946</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/B57317EF11E55A59B05BDC4E4A20280F">B57317EF11E55A59B05BDC4E4A20280F</uri>
+      <history>
+        <date date-type="received">
+          <day>06</day>
+          <month>05</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Pascale Lahogue, Jean-Marc Herpers, Franck Theeten, Didier VandenSpiegel</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The <ext-link ext-link-type="uri" xlink:href="https://www.africamuseum.be/en/home">Royal Museum for Central Africa</ext-link> (RMCA) holds one of the largest world collections of geological samples and documents about Central Africa (Congo, Rwanda, Burundi), offering unique reference material. The Geology services of RMCA contain around 16,000 minerals, 300,000 rocks, 21,500 fossils, and 30,000 maps. Their Archives include field notes, books, maps, and aerial photography containing valuable complementary information.</p>
+        <p>GeoDaRWIN is an “in-house” solution developed by RMCA as a collections management system for geological collections. Created using Microsoft Access, the model is currently transferred to open source software’s consisting of a <ext-link ext-link-type="uri" xlink:href="https://www.postgresql.org/">PostgreSQL</ext-link> database and a customizable web-interface based on the <ext-link ext-link-type="uri" xlink:href="https://symfony.com/">Symfony 3</ext-link> framework. Development began in 2018 and is still ongoing. Around 12,000 samples, 29,000 documents, and 30,500 localizations are already in the database.</p>
+        <p>GeoDaRWIN manages three categories collection materials: 1) field observations with their localization (e.g., coordinates, lithostratigraphy, drilling, structural analysis), 2) samples (minerals, rocks, fossils) and the results of their analysis (e.g., constituent minerals of rocks, heavy minerals, granulometry, magnetic susceptibility), and 3) documents (e.g., maps, archives, aerial photos, satellite images, documentation). In the model, these three types of information (field observations, samples, and documents) retain the existing relationships between them.</p>
+        <p>The aim of the project is to centralize all data in a single system on a service that can be available both on internet and intranet. It thus offers a common relational data model for these different geological items. The emphasis has been set on the integration of a hierarchical thesaurus of keywords, which can be mapped to several international vocabularies (e.g., <ext-link ext-link-type="uri" xlink:href="https://inspire.ec.europa.eu/">INSPIRE</ext-link>, <ext-link ext-link-type="uri" xlink:href="https://www.eionet.europa.eu/gemet/en/about/">GEMET</ext-link>, examples coming from the <ext-link ext-link-type="uri" xlink:href="http://www.geosciml.org/">GeoSciML </ext-link>documentation).</p>
+        <p>A Github repository of the database web<styled-content style="display: none;"/> interface in Symfony 3.4 is available at: <ext-link ext-link-type="uri" xlink:href="https://github.com/naturalsciences/natural_heritage_geology"> https://github.com/naturalsciences/ natural_heritage_geology</ext-link>.</p>
+        <p>This system aims also to be compliant with the central data portal developed by the Royal Museum for Central Africa, the Royal Belgian Institute of Natural Sciences, and Meise Botanical Garden. This portal will provide a common gateway to Belgian scientific data, one of the objectives of the project “Natural Heritage”, along with the development of databases for biological data (database called “DaRWIN”, more info on poster “<bold>DaRWIN, Open Source system for collections data management”</bold>) and geological data (“GeoDaRWIN”). See more info about project “Natural Heritage” in the poster "<bold>NaturalHeritage: Bridging Belgian Natural History Collections</bold>".</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>data management</kwd>
+        <kwd>natural history collections</kwd>
+        <kwd>geological data</kwd>
+        <kwd>data quality and cleaning</kwd>
+        <kwd>central data portal</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jean-Marc Herpers</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>BRAIN-be Belgian Research Action through Interdisciplinary Networks</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>Royal Museum for Central Africa, 13, Leuvensesteenweg, 3080 Tervuren, Belgium</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>BRAIN-be Belgian Research Action through Interdisciplinary Networks</p>
+    </sec>
+    <sec sec-type="Grant title">
+      <title>Grant title</title>
+      <p>NaturalHeritage: BR/175/A3/NATURALHERITAGE</p>
+      <p>Système de base de données modulaire interopérable et portail pour les collections belges d'Histoire Naturelle</p>
+    </sec>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>Royal Museum for Central Africa, 13, Leuvensesteenweg, 3080 Tervuren, Belgium</p>
+    </sec>
+  </back>
+</article>

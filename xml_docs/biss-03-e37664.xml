@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37664</article-id>
+      <article-id pub-id-type="publisher-id">37664</article-id>
+      <article-id pub-id-type="manuscript">11558</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Analysis of Utilization of Biological Resources Using Text Mining Based on Freshwater Biodiversity Information Platform</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lee</surname>
+            <given-names>Ji-Hae</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kwan</surname>
+            <given-names>Ye-seul</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Park</surname>
+            <given-names>Jungwook</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Park</surname>
+            <given-names>Sang Myeon</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Oh</surname>
+            <given-names>Jeong Su</given-names>
+          </name>
+          <email xlink:type="simple">ofang@nnibr.re.kr</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Nakdonggang National Institute of Biological Resources, Sangju-si, Gyeongsangbuk-do, South Korea</addr-line>
+        <institution>Nakdonggang National Institute of Biological Resources</institution>
+        <addr-line content-type="city">Sangju-si, Gyeongsangbuk-do</addr-line>
+        <country>South Korea</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Jeong Su Oh (<email xlink:type="simple">ofang@nnibr.re.kr</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37664</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/8A7F01EB33735DD9A97D62FC3BC00BB9">8A7F01EB33735DD9A97D62FC3BC00BB9</uri>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Ji-Hae Lee, Ye-seul Kwan, Jungwook Park, Sang Myeon Park, Jeong Su Oh</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p> The Nagoya Protocol on access to genetic resources and fair and equitable sharing of benefits arising from their utilization in the convention on biological diversity entered into force on October 12, 2014. Accordingly, attention toward securing the sovereignty and discovering the utilization value of biological resources has been increasing to secure national competitiveness. We are developing a freshwater biodiversity information platform for the systematic conservation and industrialization of freshwater biodiversity in South Korea. The platform comprises an integrated management system of freshwater bioresources for systematic registration and management of freshwater biodiversity information based on databases; a management system of storage for managing freshwater biological specimen; a utilization information system that manages efficacy, experimental method, and activity produced by the Nakdonggang National Institute of Biological Resources and external big data such as literature and patent; and a freshwater bioresources culture collection for preservation, ordering and deposition of biological resources. These systems are connected organically. Text mining, one of the big data technologies, helps to determine the utility of biological resources through comprehensive analysis. We tried to establish utilization foundations by predicting the usability of biological resources through systematic collection, processing, and analyzing external data, such as abstract, in order to support industrialization of national freshwater bioresources. Through text mining, we constructed a literature-based corpus and preprocessed the corpus with lowercase conversion and removal of stop word. Then, a word cloud was created and statistical analysis was performed. As a result, genes and diseases associated with specific biological resources have been identified. In this study, through a comprehensive analysis of species, genes, and disease information using text mining, we were able to determine the utilization value of biological resources. This study will help the freshwater biodiversity researchers by adding a function for utilization analysis in the utilization information system of the platform in the future.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>utilization</kwd>
+        <kwd>freshwater biodiversity</kwd>
+        <kwd>platform</kwd>
+        <kwd>text mining</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Ji-Hae Lee</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>This work was supported by a grant from the Nakdonggang National Institute of Biological Resources (NNIBR), funded by the Ministry of Environment(MOE) of the Republic of Korea (NNIBR201903201).</p>
+    </ack>
+  </back>
+</article>

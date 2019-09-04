@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37197</article-id>
+      <article-id pub-id-type="publisher-id">37197</article-id>
+      <article-id pub-id-type="manuscript">11485</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>ST13 - Enhancing taxonomic publications for dynamic data exchange and navigation</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Biodiversity Literature Repository (BLR), a repository for FAIR data and publications</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Agosti</surname>
+            <given-names>Donat</given-names>
+          </name>
+          <email xlink:type="simple">agosti@amnh.org</email>
+          <uri content-type="orcid">https://orcid.org/0000-0001-9286-1200</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Catapano</surname>
+            <given-names>Terry</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sautter</surname>
+            <given-names>Guido</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Kishor</surname>
+            <given-names>Puneet</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Nielsen</surname>
+            <given-names>Lars Holm</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ioannidis-Pantopikos</surname>
+            <given-names>Alexandros</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bigarella</surname>
+            <given-names>Chiara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Georgiev</surname>
+            <given-names>Teodor</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0001-8558-6845</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Penev</surname>
+            <given-names>Lyubomir</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-2186-5033</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Egloff</surname>
+            <given-names>Willi</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">www.plazi.org, Bern, Switzerland</addr-line>
+        <institution>www.plazi.org</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Plazi, Bern, Switzerland</addr-line>
+        <institution>Plazi</institution>
+        <addr-line content-type="city">Bern</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">CERN, Meyrin, Switzerland</addr-line>
+        <institution>CERN</institution>
+        <addr-line content-type="city">Meyrin</addr-line>
+        <country>Switzerland</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Pensoft Publishers, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">Pensoft Publishers &amp; Bulgarian Academy of Sciences, Sofia, Bulgaria</addr-line>
+        <institution>Pensoft Publishers &amp; Bulgarian Academy of Sciences</institution>
+        <addr-line content-type="city">Sofia</addr-line>
+        <country>Bulgaria</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Donat Agosti (<email xlink:type="simple">agosti@amnh.org</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37197</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/473FE432D0665931B4060AC59D6BF290">473FE432D0665931B4060AC59D6BF290</uri>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Scholarly publications in taxonomy are used as the sole carrier of the communication channel to publicize the description of new species, more generally any kind of taxon, their augmentations in form of re-descriptions to small notes such as additional observation records, or deprecations when the name of a taxon is changing. This is communicated in a highly standardized way. For nomenclatural issues, the Codes (e.g. International Code of Zoological Nomenclature) require certain elements, and for comparative reasons, highly formalized language, document structure, illustrations and citation systems are used. This estimated corpus of 500M printed pages includes all we know about the biodiversity in the sciences as well as what has been processed in terms of specimens in the natural history collections. This includes tens of millions of scientific illustrations, taxonomic treatments, i.e. parts of articles that are clearly delimited and headed by a label including a taxonomic name, materials citation, citations of articles and treatments, specimens by their specimen codes, collections by their collection codes, and collectors by their name. Implicitly, the entire catalogue of life is waiting to be liberated. Only recently, with the advent of text and data mining and of publishing, a change is taking place to make all this data after publishing immediately widely accessible and digitally accessible knowledge in terms of findability, accessibility, interoperability and reuse (<ext-link ext-link-type="uri" xlink:href="https://www.force11.org/group/fairgroup/fairprinciples">FAIR</ext-link>).</p>
+        <p>The Biodiversity Literature Repository (<ext-link ext-link-type="uri" xlink:href="http://biolitrepo.org">BLR)</ext-link> is a community in Zenodo, the open science repository at <ext-link ext-link-type="uri" xlink:href="https://home.cern/">CERN </ext-link>and part of the European project <ext-link ext-link-type="uri" xlink:href="https://www.openaire.eu/">OpenAIRE</ext-link>. Its goal is to provide a long-term, stable, open access repository for the long tail, preferably FAIR research data. Together with Plazi (http://plazi.org)and Pensoft, BLR has been created to allow deposition of taxonomic articles enhanced with links to data extracted from therein and deposited in BLR, such as illustrations or taxonomic treatments. The metadata for these deposits is enriched with extensive links to cited sources, or the source article. For each of the deposits, a DataCite DOI is minted, unless one exists already. The deposits can be found using either the search functionality of Zenodo, or the <ext-link ext-link-type="uri" xlink:href="http://biolitrepo.org">BLR website</ext-link>, which makes use of the millions of facts extracted from the publications via the Plazi workflow.</p>
+        <p>A prime user of the BLR data is GBIF which is using the taxonomic treatments and the figures in their respective view of the taxonomic articles. The input of new taxa allows updating the <ext-link ext-link-type="uri" xlink:href="https://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c">GBIF taxonomic backbone</ext-link> almost instantaneously and keeping it up-to-date  with publishing of new taxa or synonymies.</p>
+        <p>Currently, 35,600 articles, and 190,000 images are available, with an expected 300,000 taxonomic treatments by Fall 2019 and almost 30% of the annually new described species are accessible online, both in human and machine readable format. With the support of the Arcadia Fund, the goal is to provide access to over 50% of the annually described new species, from the necessary number of taxonomic journals, over 600,000 taxonomic treatments and 350,000 illustrations by 2021, hopefully with an increasing community adding to this new resource as author, publisher, or data liberator.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>repository</kwd>
+        <kwd>digital literature</kwd>
+        <kwd>open access</kwd>
+        <kwd>taxonomy</kwd>
+        <kwd>taxonomic treatments</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Donat Agosti</p>
+      </sec>
+    </notes>
+  </front>
+</article>

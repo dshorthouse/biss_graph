@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37258</article-id>
+      <article-id pub-id-type="publisher-id">37258</article-id>
+      <article-id pub-id-type="manuscript">11108</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PS - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Green Pioneers: Raising awareness of invasive plants for all ages</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Bogaerts</surname>
+            <given-names>Ann</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>De Smedt</surname>
+            <given-names>Sofie</given-names>
+          </name>
+          <email xlink:type="simple">sofie.desmedt@plantentuinmeise.be</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Meeus</surname>
+            <given-names>Sofie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Groom</surname>
+            <given-names>Quentin</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0596-5376</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Meise Botanic Garden, Meise, Belgium</addr-line>
+        <institution>Meise Botanic Garden</institution>
+        <addr-line content-type="city">Meise</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Sofie De Smedt (<email xlink:type="simple">sofie.desmedt@plantentuinmeise.be</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>19</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37258</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/829386E6D97559F9AA8896FEBFB2D683">829386E6D97559F9AA8896FEBFB2D683</uri>
+      <history>
+        <date date-type="received">
+          <day>13</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Ann Bogaerts, Sofie De Smedt, Sofie Meeus, Quentin Groom</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>When researchers and managers are asked to rank the issues that prevent adequate control of invasive species, lack of public awareness is at the top of the list (<xref ref-type="bibr" rid="B5168381">Dehnen‐Schmutz et al. 2018</xref>). It is therefore imperative to raise the general public's awareness of the potential risks of introducing alien species into the wild.</p>
+        <p><ext-link ext-link-type="uri" xlink:href="http://www.groenepioniers.be">Green Pioneers</ext-link>, a citizen science project funded by the Flemish Government, (Fig. <xref ref-type="fig" rid="F5168359">1</xref>) aims to address this issue in Belgium, across age groups.</p>
+        <p>The project aims to</p>
+        <p>
+          <list list-type="bullet"><list-item><p>Create awareness on invasive species, highlighting how invasions can be avoided and how to mitigate their impact.</p></list-item><list-item><p>Improve communication between citizens and scientists on conservation and invasive plant species.</p></list-item><list-item><p>Augment the quality and quantity of data on invasive species.</p></list-item></list>
+        </p>
+        <p>The project is developing three kinds of activity, specifically to attract a broad demographic:</p>
+        <p>- 'Young Pioneers', by developing tools for teachers in science, technology, engineering and mathemathics for school children from 12-15 years old.</p>
+        <p>- 'Online Pioneers', through our online citizen science platform <ext-link ext-link-type="uri" xlink:href="http://DoeDat.be">DoeDat.be</ext-link>, by helping with the transcription of label information on herbarium specimens,</p>
+        <p>- and 'Visiteers', by inviting companies and working age people to help us in the collection and to inform them about invasive species.</p>
+        <p>Finally, we will be organizing a BioBlitz in spring 2020 at Meise Botanic Garden where we will celebrate plants and all our Green Pioneers, while also spreading the message of invasive plant awareness. During our 48 hour BioBlitz, scientists, volunteers and citizens are workig together to survey the biodiversity of our Botanic Garden.</p>
+        <p>Ultimately, Green Pioneers aim to encourage recording of alien species by amateur botanists and create a generation of responsible gardeners who understand the consequences of releasing invasive alien plants into the wild.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>citizen science</kwd>
+        <kwd>BioBlitz</kwd>
+        <kwd>education</kwd>
+        <kwd>crowdsourcing</kwd>
+        <kwd>public awareness</kwd>
+        <kwd>visiteering</kwd>
+        <kwd>communication</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="1"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Ann Bogaerts</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+      <sec sec-type="Funding program">
+        <title>Funding program</title>
+        <p>Granted by the Flemish Government for budget year 2018 on budget article EBO-1EGG2OA-WT and basic allocation EBO EG 101 3122</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Funding program">
+      <title>Funding program</title>
+      <p>Granted by the Flemish Government for budget year 2018 on budget article EBO-1EGG2OA-WT and basic allocation EBO EG 101 3122</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5168381">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Dehnen‐Schmutz</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Boivin</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Essl</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Groom</surname>
+              <given-names>Q. J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Harrison</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Touza</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Bayliss</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Alien futures: What is on the horizon for biological invasions?</article-title>
+          <source>Diversity and Distributions</source>
+          <volume>24</volume>
+          <issue>8</issue>
+          <fpage>1149</fpage>
+          <lpage>1157</lpage>
+          <pub-id pub-id-type="doi">10.1111/ddi.12755</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5168359" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Logo of the Green pioneers project.</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37258-g001.jpg" position="float" id="oo_276899.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>

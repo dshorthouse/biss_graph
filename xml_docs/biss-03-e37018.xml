@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37018</article-id>
+      <article-id pub-id-type="publisher-id">37018</article-id>
+      <article-id pub-id-type="manuscript">10963</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI72 - Operationalizing Trait-Based Biodiversity</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Progress in Construction of Animal Trait Ontologies</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Wang</surname>
+            <given-names>Jiangning</given-names>
+          </name>
+          <email xlink:type="simple">wangjn@ioz.ac.cn</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Lin</surname>
+            <given-names>Congtian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Han</surname>
+            <given-names>Yan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Huang</surname>
+            <given-names>Xiongwei</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Xi</surname>
+            <given-names>TianYu</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Wang</surname>
+            <given-names>Zhaojun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Ji</surname>
+            <given-names>Liqiang</given-names>
+          </name>
+          <email xlink:type="simple">ji@ioz.ac.cn</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Institute of Zoology, Chinese Academy of Sciences, Beijing, China</addr-line>
+        <institution>Institute of Zoology, Chinese Academy of Sciences</institution>
+        <addr-line content-type="city">Beijing</addr-line>
+        <country>China</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding authors: Jiangning Wang (<email xlink:type="simple">wangjn@ioz.ac.cn</email>), Liqiang Ji (<email xlink:type="simple">ji@ioz.ac.cn</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37018</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/820605483AF65DA0A9891EF1BC233A52">820605483AF65DA0A9891EF1BC233A52</uri>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Jiangning Wang, Congtian Lin, Yan Han, Xiongwei Huang, TianYu Xi, Zhaojun Wang, Liqiang Ji</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>Extracting and formulating an animal trait ontology is the basis of building a trait database. The character selection from existing traditional biodiversity databases is limited and biased by the information already in a collection. With the increasing amount of character data and the advance of character information acquisition projects, the success of making animal trait ontologies or specifications of terms is imminent.</p>
+        <p>According to the general workflow of our ontology project, after investigating a large number of biodiversity databases, we extracted relatively complete character terms from dictionaries, training handbooks, journals and classical textbooks, and then constructed relationships according to some rules to form a preliminary animal trait ontology. When formulating the domain ontology/specification, our process is as follows:</p>
+        <p>
+          <list list-type="order"><list-item><p>Select the group and related materials; select the "specification" as the starting point of work; and then supplement with the teaching materials, journal citations and dictionaries of the relevant group for reference;</p></list-item><list-item><p>Extract terms from multiple sources, so only a few additions and modifications are needed after the second time;</p></list-item><list-item><p>Make structural adjustments to all terms according to the specification of description sequence;</p></list-item><list-item><p>Invite experts to examine and approve the project and repeat steps 2 and 3 (sometimes beginning from step 1) according to their opinions until they are approved.</p></list-item></list>
+        </p>
+        <p>At present, we have completed the construction of terms and their relationships for a morphological description of feature ontologies in birds, mammals, insects (only Lepidoptera), amphibians and reptiles. While constructing such morphology / taxonomy-based ontologies, we also formulated their attributes, which are supplemented by ontologies in various fields. All these terms are undergoing the second review by domain experts.</p>
+        <p>Although the existing work is only one small tip of the iceberg of the whole zoological trait ontology project, it is of great public interest. Compared with existing ontologies such as OBA (ontology of biological attributes, for development researchers) and UBERON (for surgeons), our ontologies are more suitable for taxonomists and biodiversity researchers.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>animal ontology</kwd>
+        <kwd>trait</kwd>
+        <kwd>database</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="0"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Jiangning Wang</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next 2019</p>
+      </sec>
+    </notes>
+  </front>
+</article>

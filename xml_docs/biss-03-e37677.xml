@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37677</article-id>
+      <article-id pub-id-type="publisher-id">37677</article-id>
+      <article-id pub-id-type="manuscript">11501</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>PI - Poster</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>ELIXIR Europe on the Road to Sustainable Research Software</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Kuzak</surname>
+            <given-names>Mateusz</given-names>
+          </name>
+          <email xlink:type="simple">mateusz.kuzak@dtls.nl</email>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0087-6021</uri>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Harrow</surname>
+            <given-names>Jen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Martinez</surname>
+            <given-names>Paula Andrea</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-8990-1985</uri>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Psomopoulos</surname>
+            <given-names>Fotis E</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0002-0222-4273</uri>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Via</surname>
+            <given-names>Allegra</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">Dutch Techcentre for Life Sciences, Amsterdam, Netherlands</addr-line>
+        <institution>Dutch Techcentre for Life Sciences</institution>
+        <addr-line content-type="city">Amsterdam</addr-line>
+        <country>Netherlands</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">ELIXIR Hub Wellcome Genome Campus, Hinxton, United Kingdom</addr-line>
+        <institution>ELIXIR Hub Wellcome Genome Campus</institution>
+        <addr-line content-type="city">Hinxton</addr-line>
+        <country>United Kingdom</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">ELIXIR Belgium, Gent, Belgium</addr-line>
+        <institution>ELIXIR Belgium</institution>
+        <addr-line content-type="city">Gent</addr-line>
+        <country>Belgium</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Institute of Applied Biosciences, Centre for Research and Technology Hellas, Thessaloniki, Greece</addr-line>
+        <institution>Institute of Applied Biosciences, Centre for Research and Technology Hellas</institution>
+        <addr-line content-type="city">Thessaloniki</addr-line>
+        <country>Greece</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">ELIXIR Italy, National Research Council of Italy (CNR), Institute of Molecular Biology and Pathology (IBPM), Rome, Italy</addr-line>
+        <institution>ELIXIR Italy, National Research Council of Italy (CNR), Institute of Molecular Biology and Pathology (IBPM)</institution>
+        <addr-line content-type="city">Rome</addr-line>
+        <country>Italy</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Mateusz Kuzak (<email xlink:type="simple">mateusz.kuzak@dtls.nl</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>02</day>
+        <month>07</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37677</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/E0994FF6DC1F5ABF8790D7F474D93524">E0994FF6DC1F5ABF8790D7F474D93524</uri>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Mateusz Kuzak, Jen Harrow, Paula Andrea Martinez, Fotis E Psomopoulos, Allegra Via</copyright-statement>
+        <license license-type="creative-commons-attribution" xlink:href="http://creativecommons.org/licenses/by/4.0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the Creative Commons Attribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>ELIXIR (<xref ref-type="bibr" rid="B5187652">ELIXIR Europe 2019a</xref>) is an intergovernmental organization that brings together life science resources across Europe. These resources include databases, software tools, training materials, cloud storage, and supercomputers. One of the goals of ELIXIR is to coordinate these resources so that they form a single infrastructure. This infrastructure makes it easier for scientists to find and share data, exchange expertise, and agree on best practices. ELIXIR's activities are divided into the following five areas: Data, Tools, Interoperability, Compute and Training, each known as “platform”. The ELIXIR Tools Platform works to improve the discovery, quality and sustainability of software resources. The Software Development Best Practices task of the Tools Platform aims to raise the quality and sustainability of research software by producing, adopting, and promoting information standards and best practices relevant to the software development life cycle. We have published four (4OSS) simple recommendations to encourage best practices in research software (<xref ref-type="bibr" rid="B5187246">Jiménez et al. 2017</xref>) and the Top 10 metrics for recommended life science software practices (<xref ref-type="bibr" rid="B5187352">Artaza et al. 2016</xref>).</p>
+        <p>The 4OSS simple recommendations are as follows:</p>
+        <p>
+          <list list-type="order"><list-item><p>Develop a publicly accessible open source code from day one.</p></list-item><list-item><p>Make software easy to discover by providing software metadata via a popular community registry.</p></list-item><list-item><p>Adopt a license and comply with the licenses of third-party dependencies.</p></list-item><list-item><p>Have clear and transparent contribution, governance and communication processes.</p></list-item></list>
+        </p>
+        <p>In order to encourage researchers and developers to adopt the 4OSS recommendations and build FAIR (Findable, Accessible, Interoperable and Reusable) software, the best practices group, in partnership with the ELIXIR Training platform, The Carpentries (<xref ref-type="bibr" rid="B5187479">Carpentries 2019</xref>, <xref ref-type="bibr" rid="B5187502">ELIXIR Europe 2019b</xref>), and other communities, are creating a collection of training materials (<xref ref-type="bibr" rid="B5187598">Kuzak et al. 2019</xref>). The next step is to adopt, promote, and recognise these information standards and best practices. The group will address this by (i) developing comprehensive guidelines for software curation, (ii) through training researchers and developers towards the adoption of software best practices and (iii) improvement of the usability of Tools Platform products. Additionally, a direct outcome of this task will be a software management plan template, connected to a concise description of the guidelines for open research software; and production of a white paper for the software development management plan for ELIXIR, which can be consequently used to produce training materials. We will work with the newly formed ReSA (Research Software Alliance) to facilitate the adoption of this plan for the broader community.</p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>software best practices</kwd>
+        <kwd>software management plan</kwd>
+        <kwd>software sustainability</kwd>
+        <kwd>reproducible research</kwd>
+        <kwd>open source software</kwd>
+        <kwd>open science</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <ref-count count="6"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Mateusz Kuzak</p>
+      </sec>
+      <sec sec-type="Presented at">
+        <title>Presented at</title>
+        <p>Biodiversity_Next  2019</p>
+      </sec>
+      <sec sec-type="Hosting institution">
+        <title>Hosting institution</title>
+        <p>ELIXIR Europe</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <sec sec-type="Hosting institution">
+      <title>Hosting institution</title>
+      <p>ELIXIR Europe</p>
+    </sec>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5187352">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Artaza</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chue Hong</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Corpas</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Corpuz</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hooft</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Jimenez</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Leskošek</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Olivier</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Stourac</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Svobodová Vařeková</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Van Parys</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vaughan</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Top 10 metrics for life science software good practices</article-title>
+          <source>F1000 Research</source>
+          <pub-id pub-id-type="doi">10.12688/f1000research.9206.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187479">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Carpentries</surname>
+            </name>
+          </person-group>
+          <article-title>The Carpentries</article-title>
+          <uri>carpentries.org</uri>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5187652">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Europe</surname>
+              <given-names>ELIXIR</given-names>
+            </name>
+          </person-group>
+          <article-title>ELIXIR | A distributed infrastructure for life-science information</article-title>
+          <uri>https://www.elixir-europe.org</uri>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5187502">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Europe</surname>
+              <given-names>ELIXIR</given-names>
+            </name>
+          </person-group>
+          <article-title>ELIXIR teams up with The Carpentries to boost its training programme</article-title>
+          <uri>https://elixir-europe.org/news/elixir-carpentries-agreement</uri>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B5187246">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Jiménez</surname>
+              <given-names>R. C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Kuzak</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Alhamdoosh</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Four simple recommendations to encourage best practices in research software</article-title>
+          <source>F1000Research</source>
+          <volume>6</volume>
+          <issue>876</issue>
+          <pub-id pub-id-type="doi">10.12688/f1000research.11407.1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5187598">
+        <element-citation publication-type="website">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Kuzak</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Silva</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Michonneau</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martinez</surname>
+              <given-names>P. A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hodges</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Psomopoulos</surname>
+              <given-names>E. F.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Via</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Dominguez del Angel</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fernandez</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Martinez</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Batut</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Sharan</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>SoftDev4Research/4OSS-lesson: first lesson release</article-title>
+          <pub-id pub-id-type="doi">10.5281/zenodo.2565040</pub-id>
+          <date-in-citation content-type="access-date">2019-04-05T00:00:00+03:00</date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

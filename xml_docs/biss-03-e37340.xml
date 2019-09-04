@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//TaxonX//DTD Taxonomic Treatment Publishing DTD v0 20100105//EN" "../../nlm/tax-treatment-NS0.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tp="http://www.plazi.org/taxpub" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">63</journal-id>
+      <journal-id journal-id-type="index">urn:lsid:arphahub.com:pub:0E0032F455AE52638B3CF4DD637C30C2</journal-id>
+      <journal-title-group>
+        <journal-title xml:lang="en">Biodiversity Information Science and Standards</journal-title>
+        <abbrev-journal-title xml:lang="en">BISS</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2535-0897</issn>
+      <publisher>
+        <publisher-name>Pensoft Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3897/biss.3.37340</article-id>
+      <article-id pub-id-type="publisher-id">37340</article-id>
+      <article-id pub-id-type="manuscript">11003</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Conference Abstract</subject>
+        </subj-group>
+        <subj-group subj-group-type="conference-part">
+          <subject>SI67 - Digitisation Next</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A New Model for Efficient, Need-Driven Progress in Generating Primary Biodiversity Information Resources</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name name-style="western">
+            <surname>Asase</surname>
+            <given-names>Alex</given-names>
+          </name>
+          <email xlink:type="simple">alexasase@gmail.com</email>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Sainge</surname>
+            <given-names>Moses N</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Radji</surname>
+            <given-names>Raoufou A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Ugbogu</surname>
+            <given-names>Omokafe A</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="no">
+          <name name-style="western">
+            <surname>Townsend Peterson</surname>
+            <given-names>Andrew</given-names>
+          </name>
+          <uri content-type="orcid">https://orcid.org/0000-0003-0243-2379</uri>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>
+        <addr-line content-type="verbatim">University of Ghana, Legon-Accra, Ghana</addr-line>
+        <institution>University of Ghana</institution>
+        <addr-line content-type="city">Legon-Accra</addr-line>
+        <country>Ghana</country>
+      </aff>
+      <aff id="A2">
+        <label>2</label>
+        <addr-line content-type="verbatim">Tropical Plant Exploration Group (TroPEG) , Mundemba, Cameroon</addr-line>
+        <institution>Tropical Plant Exploration Group (TroPEG) </institution>
+        <addr-line content-type="city">Mundemba</addr-line>
+        <country>Cameroon</country>
+      </aff>
+      <aff id="A3">
+        <label>3</label>
+        <addr-line content-type="verbatim">Université de Lomé, Lomé, Togo</addr-line>
+        <institution>Université de Lomé</institution>
+        <addr-line content-type="city">Lomé</addr-line>
+        <country>Togo</country>
+      </aff>
+      <aff id="A4">
+        <label>4</label>
+        <addr-line content-type="verbatim">Forestry Research Institute of Nigeria, Ibada, Nigeria</addr-line>
+        <institution>Forestry Research Institute of Nigeria</institution>
+        <addr-line content-type="city">Ibada</addr-line>
+        <country>Nigeria</country>
+      </aff>
+      <aff id="A5">
+        <label>5</label>
+        <addr-line content-type="verbatim">University of Kansas, Lawrence, Kansas, United States of America</addr-line>
+        <institution>University of Kansas</institution>
+        <addr-line content-type="city">Lawrence, Kansas</addr-line>
+        <country>United States of America</country>
+      </aff>
+      <author-notes>
+        <fn fn-type="corresp">
+          <p>Corresponding author: Alex Asase (<email xlink:type="simple">alexasase@gmail.com</email>).</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Academic editor: </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <year>2019</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>06</month>
+        <year>2019</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e37340</elocation-id>
+      <uri content-type="arpha" xlink:href="http://openbiodiv.net/FEAC4916994D5D4E91C5BB8781BB0BBA">FEAC4916994D5D4E91C5BB8781BB0BBA</uri>
+      <history>
+        <date date-type="received">
+          <day>14</day>
+          <month>06</month>
+          <year>2019</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="creative-commons-attribution" xlink:href="https://creativecommons.org/share-your-work/public-domain/cc0/" xlink:type="simple">
+          <license-p>This is an open access article distributed under the terms of the CC0 Public Domain Dedication.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <label>Abstract</label>
+        <p>The field of biodiversity informatics has developed rapidly in recent years with broad availability of large-scale information resources. However, online biodiversity information are biased (<xref ref-type="bibr" rid="B5223163">Boakes et al. 2010</xref>, <xref ref-type="bibr" rid="B5223149">Stropp et al. 2016</xref>) as a result of the relatively slow capture and digitization of existing data resources. The West African Plants (WAP) initiative approach to data capture is a prototype of a novel solution to the challenge of the traditional model, in which the institutional “owner” of the specimens is responsible for digital capture of associated data. The WAP Initiative is a consortium of West African researchers in botany, in coordination with six institutions across Europe and North America; its goal is to digitize and mobilize available, high-quality, primary biodiversity occurrence data resources for West African plant diversity (<ext-link ext-link-type="uri" xlink:href="http://jrsbiodiversity.org/grants/university-of-ghana-herbaria/">http://jrsbiodiversity.org/grants/university-of-ghana-herbaria/</ext-link>). Here, we developed customized workflows for data capture in formats directly and permanently useful to the “owner” herbarium, and digitized significant new biodiversity records adding to the information available for the plants of the region. Data  records were captured strictly in accordance with DarwinCore standards, achieved either by (a) capturing data records from existing images (e.g., images supplied by Naturalis Bodiversity Centre), or (b) capturing data from images taken quickly and efficiently by project personnel in West African Herbaria. Digitization of images and data began in 2015 in West African partner institutions, and by middle of 2018 resulted in 190,953 records of species in 1965 genera and 331 families from 16 West African countries (Fig. <xref ref-type="fig" rid="F5223205">1</xref>). Our approach is cost-effective, allows development of information resources even for regions in which political situations make it impossible, and it provides a historical context against which to compare newer data as the latter become available (<xref ref-type="bibr" rid="B5223176">Peterson et al. 2016</xref>). Further measures of success of the initiative will center on whether the institutions “owning” the specimens follow through and put the new data records online. Already, several project institutions have put initial project data online as part of their GBIF data contributions, but—of course—success would consist of <italic>all </italic>project-generated data being completely available online. Note that this model is the reverse of the traditional model, in which the institutions holding the specimens create the information resources that are used by the rest of the world. This new paradigm in specimen digitization has considerable promise to accelerate and improve the process of generating biodiversity information, and can be replicated and applied in many biodiversity-rich, information-poor regions to remedy the oft-cited massive gaps in information availability.</p>
+        <p> </p>
+      </abstract>
+      <kwd-group>
+        <label>Keywords</label>
+        <kwd>primary biodiversity data</kwd>
+        <kwd>plants</kwd>
+        <kwd>biodiversity informatics</kwd>
+        <kwd>digitization</kwd>
+        <kwd>West Africa</kwd>
+      </kwd-group>
+      <conference>
+        <conf-date>2019</conf-date>
+        <conf-name>Biodiversity_Next</conf-name>
+        <conf-acronym>Biodiversity_Next 2019</conf-acronym>
+        <conf-loc>Leiden, The Netherlands</conf-loc>
+        <conf-theme>A joint conference by The Global Biodiversity Information Facility (GBIF), a new pan-European Research Infrastructure initiative (DiSSCo),  the national resource for digitized information about vouchered natural history collections (iDigBio), Consortium of European Taxonomic Facilities (CETAF), Biodiversity Information Standards (TDWG) and LifeWatch ERIC, the e-Science and Technology European Infrastructure for Biodiversity and Ecosystem Research.</conf-theme>
+      </conference>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="0"/>
+        <ref-count count="4"/>
+      </counts>
+    </article-meta>
+    <notes>
+      <sec sec-type="Presenting author">
+        <title>Presenting author</title>
+        <p>Alex Asase</p>
+      </sec>
+    </notes>
+  </front>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B5223163">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Boakes</surname>
+              <given-names>Elizabeth H.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>McGowan</surname>
+              <given-names>Philip J. K.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Fuller</surname>
+              <given-names>Richard A.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Chang-qing</surname>
+              <given-names>Ding</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Clark</surname>
+              <given-names>Natalie E.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>O'Connor</surname>
+              <given-names>Kim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mace</surname>
+              <given-names>Georgina M.</given-names>
+            </name>
+          </person-group>
+          <year>2010</year>
+          <article-title>Distorted Views of Biodiversity: Spatial and Temporal Bias in Species Occurrence Data</article-title>
+          <source>PLoS Biology</source>
+          <volume>8</volume>
+          <issue>6</issue>
+          <pub-id pub-id-type="doi">10.1371/journal.pbio.1000385</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5223176">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Peterson</surname>
+              <given-names>A. Townsend</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Navarro-Sigüenza</surname>
+              <given-names>Adolfo G.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gordillo-Martínez</surname>
+              <given-names>Alejandro</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>The development of ornithology in Mexico and the importance of access to scientific information</article-title>
+          <source>Archives of Natural History</source>
+          <volume>43</volume>
+          <issue>2</issue>
+          <fpage>294</fpage>
+          <lpage>304</lpage>
+          <pub-id pub-id-type="doi">10.3366/anh.2016.0385</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5223208">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Rees</surname>
+              <given-names>Tony</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vandepitte</surname>
+              <given-names>Leen</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Decock</surname>
+              <given-names>Wim</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Vanhoorne</surname>
+              <given-names>Bart</given-names>
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>IRMNG 2006–2016: 10 years of a global taxonomic database</article-title>
+          <source>Biodiversity Informatics</source>
+          <volume>12</volume>
+          <pub-id pub-id-type="doi">10.17161/bi.v12i0.6522</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5223149">
+        <element-citation publication-type="article">
+          <person-group person-group-type="author">
+            <name name-style="western">
+              <surname>Stropp</surname>
+              <given-names>Juliana</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Ladle</surname>
+              <given-names>Richard J.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>M. Malhado</surname>
+              <given-names>Ana C.</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Hortal</surname>
+              <given-names>Joaquín</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Gaffuri</surname>
+              <given-names>Julien</given-names>
+            </name>
+            <name name-style="western">
+              <surname>H. Temperley</surname>
+              <given-names>William</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Olav Skøien</surname>
+              <given-names>Jon</given-names>
+            </name>
+            <name name-style="western">
+              <surname>Mayaux</surname>
+              <given-names>Philippe</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Mapping ignorance: 300 years of collecting flowering plants in Africa</article-title>
+          <source>Global Ecology and Biogeography</source>
+          <volume>25</volume>
+          <issue>9</issue>
+          <fpage>1085</fpage>
+          <lpage>1096</lpage>
+          <pub-id pub-id-type="doi">10.1111/geb.12468</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F5223205" position="float" orientation="portrait">
+      <label>Figure 1.</label>
+      <caption>
+        <p>Summary of hierarchical taxonomic representation (order, family, genus) of plant genera among data generated as part of the West African Plants initiative for those genera with <underline>&gt;</underline>500 records. Taxonomic authority is IRMNG (<xref ref-type="bibr" rid="B5223208">Rees et al. 2017</xref>).</p>
+      </caption>
+      <graphic xlink:href="biss-03-e37340-g001.jpg" position="float" id="oo_313174.jpg" orientation="portrait" xlink:type="simple"/>
+    </fig>
+  </floats-group>
+</article>
