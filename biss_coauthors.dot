@@ -1,7 +1,7 @@
 graph WeightedGraph {
     bgcolor = "#000000"
     fontsize = 8
-
+    splines = "curved"
     "Mark Hereld" [
         color = "#7FFF00",
         fillcolor = "#0912ba",
@@ -9,6 +9,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0268-2880",
         label = "Mark Hereld"
     ]
 
@@ -29,6 +30,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6496-1423",
         label = "Matt Woodburn"
     ]
 
@@ -39,6 +41,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4012-0571",
         label = "Sarah Vincent"
     ]
 
@@ -49,6 +52,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9206-8357",
         label = "Helen Hardy"
     ]
 
@@ -69,6 +73,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0829-5849",
         label = "David Fichtmueller"
     ]
 
@@ -79,6 +84,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9945-7606",
         label = "Walter G. Berendsohn"
     ]
 
@@ -99,6 +105,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7127-2738",
         label = "Falko Glöckler"
     ]
 
@@ -109,6 +116,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4325-4030",
         label = "Anton Güntsch"
     ]
 
@@ -119,6 +127,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6214-661X",
         label = "Jana Hoffmann"
     ]
 
@@ -139,6 +148,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8666-1931",
         label = "Mareike Petersen"
     ]
 
@@ -159,6 +169,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4991-5781",
         label = "Peter Grobe"
     ]
 
@@ -169,6 +180,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5246-9351",
         label = "Roman Baum"
     ]
 
@@ -209,6 +221,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3760-5834",
         label = "Björn Quast"
     ]
 
@@ -219,6 +232,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8280-0487",
         label = "Lars Vogt"
     ]
 
@@ -229,6 +243,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5640-5491",
         label = "Matthew Yoder"
     ]
 
@@ -239,6 +254,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3293-4794",
         label = "Dmitry A Dmitriev"
     ]
 
@@ -299,6 +315,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6686-2266",
         label = "Raul Sierra-Alcocer"
     ]
 
@@ -399,6 +416,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9067-8936",
         label = "Wolke Tobón"
     ]
 
@@ -539,6 +557,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-7348-7612",
         label = "Abraham Nieva de la Hidalga"
     ]
 
@@ -589,6 +608,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7740-5423",
         label = "Patrick Plitzner"
     ]
 
@@ -609,6 +629,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1929-3264",
         label = "Tilo Henning"
     ]
 
@@ -619,6 +640,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2982-7792",
         label = "Sabine von Mering"
     ]
 
@@ -679,6 +701,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3973-1252",
         label = "Mathias Dillen"
     ]
 
@@ -689,6 +712,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0596-5376",
         label = "Quentin Groom"
     ]
 
@@ -739,6 +763,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8442-8025",
         label = "Peter Desmet"
     ]
 
@@ -769,6 +794,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0846-9116",
         label = "Dimitri Brosens"
     ]
 
@@ -839,6 +865,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6269-3592",
         label = "Fedor Ciampor"
     ]
 
@@ -849,6 +876,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3469-9211",
         label = "Torbjørn Ekrem"
     ]
 
@@ -889,6 +917,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9643-4281",
         label = "Maria Kahlert"
     ]
 
@@ -929,6 +958,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5465-913X",
         label = "Florian Leese"
     ]
 
@@ -949,6 +979,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2863-2491",
         label = "William Ulate"
     ]
 
@@ -959,6 +990,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4329-4892",
         label = "Niels Raes"
     ]
 
@@ -1019,6 +1051,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5297-7452",
         label = "Vincent Stuart Smith"
     ]
 
@@ -1029,6 +1062,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5354-6048",
         label = "Katja C Seltmann"
     ]
 
@@ -1049,6 +1083,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4199-5924",
         label = "Natalya Ivanova"
     ]
 
@@ -1059,6 +1094,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9708-2406",
         label = "Alexander E White"
     ]
 
@@ -1069,6 +1105,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0537-8382",
         label = "Michael G Trizna"
     ]
 
@@ -1079,6 +1116,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4801-7579",
         label = "Paul B Frandsen"
     ]
 
@@ -1099,6 +1137,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9668-3683",
         label = "Rebecca B Dikow"
     ]
 
@@ -1139,6 +1178,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7274-6755",
         label = "W. Daniel Kissling"
     ]
 
@@ -1149,6 +1189,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9773-4008",
         label = "Andra Waagmeester"
     ]
 
@@ -1209,6 +1250,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4028-0591",
         label = "David Owen"
     ]
 
@@ -1249,6 +1291,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1494-5684",
         label = "Florian D. Schneider"
     ]
 
@@ -1259,6 +1302,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0829-5849",
         label = "David Fichtmüller"
     ]
 
@@ -1269,6 +1313,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1516-6364",
         label = "Martin M. Gossner"
     ]
 
@@ -1279,6 +1324,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8728-1145",
         label = "Malte Jochum"
     ]
 
@@ -1349,6 +1395,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2337-3825",
         label = "Thomas Vattakaven"
     ]
 
@@ -1419,6 +1466,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9254-7318",
         label = "Rutger Aldo Vos"
     ]
 
@@ -1589,6 +1637,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4366-3088",
         label = "Pier Luigi Buttigieg"
     ]
 
@@ -1679,6 +1728,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1980-3148",
         label = "Dagmar Triebel"
     ]
 
@@ -1689,6 +1739,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0442-8162",
         label = "Johan Liljeblad"
     ]
 
@@ -1719,6 +1770,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9286-1200",
         label = "Donat Agosti"
     ]
 
@@ -1749,6 +1801,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8083-6048",
         label = "Mariya Dimitrova"
     ]
 
@@ -1759,6 +1812,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3340-5963",
         label = "Viktor Senderov"
     ]
 
@@ -1779,6 +1833,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8558-6845",
         label = "Teodor Georgiev"
     ]
 
@@ -1789,6 +1844,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2186-5033",
         label = "Lyubomir Penev"
     ]
 
@@ -1869,6 +1925,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2283-1123",
         label = "Antonio Mauro Saraiva"
     ]
 
@@ -1879,6 +1936,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3738-6448",
         label = "Bruno de Carvalho Albertini"
     ]
 
@@ -1889,6 +1947,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9488-1870",
         label = "Daniel Mietchen"
     ]
 
@@ -1899,6 +1958,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5398-7721",
         label = "Siobhan Leachman"
     ]
 
@@ -1909,6 +1969,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8504-068X",
         label = "Yvan Le Bras"
     ]
 
@@ -1959,6 +2020,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4788-0223",
         label = "Katharine Barker"
     ]
 
@@ -1969,6 +2031,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6004-7730",
         label = "Jonathan Coddington"
     ]
 
@@ -2029,6 +2092,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3259-8273",
         label = "Piotr Tykarski"
     ]
 
@@ -2049,6 +2113,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-7089-7018",
         label = "Nico Franz"
     ]
 
@@ -2059,6 +2124,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5006-8092",
         label = "Edward Gilbert"
     ]
 
@@ -2129,6 +2195,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4300-9550",
         label = "Marija Cosovic"
     ]
 
@@ -2179,6 +2246,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3700-4884",
         label = "Nicky Nicolson"
     ]
 
@@ -2249,6 +2317,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4456-1710",
         label = "Anton M Potapov"
     ]
 
@@ -2289,6 +2358,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8815-0078",
         label = "Ramona L. Walls"
     ]
 
@@ -2349,6 +2419,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9898-1916",
         label = "Mikko Heikkinen"
     ]
 
@@ -2359,6 +2430,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1990-2173",
         label = "Leif Schulman"
     ]
 
@@ -2369,6 +2441,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8052-0107",
         label = "R. Henrik Nilsson"
     ]
 
@@ -2539,6 +2612,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2160-4968",
         label = "Joaquim Santos"
     ]
 
@@ -2569,6 +2643,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4925-9289",
         label = "Laurens Sparrius"
     ]
 
@@ -2619,6 +2694,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2863-2491",
         label = "William Ulate Rodríguez"
     ]
 
@@ -2639,6 +2715,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3090-1761",
         label = "Wouter Addink"
     ]
 
@@ -2649,6 +2726,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8928-8749",
         label = "Amanda Devine"
     ]
 
@@ -2669,6 +2747,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7851-4445",
         label = "Gil Nelson"
     ]
 
@@ -2729,6 +2808,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8343-604X",
         label = "Chie-Jen Ko"
     ]
 
@@ -2759,6 +2839,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8233-2935",
         label = "Mao-Ning Tuanmu"
     ]
 
@@ -2779,6 +2860,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4842-6487",
         label = "Dimitrios Koureas"
     ]
 
@@ -2829,6 +2911,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9269-6548",
         label = "Thomas Vandenberghe"
     ]
 
@@ -2849,6 +2932,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2692-8651",
         label = "Serge Scory"
     ]
 
@@ -2879,6 +2963,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0779-8006",
         label = "Henry Engledow"
     ]
 
@@ -3089,6 +3174,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3620-6188",
         label = "Paul Braun"
     ]
 
@@ -3119,6 +3205,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5106-6067",
         label = "Christina Pavloudi"
     ]
 
@@ -3149,6 +3236,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3507-6542",
         label = "Giorgos Chatzigeorgiou"
     ]
 
@@ -3159,6 +3247,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9143-7480",
         label = "Vasilis Gerovasileiou"
     ]
 
@@ -3179,6 +3268,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4994-0653",
         label = "Nicolas Bailly"
     ]
 
@@ -3219,6 +3309,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3237-4547",
         label = "Ward Appeltans"
     ]
 
@@ -3229,6 +3320,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6693-2033",
         label = "Kleoniki Keklikoglou"
     ]
 
@@ -3309,6 +3401,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1538-0320",
         label = "Panagiotis Kassapidis"
     ]
 
@@ -3359,6 +3452,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6196-6090",
         label = "Pierre-André Loizeau"
     ]
 
@@ -3369,6 +3463,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0715-8647",
         label = "Sofie Meeus"
     ]
 
@@ -3379,6 +3474,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5491-8349",
         label = "Francis Wyffels"
     ]
 
@@ -3399,6 +3495,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4375-0445",
         label = "Michael Pocock"
     ]
 
@@ -3409,6 +3506,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1116-3385",
         label = "Tom August"
     ]
 
@@ -3449,6 +3547,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2807-5867",
         label = "Jonathan Pye"
     ]
 
@@ -3459,6 +3558,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2766-9201",
         label = "Sarah C Davidson"
     ]
 
@@ -3469,6 +3569,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0351-6523",
         label = "Claus Weiland"
     ]
 
@@ -3489,6 +3590,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6087-6117",
         label = "Marco Schmidt"
     ]
 
@@ -3509,6 +3611,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6166-0454",
         label = "Bartosz Pencakowski"
     ]
 
@@ -3559,6 +3662,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9785-1538",
         label = "Mary Barkworth"
     ]
 
@@ -3679,6 +3783,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8482-6162",
         label = "Markus Piha"
     ]
 
@@ -3729,6 +3834,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4845-0241",
         label = "Hanieh Saeedi"
     ]
 
@@ -3739,6 +3845,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4401-5530",
         label = "Marianna Simoes"
     ]
 
@@ -3759,6 +3866,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1545-1512",
         label = "Isabel Queirós Neves"
     ]
 
@@ -3779,6 +3887,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8249-9383",
         label = "Cristiane Bastos-Silveira"
     ]
 
@@ -3819,6 +3928,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1336-5554",
         label = "Anton Van de Putte"
     ]
 
@@ -3829,6 +3939,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3355-2448",
         label = "Hongbin Wang"
     ]
 
@@ -3859,6 +3970,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8815-0078",
         label = "Ramona Walls"
     ]
 
@@ -3869,6 +3981,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2908-3327",
         label = "Anne Thessen"
     ]
 
@@ -3979,6 +4092,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3370-3218",
         label = "Markus Oppermann"
     ]
 
@@ -3989,6 +4103,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4031-9131",
         label = "Stephan Weise"
     ]
 
@@ -3999,6 +4114,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1827-3977",
         label = "Imanol Miqueleiz"
     ]
 
@@ -4009,6 +4125,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4620-6445",
         label = "Arturo H. Ariño"
     ]
 
@@ -4019,6 +4136,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4798-314X",
         label = "Rafael Miranda"
     ]
 
@@ -4029,6 +4147,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8282-5732",
         label = "Florencia Grattarola"
     ]
 
@@ -4059,6 +4178,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-7118-6285",
         label = "David Chiawo"
     ]
 
@@ -4069,6 +4189,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9506-0991",
         label = "Nina Filippova"
     ]
 
@@ -4079,6 +4200,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2871-2731",
         label = "Ilya Filippov"
     ]
 
@@ -4089,6 +4211,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1247-8346",
         label = "Ana Margarida Dias da Silva"
     ]
 
@@ -4099,6 +4222,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2625-2567",
         label = "M. Teresa Girão da Cruz"
     ]
 
@@ -4159,6 +4283,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1602-1917",
         label = "Elizabeth R. Ellwood"
     ]
 
@@ -4239,6 +4364,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6159-0097",
         label = "Georgi Zhelezov"
     ]
 
@@ -4249,6 +4375,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9790-0272",
         label = "Marta Bento"
     ]
 
@@ -4299,6 +4426,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8528-9023",
         label = "Frank Oliver Glöckner"
     ]
 
@@ -4309,6 +4437,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9508-1349",
         label = "James A Macklin"
     ]
 
@@ -4319,6 +4448,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2585-9888",
         label = "David Galicia"
     ]
 
@@ -4339,6 +4469,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2145-8606",
         label = "Enrique Baquero"
     ]
 
@@ -4379,6 +4510,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7863-4463",
         label = "Nora Escribano"
     ]
 
@@ -4539,6 +4671,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9107-1984",
         label = "Johan Renaudie"
     ]
 
@@ -4559,6 +4692,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9244-399X",
         label = "Cristina Villaverde"
     ]
 
@@ -4579,6 +4713,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1920-5298",
         label = "Laura Russell"
     ]
 
@@ -4589,6 +4724,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2699-3066",
         label = "Meghan A. Balk"
     ]
 
@@ -4609,6 +4745,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0918-5852",
         label = "Edward B. Davis"
     ]
 
@@ -4649,6 +4786,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8967-6215",
         label = "Arianne Boileau"
     ]
 
@@ -4659,6 +4797,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3401-2814",
         label = "Luis Filipe Lopes"
     ]
 
@@ -4679,6 +4818,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5910-7126",
         label = "Luís da Costa"
     ]
 
@@ -4689,6 +4829,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3349-8744",
         label = "Michael R Kearney"
     ]
 
@@ -4729,6 +4870,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0548-9418",
         label = "Jocelyn Pender"
     ]
 
@@ -4749,6 +4891,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9508-1349",
         label = "James Macklin"
     ]
 
@@ -4779,6 +4922,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6565-8450",
         label = "Dominik Röpert"
     ]
 
@@ -4789,6 +4933,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8870-7099",
         label = "Cynthia S Parr"
     ]
 
@@ -4819,6 +4964,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0747-8539",
         label = "Anna Childers"
     ]
 
@@ -4829,6 +4975,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0774-9498",
         label = "Laura Green"
     ]
 
@@ -4919,6 +5066,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2790-8652",
         label = "Liliana Ballesteros Mejia"
     ]
 
@@ -4979,6 +5127,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0596-5376",
         label = "Quentin J. Groom"
     ]
 
@@ -5019,6 +5168,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2883-0906",
         label = "Nicole Kearney"
     ]
 
@@ -5029,6 +5179,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6532-7712",
         label = "Arnald Marcer"
     ]
 
@@ -5039,6 +5190,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7101-9767",
         label = "Roderic Page"
     ]
 
@@ -5069,6 +5221,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-7618-5230",
         label = "David Peter Shorthouse"
     ]
 
@@ -5079,6 +5232,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5702-5677",
         label = "Pavel Stoev"
     ]
 
@@ -5089,6 +5243,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9144-2848",
         label = "Elspeth Margaret Haston"
     ]
 
@@ -5099,6 +5254,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0087-6021",
         label = "Mateusz Kuzak"
     ]
 
@@ -5119,6 +5275,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8990-1985",
         label = "Paula Andrea Martinez"
     ]
 
@@ -5129,6 +5286,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0222-4273",
         label = "Fotis E Psomopoulos"
     ]
 
@@ -5159,6 +5317,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1985-7859",
         label = "Hugo J. De Boer"
     ]
 
@@ -5249,6 +5408,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8351-4028",
         label = "Rui Figueira"
     ]
 
@@ -5269,6 +5429,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2078-1858",
         label = "Balasubramanian Dhandapani"
     ]
 
@@ -5279,6 +5440,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4852-2567",
         label = "Vijay Barve"
     ]
 
@@ -5299,6 +5461,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0101-8662",
         label = "Adeline Kerner"
     ]
 
@@ -5309,6 +5472,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0517-3798",
         label = "Nicolas Friess"
     ]
 
@@ -5479,6 +5643,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6492-4016",
         label = "Donald Hobern"
     ]
 
@@ -5509,6 +5674,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0895-4952",
         label = "Benedictus Freeman"
     ]
 
@@ -5519,6 +5685,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0243-2379",
         label = "A. Townsend Peterson"
     ]
 
@@ -5549,6 +5716,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0068-9739",
         label = "Björn Berning"
     ]
 
@@ -5579,6 +5747,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8566-8848",
         label = "Andreas Kroh"
     ]
 
@@ -5649,6 +5818,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7341-1842",
         label = "Laurence Livermore"
     ]
 
@@ -5659,6 +5829,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-7902-3843",
         label = "Robert W. N. Cubey"
     ]
 
@@ -5709,6 +5880,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5148-002X",
         label = "Elizabeth Louise L Allan"
     ]
 
@@ -5719,6 +5891,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6766-2840",
         label = "Steen Dupont"
     ]
 
@@ -5729,6 +5902,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5497-4087",
         label = "Benjamin Price"
     ]
 
@@ -5799,6 +5973,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6321-9398",
         label = "Francisco Pando"
     ]
 
@@ -5829,6 +6004,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9708-2406",
         label = "Alexander E. White"
     ]
 
@@ -5839,6 +6015,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0537-8382",
         label = "Michael G. Trizna"
     ]
 
@@ -5849,6 +6026,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4801-7579",
         label = "Paul B. Frandsen"
     ]
 
@@ -5859,6 +6037,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3724-4610",
         label = "Akito Y. Kawahara"
     ]
 
@@ -5879,6 +6058,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9668-3683",
         label = "Rebecca B. Dikow"
     ]
 
@@ -5899,6 +6079,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8918-9775",
         label = "Jeremy A. Miller"
     ]
 
@@ -5909,6 +6090,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5526-5549",
         label = "Salih Sercan Kanoglu"
     ]
 
@@ -5919,6 +6101,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1580-9892",
         label = "Rasim Murat Aydınkal"
     ]
 
@@ -5949,6 +6132,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0433-1611",
         label = "Jonathan Todd"
     ]
 
@@ -5969,6 +6153,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5526-5549",
         label = "Salih Sercan Kanoğlu"
     ]
 
@@ -6089,6 +6274,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2427-2364",
         label = "Björn Kröger"
     ]
 
@@ -6099,6 +6285,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9627-8821",
         label = "Kari Lintulaakso"
     ]
 
@@ -6129,6 +6316,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2214-709X",
         label = "Liselott Sjodin Skarp"
     ]
 
@@ -6139,6 +6327,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3112-6549",
         label = "Eveliina Päivikki Kallioniemi"
     ]
 
@@ -6229,6 +6418,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5788-9010",
         label = "Joseph T Miller"
     ]
 
@@ -6249,6 +6439,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6718-6669",
         label = "Carole Sinou"
     ]
 
@@ -6279,6 +6470,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9144-2848",
         label = "Elspeth M Haston"
     ]
 
@@ -6299,6 +6491,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4419-6960",
         label = "Stanley Blum"
     ]
 
@@ -6309,6 +6502,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4365-3135",
         label = "Steven J Baskauf"
     ]
 
@@ -6339,6 +6533,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1144-0290",
         label = "John Wieczorek"
     ]
 
@@ -6359,6 +6554,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9144-2848",
         label = "Elspeth M. Haston"
     ]
 
@@ -6399,6 +6595,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-7036-1977",
         label = "Kerstin Lehnert"
     ]
 
@@ -6489,6 +6686,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5809-9811",
         label = "Sally King"
     ]
 
@@ -6539,6 +6737,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9277-2478",
         label = "Thierry Bourgoin"
     ]
 
@@ -6579,6 +6778,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7565-4389",
         label = "Jitendra Gaikwad"
     ]
 
@@ -6609,6 +6809,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1116-3385",
         label = "Tom A August"
     ]
 
@@ -6719,6 +6920,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9770-2345",
         label = "Geoffrey Donald Ower"
     ]
 
@@ -6749,6 +6951,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4869-8052",
         label = "Nick J B Isaac"
     ]
 
@@ -6769,6 +6972,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0293-1664",
         label = "Ana Genua-Olmedo"
     ]
 
@@ -6819,6 +7023,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6890-8942",
         label = "Maria Helena Hällfors"
     ]
 
@@ -6949,6 +7154,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1920-5298",
         label = "Laura Anne Russell"
     ]
 
@@ -6959,6 +7165,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2224-8387",
         label = "Mehrdad Jahanbanifard"
     ]
 
@@ -6989,6 +7196,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9091-6543",
         label = "Corinna Gries"
     ]
 
@@ -7009,6 +7217,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1693-8322",
         label = "Margaret O'Brien"
     ]
 
@@ -7059,6 +7268,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0674-7960",
         label = "Filipi Miranda Soares"
     ]
 
@@ -7069,6 +7279,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4303-9071",
         label = "Benildes CMS Maculan"
     ]
 
@@ -7099,6 +7310,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6160-2852",
         label = "Paul-André Duchesne"
     ]
 
@@ -7109,6 +7321,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9092-966X",
         label = "François Michonneau"
     ]
 
@@ -7129,6 +7342,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4049-0820",
         label = "Visotheary Ung"
     ]
 
@@ -7149,6 +7363,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1820-9422",
         label = "Robyn Drinkwater"
     ]
 
@@ -7189,6 +7404,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3090-1761",
         label = "Wouter Addnik"
     ]
 
@@ -7219,6 +7435,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5206-3415",
         label = "Chantal Huijbers"
     ]
 
@@ -7239,6 +7456,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8900-6203",
         label = "Lee Belbin"
     ]
 
@@ -7249,6 +7467,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7042-2327",
         label = "Hamish Holewa"
     ]
 
@@ -7279,6 +7498,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1557-8596",
         label = "Tomer Gueta"
     ]
 
@@ -7299,6 +7519,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5311-6021",
         label = "Povilas Gibas"
     ]
 
@@ -7319,6 +7540,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4670-4452",
         label = "Olle Hints"
     ]
 
@@ -7449,6 +7671,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9943-2342",
         label = "Jennifer Hammock"
     ]
 
@@ -7469,6 +7692,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0866-4376",
         label = "Steve Vissault"
     ]
 
@@ -7489,6 +7713,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0735-5184",
         label = "Timothée Poisot"
     ]
 
@@ -7499,6 +7724,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3305-7567",
         label = "Íris Sampaio"
     ]
 
@@ -7579,6 +7805,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9770-2345",
         label = "Geoffrey Ower"
     ]
 
@@ -7599,6 +7826,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-7870-9907",
         label = "Daphnis De Pooter"
     ]
 
@@ -7639,6 +7867,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5013-5478",
         label = "Natalie Love"
     ]
 
@@ -7649,6 +7878,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5471-164X",
         label = "Erick Mata-Montero"
     ]
 
@@ -7679,6 +7909,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0537-8382",
         label = "Michael Trizna"
     ]
 
@@ -7689,6 +7920,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4816-2909",
         label = "Torsten Dikow"
     ]
 
@@ -7749,6 +7981,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4285-8008",
         label = "Carlos Martins Vila-Viçosa"
     ]
 
@@ -7759,6 +7992,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6615-0218",
         label = "João Francisco Gonçalves"
     ]
 
@@ -7799,6 +8033,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7377-8089",
         label = "Jean Stephan"
     ]
 
@@ -7849,6 +8084,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0243-2379",
         label = "Andrew Townsend Peterson"
     ]
 
@@ -7859,6 +8095,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9785-1538",
         label = "Mary E. Barkworth"
     ]
 
@@ -7899,6 +8136,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9171-783X",
         label = "Sohaib Younis"
     ]
 
@@ -7919,6 +8157,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4563-4627",
         label = "Martin R. Kalfatovic"
     ]
 
@@ -7929,6 +8168,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8339-728X",
         label = "Constance Rinaldo"
     ]
 
@@ -7939,6 +8179,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2919-1168",
         label = "Dmitry S. Schigel"
     ]
 
@@ -7979,6 +8220,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6409-2352",
         label = "Christian Quast"
     ]
 
@@ -7989,6 +8231,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1038-3028",
         label = "Thomas M. Orrell"
     ]
 
@@ -7999,6 +8242,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5788-9010",
         label = "Joseph T. Miller"
     ]
 
@@ -8009,6 +8253,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0767-4310",
         label = "Alex R Hardisty"
     ]
 
@@ -8029,6 +8274,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4842-6487",
         label = "Dimitris Koureas"
     ]
 
@@ -8039,6 +8285,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5942-9053",
         label = "Kate Ingenloff"
     ]
 
@@ -8059,6 +8306,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-0550-4190",
         label = "Maria Judite Alves"
     ]
 
@@ -8079,6 +8327,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3396-9822",
         label = "Ana Veríssimo"
     ]
 
@@ -8179,6 +8428,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1593-1417",
         label = "Dmitry Mozzherin"
     ]
 
@@ -8199,6 +8449,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2645-7335",
         label = "David Patterson"
     ]
 
@@ -8209,6 +8460,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3929-251X",
         label = "Fredrik Ronquist"
     ]
 
@@ -8259,6 +8511,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0585-5983",
         label = "Christian König"
     ]
 
@@ -8299,6 +8552,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-1022-8469",
         label = "Jens Kattge"
     ]
 
@@ -8319,6 +8573,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7901-7205",
         label = "Yasen Mutafchiev"
     ]
 
@@ -8339,6 +8594,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-5590-7174",
         label = "Ben Scott"
     ]
 
@@ -8419,6 +8675,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-3771-5889",
         label = "Sheila Izquieta-Rojano"
     ]
 
@@ -8549,6 +8806,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2766-9201",
         label = "Sarah Davidson"
     ]
 
@@ -8559,6 +8817,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8343-604X",
         label = "Jerome Chie-Jen Ko"
     ]
 
@@ -8639,6 +8898,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7847-9299",
         label = "Chuck Miller"
     ]
 
@@ -8659,6 +8919,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-0264-9631",
         label = "Matthias Obst"
     ]
 
@@ -8689,6 +8950,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6439-9506",
         label = "Holger Dettki"
     ]
 
@@ -8719,6 +8981,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2146-4803",
         label = "Lise Stork"
     ]
 
@@ -8729,6 +8992,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-9106-9438",
         label = "Andreas Weber"
     ]
 
@@ -8829,6 +9093,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-9064-0463",
         label = "Franck Michel"
     ]
 
@@ -9119,6 +9384,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6104-4264",
         label = "Bengt Oxelman"
     ]
 
@@ -9229,6 +9495,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2908-3327",
         label = "Anne E Thessen"
     ]
 
@@ -9279,6 +9546,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6192-1319",
         label = "Udayangani Liu"
     ]
 
@@ -9309,6 +9577,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-4404-629X",
         label = "Evangelia Drakou"
     ]
 
@@ -9469,6 +9738,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-6590-599X",
         label = "Kyle Copas"
     ]
 
@@ -9549,6 +9819,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-8839-5913",
         label = "Astrid Schmidt-Kloiber"
     ]
 
@@ -9639,6 +9910,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-6423-7427",
         label = "Felicitas Löffler"
     ]
 
@@ -9659,6 +9931,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-3884-671X",
         label = "Barnaby E Walker"
     ]
 
@@ -9679,6 +9952,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-1085-6075",
         label = "Steven P Bachman"
     ]
 
@@ -9719,6 +9993,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0003-2237-9325",
         label = "Pasi Sihvonen"
     ]
 
@@ -9749,6 +10024,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-7512-4206",
         label = "Adam Mansur"
     ]
 
@@ -9769,6 +10045,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2498-5719",
         label = "Gautam Talukdar"
     ]
 
@@ -9799,6 +10076,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-4898-5668",
         label = "Jeannine Marquardt"
     ]
 
@@ -9809,6 +10087,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8613-7133",
         label = "Barbara Thiers"
     ]
 
@@ -9819,6 +10098,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-8455-3213",
         label = "Paula Mabee"
     ]
 
@@ -9829,6 +10109,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2352-5497",
         label = "Dag T.F. Endresen"
     ]
 
@@ -9879,6 +10160,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2919-1168",
         label = "Dmitry Schigel"
     ]
 
@@ -9929,6 +10211,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0001-5730-517X",
         label = "Oleh Prylutskyi"
     ]
 
@@ -9939,6 +10222,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
+        orcid = "https://orcid.org/0000-0002-2857-2276",
         label = "Rukaya S. Johaadien"
     ]
 

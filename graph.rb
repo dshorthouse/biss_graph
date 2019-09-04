@@ -5,10 +5,14 @@ require "active_record"
 require "taxpub"
 require_relative "weighted_graph.rb"
 
+TAXPUB_DIR = "xml_docs"
+
+RGL::DOT::NODE_OPTS << 'orcid'
 RGL::DOT::EDGE_OPTS << 'penwidth'
 
 graph_options = {
-  bgcolor: "#000000"
+  bgcolor: "#000000",
+  splines: true
 }
 
 vertex_options = {
@@ -31,10 +35,10 @@ wg.add_graph_attributes(graph_options)
 
 tp = TaxPub.new
 
-Dir.entries(".").each do |file_name|
+Dir.entries(TAXPUB_DIR).each do |file_name|
   next if File.directory? file_name
   begin
-    tp.file_path = file_name
+    tp.file_path = File.join(TAXPUB_DIR, file_name)
     tp.parse
     tp.authors.combination(2).each do |pair|
       wg.add_edge(pair[0][:fullname], pair[1][:fullname], nil)
@@ -44,7 +48,7 @@ Dir.entries(".").each do |file_name|
       opts = {}
       if !author[:orcid].empty?
         opts = {
-          orcid: author[:orcid]
+          orcid: author[:orcid],
         }
       end
       wg.add_vertex_attributes(author[:fullname], vertex_options.merge(opts))
