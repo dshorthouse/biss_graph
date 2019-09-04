@@ -7,6 +7,7 @@ Ruby-based script to generate GraphViz DOT files and svg output based on co-auth
 2. [GraphViz](https://www.graphviz.org/)
 3. [Ruby Graph Library](https://github.com/monora/rgl) ruby gem
 4. [taxpub](https://github.com/dshorthouse/taxpub) gem
+5. [activerecord](https://github.com/rails/rails/tree/master/activerecord) gem (note: probably only need activesupport, but was lazy and it's just one method, stringify_keys I wanted)
 
 ## License
 
