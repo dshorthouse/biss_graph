@@ -6,8 +6,8 @@ require "taxpub"
 require_relative "weighted_graph.rb"
 
 TAXPUB_DIR = "xml_docs"
+QRCODE_DIR = "qrcodes"
 
-RGL::DOT::NODE_OPTS << 'orcid'
 RGL::DOT::EDGE_OPTS << 'penwidth'
 
 graph_options = {
@@ -22,7 +22,7 @@ vertex_options = {
   fillcolor: "#0912ba",
   fontcolor: "#ffffff",
   fontname: "Arial",
-  fontsize: 12
+  fontsize: 24
 }
 
 edge_options = {
@@ -45,18 +45,10 @@ Dir.entries(TAXPUB_DIR).each do |file_name|
       wg.add_edge_attributes(pair[0][:fullname], pair[1][:fullname], edge_options)
     end
     tp.authors.each do |author|
-      opts = {}
-      if !author[:orcid].empty?
-        opts = {
-          orcid: author[:orcid],
-        }
-#
-#      else
-#        opts = {
-#          fillcolor: "#050a59",
-#          fontcolor: "#4d518a"
-#        }
-      end
+      qr_file = File.join(QRCODE_DIR, "#{author[:fullname]}.svg")
+      opts = {
+        label: "<<table border=\"0\" cellborder=\"0\" cellspacing=\"0\"><tr><td><img src=\"#{qr_file}\" /></td><td>#{author[:fullname]}</td></tr></table>>"
+      }
       wg.add_vertex_attributes(author[:fullname], vertex_options.merge(opts))
     end
   rescue

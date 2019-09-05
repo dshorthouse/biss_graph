@@ -9,8 +9,7 @@ graph WeightedGraph {
         fontname = Arial,
         fontsize = 12,
         style = filled,
-        orcid = "https://orcid.org/0000-0002-0268-2880",
-        label = "Mark Hereld"
+        label = <<table border='0' cellborder='0'><tr><td><img src='qrcodes/Mark+Hereld.svg' /></td><td>Mark Hereld</td></tr></table>>
     ]
 
     "Nicola J. Ferrier" [
