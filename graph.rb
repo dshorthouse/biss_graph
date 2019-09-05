@@ -3,7 +3,10 @@
 
 require "active_record"
 require "taxpub"
+require "i18n"
 require_relative "weighted_graph.rb"
+
+I18n.available_locales = [:en]
 
 TAXPUB_DIR = "xml_docs"
 QRCODE_DIR = "qrcodes"
@@ -45,7 +48,8 @@ Dir.entries(TAXPUB_DIR).each do |file_name|
       wg.add_edge_attributes(pair[0][:fullname], pair[1][:fullname], edge_options)
     end
     tp.authors.each do |author|
-      qr_file = File.join(QRCODE_DIR, "#{author[:fullname]}.svg")
+      url_friendly_name = CGI::escape(I18n.transliterate(author[:fullname]))
+      qr_file = File.join(QRCODE_DIR, "#{url_friendly_name}.svg")
       opts = {
         label: "<<table border=\"0\" cellborder=\"0\" cellspacing=\"0\"><tr><td><img src=\"#{qr_file}\" /></td><td>#{author[:fullname]}</td></tr></table>>"
       }
