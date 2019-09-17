@@ -33,7 +33,7 @@
         <contrib contrib-type="author" corresp="yes">
           <name name-style="western">
             <surname>White</surname>
-            <given-names>Alexander E</given-names>
+            <given-names>Alexander E.</given-names>
           </name>
           <email xlink:type="simple">whiteae@si.edu</email>
           <uri content-type="orcid">https://orcid.org/0000-0002-9708-2406</uri>
@@ -43,7 +43,7 @@
         <contrib contrib-type="author" corresp="no">
           <name name-style="western">
             <surname>Dikow</surname>
-            <given-names>Rebecca B</given-names>
+            <given-names>Rebecca B.</given-names>
           </name>
           <uri content-type="orcid">https://orcid.org/0000-0001-9668-3683</uri>
           <xref ref-type="aff" rid="A1">1</xref>
@@ -65,7 +65,7 @@
         <contrib contrib-type="author" corresp="no">
           <name name-style="western">
             <surname>Frandsen</surname>
-            <given-names>Paul B</given-names>
+            <given-names>Paul B.</given-names>
           </name>
           <uri content-type="orcid">https://orcid.org/0000-0002-4801-7579</uri>
           <xref ref-type="aff" rid="A3">3</xref>

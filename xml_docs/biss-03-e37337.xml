@@ -68,7 +68,7 @@
         <contrib contrib-type="author" corresp="no">
           <name name-style="western">
             <surname>Price</surname>
-            <given-names>Benjamin</given-names>
+            <given-names>Benjamin W</given-names>
           </name>
           <uri content-type="orcid">https://orcid.org/0000-0001-5497-4087</uri>
           <xref ref-type="aff" rid="A1">1</xref>
@@ -76,7 +76,7 @@
         <contrib contrib-type="author" corresp="no">
           <name name-style="western">
             <surname>Smith</surname>
-            <given-names>Vincent Stuart</given-names>
+            <given-names>Vincent</given-names>
           </name>
           <xref ref-type="aff" rid="A1">1</xref>
         </contrib>
